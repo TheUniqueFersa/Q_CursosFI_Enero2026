@@ -57,10 +57,11 @@ tags:
 #REWARD Abrir X del sector negativo
 
 ## Miércoles
+
+## Jueves 
 - [ ] Terminar practica 1 `com` #AEM 
 - [ ] Terminar practica 1 `lab` #AEM 
 - [ ] Califica hijo de tu pinche madre
-## Jueves 
 ## Viernes
 ## Sábado
 # Hereda pendientes:
