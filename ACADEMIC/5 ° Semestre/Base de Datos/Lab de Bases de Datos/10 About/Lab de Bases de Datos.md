@@ -38,6 +38,8 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 ## Convenciones
 Soy el **usuario ==26==**
 
+Mi contraseña es `FERSHOTA3000#`
+
 ---
 # Planeación - MODELO
 ## ►MODELO `CORE`
