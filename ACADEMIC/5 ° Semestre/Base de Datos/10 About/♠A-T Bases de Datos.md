@@ -71,13 +71,22 @@ Se debe entregar en tiempo y forma
 - [ ] Libros de consulta
 - [x] Temario ✅ 2025-08-13
 
+## Convenciones
+
+### Participaciones
+- [x] 1 ✅ 2025-08-28
+- [x] 2 ✅ 2025-08-28
+- [x] 3 ✅ 2025-08-28
+- [ ] 4 
+- [ ] 5
+- [ ] 6
+- [ ] 7
+- [ ] 8
+- [ ] 9
+
 ---
 # Planeación - MODELO
 ## ►MODELO `CORE`
-
-## Declaración de Etapas
-
-- 
 
 ---
 # Misión
