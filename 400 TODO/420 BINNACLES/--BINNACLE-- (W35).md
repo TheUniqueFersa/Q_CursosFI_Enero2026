@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega: 
 fecha_terminado: 
 Completado: 4
-Incompleto: 11
-Total: 15
+Incompleto: 16
+Total: 20
 antecesor: 
 sucesor: 
 links_url: 
@@ -66,6 +66,15 @@ tags:
 
 
 >🔗 [Google Drive chicos CW25](https://drive.google.com/drive/folders/1_LUKOXuULP_dnukTqEkJRTAMSwNO5Ejs)
+
+- [ ] Colorear recuadros troll 2 veces
+
+- [ ] Fotos del código
+
+- [ ] Descripción general de cada integrante del equipo
+
+- [ ] Previo pract 3
+
 
 
 ## Viernes
