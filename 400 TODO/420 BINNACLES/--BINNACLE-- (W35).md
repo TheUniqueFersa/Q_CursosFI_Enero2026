@@ -62,6 +62,8 @@ tags:
 - [ ] Terminar practica 1 `com` #AEM 📅 2025-08-28 #XCH
 - [ ] Terminar practica 1 `lab` #AEM 📅 2025-08-28  #XCH
 - [ ] Califica hijo de tu pinche madre #AEM 📅 2025-08-28 #XCH
+- [ ] Añadir las notas LEGACY del periodo INTERSEMESTRAL al TUNEL y empujarlo
+
 
 >🔗 [Google Drive chicos CW25](https://drive.google.com/drive/folders/1_LUKOXuULP_dnukTqEkJRTAMSwNO5Ejs)
 
@@ -87,3 +89,5 @@ tags:
 - 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 10:59) - (end:: 2025-08-28 11:44)
 - 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 11:45) - (end:: 2025-08-28 11:55)
 - 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 11:57) - (end:: 2025-08-28 12:07)
+- 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 12:58) - (end:: 2025-08-28 13:08)
+- 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 13:12) - (end:: 2025-08-28 13:22)
