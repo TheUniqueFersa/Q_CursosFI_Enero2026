@@ -8,8 +8,8 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 2
-Incompleto: 13
+Completado: 4
+Incompleto: 11
 Total: 15
 antecesor: 
 sucesor: 
@@ -50,9 +50,9 @@ tags:
 
 #REWARD ver página del sector negativo
 
-- [ ] Hacer previo de mi abuelito
+- [x] Hacer previo de mi abuelito ✅ 2025-08-28
 
-- [ ] unificar notas
+- [x] unificar notas ✅ 2025-08-28
 
 #REWARD Abrir X del sector negativo
 
@@ -64,6 +64,7 @@ tags:
 - [ ] Califica hijo de tu pinche madre #AEM 📅 2025-08-28 #XCH
 
 >🔗 [Google Drive chicos CW25](https://drive.google.com/drive/folders/1_LUKOXuULP_dnukTqEkJRTAMSwNO5Ejs)
+
 
 ## Viernes
 ## Sábado
