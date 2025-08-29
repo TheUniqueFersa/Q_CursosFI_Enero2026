@@ -57,10 +57,14 @@ tags:
 #REWARD Abrir X del sector negativo
 
 ## Miércoles
-- [ ] Terminar practica 1 `com` #AEM 
-- [ ] Terminar practica 1 `lab` #AEM 
-- [ ] Califica hijo de tu pinche madre
+
 ## Jueves 
+- [ ] Terminar practica 1 `com` #AEM 📅 2025-08-28 #XCH
+- [ ] Terminar practica 1 `lab` #AEM 📅 2025-08-28  #XCH
+- [ ] Califica hijo de tu pinche madre #AEM 📅 2025-08-28 #XCH
+
+>🔗 [Google Drive chicos CW25](https://drive.google.com/drive/folders/1_LUKOXuULP_dnukTqEkJRTAMSwNO5Ejs)
+
 ## Viernes
 ## Sábado
 # Hereda pendientes:
@@ -74,3 +78,12 @@ tags:
 ---
 # Distracciones
 
+
+- 🍅 (pomodoro::WORK) (duration:: 20m) (begin:: 2025-08-28 09:52) - (end:: 2025-08-28 10:12)
+- 🥤 (pomodoro::BREAK) (duration:: 5m) (begin:: 2025-08-28 10:12) - (end:: 2025-08-28 10:17)
+- 🍅 (pomodoro::WORK) (duration:: 20m) (begin:: 2025-08-28 10:20) - (end:: 2025-08-28 10:40)
+- 🥤 (pomodoro::BREAK) (duration:: 5m) (begin:: 2025-08-28 10:40) - (end:: 2025-08-28 10:45)
+- 🥤 (pomodoro::BREAK) (duration:: 5m) (begin:: 2025-08-28 10:46) - (end:: 2025-08-28 10:51)
+- 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 10:59) - (end:: 2025-08-28 11:44)
+- 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 11:45) - (end:: 2025-08-28 11:55)
+- 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-28 11:57) - (end:: 2025-08-28 12:07)
