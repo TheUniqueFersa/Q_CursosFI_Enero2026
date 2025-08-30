@@ -1,21 +1,21 @@
 ---
 fecha: 2025-08-24
-pertenece a: 
+pertenece a:
 tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
 terminado: false
-fecha_entrega: 
-fecha_terminado: 
+fecha_entrega:
+fecha_terminado:
 Completado: 4
 Incompleto: 16
 Total: 20
-antecesor: 
-sucesor: 
-links_url: 
-Tiempo Objetivo: 
-Progreso: 
+antecesor:
+sucesor:
+links_url:
+Tiempo Objetivo:
+Progreso:
 tags:
 ---
 # ***--BINNACLE-- (W35)***
@@ -67,9 +67,9 @@ tags:
 
 >🔗 [Google Drive chicos CW25](https://drive.google.com/drive/folders/1_LUKOXuULP_dnukTqEkJRTAMSwNO5Ejs)
 
-- [ ] Colorear recuadros troll 2 veces
+- [x] Colorear recuadros troll 2 veces ✅ 2025-08-29
 
-- [ ] Fotos del código
+- [x] Fotos del código ✅ 2025-08-29
 
 - [ ] Descripción general de cada integrante del equipo
 
