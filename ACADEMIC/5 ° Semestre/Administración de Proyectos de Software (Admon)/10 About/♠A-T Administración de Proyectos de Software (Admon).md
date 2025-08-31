@@ -1,10 +1,10 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🟦ESTABLE🟦
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 antecesor: "[[♠A-T Ingeniería de Software]]"

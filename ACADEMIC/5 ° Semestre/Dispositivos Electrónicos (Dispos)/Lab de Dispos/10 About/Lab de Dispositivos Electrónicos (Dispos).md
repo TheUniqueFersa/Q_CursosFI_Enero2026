@@ -1,10 +1,10 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🟧INESTABLE🟧
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T Dispositivos Electrónicos (Dispos)]]"
@@ -31,7 +31,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 - [x] Componentes Eléctricos ✅ 2025-08-21
 - [x] MANUAL DE PRÁCTICAS ✅ 2025-08-21
 	- Manual de Prácticas Word
-- [x] Programa de Estudio ✅ 2025-08-14
+- [x] Programa de Estudio ✅ 2025-08-*14*
 - [x] Calendario Escolar - Se ✅ 2025-08-14
 - [x] Calendarización de Prácticas ✅ 2025-08-21
 - [x] Lista de Asistencia ✅ 2025-08-21
@@ -41,16 +41,12 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 # Planeación - MODELO
 ## ►MODELO `CORE`
 
-## Declaración de Etapas
-
-- 
-
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 
 
->## ***ETAPA FINAL***
+## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 

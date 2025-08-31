@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🟧INESTABLE🟧
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -93,7 +93,7 @@ Se debe entregar en tiempo y forma
 ## *ETAPA INTERSEMESTRAL*
 
 
->## ***ETAPA FINAL***
+## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 
