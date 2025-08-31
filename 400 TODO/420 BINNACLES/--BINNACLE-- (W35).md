@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega:
 fecha_terminado:
 Completado: 6
-Incompleto: 14
-Total: 20
+Incompleto: 19
+Total: 25
 antecesor:
 sucesor:
 links_url:
@@ -26,14 +26,7 @@ tags:
 | ![[Kanban - ♠Academic#^88d66c]]                            | 2 horas | 10:17<br>Martes | 12:17<br>Miércoles          |
 | ![[‼Sanando el Alma - Consolidando el Capítulo 1#^98f8f4]] |         |                 |                             |
 # 🏆$AEM$
-- [ ] Acomodar apuntes y notas de TODAS las asignaturas #AEM 
-- [ ] Anticipar clases #AEM 
-- [ ] Bocetar idea de publicación FRESHMAN-SOPHOMORE #EXTRA #AEM 
 
-- [ ] Pasarle la foto troll al Orestes
-- [ ] Buscar le otro audio de LEVANTESENSE para la alarma de POMODORO
-- [ ] Sesión de Poliglota
-- [ ] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]
 ## Lunes
 
 
@@ -59,10 +52,6 @@ tags:
 ## Miércoles
 
 ## Jueves 
-- [ ] Terminar practica 1 `com` #AEM 📅 2025-08-28 #XCH
-- [ ] Terminar practica 1 `lab` #AEM 📅 2025-08-28  #XCH
-- [ ] Califica hijo de tu pinche madre #AEM 📅 2025-08-28 #XCH
-- [ ] Añadir las notas LEGACY del periodo INTERSEMESTRAL al TUNEL y empujarlo
 
 
 >🔗 [Google Drive chicos CW25](https://drive.google.com/drive/folders/1_LUKOXuULP_dnukTqEkJRTAMSwNO5Ejs)
@@ -75,12 +64,31 @@ tags:
 
 - [ ] Previo pract 3
 
-
-
 ## Viernes
+- [ ] Terminar practica 1 `com` #AEM 📅 2025-08-28 #XCH
+- [ ] Terminar practica 1 `lab` #AEM 📅 2025-08-28  #XCH
+- [ ] Califica hijo de tu pinche madre #AEM 📅 2025-08-28 #XCH
+- [ ] Añadir las notas LEGACY del periodo INTERSEMESTRAL al TUNEL y empujarlo
 ## Sábado
-# Hereda pendientes:
+- [ ] [[Forma General Asignatura SU.template]]
+- [ ] #REWARD Idear aplicación para Rozovy Strike 
+>-5 
+- [ ] Práctica de Lab de Dispositivos Electrónicos
+	- [ ] Actualizar las Convenciones de la Asignatura
 
+	- [ ] Idear una plantilla para hacerla
+
+- [ ] Fix Prácticas CAMPOS
+
+
+# Hereda pendientes:
+- [ ] Acomodar apuntes y notas de TODAS las asignaturas #AEM 
+- [ ] Anticipar clases #AEM 
+- [ ] Bocetar idea de publicación FRESHMAN-SOPHOMORE #EXTRA #AEM 
+
+- [ ] Buscar le otro audio de LEVANTESENSE para la alarma de POMODORO
+- [ ] Sesión de Poliglota
+- [ ] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]
 # BEYOND
 
 # Problemas encontrados
