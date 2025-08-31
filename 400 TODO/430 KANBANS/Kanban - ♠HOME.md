@@ -1,0 +1,56 @@
+---
+
+kanban-plugin: board
+recurrencia:
+  - domingo
+  - Sunday
+pertenece a: "[[♠HOME]]"
+
+---
+
+## # *-- STATIC --*
+
+- [ ] Trollearme los platos
+	- [ ] L
+	- [ ] M
+	- [ ] Mi
+	- [ ] J
+	- [ ] V
+
+
+## ♦\[°]Out - ♦\[...R]
+
+- [ ] Colgar mis Cuadros y renovar el de mi generación
+
+
+## Listos para ♦(...R) X-chelons
+
+- [ ] Arreglar algo de mi casa due 📅 2025-08-31
+- [ ] Lavar tangas 📅 2025-08-31
+- [ ] Lavar otros pantalones o otras playeras (a mano) 📅 2025-08-26
+- [ ] Colgar mi cuadro de Dani due 📅 2025-08-31
+- [ ] Barrer 📅 2025-08-31
+- [ ] **LIMPIEZA MASIVA DE MI CUARTO**
+- [ ] Aprender a hacer tareas del hogar
+	- [ ] Sacar la basura
+	- [ ] Limpiar el baño
+	- [ ] Planchar mi ropa
+	- [ ] Lavar mi ropa
+	- [ ] Barrer la casa
+	- [ ] Trapear la casa
+- [ ] Ayudar a renovar la vista del hogar
+
+
+## # Secuencia de Acciones<br>‼Yi
+
+**Complete**
+- [x] Mantener mi racha de lavar los platos que uso
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board","list-collapse":[null,false]}
+```
+%%
