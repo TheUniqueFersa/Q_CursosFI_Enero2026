@@ -1,19 +1,19 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🟥CRÍTICO🟥
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T Bases de Datos]]"
 ---
 # ***Lab de Bases de Datos***
 
-| Clave | Manual de Prácticas | Bibliografía | Calificación |
-| ----- | ------------------- | ------------ | ------------ |
-| 6644  |                     |              |              |
+| Clave | Manual de Prácticas          | Bibliografía | Calificación |
+| ----- | ---------------------------- | ------------ | ------------ |
+| 6644  | [[MANUALPracticasBD_FI.pdf]] |              |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Bases de Datos en la carrera de [[Ingeniería en Computación]]
 # Asignatura
@@ -42,19 +42,14 @@ Mi contraseña es `FERSHOTA3000#`
 
 ---
 # Planeación - MODELO
-## ►MODELO `CORE`
-
-## Declaración de Etapas
-
-- 
-
+## ►`CORE`
 
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 
 
->## ***ETAPA FINAL***
+## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 

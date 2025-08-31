@@ -22,16 +22,12 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de <%tp.
 # Planeación - MODELO
 ## ►MODELO `CORE`
 
-## Declaración de Etapas
-
-- 
-
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 
 
->## ***ETAPA FINAL***
+## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 

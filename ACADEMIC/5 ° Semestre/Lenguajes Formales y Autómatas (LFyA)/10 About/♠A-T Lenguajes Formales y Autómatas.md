@@ -1,10 +1,10 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🔲INGAP🔲
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
@@ -18,7 +18,6 @@ pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Lenguajes Formales y Autómatas en la carrera de [[Ingeniería en Computación]]
 
 # Asignatura
->👀 Tiene muchos recursos la asignatura
 
 | Links                                                                                                                                                                                                                             |                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -28,7 +27,9 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 | [Bibliografía propuesta por el profe](https://docs.google.com/document/u/0/d/e/2PACX-1vT4VCQhN2XyPNx3GhwFt1CZ9Do-mv5DVV0E_uf8Joaq0B-6-Vy4how-c3gnrMkDMrxAox0tDNlKYu7-/pub?hl=es)                                                  |                                                                          |
 | [Calendario de clases](https://docs.google.com/document/u/0/d/e/2PACX-1vTRIQ5Fcu1LYE4ngfYRJEA5Qn8D8FMNoDWaEDHEhtrEQ_AnILWaoEHF2qBo7CtsAjOzncW38FHR1fRI/pub?hl=es)                                                                 |                                                                          |
 | [Página del Curso](https://turing.iimas.unam.mx/~ivanvladimir/page/curso_lfya/?authuser=0&hl=es)                                                                                                                                  | Contiene Presentación, Notas (de las Notas de arriba), Videos y Notebook |
-## ℹ Estructura de la Materia
+## ℹ Dinámica de la Materia
+>👀 Tiene muchos recursos la asignatura
+
 La asignatura se divide en ==temas==, cada tema inspirado del [[programa_LFyA.pdf]], modificado y expuesto en la manera en que el profesor lo dará en clase se obtienen las [[Notas curso lfya.pdf|Notas de Clase]], las cuáles se encuentran en una **página web** o en **pdf**
 
 ==Cada tema==, desde la **página web del curso** CUENTA con:
@@ -106,23 +107,16 @@ En ==1 bloque== hay:
 ---
 # Planeación - MODELO
 ## ►MODELO `CORE`
-### Convenciones
+### `CONST`
 - Se declara a [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] como el #Read principal de la asignatura.
 
-
-
-## Declaración de Etapas
-- ~~ETAPA INTERSEMESTRAL~~
-- 1° ETAPA - FORMALIZANDO EL ►CS
-- 2° ETAPA
-- ETAPA FINAL
 
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 
 
->## ***ETAPA FINAL***
+## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 
