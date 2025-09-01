@@ -24,7 +24,6 @@
 | Links útiles |
 | ------------ |
 |              |
-![[Forma General Asignatura SU.template^]]
 
 ## ℹ️ Dinámica de la Materia
 

@@ -16,8 +16,8 @@ pertenece a: "[[♣BuildYourEmpire]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Empezar The Clovers Society 📅 2025-08-28
-- [ ] Diseñar nuevo VTA 📅 2025-08-31 ⏳ 2025-08-30
+- [ ] Empezar The Clovers Society 📅 2025-09-04
+- [ ] Diseñar nuevo VTA  📅 2025-09-07 ⏳ 2025-09-06
 
 
 ## # ==Primera Etapa==

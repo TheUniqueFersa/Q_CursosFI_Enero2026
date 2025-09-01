@@ -57,6 +57,9 @@ El **Curso Web** es un curso de programación de la Escuela Nacional Preparatori
 ## *Órganos alimentadores*
 
 
+## VARIABLES LOCALES
+## $D\_PREP = 4$
+Días de preparación de una clase
 
 ---
 # Misión
