@@ -7,6 +7,7 @@ modelo:
 serie:
 tags:
   - ♠A-T
+ESTADO_RECOLECCION: COMPRENSIÓN
 ---
 # ***♠A-T Estructura y Programación de Computadoras***
 

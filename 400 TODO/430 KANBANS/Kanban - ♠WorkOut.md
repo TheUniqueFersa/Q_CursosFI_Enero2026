@@ -27,7 +27,7 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [x] Hacer rutina con barras 📅 2025-08-18 ✅ 2025-08-18
-- [ ] Ir a preguntar por los cursos de Patinaje 📅 2025-08-27
+- [ ] Ir a preguntar por los cursos de Patinaje 📅 2025-09-05
 
 
 ## # Secuencia de Acciones<br>‼Yi

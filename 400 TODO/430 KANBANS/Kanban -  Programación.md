@@ -71,8 +71,8 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Aprender a documentar en **#LaTeX** due ⏳ 2025-08-25 📅 2025-08-29
-- [ ] #MILESTONE Aprender Linux bien ⏳ 2025-08-28 📅 2025-08-29
+- [ ] Aprender a documentar en **#LaTeX** due ⏳ 2025-08-31 📅 2025-09-03
+- [ ] #MILESTONE Aprender Linux bien 📅 2025-09-06 ⏳ 2025-08-31
 
 
 ## # ***El Aprendiz tecnológico***<br>**Propuesta de Acciones**

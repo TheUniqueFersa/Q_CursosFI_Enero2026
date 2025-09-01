@@ -9,6 +9,7 @@ tags:
   - ♠A-T
 antecesor: "[[Lg - Matemáticas Avanzadas]]"
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
+ESTADO_RECOLECCION: "[[♣Learn]]"
 ---
 # ***♠A-T Señales y Sistemas***
 

@@ -29,16 +29,16 @@ recurrencia:
 	- [ ] Codeforces
 	- [ ] CP4
 	- [ ] ThemeCP
-- [ ] # SEMANA 3' 📅 2025-08-30
+- [ ] # SEMANA 3' 📅 2025-09-06 
 	- [ ] Primes
 	- [ ] Grafos
 	- [ ] Strings
 	- [ ] Dp
-- [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]] 📅 2025-08-25
+- [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]] 📅 2025-09-01
 - [ ] Sesión de Lectura de Libros OMM
 - [ ] Aprender y entender lo casos de uso de cada una de las estructuras en C++ para CP
-- [ ] [[Mapeo de Kattis]] 📅 2025-08-26
-- [ ] [[Mapeo UVa Online judge]] 📅 2025-08-27
+- [ ] [[Mapeo de Kattis]] 📅 2025-09-01
+- [ ] [[Mapeo UVa Online judge]] 📅 2025-09-03
 
 
 ## # Secuencia de *Problemas*<br>‼Yi
@@ -69,8 +69,8 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-08-25 ^2eefaa
-- [ ] Combinatoria 📅 2025-08-25 ^e9a48d
+- [ ] DSU 📅 2025-09-01 ^2eefaa
+- [ ] Combinatoria 📅 2025-08-31 ^e9a48d
 - [ ] multisets, mutimaps, unordered
 - [ ] Teoría de Números
 - [ ] [[GCD]]
@@ -117,13 +117,13 @@ recurrencia:
 	- [ ] Problema 6G
 	- [ ] ThemeCP
 	- [x] CP4 ✅ 2025-04-29
-- [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian 📅 2025-08-25
+- [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian 📅 2025-09-01
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,true]}
+{"kanban-plugin":"board","list-collapse":[false,null,true,false]}
 ```
 %%

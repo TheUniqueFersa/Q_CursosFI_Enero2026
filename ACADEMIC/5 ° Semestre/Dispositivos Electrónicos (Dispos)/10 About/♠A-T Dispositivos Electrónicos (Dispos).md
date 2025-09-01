@@ -1,14 +1,15 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🔲INGAP🔲
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 antecesor: "[[Lg - Electricidad y Magnetismo]]"
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
+ESTADO_RECOLECCION: "[[♣Recover]]"
 ---
 # ***♠A-T Dispositivos Electrónicos (Dispos)***
 

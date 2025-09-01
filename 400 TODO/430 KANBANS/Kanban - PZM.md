@@ -53,7 +53,7 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] 10 cursos 📅 2025-08-31
+- [ ] 10 cursos 📅 2025-09-06
 
 
 ## # Secuencia de Acciones<br>‼Yi

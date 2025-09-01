@@ -8,6 +8,7 @@ serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
+ESTADO_RECOLECCION: COMPRENSIÓN
 ---
 # ***♠A-T Lenguajes Formales y Autómatas***
 
