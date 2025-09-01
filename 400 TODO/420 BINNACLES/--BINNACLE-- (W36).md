@@ -41,7 +41,7 @@ tags:
 - [x] Añadir las notas LEGACY del periodo INTERSEMESTRAL al TUNEL y empujarlo ✅ 2025-08-31
 - [x] Previo pract 3 ✅ 2025-08-31
 
-#REWARD -> Webear en el sector negativo
+#REWARD 
 
 - [x] Práctica 1 Reporte Lab dispos ✅ 2025-08-31
 	- [x] Actualizar las Convenciones de la Asignatura ✅ 2025-08-31
@@ -55,7 +55,7 @@ tags:
 
 - [x] Escribir y redactar conclusiones de acuerdo a lo visto y lo que me diga chat ✅ 2025-08-31
 
-#REWARD -> Ver perfiles X
+#REWARD 
 
 
 - [ ] Descripción general de cada integrante del equipo (CW25)
