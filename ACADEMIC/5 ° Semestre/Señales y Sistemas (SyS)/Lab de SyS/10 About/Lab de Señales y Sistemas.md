@@ -8,6 +8,7 @@ serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T Señales y Sistemas]]"
+ESTADO_RECOLECCION: "[[♣Learn]]"
 ---
 # ***Lab de Señales y Sistemas***
 

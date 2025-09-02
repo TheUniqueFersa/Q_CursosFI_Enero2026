@@ -21,16 +21,17 @@ pertenece a: "[[♠HOME]]"
 ## ♦\[°]Out - ♦\[...R]
 
 - [ ] Colgar mis Cuadros y renovar el de mi generación
+- [ ] Colgar mi cuadro de Dani
+- [ ] Ayudar a renovar la vista del hogar
 
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Arreglar algo de mi casa due 📅 2025-08-31
-- [ ] Lavar tangas 📅 2025-08-31
-- [ ] Lavar otros pantalones o otras playeras (a mano) 📅 2025-08-26
-- [ ] Colgar mi cuadro de Dani due 📅 2025-08-31
-- [ ] Barrer 📅 2025-08-31
+- [ ] Arreglar algo de mi casa due 📅 2025-09-07
+- [ ] Lavar tangas 📅 2025-09-07
+- [ ] Lavar otros pantalones o otras playeras (a mano) 📅 2025-09-07
 - [ ] **LIMPIEZA MASIVA DE MI CUARTO**
+- [ ] Barrer 📅 2025-09-07
 - [ ] Aprender a hacer tareas del hogar
 	- [ ] Sacar la basura
 	- [ ] Limpiar el baño
@@ -38,7 +39,6 @@ pertenece a: "[[♠HOME]]"
 	- [ ] Lavar mi ropa
 	- [ ] Barrer la casa
 	- [ ] Trapear la casa
-- [ ] Ayudar a renovar la vista del hogar
 
 
 ## # Secuencia de Acciones<br>‼Yi

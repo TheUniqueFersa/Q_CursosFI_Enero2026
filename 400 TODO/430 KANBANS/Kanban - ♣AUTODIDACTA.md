@@ -17,7 +17,7 @@ recurrencia:
 
 - [ ] Java (LIDSOL)
 - [ ] ***Dominar*** BASH
-- [ ] LaTeX (LIDSOL) ⏳ 2025-08-25 📅 2025-08-29
+- [ ] LaTeX (LIDSOL) ⏳ 2025-08-31
 - [ ] LINUXERO
 - [ ] Algoritmos
 
