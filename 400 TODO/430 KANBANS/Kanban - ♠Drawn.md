@@ -53,9 +53,9 @@ pertenece a: "[[♠Drawn]]"
 
 ## Listos para ♦[°]X-chelons
 
-- [ ] Publicaciones *Cursos FI* 📅 2025-08-30 ⏳ 2025-08-26
-- [ ] Publicación **FRESHMAN-SOPHOMORE** 📅 2025-08-30
-	- [ ] Bocetar publicaciones ⏳ 2025-08-26
+- [ ] Publicaciones *Cursos FI* ⏳ 2025-09-02 📅 2025-09-07
+- [ ] Publicación **FRESHMAN-SOPHOMORE** 📅 2025-09-13 
+	- [ ] Bocetar publicaciones ⏳ 2025-09-02
 - [ ] Rozovy Strike -2-
 - [ ] Composición ***FERSA***
 

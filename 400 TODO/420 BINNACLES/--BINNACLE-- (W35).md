@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 6
-Incompleto: 19
-Total: 25
+Completado: 17
+Incompleto: 2
+Total: 19
 antecesor:
 sucesor:
 links_url:
@@ -38,7 +38,7 @@ tags:
 
 #REWARD Ver IG STORIES
 
-- [ ] Hacer los circuitos en Tinkercad
+- [-] Hacer los circuitos en Tinkercad ❌ 2025-08-31
 - [x] Hacer los circuitos en físico ✅ 2025-08-27
 
 #REWARD ver página del sector negativo
@@ -60,35 +60,29 @@ tags:
 
 - [x] Fotos del código ✅ 2025-08-29
 
-- [ ] Descripción general de cada integrante del equipo
-
-- [ ] Previo pract 3
 
 ## Viernes
-- [ ] Terminar practica 1 `com` #AEM 📅 2025-08-28 #XCH
-- [ ] Terminar practica 1 `lab` #AEM 📅 2025-08-28  #XCH
-- [ ] Califica hijo de tu pinche madre #AEM 📅 2025-08-28 #XCH
-- [ ] Añadir las notas LEGACY del periodo INTERSEMESTRAL al TUNEL y empujarlo
+- [>] Terminar practica 1 `com` #AEM #XCH
+- [>] Terminar practica 1 `lab` #AEM #XCH
+- [x] Califica hijo de tu pinche madre #AEM #XCH ✅ 2025-08-31
+
 ## Sábado
 - [ ] [[Forma General Asignatura SU.template]]
 - [ ] #REWARD Idear aplicación para Rozovy Strike 
 >-5 
-- [ ] Práctica de Lab de Dispositivos Electrónicos
-	- [ ] Actualizar las Convenciones de la Asignatura
 
-	- [ ] Idear una plantilla para hacerla
 
-- [ ] Fix Prácticas CAMPOS
+- [>] Fix Prácticas CAMPOS
 
 
 # Hereda pendientes:
-- [ ] Acomodar apuntes y notas de TODAS las asignaturas #AEM 
-- [ ] Anticipar clases #AEM 
-- [ ] Bocetar idea de publicación FRESHMAN-SOPHOMORE #EXTRA #AEM 
+- [>] Acomodar apuntes y notas de TODAS las asignaturas #AEM
+- [>] Anticipar clases #AEM
+- [>] Bocetar idea de publicación FRESHMAN-SOPHOMORE #EXTRA #AEM
 
-- [ ] Buscar le otro audio de LEVANTESENSE para la alarma de POMODORO
-- [ ] Sesión de Poliglota
-- [ ] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]
+- [>] Buscar le otro audio de LEVANTESENSE para la alarma de POMODORO
+- [>] Sesión de Poliglota
+- [>] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]
 # BEYOND
 
 # Problemas encontrados

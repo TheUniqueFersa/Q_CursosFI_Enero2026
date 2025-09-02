@@ -47,7 +47,7 @@ pertenece a: "[[♠Read]]"
 - [ ] Hacer la secuencia de libros de los pendientes para terminarlos todos
 - [ ] 5 libros
 - [ ] 10 libros #MILESTONE
-- [ ] Terminar la Historia de la Computación esta semana #MILESTONE 📅 2025-08-31
+- [ ] Terminar la Historia de la Computación esta semana #MILESTONE 📅 2025-09-06
 
 
 ## # #STANDBY
