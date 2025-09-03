@@ -29,6 +29,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
+- [-] XD ❌ 2025-09-02
 
 
 ## ***ETAPA FINAL***
