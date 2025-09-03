@@ -58,15 +58,47 @@ tags:
 #REWARD 
 
 
-- [ ] Descripción general de cada integrante del equipo (CW25)
-
 ## Lunes
 ## Martes
+>Hasta las 12
+>- [x] Instalar los cojudos programas de BD ✅ 2025-09-02
+>      - [x] Dia ✅ 2025-09-02
+>      - [x] ER studio ✅ 2025-09-02
+
+- [x] Hacer la nota de Lab de SyS ✅ 2025-09-02
+
+- [ ] Hacer la tarea 7 del Barco (me la va a hacer mi tio)
+	- [x] Leer el articulo ✅ 2025-09-02
+
+- [ ] Hacer el reporte de SyS (En LaTeX)
+	- [ ] Ver que coño vamos a reportar
+	- [ ] Poner el previo
+	- [ ] poner las imagenes
+	- [ ] Poner las conclusiones
+
+- [ ] Previo Lab Dispos
+	- [ ] Checar que hay que hacer (*ORG*)
+	- [ ] Recabar el material
+
+- [ ] Hacer el diagrama de bases en el programa ese
+
+>2 -> Ir a comer
+
+- [ ] Práctica 1 por fin
+	- [ ] Formato para reportes `lab` en LaTeX
+	- [ ] Formato para `com`
+- [ ] Práctica 2
+	- [ ] `com`
+
+>💥KtLO -2- hasta las 2
+>- [ ] Sueñito de 2 horas
+>- [ ] Despierta cabron, a seguir
 ## Miércoles
 ## Jueves 
 ## Viernes
 ## Sábado
 # Hereda pendientes:
+- [ ] Descripción general de cada integrante del equipo (CW25)
 
 # BEYOND
 
