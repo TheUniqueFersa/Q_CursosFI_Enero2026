@@ -47,6 +47,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 # ***INTERCONN***
 ## Recursos
 
-|     |     |
-| --- | --- |
-|     |     |
+|                                                                                                                                         |     |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [Manual del Generador de señales del lab](https://bkpmedia.s3.us-west-1.amazonaws.com/downloads/manuals/en-us/4017A_manual.pdf)         |     |
+| [Especificaciones de un Osciloscopio similar al que usamos](https://www.gwinstek.com/en-global/products/downloadSeriesDownNew/2158/154) |     |

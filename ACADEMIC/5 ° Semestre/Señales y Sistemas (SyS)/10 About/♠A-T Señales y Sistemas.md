@@ -15,7 +15,7 @@ ESTADO_RECOLECCION: "[[♣Learn]]"
 
 | Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía | Laboratorio<br>(L+)             | Calificación |
 | ----- | -------- | ---------------------------------- | ------------ | ------------------------------- | ------------ |
-| 1473  | 8        | [[programa_Dispos.pdf]]            |              | ✅ [[Lab de Señales y Sistemas]] |              |
+| 1473  | 8        | [[programa_SyS.pdf]]               |              | ✅ [[Lab de Señales y Sistemas]] |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Señales y Sistemas en la carrera de [[Ingeniería en Computación]]
 
