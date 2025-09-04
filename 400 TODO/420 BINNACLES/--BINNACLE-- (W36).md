@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 2025-09-06
 fecha_terminado:
-Completado: 9
-Incompleto: 12
-Total: 21
+Completado: 21
+Incompleto: 23
+Total: 44
 antecesor:
 sucesor:
 links_url:
@@ -67,22 +67,31 @@ tags:
 
 - [x] Hacer la nota de Lab de SyS ✅ 2025-09-02
 
-- [ ] Hacer la tarea 7 del Barco (me la va a hacer mi tio)
+>2 -> Ir a comer
+
+
+- [x] Hacer la tarea 7 del Barco (~~me la va a hacer mi tio~~) ✅ 2025-09-02
 	- [x] Leer el articulo ✅ 2025-09-02
 
-- [ ] Hacer el reporte de SyS (En LaTeX)
-	- [ ] Ver que coño vamos a reportar
-	- [ ] Poner el previo
-	- [ ] poner las imagenes
-	- [ ] Poner las conclusiones
+- [x] Hacer el reporte de SyS (En LaTeX) ✅ 2025-09-03
+	- [x] Ver que coño vamos a reportar ✅ 2025-09-03
+	- [x] Poner el previo ✅ 2025-09-03
+	- [x] poner las imagenes ✅ 2025-09-03
+	- [x] Poner las conclusiones ✅ 2025-09-03
+
+#REWARD -> *Abrir red social*
+
+## Miércoles
+- [x] Anexar la rúbrica ✅ 2025-09-03
 
 - [ ] Previo Lab Dispos
 	- [ ] Checar que hay que hacer (*ORG*)
 	- [ ] Recabar el material
 
 - [ ] Hacer el diagrama de bases en el programa ese
-
->2 -> Ir a comer
+>💥KtLO -2- hasta las 2
+>- [ ] Sueñito de 2 horas
+>- [ ] Despierta cabron, a seguir
 
 - [ ] Práctica 1 por fin
 	- [ ] Formato para reportes `lab` en LaTeX
@@ -90,10 +99,6 @@ tags:
 - [ ] Práctica 2
 	- [ ] `com`
 
->💥KtLO -2- hasta las 2
->- [ ] Sueñito de 2 horas
->- [ ] Despierta cabron, a seguir
-## Miércoles
 ## Jueves 
 ## Viernes
 ## Sábado
