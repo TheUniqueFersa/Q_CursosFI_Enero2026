@@ -27,6 +27,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
+- [-] XD ❌ 2025-09-04
 
 
 ## ***ETAPA FINAL***
@@ -41,4 +42,6 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 | Recurso                                      | Tema Inicio | Tema Fin |
 | -------------------------------------------- | ----------- | -------- |
 | [[1- INTRODUCCIÓN A LAS BASES DE DATOS.pdf]] | 1.1         |          |
+|                                              | 2.1         |          |
 | [[3 - Modelo relacional.pdf]]                | 3.1         | 3.7      |
+|                                              | 4.1         |          |

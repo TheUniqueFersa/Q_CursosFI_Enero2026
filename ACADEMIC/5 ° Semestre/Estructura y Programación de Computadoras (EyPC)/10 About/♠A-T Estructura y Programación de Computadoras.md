@@ -13,7 +13,7 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 
 | Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía | Laboratorio<br>(L+) | Calificación |
 | ----- | -------- | ---------------------------------- | ------------ | ------------------- | ------------ |
-| 1503  | 8        |                                    |              |                     |              |
+| 1503  | 8        | [[programa_EyPC.pdf]]              |              |                     |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Estructura y Programación de Computadoras en la carrera de [[Ingeniería en Computación]]
 
@@ -21,16 +21,12 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 # Planeación - MODELO
 ## ►MODELO `CORE`
 
-## Declaración de Etapas
-
-- 
-
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 
 
->## ***ETAPA FINAL***
+# ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 
