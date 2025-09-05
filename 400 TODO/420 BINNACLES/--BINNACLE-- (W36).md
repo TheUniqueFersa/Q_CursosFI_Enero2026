@@ -84,22 +84,28 @@ tags:
 ## Miércoles
 - [x] Anexar la rúbrica ✅ 2025-09-03
 
-- [ ] Previo Lab Dispos
-	- [ ] Checar que hay que hacer (*ORG*)
-	- [ ] Recabar el material
+- [x] Trabajo en el previo ✅ 2025-09-04
+	- [x] Checar que hay que hacer (*ORG*) ✅ 2025-09-04
+	- [x] Recabar el material ✅ 2025-09-04
 
-- [ ] Hacer el diagrama de bases en el programa ese
->💥KtLO -2- hasta las 2
->- [ ] Sueñito de 2 horas
->- [ ] Despierta cabron, a seguir
+## Jueves 
+- [x] Previo Lab Dispos ✅ 2025-09-04
+
+- [ ] Formato de práctica lab
+	- [ ] Decidir si normal o latex
+
+- [ ] Previo 4 lab bd
 
 - [ ] Práctica 1 por fin
 	- [ ] Formato para reportes `lab` en LaTeX
 	- [ ] Formato para `com`
+
+>💥KtLO -2- hasta las 2
+>- [ ] Sueñito de 2 horas
+>- [ ] Despierta cabron, a seguir
+
 - [ ] Práctica 2
 	- [ ] `com`
-
-## Jueves 
 ## Viernes
 ## Sábado
 # Hereda pendientes:
