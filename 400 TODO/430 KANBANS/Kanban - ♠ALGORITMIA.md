@@ -27,14 +27,14 @@ pertenece a: "[[♠ALGORITMIA]]"
 
 - [ ] # Problema :SiLeetcode: Leetcode ^3caaaf
 	- 1 -> Empezar con el problema diario
-	- [ ] Leer el problema y pensarlo 📅 2025-09-01 ^3caaaf
+	- [ ] Leer el problema y pensarlo ^3caaaf
 - [ ] Aprender a Analizar matemáticamente la **complejidad de los algoritmos** #Read 
 	
 	- [x] Elegir libro 📅 2025-08-16 ✅ 2025-08-17
 	- [x] Asignar fechas 📅 2025-08-18 ✅ 2025-08-18
 	- [x] Buscarlo en biblio 📅 2025-08-26 ✅ 2025-08-31
 		- [ ] Faltan varios
-	- [ ] Empezar a leerlo 📅 2025-09-04
+	- [ ] Empezar a leerlo
 
 
 ## Sorting

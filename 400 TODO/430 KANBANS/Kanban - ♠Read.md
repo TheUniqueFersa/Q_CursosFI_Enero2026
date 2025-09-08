@@ -4,9 +4,9 @@ title: kanban-♠Read
 kanban-plugin: board
 tags:
   - Active_kanban_♠Read
-Total: 42
+Total: 43
 Completado: 9
-Incompleto: 33
+Incompleto: 34
 pertenece a: "[[♠Read]]"
 
 ---
@@ -34,6 +34,8 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
+- [ ] Terminar la Historia de la Computación esta semana #MILESTONE
+- [ ] Empezar la Fundación
 - [ ] Identificar Libros para 
 	- *Álgebra Lineal*
 	- Probabilidad
@@ -47,7 +49,6 @@ pertenece a: "[[♠Read]]"
 - [ ] Hacer la secuencia de libros de los pendientes para terminarlos todos
 - [ ] 5 libros
 - [ ] 10 libros #MILESTONE
-- [ ] Terminar la Historia de la Computación esta semana #MILESTONE 📅 2025-09-06
 
 
 ## # #STANDBY

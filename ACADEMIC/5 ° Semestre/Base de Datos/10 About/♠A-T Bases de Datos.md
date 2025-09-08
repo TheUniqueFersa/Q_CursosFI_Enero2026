@@ -12,10 +12,10 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 ---
 # ***♠A-T Bases de Datos***
 
-| Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía | Laboratorio<br>(L+)        | Calificación |
-| ----- | -------- | ---------------------------------- | ------------ | -------------------------- | ------------ |
-| 1644  | 14       | [[programa_BD.pdf]]                |              | ✅[[Lab de Bases de Datos]] |              |
-|       |          | [[Temario BD desglosado.pdf]]]     |              |                            |              |
+| Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía                                          | Laboratorio<br>(L+)        | Calificación |
+| ----- | -------- | ---------------------------------- | ----------------------------------------------------- | -------------------------- | ------------ |
+| 1644  | 14       | [[programa_BD.pdf]]                | [[BD. Database_fundamentals.pdf]]                     | ✅[[Lab de Bases de Datos]] |              |
+|       |          | [[Temario BD desglosado.pdf]]]     | [[BD. Fundamentos-de-Sistemas-de-Bases-de-Datos.pdf]] |                            |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Bases de Datos en la carrera de [[Ingeniería en Computación]]
 # Asignatura

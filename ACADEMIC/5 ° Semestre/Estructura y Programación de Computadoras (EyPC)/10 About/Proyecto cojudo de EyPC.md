@@ -1,7 +1,7 @@
 ---
-Completado:
-Incompleto:
-Total:
+Completado: 0
+Incompleto: 14
+Total: 14
 fecha_entrega: 2025-10-07
 pertenece a:
   - Estruc

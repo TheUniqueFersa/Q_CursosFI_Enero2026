@@ -2,7 +2,14 @@
 tipo: Nota Legend
 modelo:
   - "[[►Recolección Wissen-Garden]]"
+pertenece a:
+  - "[[♠A-T Bases de Datos]]"
+scope: General
 ---
+# 🎯Objetivos
+- Conocer los conceptos y principios que sustentan las bases de datos
+
+# Temas
 1. INTRODUCCIÓN A LAS BASES DE DATOS
 2. [[2. DISEÑO CONCEPTUAL DE UNA BASE DE DATOS]]
 3. MODELO RELACIONAL
@@ -11,3 +18,5 @@ modelo:
 6. DISEÑO FÍSICO DE UNA BASE DE DATOS
 7. LENGUAJE DE CONSULTA DE DATOS (DQL)
 8. INTRODUCCIÓN DE LA PROGRAMACIÓN EN BASE DE DATOS
+
+

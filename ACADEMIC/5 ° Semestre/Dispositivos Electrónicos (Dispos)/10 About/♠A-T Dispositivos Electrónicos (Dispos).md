@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🔲INGAP🔲
+status: 🟧INESTABLE🟧
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -13,9 +13,10 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 ---
 # ***♠A-T Dispositivos Electrónicos (Dispos)***
 
-| Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía | Laboratorio<br>(L+)                             | Calificación |
-| ----- | -------- | ---------------------------------- | ------------ | ----------------------------------------------- | ------------ |
-| 0138  | 10       | [[programa_Dispos.pdf]]            | [[]]         | ✅ [[Lab de Dispositivos Electrónicos (Dispos)]] |              |
+| Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía                                                                                                                                  | Laboratorio<br>(L+)                             | Calificación |
+| ----- | -------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------ |
+| 0138  | 10       | [[programa_Dispos.pdf]]            | [[Dispos. Microelectronic_Circuit_Design.pdf]]                                                                                                | ✅ [[Lab de Dispositivos Electrónicos (Dispos)]] |              |
+|       |          |                                    | [[ACADEMIC/5 ° Semestre/_Libros/Dispos/Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf\|Dispos. Dispositivos Electrónicos - Floyd 8a ed]] |                                                 |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Dispositivos Electrónicos (Dispos) en la carrera de [[Ingeniería en Computación]]
 # Asignatura
