@@ -82,8 +82,8 @@ Entregar:
 - [x] 2 ✅ 2025-08-28
 - [x] 3 ✅ 2025-08-28
 - [x] 4 ✅ 2025-09-02
-- [ ] 5
-- [ ] 6
+- [x] 5 ✅ 2025-09-05
+- [x] 6 ✅ 2025-09-05
 - [ ] 7
 - [ ] 8
 - [ ] 9
@@ -102,7 +102,7 @@ Entregar:
 > - [ ] Libros de consulta
 > - [x] Temario
 
-### Software a utilizar
+### [Software a utilizar](https://drive.google.com/drive/folders/11MgVTT0lxyt1F_aYCPk6cSYZnid_9E-O?usp=drive_link)
 - [x] Instalar **DIA**, seguir el manual y descargar el ejecutabe del drive ✅ 2025-09-02
 - [x] Instalar **ERStudio**, para ellos seguir laa instrucciones del manual ✅ 2025-09-02
 - [ ] Otros que no se que odna

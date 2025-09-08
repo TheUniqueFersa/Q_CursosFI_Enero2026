@@ -3,7 +3,7 @@
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
-pertenece a: 
+pertenece a:
 recurrencia:
   - lunes
   - viernes
@@ -26,13 +26,13 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [x] Hacer rutina con barras 📅 2025-08-18 ✅ 2025-08-18
-- [ ] Ir a preguntar por los cursos de Patinaje 📅 2025-09-05
+- [ ] Ir a preguntar por los cursos de Patinaje 📅 2025-09-13
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Hacer rutina con barras 📅 2025-08-18 ✅ 2025-08-18
 
 
 

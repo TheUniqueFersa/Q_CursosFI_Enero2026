@@ -5,14 +5,14 @@ tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
+terminado: true
 fecha_entrega: 2025-09-06
-fecha_terminado:
-Completado: 21
-Incompleto: 23
-Total: 44
-antecesor:
-sucesor:
+fecha_terminado: 2025-09-07
+Completado: 54
+Incompleto: 0
+Total: 54
+antecesor: "[[--BINNACLE-- (W35)]]"
+sucesor: "[[--BINNACLE-- {W37}]]"
 links_url:
 Tiempo Objetivo:
 Progreso:
@@ -25,17 +25,17 @@ tags:
 | ![[Kanban - ♠Academic#^88d66c]]<br>![[‼Sanando el Alma - Consolidando el Capítulo 1#^98f8f4]] | 7 días | 08:54 am [[31-08-2025]] | 09:00 am [[07-09-2025]]     |
 |                                                                                               |        |                         |                             |
 # 🏆$AEM$
-- [ ] Corregir todas las materias (pasarlas a *STATUS* ESTABLE u ÓPTIMO) #AEM 
-- [ ] Iniciar PROC y tomar una decisión #AEM 
-- [ ] Usar las notas ***Legend*** #AEM
-	- [ ] Domingo 
-	- [ ] Lunes
-	- [ ] Martes
-	- [ ] Miércoles
-	- [ ] Jueves
-	- [ ] Viernes
-	- [ ] Sábado
-	- [ ] Subir una usando Quartz4 ^4a0106
+- [>] Corregir todas las materias (pasarlas a *STATUS* ESTABLE u ÓPTIMO) #AEM ^n8rn
+- [>] Iniciar PROC y tomar una decisión #AEM
+- [>] Usar las notas ***Legend*** #AEM
+	- [-] Domingo ❌ 2025-09-07
+	- [-] Lunes ❌ 2025-09-07
+	- [-] Martes ❌ 2025-09-07
+	- [-] Miércoles ❌ 2025-09-07
+	- [-] Jueves ❌ 2025-09-07
+	- [-] Viernes ❌ 2025-09-07
+	- [-] Sábado ❌ 2025-09-07
+	- [-] Subir una usando Quartz4 ❌ 2025-09-07 ^4a0106
 
 ## Domingo
 - [x] Añadir las notas LEGACY del periodo INTERSEMESTRAL al TUNEL y empujarlo ✅ 2025-08-31
@@ -56,7 +56,6 @@ tags:
 - [x] Escribir y redactar conclusiones de acuerdo a lo visto y lo que me diga chat ✅ 2025-08-31
 
 #REWARD 
-
 
 ## Lunes
 ## Martes
@@ -91,27 +90,41 @@ tags:
 ## Jueves 
 - [x] Previo Lab Dispos ✅ 2025-09-04
 
-- [ ] Formato de práctica lab
-	- [ ] Decidir si normal o latex
+>- [x] 💥Instalar office ✅ 2025-09-06
 
-- [ ] Previo 4 lab bd
+- [x] Previo 4 lab bd ✅ 2025-09-06
+	- [x] Ejercicio 1 ✅ 2025-09-06
+		- [x] A ✅ 2025-09-06
+		- [x] B ✅ 2025-09-06
+		- [x] C ✅ 2025-09-06
+	- [x]  #REWARD ✅ 2025-09-06
+	- [x] Ejercicio 2 ✅ 2025-09-06
+		- [x] A ✅ 2025-09-06
+		- [x] B ✅ 2025-09-06
+		- [x] C ✅ 2025-09-06
 
-- [ ] Práctica 1 por fin
-	- [ ] Formato para reportes `lab` en LaTeX
-	- [ ] Formato para `com`
 
->💥KtLO -2- hasta las 2
->- [ ] Sueñito de 2 horas
->- [ ] Despierta cabron, a seguir
-
-- [ ] Práctica 2
-	- [ ] `com`
 ## Viernes
-## Sábado
-# Hereda pendientes:
-- [ ] Descripción general de cada integrante del equipo (CW25)
 
+## Sábado
+>💥~~KtLO -2-~~***Siesta*** hasta las ~~2~~ 3am
+>- [x] Sueñito de *7 horas* ✅ 2025-09-06
+>- [x] Despierta cabron, a seguir ✅ 2025-09-06
+
+- [x] Previo 4 calificado y entregado ✅ 2025-09-06
+
+>- [x] 💥`FIX`: PROC ✅ 2025-09-06
+>Crear nueva entidad
+
+- [x] ==Recabar libros de todas las asignaturas XD== [🍅:: 4] ✅ 2025-09-07 ^ty32
+
+
+- [x] Cuentas ✅ 2025-09-07
+
+# Hereda pendientes:
+- [>] Descripción general de cada integrante del equipo (CW25)
 # BEYOND
+
 
 # Problemas encontrados
 

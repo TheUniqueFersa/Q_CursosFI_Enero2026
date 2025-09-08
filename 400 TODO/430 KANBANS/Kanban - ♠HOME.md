@@ -27,11 +27,11 @@ pertenece a: "[[♠HOME]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Arreglar algo de mi casa due 📅 2025-09-07
-- [ ] Lavar tangas 📅 2025-09-07
-- [ ] Lavar otros pantalones o otras playeras (a mano) 📅 2025-09-07
+- [ ] Arreglar algo de mi casa
+- [ ] Lavar tangas
+- [ ] Lavar otros pantalones o otras playeras (a mano)
 - [ ] **LIMPIEZA MASIVA DE MI CUARTO**
-- [ ] Barrer 📅 2025-09-07
+- [ ] Barrer
 - [ ] Aprender a hacer tareas del hogar
 	- [ ] Sacar la basura
 	- [ ] Limpiar el baño

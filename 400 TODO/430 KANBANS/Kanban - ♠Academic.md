@@ -23,11 +23,15 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) 📅 2025-09-07 ⏳ 2025-09-01 ^e14b86
-	- [x] Domingo ✅ 2025-08-31
+- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) S1'' ^e14b86
+	- [ ] Domingo
 	- [ ] Lunes
-- [ ] Establecer las notas universales para Academic 📅 2025-08-31 ^88d66c
-- [ ] ![[--BINNACLE-- (W36)#^4a0106]]
+	- [ ] Martes
+	- [ ] Miércoles
+	- [ ] Jueves
+	- [ ] Viernes
+- [ ] Establecer las notas universales para Academic 📅 2025-09-07 ^88d66c
+- [ ] ![[--BINNACLE-- {W37}#^102557]]
 
 
 ## ‼Yi
@@ -57,7 +61,7 @@ recurrencia:
 
 ## # ▶ [[CURSO WEB 2025]]
 
-- [ ] Etapa de Calificación y Legacy 📅 2025-09-01
+- [ ] Etapa de Calificación y Legacy
 - [x] Etapa de Instructor ✅ 2025-07-14
 
 

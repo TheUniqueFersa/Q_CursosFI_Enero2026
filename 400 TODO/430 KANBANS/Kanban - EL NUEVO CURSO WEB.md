@@ -44,7 +44,7 @@ recurrencia:
 
 - [ ] Reunir recursos completos del anterior curso web
 - [ ] >❓¿Cuáles son los errores de mi anterior participación que no pueden volver a ocurrir?
-- [ ] Calificar CW25 ⛔ f52474 📅 2025-08-31 #MILESTONE ^08e92e
+- [ ] Calificar CW25 #MILESTONE ^08e92e
 
 
 ## *Propuesta de Acciones*
