@@ -1,0 +1,19 @@
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.tags.contains("♠A-T")
+        - file.inFolder("ACADEMIC")
+        - '!file.name.contains("SUPER UNIVERSITARIO")'
+    order:
+      - file.name
+      - ESTADO_RECOLECCION
+      - status
+    sort:
+      - property: status
+        direction: ASC
+    cardSize: 310
+    imageFit: ""
+    imageAspectRatio: 0.25
+    image: note.image

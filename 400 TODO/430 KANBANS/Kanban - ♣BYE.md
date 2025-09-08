@@ -16,8 +16,8 @@ pertenece a: "[[♣BuildYourEmpire]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Empezar The Clovers Society 📅 2025-09-04
-- [ ] Diseñar nuevo VTA  📅 2025-09-07 ⏳ 2025-09-06
+- [ ] Empezar [[♣THE CLOVERS SOCIETY]]
+- [ ] Diseñar nuevo VTA
 
 
 ## # ==Primera Etapa==
@@ -26,12 +26,10 @@ pertenece a: "[[♣BuildYourEmpire]]"
 - [ ] Aprender varias nuevas tecnologías de índole profesional #MILESTONE 
 	- [ ] GitHub
 	- [ ] LinkedIn
-- [ ] Empezar [[♣THE CLOVERS SOCIETY]]
 
 
 ## # [[♣VTA]]
 
-- [ ] Renovar modelo VTA
 - [ ] Renovar Excel
 
 

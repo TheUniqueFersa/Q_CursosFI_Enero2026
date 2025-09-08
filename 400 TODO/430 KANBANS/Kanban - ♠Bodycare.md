@@ -29,11 +29,11 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Establecer la dieta de manera formal bajo **Protocolos** 📅 2025-09-07 ⏳ 2025-09-05
+- [ ] Establecer la dieta de manera formal bajo **Protocolos**
+- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-09-13
 - [ ] Perfume y fragancia
 - [ ] -- ***ROZ*** --
-- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-09-05
-- [ ] Comprar peine nuevo para trollear 📅 2025-09-05
+- [ ] Comprar peine nuevo para trollear
 
 
 ## # Secuencia de Acciones<br>‼Yi
