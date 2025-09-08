@@ -23,22 +23,22 @@ recurrencia:
 
 ## Incoming Problems
 
+- [ ] # SEMANA  1''
+	- [ ] Primes
+	- [ ] Grafos
+	- [ ] Strings
+	- [ ] Dp
 - [ ] Daily:
 	- [ ] ADHOC
 	- [ ] Problema 6G
 	- [ ] Codeforces
 	- [ ] CP4
 	- [ ] ThemeCP
-- [ ] # SEMANA 3' 📅 2025-09-06 
-	- [ ] Primes
-	- [ ] Grafos
-	- [ ] Strings
-	- [ ] Dp
-- [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]] 📅 2025-09-01
+- [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]]
 - [ ] Sesión de Lectura de Libros OMM
 - [ ] Aprender y entender lo casos de uso de cada una de las estructuras en C++ para CP
-- [ ] [[Mapeo de Kattis]] 📅 2025-09-01
-- [ ] [[Mapeo UVa Online judge]] 📅 2025-09-03
+- [ ] [[Mapeo de Kattis]]
+- [ ] [[Mapeo UVa Online judge]]
 
 
 ## # Secuencia de *Problemas*<br>‼Yi
@@ -69,8 +69,9 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-09-01 ^2eefaa
-- [ ] Combinatoria 📅 2025-08-31 ^e9a48d
+- [ ] DSU 📅 2025-09-07 ^2eefaa
+- [ ] Combinatoria 📅 2025-09-07 ^e9a48d
+- [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] Teoría de Números
 - [ ] [[GCD]]
@@ -117,7 +118,6 @@ recurrencia:
 	- [ ] Problema 6G
 	- [ ] ThemeCP
 	- [x] CP4 ✅ 2025-04-29
-- [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian 📅 2025-09-01
 
 
 

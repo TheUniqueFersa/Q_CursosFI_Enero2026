@@ -4,7 +4,7 @@ tipo: "[[Cluxter]]"
 fecha_creado: 2025-06-06
 fecha_entrega:
 Momento: "[[FINAL DEL 2025]]"
-próxima_fecha: 2025-09-07
+próxima_fecha: 2025-09-14
 ---
 # ***‼Sanando el Alma - Consolidando el Capítulo 1***
 A cada Lección de [[♦(...L)]] se le será asignada una acción específica para poder representar dicha lección.
@@ -51,7 +51,7 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 
 # [[♦(...L)#12|Regla 12]] -> Más acciones que pensamientos
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Rebasar mis acciones, completar todos los ***MILESTONES*** de esta nota ^fa6f60
-- [ ] #MILESTONE/ORDEN_SUPERIOR [[{W36-2024}]] Resurgir de una vez por todas como la MÁQUINA FORMIDABLE (en crecimiento).  ^98f8f4
+- [ ] #MILESTONE/ORDEN_SUPERIOR [[{W37-2025}]] Resurgir de una vez por todas como la MÁQUINA FORMIDABLE (en crecimiento).  ^98f8f4
 	- [ ] Lograr mis MILESTONES semanales
 	- [ ] Vaciar el incoming  
 	- [ ] Entrenar en PROC. (Máxima concentración)

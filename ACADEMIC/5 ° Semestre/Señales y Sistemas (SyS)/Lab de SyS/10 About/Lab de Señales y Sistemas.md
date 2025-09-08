@@ -12,46 +12,33 @@ ESTADO_RECOLECCION: "[[♣Learn]]"
 ---
 # ***Lab de Señales y Sistemas***
 
-| Clave | Manual de Prácticas | Bibliografía | Calificación |
-| ----- | ------------------- | ------------ | ------------ |
-| 6473  | [[MDPSYS-01.pdf]]   |              |              |
+| Clave | Manual de Prácticas                                                  | Bibliografía | Calificación |
+| ----- | -------------------------------------------------------------------- | ------------ | ------------ |
+| 6473  | [[MDPSYS-01.pdf]]                                                    |              |              |
+|       | [[Manual de practicas SyS v2.pdf]]                                   |              |              |
+|       | [[Manual de Prácticas del laboratorio de señales y sistemas v3.pdf]] |              |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Señales y Sistemas en la carrera de [[Ingeniería en Computación]]
 # Asignatura
-
-| ⤵️                                                                                                 | :LiBookA:         |
-| -------------------------------------------------------------------------------------------------- | ----------------- |
-| [Página del Laboratorio](https://dctrl.fi-b.unam.mx/lab_control/sys.php)                           |                   |
-| [Calendarización de Prácticas](https://dctrl.fi-b.unam.mx/lab_control/docs/2026-1/FODO-05_SyS.pdf) |                   |
-| [Manual de Prácticas](https://dctrl.fi-b.unam.mx/lab_control/docs/sys/MDPSYS-01.pdf)               | [[MDPSYS-01.pdf]] |
-## Reglamento
-- Traer bata
-- Cabello recogido
-
----
-# Prácticas
-- Práctica 1
-
+![[Asignatura Lab de Señales y Sistemas]]
 ---
 # Planeación - MODELO
 ## ►MODELO `CORE`
 
-## Declaración de Etapas
-- Primera Práctica
-- Segunda Práctica
+---
+# Misión
+
+## *ETAPA INTERSEMESTRAL*
+- [-] XD ❌ 2025-09-02
+
+## *Primera práctica*
+- [ ] Hacer un buen reporte #MILESTONE ->`XD`
+## Segunda Práctica
 - Tercera Práctica
 - Cuarta Práctica
 - Quinta Práctica
 
----
-# Misión
-## *Primera práctica*
-- [ ] Hacer un buen reporte #MILESTONE 
-
-## *ETAPA INTERSEMESTRAL*
-
-
->## ***ETAPA FINAL***
+## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación: #MILESTONE 
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy) #MILESTONE 
 
@@ -60,6 +47,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 # ***INTERCONN***
 ## Recursos
 
-|     |     |
-| --- | --- |
-|     |     |
+|                                                                                                                                         |     |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [Manual del Generador de señales del lab](https://bkpmedia.s3.us-west-1.amazonaws.com/downloads/manuals/en-us/4017A_manual.pdf)         |     |
+| [Especificaciones de un Osciloscopio similar al que usamos](https://www.gwinstek.com/en-global/products/downloadSeriesDownNew/2158/154) |     |

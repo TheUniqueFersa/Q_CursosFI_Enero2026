@@ -26,11 +26,11 @@ pertenece a: "[[♠Poliglota]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Terminar Curso de Platzi de Inglés 📅 2025-09-02
-- [ ] Escuchar Audios 📅 2025-09-01
+- [ ] Organizar Plan de Estudios y ***Modelo de Recolección***
+- [ ] Terminar Curso de Platzi de Inglés
+- [ ] Escuchar Audios
 	![[♠Polig - Inglés#^efzohajjb]]
-- [ ] Escuchar Coffe break german #Políglota/Deutsch 📅 2025-09-03
-- [ ] Organizar Plan de Estudios y ***Modelo de Recolección*** 📅 2025-09-01
+- [ ] Escuchar Coffe break german #Políglota/Deutsch
 
 
 ## # Secuencia de Acciones<br>‼Yi
