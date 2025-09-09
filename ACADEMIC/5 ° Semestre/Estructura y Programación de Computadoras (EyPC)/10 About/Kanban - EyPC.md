@@ -4,11 +4,6 @@ tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
-recurrencia:
-  - lunes
-  - viernes
-  - Monday
-  - Friday
 
 ---
 
@@ -22,18 +17,16 @@ recurrencia:
 
 ## **Propuesta de Acciones**
 
+- [ ] # [[Proyecto cojudo de EyPC]]
 
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Ir a preguntar por los cursos de Patinaje 📅 2025-09-13
-- [ ] Barras todos los días 📅 2025-09-12 ⏳ 2025-09-09
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
-- [x] Hacer rutina con barras 📅 2025-08-18 ✅ 2025-08-18
 
 
 

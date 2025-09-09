@@ -30,7 +30,7 @@ recurrencia:
 	- [ ] Miércoles
 	- [ ] Jueves
 	- [ ] Viernes
-- [ ] Establecer las notas universales para Academic 📅 2025-09-07 ^88d66c
+- [ ] Establecer las notas universales para Academic 📅 2025-09-08 ^88d66c
 - [ ] ![[--BINNACLE-- {W37}#^102557]]
 
 

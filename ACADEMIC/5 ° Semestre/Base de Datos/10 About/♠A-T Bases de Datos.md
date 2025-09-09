@@ -15,7 +15,12 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 | Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía                                          | Laboratorio<br>(L+)        | Calificación |
 | ----- | -------- | ---------------------------------- | ----------------------------------------------------- | -------------------------- | ------------ |
 | 1644  | 14       | [[programa_BD.pdf]]                | [[BD. Database_fundamentals.pdf]]                     | ✅[[Lab de Bases de Datos]] |              |
-|       |          | [[Temario BD desglosado.pdf]]]     | [[BD. Fundamentos-de-Sistemas-de-Bases-de-Datos.pdf]] |                            |              |
+|       |          | [[Temario BD desglosado.pdf]]      | [[BD. Fundamentos-de-Sistemas-de-Bases-de-Datos.pdf]] |                            |              |
+
+| ⤵               | ℹ ***Legend***          |
+| --------------- | ----------------------- |
+| [[Kanban - BD]] | [[Lg - Bases de Datos]] |
+
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Bases de Datos en la carrera de [[Ingeniería en Computación]]
 # Asignatura
@@ -38,10 +43,12 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 ---
 # ***INTERCONN***
 ## Recursos
+### Classroom
 
-| Recurso                                      | Tema Inicio | Tema Fin |
-| -------------------------------------------- | ----------- | -------- |
-| [[1- INTRODUCCIÓN A LAS BASES DE DATOS.pdf]] | 1.1         |          |
-|                                              | 2.1         |          |
-| [[3 - Modelo relacional.pdf]]                | 3.1         | 3.7      |
-|                                              | 4.1         |          |
+| Recurso                                          | Tema Inicio | Tema Fin |
+| ------------------------------------------------ | ----------- | -------- |
+| [[1- INTRODUCCIÓN A LAS BASES DE DATOS.pdf]]     | 1.1         |          |
+| [[2-Diseño conceptual.pdf]]                      | 2.1         |          |
+| [[3 - Modelo relacional.pdf]]                    | 3.1         |          |
+| [[4-TRANSFORMACIÓN MOD RELACIONAL AVANZADO.pdf]] | 4.1         |          |
+|                                                  |             |          |
