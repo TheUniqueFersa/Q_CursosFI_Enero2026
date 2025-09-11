@@ -19,6 +19,7 @@ pertenece a:
 ## **Propuesta de Acciones**
 
 - [ ] Completar conceptos de Tema 3 ([[Lg - Dispositivos Electrónicos]])
+- [ ] [[Tarea 9 - Dispos]]
 
 
 ## Listos para ♦(...R) X-chelons
