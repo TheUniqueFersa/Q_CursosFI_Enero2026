@@ -37,6 +37,10 @@ tags:
 
 
 - [x] Checar el material para práctica 2 SYS ✅ 2025-09-09
+## Martes
+>***XD***
+
+## Miércoles
 - [ ] Checar lo del proyecto de EyPC (preguntarle a mi tio y checar en la biblia de C)
 - [ ] Pasarle a mi tío el previo y preguntarle qué tengo que hacer y me dé los materiales de la práctica
 - [ ] Checar la instalación de ER Studio
@@ -78,9 +82,7 @@ tags:
 - [ ] Práctica 3 
 	- [ ] ``com``
 	- [ ] ``lab``
-## Martes
 
-## Miércoles
 
 ## Jueves 
 
