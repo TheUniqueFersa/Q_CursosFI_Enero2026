@@ -2,13 +2,13 @@
 pertenece a:
   - "[[♠Olympic Mind - PROC]]"
 ---
-# ``theuniqueFersa``
+# ``theuniqueFersa`` [:LiExternalLink:](https://codeforces.com/profile/theuniqueFersa)
 **Estado**: #STANDBY 
 ***Perfil principal***
 Para participar en el [[♣CPCFI]]
 
 Será una prueba del nivel que haya conseguido con [[#``odene_logene``|odene]]
-# ``odene_logene``
+# ``odene_logene`` :LiExternalLink:
 >$O(n)$
 >O de n log n
 >==Perfil troll==, para poder crecer todo lo que tenga que crecer sin tener que manchar mi nombre
