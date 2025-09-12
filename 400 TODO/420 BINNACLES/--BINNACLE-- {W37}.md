@@ -8,8 +8,8 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 5
-Incompleto: 45
+Completado: 6
+Incompleto: 44
 Total: 50
 antecesor: 
 sucesor: 
