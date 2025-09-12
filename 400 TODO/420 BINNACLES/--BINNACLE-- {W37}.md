@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 6
-Incompleto: 44
-Total: 50
+Completado: 8
+Incompleto: 43
+Total: 51
 antecesor: 
 sucesor: 
 links_url: 
@@ -41,8 +41,11 @@ tags:
 >***XD***
 
 ## Miércoles
+- [x] Pasarle a mi tío el previo y preguntarle qué tengo que hacer y me dé los materiales de la práctica ✅ 2025-09-10
+
+- [x] Previo 3 lab de Dispos [🍅:: 8] ✅ 2025-09-11 ^cwdc
+## Jueves 
 - [ ] Checar lo del proyecto de EyPC (preguntarle a mi tio y checar en la biblia de C)
-- [ ] Pasarle a mi tío el previo y preguntarle qué tengo que hacer y me dé los materiales de la práctica
 - [ ] Checar la instalación de ER Studio
 - [ ] CURSITO DE MATLAB #ENHANCED/TECHMASTER  
 
@@ -67,7 +70,6 @@ tags:
 >- [ ] Curso de expresiones en inglés
 >- [ ] Lección [[♠MasChesster]]
 >- [x] Pasarle recursos a Hatsi ✅ 2025-09-08
-
 - [ ] Formato de práctica lab
 	- [ ] Decidir si normal o latex
 
@@ -82,10 +84,6 @@ tags:
 - [ ] Práctica 3 
 	- [ ] ``com``
 	- [ ] ``lab``
-
-
-## Jueves 
-
 ## Viernes
 
 ## Sábado

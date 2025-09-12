@@ -27,7 +27,7 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Ir a preguntar por los cursos de Patinaje 📅 2025-09-13
-- [ ] Barras todos los días 📅 2025-09-12 ⏳ 2025-09-09
+- [ ] Barras todos los días 📅 2025-09-12 ⏳ 2025-09-11
 
 
 ## # Secuencia de Acciones<br>‼Yi
