@@ -4,7 +4,7 @@ tipo: "[[Cluxter]]"
 fecha_creado: 2025-06-06
 fecha_entrega:
 Momento: "[[FINAL DEL 2025]]"
-próxima_fecha: 2025-09-14
+próxima_fecha: 2025-09-21
 ---
 # ***‼Sanando el Alma - Consolidando el Capítulo 1***
 A cada Lección de [[♦(...L)]] se le será asignada una acción específica para poder representar dicha lección.
@@ -16,7 +16,7 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 # [[♦(...L)#1|Regla 1]] -> El respeto al tiempo
 - [ ] Respetar el [[SCHEDULE - FR -6- 2.pdf]], de tal forma que pueda tener una precisión de más de 60% en el día. ( ***61%*** )
 # [[♦(...L)#2|Regla 2]] -> El respeto del impulso
-- [ ] No abandonar el Fuerte en todos los días activo -> Terminar [[☼First Rise -6-]]
+- [ ] No abandonar el Fuerte en todos los días activo -> Terminar [[☼First Rise -7-]]
 # [[♦(...L)#3|Regla 3]] -> El poder del hombre
 - [ ] #MILESTONE/ORDEN_SUPERIOR Lograr terminar todos los proyectos establecidos en [[Kanban - Proyectos ♣T - Programador Junior]]
 - [ ] Haber hecho las misiones de BrainOut para el final del Capítulo [^1]
@@ -37,7 +37,7 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 - [ ] Idear rutinas de [[‼Disguising the Lust]] para formar parte de alguna sesión de [[♠WorkOut]] y así construir resistencia
 
 # [[♦(...L)#9|Regla 9]] -> Los 3 materiales
-- [ ] Un modelo funcional de los 3 materiales: iPad, Computadora y a mano
+- [ ] Un modelo funcional de los 3 materiales: iPad, Computadora y a mano -> ==Notas Legend==
 - iPad para apuntes bonitos, Computadora para programar y notas del fuerte y la mano para hacer apuntes tipo DaVinci
 
 # [[♦(...L)#10|Regla 10]] -> El fuerte creado
@@ -46,16 +46,11 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 
 # [[♦(...L)#11|Regla 11]] -> El proceso perfecto
 - [ ] Consolidar el [[►Tetrachronos]]
-- [ ] Probar el proceso con este primer paso
-- [ ] Registrar mis cambios desde [[14-07-2025]] hasta el final del periodo
+- [ ] Lograr los 14 #XCH/ALON restantes
 
 # [[♦(...L)#12|Regla 12]] -> Más acciones que pensamientos
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Rebasar mis acciones, completar todos los ***MILESTONES*** de esta nota ^fa6f60
-- [ ] #MILESTONE/ORDEN_SUPERIOR [[{W37-2025}]] Resurgir de una vez por todas como la MÁQUINA FORMIDABLE (en crecimiento).  ^98f8f4
-	- [ ] Lograr mis MILESTONES semanales
-	- [ ] Vaciar el incoming  
-	- [ ] Entrenar en PROC. (Máxima concentración)
-	- [ ] Decidir curso de Fuerte y de mi historia
+- [ ]  EMPIEZA AQUÍ -> [[ESCALÓN CERO]] ^b24f16
 # [[♦(...L)#13|Regla 13]] -> Oportunidades aceptadas
 - [ ] Trabajar en la página de Dani
 - [ ] Proyecto de Emir
@@ -78,15 +73,18 @@ Cumplir con [[‼YI]]
 - [ ] Anticipar mis sesiones de:
 	- [-] Cursos Fi ❌ 2025-07-20
 	- [-] CW ❌ 2025-07-20
-	- [ ] PROC
+	- [ ] PROC -> [[PLAN PARA NO ESTAR DESEMPLEADOS]]
 
 - [ ] #MILESTONE Empezar a hacer los **Protocolos de SUNIE**
 # [[♦(...L)#19|Regla 19]] -> Lo quiero en verdad
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Inicio de [[♣ S.U.N.I.E.]]
-- [ ] Colgar cuarto de Dani y de generación (P6)
-- [ ] Reformas VTA, como primer paso de [[♣BuildYourEmpire]]
-- [ ] #MILESTONE Limpieza masiva en mi cuarto y renovación de mi casa ([[♠HOME]])
+- [ ] FIX
+	- [ ] Colgar cuarto de Dani y de generación (P6)
+	- [ ] Reformas VTA, como primer paso de [[♣BuildYourEmpire]]
+	- [ ] #MILESTONE Limpieza masiva en mi cuarto y renovación de mi casa ([[♠HOME]])
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Construir un CV competente para el [[#Objetivo|objetivo principal]] ^f05390
+
+- [ ] [[Kanban remontada]] #MILESTONE/ORDEN_SUPERIOR 
 # [[♦(...L)#20|Regla 20]] -> La perfecta preparación para el perfecto manto
 - [ ] [[Programando diario por 1 hora hasta conseguir INTERNSHIP]]
 - [ ] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]
@@ -94,7 +92,7 @@ Cumplir con [[‼YI]]
 
 ---
 # Recompensa
-- [ ] #REWARD Desplegar otra sesión de RozovyStorm (RozovyStrike -2-)
+- [ ] #REWARD Punto dentro de [[5° Asamblea]]
 
 >Una vez terminados todos los todo's, más precisamente cuando se haya completado ![[#^fa6f60]]
 >se puede considerar que hemos aprendido a ser [[🌐La Máquina Formidable]] ([[♦(...L)#21]])

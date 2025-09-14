@@ -12,10 +12,15 @@ ESTADO_RECOLECCION: RETENCIÓN
 ---
 # ***Lab de Dispositivos Electrónicos (Dispos)***
 
-| Clave | Manual de Prácticas     | Bibliografía                                                                        | Calificación |
-| ----- | ----------------------- | ----------------------------------------------------------------------------------- | ------------ |
-| 5138  | [[MANUAL_LDE_Comp.pdf]] | [[Dispositivos Electrónicos - Floyd 8a ed.pdf]]                                     |              |
-|       |                         | Floyd, T. L., _Dispositivos electrónicos_, 8th ed. México: Pearson Educación, 2008. |              |
+| Clave | Manual de Prácticas     | Bibliografía                                            | Calificación |
+| ----- | ----------------------- | ------------------------------------------------------- | ------------ |
+| 5138  | [[MANUAL_LDE_Comp.pdf]] | [[Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf]] |              |
+|       |                         | (Más libros en Carpeta _Libros)                         |              |
+
+| ⤵                          |
+| -------------------------- |
+| [[Kanban - Lab de Dispos]] |
+
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Dispositivos Electrónicos (Dispos) en la carrera de [[Ingeniería en Computación]]
 

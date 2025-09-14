@@ -34,7 +34,7 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
-- [ ] Terminar la Historia de la Computación esta semana #MILESTONE
+- [ ] Terminar la Historia de la Computación esta semana  📅 2025-09-20 #MILESTONE
 - [ ] Empezar la Fundación
 - [ ] Identificar Libros para 
 	- *Álgebra Lineal*

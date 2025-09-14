@@ -3,6 +3,7 @@ pertenece a:
   - "[[Lab de Dispositivos Electrónicos (Dispos)]]"
 ---
 # Trabajo previo
+
 - Caratula
 ==Usar la que viene en el manual==
 Personalizando el cuadro de datos

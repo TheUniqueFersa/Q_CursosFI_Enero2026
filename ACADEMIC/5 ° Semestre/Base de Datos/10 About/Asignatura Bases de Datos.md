@@ -99,7 +99,7 @@ Entregar:
 > 
 > - [x] Syllabus
 > - [ ] [[#Software a utilizar]]
-> - [ ] Libros de consulta
+> - [x] Libros de consulta ✅ 2025-09-08
 > - [x] Temario
 
 ### [Software a utilizar](https://drive.google.com/drive/folders/11MgVTT0lxyt1F_aYCPk6cSYZnid_9E-O?usp=drive_link)

@@ -7,7 +7,7 @@ Completado: 14
 Incompleto: 45
 kanban-plugin: board
 pertenece a:
-  - "[[☼First Rise -6-]]"
+  - "[[☼First Rise -7-]]"
 ---
 
 ## ♦\[...R]
