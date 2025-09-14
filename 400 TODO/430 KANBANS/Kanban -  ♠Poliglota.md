@@ -26,7 +26,7 @@ pertenece a: "[[♠Poliglota]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Organizar Plan de Estudios y ***Modelo de Recolección***
+- [ ] Organizar Plan de Estudios y ***Modelo de  Recolección*** 📅 2025-09-14
 - [ ] Terminar Curso de Platzi de Inglés
 - [ ] Escuchar Audios
 	![[♠Polig - Inglés#^efzohajjb]]

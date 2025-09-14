@@ -3,7 +3,7 @@ tipo: Registro de Detonación
 protocolo detonado:
 fecha: 2025-03-12
 pertenece a:
-próxima_fecha: 2025-09-07
+próxima_fecha: 2025-09-14
 tags:
   - PROC
 ---

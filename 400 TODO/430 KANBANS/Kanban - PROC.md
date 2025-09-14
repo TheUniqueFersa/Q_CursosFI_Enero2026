@@ -23,7 +23,8 @@ recurrencia:
 
 ## Incoming Problems
 
-- [ ] # SEMANA  1''
+- [ ] Crear Notion 📅 2025-09-14
+- [ ] # SEMANA  1'
 	- [ ] Primes
 	- [ ] Grafos
 	- [ ] Strings
@@ -69,8 +70,8 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-09-07 ^2eefaa
-- [ ] Combinatoria 📅 2025-09-07 ^e9a48d
+- [ ] DSU 📅 2025-09-14 ^2eefaa
+- [ ] Combinatoria 📅 2025-09-14 ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] Teoría de Números
