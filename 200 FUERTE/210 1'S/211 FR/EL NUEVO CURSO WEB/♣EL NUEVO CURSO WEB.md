@@ -8,24 +8,24 @@ tipo_nota: primaria
 modelo:
   - "[[►Tetrapetal]]"
 prioridad: Alta
-próxima_fecha: 
+próxima_fecha:
 Fracaso asociado: "[[♠PEFYC.F - Lost Web 24]]"
 ptetra: "[[♠Repay]]"
-banner: 
-fecha: 
-fecha_terminado: 
+banner:
+fecha:
+fecha_terminado:
 terminado: false
 Total: 1
 Completado: 0
 Incompleto: 1
 dificultad: 🔴
-image: 
+image:
 tags:
   - Active_kanban_CW25
   - ♣_PROYECTO_♣
 nombre: CURSO_WEB
 Saga:
-  - "[[☼First Rise -6-]]"
+  - "[[☼First Rise -7-]]"
 ---
 # ***♣EL NUEVO CURSO WEB***
 >*Para mantener el legado*

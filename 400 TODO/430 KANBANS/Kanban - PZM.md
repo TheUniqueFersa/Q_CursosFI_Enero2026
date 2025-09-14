@@ -53,7 +53,9 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] 10 cursos
+- [ ] 10 clases
+- [ ] 1 curso
+- [ ] 5 cursos
 
 
 ## # Secuencia de Acciones<br>‼Yi

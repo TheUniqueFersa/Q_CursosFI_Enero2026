@@ -3,10 +3,10 @@ tipo: Registro de Detonación
 protocolo detonado: "[[♠Legacy]]"
 fecha: 2025-06-28
 pertenece a:
-  - "[[☼First Rise -6-]]"
+  - "[[☼First Rise -7-]]"
 terminado: false
-"% Éxito": 
-estado: 
+"% Éxito":
+estado:
 ---
 # ***DET.LEGACY - Post Cursos {[[28-06-2025]]}***
 >Registro de detonación de [[‼ Legacy]]
