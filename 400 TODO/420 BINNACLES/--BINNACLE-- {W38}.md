@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega: 
 fecha_terminado: 
 Completado: 1
-Incompleto: 39
-Total: 40
+Incompleto: 41
+Total: 42
 antecesor: 
 sucesor: 
 links_url: 
@@ -24,11 +24,12 @@ tags:
 | -------------------------- | ------ | ----------------------- | --------------------------- |
 | [[ESCALÓN CERO]] #XCH/ALON | 7 días | [[14-09-2025]] 01:00 pm | [[21-09-2025]]              |
 ## Domingo
-- [ ] [[Práctica 3 Lab de Dispos]]
+- [x] [[Práctica 3 Lab de Dispos]] ✅ 2025-09-14
 - [ ] Arreglar apuntes
 	- [ ] BASES DE DATOS
+		- [ ] FORMULARIUM para Modelo E/R Extendido
 	- [ ] SEÑALES Y SISTEMAS
-	- [ ] Write down the most important parts of his notes
+		- [ ] Write down the most important parts of his notes
 	- [ ] DISPOS ELECTRÓNICOS
 		- [ ] download his notes
 		- [ ] Check photos
@@ -37,6 +38,7 @@ tags:
 
 >*RÁFAGAS*
 - [ ] Checar lo del proyecto de EyPC (preguntarle a mi tio y checar en la biblia de C)
+- [ ] Checar que hay que hacer con Vladi
 
 - [ ] CURSITO DE MATLAB #ENHANCED/TECHMASTER  
 
@@ -53,7 +55,7 @@ tags:
 >*‼Break*
 >- [ ] Curso de expresiones en inglés
 >- [ ] Lección [[♠MasChesster]]
->- [x] Pasarle recursos a Hatsi ✅ 2025-09-08
+>- [ ] Clase de [[CURSO LATEX LIDSOL|LaTeX]]
 
 - [ ] EXPO Minería de datos
 - [ ] Práctica 1 por fin
