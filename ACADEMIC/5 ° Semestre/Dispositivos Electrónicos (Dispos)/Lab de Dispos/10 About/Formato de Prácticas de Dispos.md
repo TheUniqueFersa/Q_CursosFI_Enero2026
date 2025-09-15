@@ -16,7 +16,7 @@ Fecha debe ser la del día que se realice la sesión
 	- **simulaciones**
 - Referencias
 
-*Concer*: solo implica que se conozca el concepto, más no debe reportarse
+*Conocer*: solo implica que se conozca el concepto, más no debe reportarse
 
 - [x] Ver el formato del previo que debo seguir ✅ 2025-08-21
 
@@ -37,7 +37,7 @@ Fecha debe ser la del día que se realice la sesión
 | ------------------------------------------------------------------ | --- |
 | [MULTISIM]([https://www.multisim.com/](https://www.multisim.com/)) |     |
 | [FALSTAD](http://falstad.com/circuit/)                             |     |
->	❗Al terminar de desarrollar y simular los circuitos, GENERAR el link de referencia al circuito en el mismo simulador para ANEXARLO en el [[#Trabajo previo]]
+>❗Al terminar de desarrollar y simular los circuitos, GENERAR el link de referencia al circuito en el mismo simulador para ANEXARLO en el [[#Trabajo previo]]
 >- [ ] 👀 Multisim Live se deberá crear una cuenta para poder usarlo, para los *estudiantes es gratuito*
 
 

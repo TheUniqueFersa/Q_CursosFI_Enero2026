@@ -43,18 +43,13 @@
 - [x] Nombre del profesor ✅ 2025-08-13
 - [x] Grupo ✅ 2025-08-13
 - [x] Fecha de entrega ✅ 2025-08-13
-
 - Número de equipo
 	- Nombre de los integrantes del equipo
-
 - [x] Número de lista ✅ 2025-08-13
 - [x] Número de cuenta ✅ 2025-08-13
 - [x] Nombre ✅ 2025-08-13
-
 - [x] Tema (Eg. Tema 2. Modelo conceptual) ✅ 2025-08-13
-
 - [x] Enunciado de lo que trata el entregable (Indicaciones de la tarea) ✅ 2025-08-14
-
 - [x] Semestre ✅ 2025-08-14
 
 ### Tareas, trabajos y ejercicios
@@ -69,7 +64,7 @@ Entregar:
 %% Información importante de la materia, como el número de lista que soy, una contraseña, la forma de trabajar impuesta no establecida en la rúbrica %%
 
 > [!hint] Convenciones
-> Esto es una convencion
+> Soy el número de lista **==27==**
 
 > [!hint] Exentar
 > - Aprobar todos los exámenes parciales
