@@ -15,6 +15,11 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 | Clave | Manual de Prácticas          | Bibliografía                                                                                               | Calificación |
 | ----- | ---------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------ |
 | 6644  | [[MANUALPracticasBD_FI.pdf]] | [[Database Systems Design, Implementation, and Management (Carlos Coronel Steven Morris) (Z-Library).pdf]] |              |
+
+| ⤵                   |     |
+| ------------------- | --- |
+| [[Kanban - Lab BD]] |     |
+
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Bases de Datos en la carrera de [[Ingeniería en Computación]]
 # Asignatura
@@ -27,7 +32,9 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
-
+- [-] XD ❌ 2025-09-16
+# ETAPA ==RECOVERY==
+- [ ] [[ESCALÓN CERO]]
 
 ## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

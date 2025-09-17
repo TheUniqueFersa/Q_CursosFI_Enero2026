@@ -30,7 +30,7 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Establecer la dieta de manera formal bajo **Protocolos**
-- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-09-13
+- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-09-20
 - [ ] Perfume y fragancia
 - [ ] -- ***ROZ*** --
 - [ ] Comprar peine nuevo para trollear
