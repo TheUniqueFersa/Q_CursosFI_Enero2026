@@ -23,14 +23,14 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) S1'' ^e14b86
-	- [ ] Domingo
-	- [ ] Lunes
+- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) S1' ^e14b86
+	- [x] Domingo 📅 2025-09-14 ✅ 2025-09-15
+	- [x] Lunes 📅 2025-09-15 ✅ 2025-09-16
 	- [ ] Martes
 	- [ ] Miércoles
 	- [ ] Jueves
 	- [ ] Viernes
-- [ ] Establecer las notas universales para Academic 📅 2025-09-08 ^88d66c
+- [ ] Establecer las notas universales para Academic 📅 2025-09-18 ^88d66c
 - [ ] ![[--BINNACLE-- {W37}#^102557]]
 
 

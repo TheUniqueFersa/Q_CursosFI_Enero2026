@@ -16,7 +16,7 @@ Una entidad hija será **dependiente de existencia** cuando cada una de sus inst
 >- Un cliente genera al menos una orden
 >- Una orden de compra la solicita un solo cliente
 
-![[Pasted image 20250905003815.png]]
+![[Dependencia de existencia.png]]
 **Notar** el valor de ``cardinalidad`` 1 del lado izquierdo indica dependencia de existencia, mientras que 0 indica independencia de existencia[^2]
 
 La tabla hija puedes ser **dependiente** o **independiente** de la tabla padre
@@ -27,6 +27,12 @@ La tabla hija es ***independiente de existencia***, por lo tanto la FK[^1] es nu
 - Cuando la [[cardinalidad]] mínima en la tabla padre es 1 es **dependiente** de existencia, por lo tanto la **FK** es `NOT NULL`
 
 
+
+## Referencias
+
+|     |     |
+| --- | --- |
+|     |     |
 
 
 

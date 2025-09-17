@@ -45,6 +45,7 @@ recurrencia:
 - [ ] Reunir recursos completos del anterior curso web
 - [ ] >❓¿Cuáles son los errores de mi anterior participación que no pueden volver a ocurrir?
 - [ ] Calificar CW25 #MILESTONE ^08e92e
+- [ ] [[♠Legacy - CW2025]]
 
 
 ## *Propuesta de Acciones*

@@ -23,7 +23,9 @@ recurrencia:
 
 ## Incoming Problems
 
-- [ ] # SEMANA  1''
+- [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS]] ^3d4ba1
+- [ ] Crear Notion 📅 2025-09-20
+- [ ] # SEMANA  1'
 	- [ ] Primes
 	- [ ] Grafos
 	- [ ] Strings
@@ -69,8 +71,8 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-09-08 ^2eefaa
-- [ ] Combinatoria 📅 2025-09-08 ^e9a48d
+- [ ] DSU 📅 2025-09-17 ^2eefaa
+- [ ] Combinatoria 📅 2025-09-17 ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] Teoría de Números

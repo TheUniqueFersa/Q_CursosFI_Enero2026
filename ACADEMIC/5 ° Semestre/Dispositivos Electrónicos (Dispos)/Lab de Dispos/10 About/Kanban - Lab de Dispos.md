@@ -13,21 +13,23 @@ pertenece a:
 
 ## # #Pendiente
 
+- [ ] [[voltaje de offset]]
 
 
 ## **Propuesta de Acciones**
 
-- [ ] [[Práctica 3 Lab de Dispos]]
 
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] [[Práctica 4 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
 - [x] [[Práctica 2 Lab de Dispos]] ✅ 2025-09-08
+- [x] [[Práctica 3 Lab de Dispos]] ✅ 2025-09-14
 
 
 

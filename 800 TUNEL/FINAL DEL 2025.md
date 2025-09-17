@@ -1,12 +1,12 @@
 ---
 tipo: Acontecimiento
 pertenece a:
-  - "[[☼First Rise -6-]]"
+  - "[[☼First Rise -7-]]"
 estado: Planeación
-status: 
-Completado: 
-Incompleto: 
-Total: 
+status:
+Completado:
+Incompleto:
+Total:
 tipo_nota: Tasks
 ---
 # ***FINAL DEL 2025***
@@ -17,7 +17,7 @@ Anteriormente llamado INTERSEMESTRAL 2025-2026
 
 | **MISIONES**        | *PROYECTOS*                                                                | Estado | ==ACONTECIMIENTOS== #MILESTONE/ORDEN_SUPERIOR | Estado |
 | ------------------- | -------------------------------------------------------------------------- | ------ | --------------------------------------------- | ------ |
-| [[☼First Rise -6-]] | [[Un Ingeniero de Verdad]]                                                 |        | Aprender a patinar                            |        |
+| [[☼First Rise -7-]] | [[Un Ingeniero de Verdad]]                                                 |        | [[ROLLER TROLLER\|Aprender a patinar]]        |        |
 | [[☼Second Rise]]    | [[♠Repay - Árboles Binarios]]                                              |        | Aprender a conducir                           |        |
 | [[☼Third Rise]]     | [[♠Repay - Developing]]                                                    |        | Renacimiento de PEM                           |        |
 |                     | [[PROBATRÓN - MARATÓN]]                                                    |        | FIX - FAMILIA                                 |        |
