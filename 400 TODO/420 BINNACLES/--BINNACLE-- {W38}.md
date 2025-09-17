@@ -40,7 +40,7 @@ tags:
 
 - [x] Ver que onda con LFyA (entender forma de ejercicios y trabajos) [🍅:: 9] ✅ 2025-09-17 ^iq9z
 ## Miércoles 
-- [ ] Checar ERStudio (leer manual) [🍅:: 4] ^gj1v
+- [ ] Checar ERStudio (leer manual) [🍅:: 10] ^gj1v
 - [ ] Terminar de modelar tarea Extendida #AEM
 - [ ] Empezar a modelar previo 5 #AEM
 - [ ] Empezar previo 4 dispos #AEM
