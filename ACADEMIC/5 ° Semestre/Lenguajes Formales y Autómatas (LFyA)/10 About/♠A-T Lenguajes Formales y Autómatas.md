@@ -16,9 +16,9 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 | ----- | -------- | ---------------------------------- | -------------------------------------------------------- | ------------------- | ------------ |
 | 0442  | 8        | [[programa_LFyA.pdf]]              | [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] |                     |              |
 
-| ⤵                 | 🔼***Legend***          |
-| ----------------- | ----------------------- |
-| [[Kanban - LFyA]] | [[Lg - Bases de Datos]] |
+| ⤵                 | 🔼***Legend***                                 |
+| ----------------- | ---------------------------------------------- |
+| [[Kanban - LFyA]] | [[Lg - Lenguajes Formales y Autómatas (LFyA)]] |
 
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Lenguajes Formales y Autómatas en la carrera de [[Ingeniería en Computación]]
