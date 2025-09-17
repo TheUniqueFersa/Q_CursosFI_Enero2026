@@ -85,14 +85,14 @@ Cada práctica define un shell que es como un juez, que corre tu código generad
 | Bibliografía                  | Si no tiene o no está relacionada<br>-10P                                                                                                                                                                                |
 
 #### Carátula
->💥⏳ Carátula
-- [ ] Número y nombre de la práctica
-- [ ] Número de equipo si es el caso
-- [ ] Nombre de los integrantes
-- [ ] Grupos de teoría
-- [ ] Grupo de laboratorio
-- [ ] Nombre del Profesor
-- [ ] Semestre y fecha de entrega
+>- [x] 💥⏳ Carátula ✅ 2025-09-15
+- [x] Número y nombre de la práctica ✅ 2025-09-15
+- [x] Número de equipo si es el caso ✅ 2025-09-15
+- [x] Nombre de los integrantes ✅ 2025-09-15
+- [x] Grupos de teoría ✅ 2025-09-15
+- [x] Grupo de laboratorio ✅ 2025-09-15
+- [x] Nombre del Profesor ✅ 2025-09-15
+- [x] Semestre y fecha de entrega ✅ 2025-09-15
 
 #### Introducción y objetivos
 La introducción se representa por un **breve resumen** que *describe el contenido del documento y las principales actividades que se realizarán* para realizar el desarrollo de la práctica. ==Este resumen se redacta en tiempo futuro==. 
@@ -116,15 +116,15 @@ Se debe responder las siguientes preguntas:
 | Elemento a evaluar                   | Puntaje                                                                                                          |
 | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [[#Datos generales]]                 | -5P si se omite alguno                                                                                           |
-| [[#Conclusiones y comentarios]]      | -30P si no se refleja un buen trabajo                                                                            |
 | Contenido particular a cada práctica | Err: -10P<br>5/100 si el $VALIDADOR$ tiene errores                                                               |
+| [[#Conclusiones y comentarios]]      | -30P si no se refleja un buen trabajo                                                                            |
 | Otros aspectos                       | >=3 faltas ortográficas: -5P<br>Si el código no cumple con los [[#Lineamientos de presentación y formato]]: -10P |
 #### Datos Generales
->- [ ] 💥⏳ Caratula
-- Nombre completo del alumno
-- Número de cuenta
-- Asignatura y grupo
-- Título de la práctica
+>- [x] 💥⏳ Caratula ✅ 2025-09-15
+- [x] Nombre completo del alumno ✅ 2025-09-15
+- [x] Número de cuenta ✅ 2025-09-15
+- [x] Asignatura y grupo ✅ 2025-09-15
+- [x] Título de la práctica ✅ 2025-09-15
 #### Conclusiones y comentarios
 >Incluir las respuestas de las siguientes preguntas:
 

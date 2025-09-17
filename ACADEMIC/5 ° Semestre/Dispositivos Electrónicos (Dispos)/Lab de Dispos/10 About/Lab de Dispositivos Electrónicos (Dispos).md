@@ -17,9 +17,9 @@ ESTADO_RECOLECCION: RETENCIÓN
 | 5138  | [[MANUAL_LDE_Comp.pdf]] | [[Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf]] |              |
 |       |                         | (Más libros en Carpeta _Libros)                         |              |
 
-| ⤵                          |
-| -------------------------- |
-| [[Kanban - Lab de Dispos]] |
+| ⤵                          |                                                           |
+| -------------------------- | --------------------------------------------------------- |
+| [[Kanban - Lab de Dispos]] | [[Prompt para pedir contexto de las prácticas de Dispos]] |
 
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Dispositivos Electrónicos (Dispos) en la carrera de [[Ingeniería en Computación]]

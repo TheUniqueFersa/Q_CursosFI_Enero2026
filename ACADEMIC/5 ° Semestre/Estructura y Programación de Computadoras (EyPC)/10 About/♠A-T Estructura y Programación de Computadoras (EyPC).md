@@ -17,9 +17,9 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 |       |          |                                    | [[EyPC. ibm_pc_assembly_language_and_programming-0131920634.pdf]]     |                     |              |
 |       |          |                                    | [[EyPC. The 80x86 IBM PC and Compatible Computers - 4th Edition.pdf]] |                     |              |
 
-| ⤵                 |
-| ----------------- |
-| [[Kanban - EyPC]] |
+| ⤵                 | ♣PROYECTOS♣                 |
+| ----------------- | --------------------------- |
+| [[Kanban - EyPC]] | [[Proyecto cojudo de EyPC]] |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Estructura y Programación de Computadoras en la carrera de [[Ingeniería en Computación]]
 
@@ -41,6 +41,8 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 # ***INTERCONN***
 ## Recursos
 
-|     |     |
-| --- | --- |
-|     |     |
+| Ronda de materiales                                                       | Status |
+| ------------------------------------------------------------------------- | ------ |
+| [[Primera ronda de material EyPC\|Material Primera Clase (14 de agosto)]] |        |
+| [[Segunda ronda material EyPC\|Material Segunda Clase (19 agosto)]]       |        |
+| Material Tercera Clase (21 agosto)                                        |        |

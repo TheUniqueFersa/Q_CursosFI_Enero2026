@@ -13,7 +13,7 @@ pertenece a:
 
 ## # #Pendiente
 
-- [ ] Corregir notas de [[08-09-2025]] 📅 2025-09-15
+- [ ] Corregir notas de [[08-09-2025]] 📅 2025-09-17
 
 
 ## **Propuesta de Acciones**
