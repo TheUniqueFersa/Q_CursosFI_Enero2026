@@ -45,7 +45,7 @@ Son los directorios BASE que abligatoriamente deben trasladarse a través del T�
 | $X40$   | Notas tipo Legend                    |
 |         |                                      |
 | $X90$   | [[♠COLJAR\|COLJAR]]                  |
-### $X30$ Sesión
+### $X30$ Sesion
 Las **tareas** (*y derivados*) y **Proyectos** son consideradas ==Sesión==
 
 ## Unidades
