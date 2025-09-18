@@ -40,10 +40,10 @@ tags:
 
 - [x] Ver que onda con LFyA (entender forma de ejercicios y trabajos) [🍅:: 9] ✅ 2025-09-17 ^iq9z
 ## Miércoles 
-- [ ] Checar ERStudio (leer manual) [🍅:: 4] ^gj1v
-- [ ] Terminar de modelar tarea Extendida #AEM
+- [x] Checar ERStudio (leer manual) [🍅:: 4] ✅ 2025-09-17 ^gj1v
+- [x] Terminar de modelar tarea Extendida #AEM ✅ 2025-09-17
 - [ ] Empezar a modelar previo 5 #AEM
-- [ ] Empezar previo 4 dispos #AEM
+- [ ] Empezar previo 4 dispos #AEM [🍅:: 1] ^5m3g
 
 - [ ] Empezar la serie #AEM
 - [ ] Instalar biblioteca -> Duda Emir? #AEM
