@@ -8,15 +8,15 @@ fecha_terminado:
 ---
 # Previo
 **Conocer**
-- [ ] $V_{RMS}$
-- [ ] $V_{pico}$
-- [ ] $V_{rizo}$
-- [ ] $V_{prom} V_{CC}$
-- [ ] Cómo funciona un transformador de voltaje
-- [ ] Circuitos rectificadores
+- [x] $V_{RMS}$ ✅ 2025-09-18
+- [x] $V_{pico}$ ✅ 2025-09-18
+- [x] $V_{rizo}$ ✅ 2025-09-18
+- [x] $V_{prom} V_{CC}$ ✅ 2025-09-18
+- [x] Cómo funciona un transformador de voltaje ✅ 2025-09-18
+- [x] Circuitos rectificadores ✅ 2025-09-18
 
 
-- [ ] ==Completo== #AEM
+- [x] ==Completo== #AEM ✅ 2025-09-18
 # Reporte
 >- [x] Carátula ✅ 2025-09-15
 

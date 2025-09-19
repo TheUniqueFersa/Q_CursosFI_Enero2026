@@ -13,10 +13,10 @@ Se recomienda usar la [biblioteca de máquinas](https://gitlab.com/ivanvladimir/
 
 
 Me tocaron los Ejercicios:
-- [[#1]]
-- [[#6]]
-- [[#11]]
-- [[#12]]
+- [ ] [[#1]]
+- [ ] [[#6]]
+- [ ] [[#11]]
+- [ ] [[#12]]
 
 
 
