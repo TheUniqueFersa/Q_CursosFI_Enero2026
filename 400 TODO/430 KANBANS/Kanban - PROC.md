@@ -71,8 +71,8 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-09-17 ^2eefaa
-- [ ] Combinatoria 📅 2025-09-17 ^e9a48d
+- [ ] DSU 📅 2025-09-20 ^2eefaa
+- [ ] Combinatoria 📅 2025-09-20 ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] Teoría de Números

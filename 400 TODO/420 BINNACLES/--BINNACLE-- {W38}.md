@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 10
-Incompleto: 41
-Total: 51
+Completado: 22
+Incompleto: 44
+Total: 66
 antecesor: 
 sucesor: 
 links_url: 
@@ -42,12 +42,53 @@ tags:
 ## Miércoles 
 - [x] Checar ERStudio (leer manual) [🍅:: 4] ✅ 2025-09-17 ^gj1v
 - [x] Terminar de modelar tarea Extendida #AEM ✅ 2025-09-17
-- [ ] Empezar a modelar previo 5 #AEM
-- [ ] Empezar previo 4 dispos #AEM [🍅:: 1] ^5m3g
+- [x] Empezar a modelar previo 5 #AEM ✅ 2025-09-18
+ ^d6lm
+- [x] Empezar previo 4 dispos #AEM [🍅:: 1] ✅ 2025-09-18 ^5m3g
 
-- [ ] Empezar la serie #AEM
-- [ ] Instalar biblioteca -> Duda Emir? #AEM
+- [x] Modelos Previo 05 Lab ✅ 2025-09-18
 
+- [?] Empezar la serie #AEM
+- [x] Instalar biblioteca -> ~~Duda Emir?~~ #AEM ✅ 2025-09-18
+## Jueves 
+>Lab BD
+
+- [x] Previo 04 dispos ✅ 2025-09-18
+
+- [x] Previo 6 ✅ 2025-09-18
+	- [x] Modelos previo 6 ✅ 2025-09-18
+
+>LFyA
+
+- [x] Leer y recordar ✅ 2025-09-18
+- [x] Ver bibliotecas ✅ 2025-09-18
+	- [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
+- [ ] [[Revisión 1]]
+	- [ ] Ejercicio 1
+	- [ ] Ejercicio 2 #AEM
+		- [ ] Presentación Problema
+	- [ ] Ejercicio 3
+	- [ ] Ejercicio 4
+
+- [ ] Previo 5
+- [ ] Pract 5 [🍅:: 1] ^k1w5
+## Viernes 
+## Sábado
+
+# 🏆$AEM$
+- [ ] Demostrar mi decisión con ==PROC== #AEM
+- [ ] Usar las notas ***Legend*** #AEM 
+	- [ ] Domingo
+	- [x] Lunes ✅ 2025-09-17
+	- [ ] Martes
+	- [ ] Miércoles
+	- [ ] Jueves
+	- [ ] Viernes
+	- [ ] Sábado
+	- [ ] Subir una usando Quartz4
+
+
+# Hereda pendientes:
 >*RÁFAGAS*
 - [ ] checar en la biblia de C
 
@@ -84,24 +125,6 @@ tags:
 - [ ] Práctica 3 
 	- [ ] ``com``
 	- [ ] ``lab``
-## Jueves 
-## Viernes 
-## Sábado
-
-# 🏆$AEM$
-- [ ] Demostrar mi decisión con ==PROC== #AEM
-- [ ] Usar las notas ***Legend*** #AEM 
-	- [ ] Domingo
-	- [x] Lunes ✅ 2025-09-17
-	- [ ] Martes
-	- [ ] Miércoles
-	- [ ] Jueves
-	- [ ] Viernes
-	- [ ] Sábado
-	- [ ] Subir una usando Quartz4
-
-
-# Hereda pendientes:
 
 # BEYOND
 

@@ -9,6 +9,7 @@ pertenece a:
 
 ## ♦(°)Out - ♦(...R)
 
+- [ ] Por qué U (unión) es un OR
 
 
 ## # #Pendiente
