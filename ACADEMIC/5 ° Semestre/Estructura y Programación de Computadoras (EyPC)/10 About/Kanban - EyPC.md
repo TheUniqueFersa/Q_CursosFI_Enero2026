@@ -4,6 +4,7 @@ tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
+  - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
 
 ---
 
@@ -17,6 +18,7 @@ pertenece a:
 
 ## **Propuesta de Acciones**
 
+- [ ] Completar notas sembradoras
 - [ ] # [[Proyecto cojudo de EyPC]]
 
 

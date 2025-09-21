@@ -4,7 +4,6 @@ pertenece a:
 ---
 
 # Lo que hacia MANGOFI
-
 4 problemas de temas distintos
 
 Terminando el ThemeCP:
@@ -15,8 +14,7 @@ Le bajaban un nivel
 Hacía un nuevo ThemeCP con el `tag` específico
 
 
-
-- Leer libros 
+# Leer libros 
 
 
 Sacar en cualquier tema mínimo ***1200***

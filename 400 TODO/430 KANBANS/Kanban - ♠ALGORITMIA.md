@@ -27,7 +27,7 @@ pertenece a: "[[♠ALGORITMIA]]"
 
 - [ ] # Problema :SiLeetcode: Leetcode ^3caaaf
 	- 1 -> Empezar con el problema diario
-	- [ ] Leer el problema y pensarlo 📅 2025-09-14 ^3caaaf
+	- [ ] Leer el problema y pensarlo 📅 2025-09-19 ^3caaaf
 - [ ] Aprender a Analizar matemáticamente la **complejidad de los algoritmos** #Read 
 	
 	- [x] Elegir libro 📅 2025-08-16 ✅ 2025-08-17
