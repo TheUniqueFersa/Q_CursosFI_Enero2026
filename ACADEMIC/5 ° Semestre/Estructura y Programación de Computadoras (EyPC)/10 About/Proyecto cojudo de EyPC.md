@@ -4,8 +4,13 @@ Incompleto: 14
 Total: 14
 fecha_entrega: 2025-10-07
 pertenece a:
-  - Estruc
+  - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
 ---
+
+| ⤵                                                      |     |
+| ------------------------------------------------------ | --- |
+| [[Kanban - Proyecto EyPC]]                             |     |
+| [[REQUISITOS DEL PRIMER PROYECTO- EYPDC SEP 2025.pdf]] |     |
 
 >2 archivos a **generar**
 >- [ ] cuales?

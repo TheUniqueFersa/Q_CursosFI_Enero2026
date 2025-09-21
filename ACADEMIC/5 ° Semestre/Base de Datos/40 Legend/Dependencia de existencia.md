@@ -28,6 +28,12 @@ La tabla hija es ***independiente de existencia***, por lo tanto la FK[^1] es nu
 
 
 
+## Referencias
+
+|     |     |
+| --- | --- |
+|     |     |
+
 
 
 [^1]: [[Foreign Key]]

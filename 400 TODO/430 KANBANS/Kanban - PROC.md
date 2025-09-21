@@ -23,6 +23,7 @@ recurrencia:
 
 ## Incoming Problems
 
+- [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS]] ^3d4ba1
 - [ ] Crear Notion 📅 2025-09-14
 - [ ] # SEMANA  1'
 	- [ ] Primes
