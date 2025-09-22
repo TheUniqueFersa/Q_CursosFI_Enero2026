@@ -1,0 +1,103 @@
+---
+fecha: 2025-09-21
+pertenece a: 
+tipo: sesión
+tipo_nota: Bitácora
+Participantes:
+  - "[[FERSA]]"
+terminado: false
+fecha_entrega: 
+fecha_terminado: 
+Completado: 2
+Incompleto: 48
+Total: 50
+antecesor: 
+sucesor: 
+links_url: 
+Tiempo Objetivo: 
+Progreso: 
+tags:
+---
+# ***--BINNACLE-- {W39}***
+
+| 🏁 X-Chelons Asociados | ⏳ $T$ | Hora Inicio | 🏁 Hora estimada de Término |
+| ---------------------- | ----- | ----------- | --------------------------- |
+|                        |       |             |                             |
+## Domingo
+- [x] Ver bibliotecas ✅ 2025-09-18
+	- [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
+- [ ] [[Revisión 1]]
+	- [ ] Ejercicio 1
+	- [ ] Ejercicio 2 #AEM
+		- [ ] Presentación Problema
+	- [ ] Ejercicio 3
+	- [ ] Ejercicio 4
+
+- [ ] Previo 5
+- [ ] - [ ] Pract 5 [🍅:: 6] ^k1w5
+## Lunes
+## Martes
+## Miércoles 
+## Jueves
+## Viernes 
+## Sábado
+# 🏆$AEM$
+- [ ] [[ROLLER TROLLER]]
+- [ ] Usar las notas ***Legend*** #AEM
+	- [ ] Domingo
+	- [ ] Lunes
+	- [ ] Martes
+	- [ ] Miércoles
+	- [ ] Jueves
+	- [ ] Viernes
+	- [ ] Sábado
+	- [ ] Subir una usando Quartz4
+- [ ] PROC - USACO
+
+# Hereda pendientes:
+>*RÁFAGAS*
+- [ ] checar en la biblia de C
+
+- [ ] CURSITO DE MATLAB #ENHANCED/TECHMASTER  
+
+- [ ] Arreglar apuntes
+	- [ ] SEÑALES Y SISTEMAS
+		- [ ] Write down the most important parts of his notes
+	- [ ] DISPOS ELECTRÓNICOS
+		- [ ] download his notes
+		- [ ] Check photos
+
+>[[DET. Fixing - Reminicencias PROC]]
+>- [x] Problema ADHOC CF [🍅:: 2] ✅ 2025-09-21 ^e8rc
+>	- [ ] [[21-09-2025]]
+>- [ ] USACO #AEM
+>- [ ] Leetcode ^9ube
+>- [ ] Kattis
+>- [ ] UVa
+>- [ ] Leer libro de INTRODUCCIÓN A LA TEORÍA DE NÚMEROS
+
+
+>*‼Break*
+>- [ ] Curso de expresiones en inglés
+>- [ ] Lección [[♠MasChesster]]
+>- [ ] Clase de [[CURSO LATEX LIDSOL|LaTeX]]
+
+- [ ] EXPO Minería de datos
+- [ ] Práctica 1 por fin #AEM
+	- [ ] Formato para reportes `lab` en LaTeX
+	- [ ] Formato para `com`
+- [ ] Práctica 2
+	- [ ] `com`
+- [ ] Práctica 2 **completa**
+- [ ] Práctica 3 
+	- [ ] ``com``
+	- [ ] ``lab``
+# BEYOND
+
+# Problemas encontrados
+
+# Decisiones Tomadas
+
+---
+# Distracciones
+

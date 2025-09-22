@@ -11,8 +11,8 @@ fecha_terminado:
 Completado: 17
 Incompleto: 2
 Total: 19
-antecesor:
-sucesor:
+antecesor: "[[--BINNACLE-- {W34}]]"
+sucesor: "[[--BINNACLE-- (W36)]]"
 links_url:
 Tiempo Objetivo:
 Progreso:
