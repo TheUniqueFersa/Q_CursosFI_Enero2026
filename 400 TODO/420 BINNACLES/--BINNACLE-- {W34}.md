@@ -1,21 +1,21 @@
 ---
 fecha: 2025-08-17
-pertenece a: 
+pertenece a:
 tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
 terminado: false
-fecha_entrega: 
-fecha_terminado: 
+fecha_entrega:
+fecha_terminado:
 Completado: 10
 Incompleto: 8
 Total: 18
-antecesor: 
-sucesor: 
-links_url: 
-Tiempo Objetivo: 
-Progreso: 
+antecesor:
+sucesor: "[[--BINNACLE-- (W35)]]"
+links_url:
+Tiempo Objetivo:
+Progreso:
 tags:
 ---
 # ***--BINNACLE-- {W34}***

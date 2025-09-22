@@ -1,21 +1,22 @@
 ---
 fecha: 2025-09-14
-pertenece a: 
+pertenece a:
+  - "[[{W38-2025}]]"
 tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
-fecha_entrega: 
-fecha_terminado: 
-Completado: 22
-Incompleto: 44
-Total: 66
-antecesor: 
-sucesor: 
-links_url: 
-Tiempo Objetivo: 
-Progreso: 
+terminado: true
+fecha_entrega: 2025-09-21
+fecha_terminado: 2025-09-21
+Completado: 31
+Incompleto: 0
+Total: 31
+antecesor: "[[--BINNACLE-- {W37}]]"
+sucesor: "[[--BINNACLE-- {W39}]]"
+links_url:
+Tiempo Objetivo:
+Progreso:
 tags:
 ---
 # ***--BINNACLE-- {W38}***
@@ -62,69 +63,28 @@ tags:
 
 - [x] Leer y recordar ✅ 2025-09-18
 - [x] Ver bibliotecas ✅ 2025-09-18
-	- [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
-- [ ] [[Revisión 1]]
-	- [ ] Ejercicio 1
-	- [ ] Ejercicio 2 #AEM
-		- [ ] Presentación Problema
-	- [ ] Ejercicio 3
-	- [ ] Ejercicio 4
 
-- [ ] Previo 5
-- [ ] Pract 5 [🍅:: 1] ^k1w5
+
+- [x] Previo 5 ✅ 2025-09-21
+
 ## Viernes 
 ## Sábado
 
 # 🏆$AEM$
-- [ ] Demostrar mi decisión con ==PROC== #AEM
-- [ ] Usar las notas ***Legend*** #AEM 
-	- [ ] Domingo
+- [x] Demostrar mi decisión con ==PROC== #AEM ✅ 2025-09-21
+- [-] Usar las notas ***Legend*** #AEM ❌ 2025-09-21
+	- [>] Domingo
 	- [x] Lunes ✅ 2025-09-17
-	- [ ] Martes
-	- [ ] Miércoles
-	- [ ] Jueves
-	- [ ] Viernes
-	- [ ] Sábado
-	- [ ] Subir una usando Quartz4
+	- [>] Martes
+	- [-] Miércoles ❌ 2025-09-21
+	- [-] Jueves ❌ 2025-09-21
+	- [-] Viernes ❌ 2025-09-21
+	- [-] Sábado ❌ 2025-09-21
+	- [-] Subir una usando Quartz4 ❌ 2025-09-21
 
 
 # Hereda pendientes:
->*RÁFAGAS*
-- [ ] checar en la biblia de C
 
-- [ ] CURSITO DE MATLAB #ENHANCED/TECHMASTER  
-
-- [ ] Arreglar apuntes
-	- [ ] SEÑALES Y SISTEMAS
-		- [ ] Write down the most important parts of his notes
-	- [ ] DISPOS ELECTRÓNICOS
-		- [ ] download his notes
-		- [ ] Check photos
-
->[[DET. Fixing - Reminicencias PROC]]
->- [x] Problema ADHOC CF [🍅:: 2] ✅ 2025-09-17 ^e8rc
->- [ ] USACO #AEM
->- [ ] Leetcode ^9ube
->- [ ] Kattis
->- [ ] UVa
->- [ ] Leer libro de INTRODUCCIÓN A LA TEORÍA DE NÚMEROS
-
-
->*‼Break*
->- [ ] Curso de expresiones en inglés
->- [ ] Lección [[♠MasChesster]]
->- [ ] Clase de [[CURSO LATEX LIDSOL|LaTeX]]
-
-- [ ] EXPO Minería de datos
-- [ ] Práctica 1 por fin #AEM
-	- [ ] Formato para reportes `lab` en LaTeX
-	- [ ] Formato para `com`
-- [ ] Práctica 2
-	- [ ] `com`
-- [ ] Práctica 2 **completa**
-- [ ] Práctica 3 
-	- [ ] ``com``
-	- [ ] ``lab``
 
 # BEYOND
 

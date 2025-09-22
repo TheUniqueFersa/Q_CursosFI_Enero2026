@@ -58,6 +58,7 @@ pertenece a: "[[♠Drawn]]"
 	- [ ] Bocetar publicaciones
 - [ ] Rozovy Strike -2-
 - [ ] Composición ***FERSA***
+- [ ] ME COME UN AGUJERO NEGRO SUPERMASIVO
 
 
 ## ‼Yi
