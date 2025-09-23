@@ -1,3 +1,8 @@
+>A fecha de [[2025-09-22]], solo la sección de 
+>- Installation
+>- Quickstart
+>- Regular Languages}
+>están disponibles
 
 | Tipo[^1] | nombre      | descripción |
 | -------- | ----------- | ----------- |
@@ -13,15 +18,14 @@ Primero instalamos la biblioteca ``maquinas``[^2]
 # Execute if not installed
 !pip install maquinas
 ```
-
-
+Luego importamos todo lo necesario de biblioteca
 ```python
 from maquinas.regular.RE import RegularExpression
 from maquinas.regular.reductions import *
 from maquinas.regular.minimization import *
 ```
 
-
+# Declaración de AFD
 ```python
 # Creating automata finito
 ceros_uno=DFA(Q=['q_0','q_1'],
@@ -88,6 +92,39 @@ reg.table()
 - [ ] Cómo verificamos las entradas validas de una ER?
 
 	
+
+# Qué es lo que hace Emir?
+
+- Define por constructor su Expresión regular y lo transforma a AFND-$\epsilon$
+	- Guarda el lenguaje
+
+
+- Crea una simulación
+	- La ejecuta
+
+- Grafica el lenguaje
+
+- Imprime el resumen con `print_sumary()` (método)
+
+- Lo transforma a AFND
+	- Lo guarda
+	- lo grafica
+	- lo simula
+
+- 
+
+- [ ] Qué es una simulación
+
+
+# El proceso del autómata
+
+
+
+
+
+
+
+
 
 
 [^1]: Método: m
