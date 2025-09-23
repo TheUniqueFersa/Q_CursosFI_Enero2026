@@ -25,7 +25,34 @@ tags:
 |                        |       |             |                             |
 ## Domingo
 - [x] Ver bibliotecas ✅ 2025-09-18
-	- [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
+
+- [x] Reporte práctica 4 ✅ 2025-09-22
+## Lunes
+- [x] T11 DIspos ✅ 2025-09-22
+- [x] Correción reporte 3 ✅ 2025-09-22
+
+
+- [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
+	- [ ] Crear jup notebook, con todo lo de la actividad 1
+	- [ ] ==Dejar a mi tio trabajando, pero debo leer el material asignado==
+		- [ ] Usar las funciones para reducción
+		- [ ] Crear [[El proceso del autómata]]
+
+>En dispos
+>- [ ] Hacer la presentación con lo que hice de análisis a mano
+>- [ ] Idear la presentación (forma de ella)
+>- [ ] S2. Preparar las cadenas que deben ser
+>- [ ] Leer sobre las regex, comparar lo que me dio Jose y enlistar lo que debo reportar
+>- [ ] Leer sobre minimización etc
+
+>En tiempo libre: 
+>- [ ] Subir presentación (Debo hacer primero la sección 2 en notebook)
+>- [ ] Acabar código para Sección 1 y 2
+>- [ ] Acabar con la sección 4
+>- [ ] Redactar lo de la sección 3
+>- [ ] Mandar formulario #AEM
+
+
 - [ ] [[Revisión 1]]
 	- [ ] Ejercicio 1
 	- [ ] Ejercicio 2 #AEM
@@ -34,8 +61,11 @@ tags:
 	- [ ] Ejercicio 4
 
 - [ ] Previo 5
-- [ ] - [ ] Pract 5 [🍅:: 6] ^k1w5
-## Lunes
+- [ ] Pract 5 [🍅:: 6] ^k1w5
+
+
+
+
 ## Martes
 ## Miércoles 
 ## Jueves
