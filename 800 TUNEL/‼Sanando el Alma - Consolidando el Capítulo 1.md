@@ -4,7 +4,7 @@ tipo: "[[Cluxter]]"
 fecha_creado: 2025-06-06
 fecha_entrega:
 Momento: "[[FINAL DEL 2025]]"
-próxima_fecha: 2025-09-21
+próxima_fecha: 2025-09-28
 ---
 # ***‼Sanando el Alma - Consolidando el Capítulo 1***
 A cada Lección de [[♦(...L)]] se le será asignada una acción específica para poder representar dicha lección.

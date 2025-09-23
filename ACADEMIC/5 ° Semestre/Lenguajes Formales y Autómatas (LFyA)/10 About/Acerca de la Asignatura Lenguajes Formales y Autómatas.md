@@ -108,6 +108,7 @@ En ==1 `bloque`== hay:
 > [!hint] Convenciones
 > - Se declara a [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] como el #Read principal de la asignatura.
 > - Se comienza 15:10
+> - **70%** Asistencia para exentar el final
 
 
 > [!warning]- [[SUPER UNIVERSITARIO|SUPER]] ETIQUETAS
