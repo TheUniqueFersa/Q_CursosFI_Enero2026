@@ -11,7 +11,7 @@ fecha_terminado: 2025-09-14
 Completado: 16
 Incompleto: 0
 Total: 16
-antecesor:
+antecesor: "[[--BINNACLE-- (W36)]]"
 sucesor: "[[--BINNACLE-- {W38}]]"
 links_url:
 Tiempo Objetivo:

@@ -24,13 +24,14 @@ recurrencia:
 ## Incoming Problems
 
 - [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS]] ^3d4ba1
-- [ ] Crear Notion 📅 2025-09-20
-- [ ] # SEMANA  1'
-	- [ ] Primes
-	- [ ] Grafos
-	- [ ] Strings
-	- [ ] Dp
-- [ ] Daily:
+- [ ] Crear Notion 📅 2025-09-27
+- [ ] # W1
+	- [ ] NumTheory
+		- [ ] Primes
+	- [ ] Combi
+	- [ ] Graphs
+	- [ ] Prefix Sums
+- [ ] Daily: [[21-09-2025]] 📅 2025-09-21 
 	- [ ] ADHOC
 	- [ ] Problema 6G
 	- [ ] Codeforces
@@ -39,8 +40,8 @@ recurrencia:
 - [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]]
 - [ ] Sesión de Lectura de Libros OMM
 - [ ] Aprender y entender lo casos de uso de cada una de las estructuras en C++ para CP
-- [ ] [[Mapeo de Kattis]]
-- [ ] [[Mapeo UVa Online judge]]
+- [ ] [[Mapeo de Kattis]] 📅 2025-09-22
+- [ ] [[Mapeo UVa Online judge]] 📅 2025-09-22
 
 
 ## # Secuencia de *Problemas*<br>‼Yi
@@ -71,11 +72,10 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-09-20 ^2eefaa
-- [ ] Combinatoria 📅 2025-09-20 ^e9a48d
+- [ ] DSU 📅 2025-09-22 ^2eefaa
+- [ ] Combinatoria 📅 2025-09-22 ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
-- [ ] Teoría de Números
 - [ ] [[GCD]]
 - [ ] # Semana 1
 	DS

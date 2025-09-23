@@ -10,7 +10,7 @@ pertenece a:
 
 
 Se recomienda usar la [biblioteca de máquinas](https://gitlab.com/ivanvladimir/maquinas)[^1] para la resolución de la serie
-
+>[[FORMULARIUM - Biblioteca MAQUINAS]]
 
 Me tocaron los Ejercicios:
 - [ ] [[#1]]
