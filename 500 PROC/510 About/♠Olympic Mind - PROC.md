@@ -34,7 +34,7 @@ image: "[[-- PORTADA -- OM - PROC.jpg]]"
 | **[El Einstein](https://cp-algorithms.com/)**                       | :SiLeetcode: **[Leetcode Problem Set](https://cses.fi/problemset/list/)**         |                             |
 | [[cp4-1.pdf]] y [[cp4-2.pdf]]                                       | <br>**[CSAcademy Tasks](https://csacademy.com/contest/archive/tasks/)**           |                             |
 | [[CODEFORCES ITMO Course]]                                          | :SiIeee: [Tasks del IEEEXtreme](https://csacademy.com/ieeextreme-practice/tasks/) |                             |
-|                                                                     | :LiCat: [Kattis](https://open.kattis.com/problems)                                |                             |
+| [[USACO SILVER CLASS FALL 2025]]                                    | :LiCat: [Kattis](https://open.kattis.com/problems)                                |                             |
 
 | *LIGHTVOLTS requeridos*                                                                                                                                                                                                                 | *LIGHTVOLTS de egreso*                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
