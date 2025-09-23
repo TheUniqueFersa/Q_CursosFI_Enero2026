@@ -22,7 +22,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 4 Lab de Dispos]]
+- [ ] [[Práctica 5 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
@@ -30,6 +30,7 @@ pertenece a:
 **Complete**
 - [x] [[Práctica 2 Lab de Dispos]] ✅ 2025-09-08
 - [x] [[Práctica 3 Lab de Dispos]] ✅ 2025-09-14
+- [x] [[Práctica 4 Lab de Dispos]] ✅ 2025-09-22
 
 
 
