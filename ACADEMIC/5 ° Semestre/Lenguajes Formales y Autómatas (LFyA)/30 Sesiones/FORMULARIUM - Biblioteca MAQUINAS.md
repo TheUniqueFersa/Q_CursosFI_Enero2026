@@ -85,9 +85,22 @@ reg.table()
 
 
 
-- [ ] Cómo verificamos las entradas validas de una ER?
+- [ ] ==Cómo verificamos las entradas validas de una ER?== [🍅:: 1] ^5s1d
 
 	
+
+---
+- [ ] END PRESENTATION #AEM 
+
+- [ ] PUT THE NECESARY CODE FOR AUTOMATONS -> a b
+	- [ ] Prove that it actually transforms into NDFA-e correctly
+	- [ ] Put the collab link into the presentation
+
+>🕐 9:20
+
+- [ ] Correct hmk DB
+
+---
 
 
 [^1]: Método: m
