@@ -4,11 +4,15 @@
 >- Regular Languages}
 >están disponibles
 
-| Tipo[^1] | nombre      | descripción |
-| -------- | ----------- | ----------- |
-|          | `save_file` |             |
-
-- [[CREATING MACHINES]]
+| Tipo[^1] | Ubicación | nombre      | descripción |
+| -------- | --------- | ----------- | ----------- |
+|          |           | `save_file` |             |
+|          |           | ``          |             |
+- QUICKSTART
+	- [[CREATING MACHINES]]
+- REGULAR LANGUAGES
+	- [[REDUCTIONS]]
+	- [[MINIMIZATION]]
 
 # Diseccionando `Expresiones Regulares, reducciones y minimazación.ipynb`
 >Todo lo siguiente requeriría que se inserte en un *jupyter notebook*
@@ -112,7 +116,7 @@ reg.table()
 
 
 - Crea una simulación
-	- La ejecuta
+		- La ejecuta
 
 - Grafica el lenguaje
 
@@ -126,6 +130,13 @@ reg.table()
 - 
 
 - [ ] Qué es una simulación
+
+- [x] Cómo compruebo que las minimizaciónes a autómata es correcto ✅ 2025-09-23
+>Con ele ejercicio hecho en clase XD
+
+- [ ] Cómo construyo un AFND-e?
+
+
 
 
 # El proceso del autómata

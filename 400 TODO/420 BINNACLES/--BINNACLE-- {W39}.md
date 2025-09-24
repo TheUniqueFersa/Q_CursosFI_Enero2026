@@ -32,20 +32,24 @@ tags:
 - [x] Correción reporte 3 ✅ 2025-09-22
 
 
+>En dispos
+>- [x] Leer sobre las regex, comparar lo que me dio Jose y enlistar lo que debo reportar ✅ 2025-09-23
+
+
+
+## Martes
+
 - [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
 	- [ ] Crear jup notebook, con todo lo de la actividad 1
 	- [ ] ==Dejar a mi tio trabajando, pero debo leer el material asignado==
 		- [ ] Usar las funciones para reducción
 		- [ ] Crear [[El proceso del autómata]]
 
->En dispos
+>En tiempo libre: 
+>- [ ] Leer sobre minimización etc
 >- [ ] Hacer la presentación con lo que hice de análisis a mano
 >- [ ] Idear la presentación (forma de ella)
 >- [ ] S2. Preparar las cadenas que deben ser
->- [ ] Leer sobre las regex, comparar lo que me dio Jose y enlistar lo que debo reportar
->- [ ] Leer sobre minimización etc
-
->En tiempo libre: 
 >- [ ] Subir presentación (Debo hacer primero la sección 2 en notebook)
 >- [ ] Acabar código para Sección 1 y 2
 >- [ ] Acabar con la sección 4
@@ -60,13 +64,9 @@ tags:
 	- [ ] Ejercicio 3
 	- [ ] Ejercicio 4
 
-- [ ] Previo 5
-- [ ] Pract 5 [🍅:: 6] ^k1w5
+- [ ] Previo 5 lab dispos
+- [ ] Pract 5 Lab BD [🍅:: 6] ^k1w5
 
-
-
-
-## Martes
 ## Miércoles 
 ## Jueves
 ## Viernes 
