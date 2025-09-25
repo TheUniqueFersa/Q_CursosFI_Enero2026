@@ -3,6 +3,9 @@ banner: "![[Banner - 0.PNG]]"
 ---
 ---
 banner: "![[Banner - 0.PNG]]"
+---
+---
+banner: "![[Banner - 0.PNG]]"
 banner_y: 0.1474
 banner_x: 0.50267
 banner_lock: false
@@ -29,7 +32,7 @@ banner_lock: false
 
 | **[[♠Leading]]**<br>:LiCross:                        | **MISIONES ACTIVAS**<br>:LiListCheck:                      | **♣PROYECTOS♣**                                                                        | ***DET*ONACIONES**                               | PEFYCs Activos                           |
 | ---------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------ | ---------------------------------------- |
-| [[♠Academic]]                                        | [[☼First Rise -6-]]:<br>- [[Kanban - ☼First Rise\|Kanban]] | [[Un Ingeniero de Verdad]]                                                             | [[DET. Fixing - Reminicencias PROC]]             | [[♠PEFYC.E - Las Nuevas Reminiscencias]] |
+| [[♠Academic]]                                        | [[☼First Rise -7-]]:<br>- [[Kanban - ☼First Rise\|Kanban]] | [[Un Ingeniero de Verdad]]                                                             | [[DET. Fixing - Reminicencias PROC]]             | [[♠PEFYC.E - Las Nuevas Reminiscencias]] |
 | [[♣T - Programador Junior]]                          | [[FINAL DEL 2025]]                         |                                                                                        | [[DET.FIXING - Towards SUPER UNIVERSITARIO -4-]] |                                          |
 | [[♠BrainOut]]<br>- [[Kanban - BOs activos (SP UNI)]] | [[♠Olympic Mind - PROC]]                                   | :LiComputer: [[Kanban - Proyectos ♣T - Programador Junior\|Proyectos de Programación]] | [[DET.LEG - Post Cursos]]                        |                                          |
 | [[♣EL NUEVO CURSO WEB]]                              | [[‼Sanando el Alma - Consolidando el Capítulo 1]]          | [[INSTRUCTOR CURSOS FI 2025 Verano]]                                                   |                                                  |                                          |
