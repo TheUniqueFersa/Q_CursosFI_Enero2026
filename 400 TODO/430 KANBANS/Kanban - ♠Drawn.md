@@ -53,11 +53,12 @@ pertenece a: "[[♠Drawn]]"
 
 ## Listos para ♦[°]X-chelons
 
-- [ ] Publicaciones *Cursos FI* 📅 2025-08-30 ⏳ 2025-08-26
-- [ ] Publicación **FRESHMAN-SOPHOMORE** 📅 2025-08-30
-	- [ ] Bocetar publicaciones ⏳ 2025-08-26
+- [ ] Publicaciones *Cursos FI*
+- [ ] Publicación **FRESHMAN-SOPHOMORE** 
+	- [ ] Bocetar publicaciones
 - [ ] Rozovy Strike -2-
 - [ ] Composición ***FERSA***
+- [ ] ME COME UN AGUJERO NEGRO SUPERMASIVO
 
 
 ## ‼Yi

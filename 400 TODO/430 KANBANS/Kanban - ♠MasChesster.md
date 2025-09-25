@@ -1,6 +1,11 @@
 ---
-kanban-plugin: basic
+kanban-plugin: board
 pertenece a: "[[♠MasChesster]]"
+recurrencia:
+  - lunes
+  - Monday
+  - miércoles
+  - Wednesday
 ---
 
 ## ♦\[°]Out - ♦\[...R]
@@ -13,6 +18,7 @@ pertenece a: "[[♠MasChesster]]"
 - [ ] Investigar libros de ajedrez
 - [x] ## --ESTRATEGÍA Y MOVIMIENTOS--
 - [ ] Leer más sobre las estrategias de [[♠Chess - Skewer|skewer]] y [[♠Chess - Pin|pin]]
+- [ ] Lección que empieza un nuevo ciclo 📅 2025-09-22
 
 
 ## ‼Yi
@@ -36,6 +42,6 @@ pertenece a: "[[♠MasChesster]]"
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

@@ -51,7 +51,7 @@ fecha_terminado:
 >- *Imitar*
 
 ## ***Asignaturas***
-- [ ] [[♠A-T Estructura y Programación de Computadoras]]
+- [ ] [[♠A-T Estructura y Programación de Computadoras (EyPC)]]
 - [ ] [[♠A-T Dispositivos Electrónicos (Dispos)]]
 	- [ ] [[Lab de Dispositivos Electrónicos (Dispos)]]
 - [ ] [[♠A-T Lenguajes Formales y Autómatas]]

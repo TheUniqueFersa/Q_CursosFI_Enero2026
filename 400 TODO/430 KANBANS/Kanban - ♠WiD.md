@@ -34,7 +34,7 @@ pertenece a: "[[♠Write It Down]]"
 
 - [ ] Entrada de lecturas tipo poesía y literatura
 - [ ] [[¿Qué es madurar?]]
-- [ ] [[Despertar para no morir, levantarse para no asfixiarse, correr para no quedarse atrás]] 📅 2025-08-28
+- [ ] [[OBSESIÓN]]
 
 
 ## ``Oda a la vida``

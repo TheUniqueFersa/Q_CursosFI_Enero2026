@@ -1,0 +1,39 @@
+#.gitignore
+#.obsidian
+
+# Ignorar todo
+*
+
+!.gitignore
+
+# Permitir recorrer las rutas dentro de ACADEMIC
+!ACADEMIC/
+!ACADEMIC/**/
+
+!200 FUERTE/
+!200 FUERTE/**
+
+!400 TODO/
+!400 TODO/**
+
+!500 PROC/
+!500 PROC/**
+
+!600 CALENDAR/
+!600 CALENDAR/**
+
+!800 TUNEL/
+!800 TUNEL/**
+
+!Templatesss/
+!Templatesss/**
+
+# Incluir solo las carpetas que terminan exactamente en los nombres deseados
+!ACADEMIC/**/*10 About/
+!ACADEMIC/**/*10 About/**
+!ACADEMIC/**/*20 DET/
+!ACADEMIC/**/*20 DET/**
+!ACADEMIC/**/*30 Sesiones/
+!ACADEMIC/**/*30 Sesiones/**
+!ACADEMIC/**/*40 Legend/
+!ACADEMIC/**/*40 Legend/**

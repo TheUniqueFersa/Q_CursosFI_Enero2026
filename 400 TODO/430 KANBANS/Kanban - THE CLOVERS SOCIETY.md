@@ -29,7 +29,7 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Crear boceto de nuevo logo
-- [ ] !!Org Requerimientos y tallo ⏳ 2025-08-25 📅 2025-08-29
+- [ ] !!Org Requerimientos y tallo
 
 
 ## *Propuesta de Acciones*

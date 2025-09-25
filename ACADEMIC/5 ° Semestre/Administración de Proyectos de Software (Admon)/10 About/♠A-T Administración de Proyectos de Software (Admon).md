@@ -1,13 +1,14 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🟦ESTABLE🟦
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 antecesor: "[[♠A-T Ingeniería de Software]]"
+ESTADO_RECOLECCION: "[[♠A-time]]"
 ---
 # ***♠A-T Administración de Proyectos de Software (Admon)***
 
