@@ -50,3 +50,6 @@ m=NDFA_e(Q=['q_0','q_1'],
                      ])
 m.print_summary()
 ```
+
+
+# RE
