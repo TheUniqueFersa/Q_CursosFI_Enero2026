@@ -6,9 +6,9 @@ kanban-plugin: board
 tags:
   - AGM
   - Active_kanban/♠Algoritmia
-Completado: 6
-Incompleto: 10
-Total: 16
+Completado: 7
+Incompleto: 12
+Total: 19
 title: Kanban-♠Algoritmia
 recurrencia:
   - semanal
@@ -27,13 +27,16 @@ pertenece a: "[[♠ALGORITMIA]]"
 
 - [ ] # Problema :SiLeetcode: Leetcode ^3caaaf
 	- 1 -> Empezar con el problema diario
-	- [ ] Leer el problema y pensarlo due 📅 2025-08-25 ^3caaaf
+	- [ ] Leer el problema y pensarlo 📅 2025-09-21 ^3caaaf
 - [ ] Aprender a Analizar matemáticamente la **complejidad de los algoritmos** #Read 
 	
 	- [x] Elegir libro 📅 2025-08-16 ✅ 2025-08-17
 	- [x] Asignar fechas 📅 2025-08-18 ✅ 2025-08-18
-	- [ ] Buscarlo en biblio 📅 2025-08-26
-	- [ ] Empezar a leerlo 📅 2025-08-28
+	- [x] Buscarlo en biblio 📅 2025-08-26 ✅ 2025-08-31
+		- [ ] Faltan varios
+	- [ ] Empezar a leerlo
+- [ ] Trazar mapa con *Estructuras discretas* y *LFyA*
+	>- [ ] En base a eso, ahora si elegir la secuencia de libros de sigan **►CS**
 
 
 ## Sorting
@@ -104,6 +107,6 @@ pertenece a: "[[♠ALGORITMIA]]"
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,null,null,false,false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,null,true,false,false,false,false,false,false,false]}
 ```
 %%

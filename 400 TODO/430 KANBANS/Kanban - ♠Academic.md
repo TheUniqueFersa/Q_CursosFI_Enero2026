@@ -23,9 +23,15 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) ⏳ 2025-08-25 📅 2025-08-30 ^e14b86
-	- [ ] Domingo
-- [ ] Establecer las notas universales para Academic 📅 2025-08-26 ^88d66c
+- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) W1 ^e14b86
+	- [ ] Domingo 📅 2025-09-14
+	- [ ] Lunes 📅 2025-09-15
+	- [ ] Martes
+	- [ ] Miércoles
+	- [ ] Jueves
+	- [ ] Viernes
+- [ ] Establecer las notas universales para Academic 📅 2025-09-22 ^88d66c
+- [ ] Subir alguna nota a ==Quartz4==
 
 
 ## ‼Yi
@@ -50,12 +56,12 @@ recurrencia:
 ## # ▶ [[INSTRUCTOR CURSOS FI 2025 Verano]]
 
 - [x] Etapa de Instructor ✅ 2025-07-14
-- [ ] Etapa de Legacy 📅 2025-08-30
+- [ ] Etapa de Legacy
 
 
 ## # ▶ [[CURSO WEB 2025]]
 
-- [ ] Etapa de Calificación y Legacy 📅 2025-08-27
+- [ ] Etapa de Calificación y Legacy
 - [x] Etapa de Instructor ✅ 2025-07-14
 
 
@@ -63,6 +69,6 @@ recurrencia:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,false,null,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,true,false,false,false]}
 ```
 %%

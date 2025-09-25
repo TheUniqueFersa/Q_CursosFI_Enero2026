@@ -9,6 +9,6 @@ fecha:
 tags: 
 ---
 # ***<% tp.file.title %>*** 
-# Evento detonador
+# Acerca del Evento detonador
 
 # Legado

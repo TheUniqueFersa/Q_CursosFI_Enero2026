@@ -2,9 +2,9 @@
 
 tipo: X-chelons
 kanban-plugin: board
-Total: 22
+Total: 19
 Completado: 0
-Incompleto: 22
+Incompleto: 19
 tags:
   - TActive/X-chelons
 
@@ -63,10 +63,7 @@ tags:
 
 - [ ] ![[Kanban - ♠HOME#Listos para ♦(...R) X-chelons]]
 - [ ] Trollearme los platos
-	- [ ] 
-
-- [ ] Trollearme mi ropa
-- [ ] Barrer mi cuarto
+	- [ ]
 
 
 ## # [[Kanban - ♠Bodycare|♠Bodycare]]

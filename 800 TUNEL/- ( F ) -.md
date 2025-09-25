@@ -1,5 +1,8 @@
 ---
 banner: "![[Banner - 0.PNG]]"
+---
+---
+banner: "![[Banner - 0.PNG]]"
 banner_y: 0.1474
 banner_x: 0.50267
 banner_lock: false

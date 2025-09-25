@@ -1,20 +1,22 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: En ejecución
+status: 🔲INGAP🔲
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-serie: 
+serie:
 tags:
   - ♠A-T
 antecesor: "[[Lg - Matemáticas Avanzadas]]"
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
+ESTADO_RECOLECCION: "[[♣Learn]]"
 ---
 # ***♠A-T Señales y Sistemas***
 
-| Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía | Laboratorio<br>(L+)             | Calificación |
-| ----- | -------- | ---------------------------------- | ------------ | ------------------------------- | ------------ |
-| 1473  | 8        | [[programa_Dispos.pdf]]            |              | ✅ [[Lab de Señales y Sistemas]] |              |
+| Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía                               | Laboratorio<br>(L+)             | Calificación |
+| ----- | -------- | ---------------------------------- | ------------------------------------------ | ------------------------------- | ------------ |
+| 1473  | 8        | [[programa_SyS.pdf]]               | [[Sys. DINAMICA DE SISTEMAS.pdf]]          | ✅ [[Lab de Señales y Sistemas]] |              |
+|       |          |                                    | [[Sys. Oppenheim Segnales y Sistemas.pdf]] |                                 |              |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Señales y Sistemas en la carrera de [[Ingeniería en Computación]]
 

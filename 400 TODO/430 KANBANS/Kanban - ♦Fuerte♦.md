@@ -12,7 +12,7 @@ pertenece a: "[[♦Fuerte de la Creación♦]]"
 
 ## ♦[...R]
 
-- [ ] - [ ] Requiere haber visto clases de templates y dataview en [[♣ T - OBSIDIAN]]
+- [ ] Requiere haber visto clases de templates y dataview en [[♣ T - OBSIDIAN]]
 	
 	_Definir los **estados**_
 
@@ -37,8 +37,8 @@ pertenece a: "[[♦Fuerte de la Creación♦]]"
 ## # Listos para X-Chelons
 
 - [ ] Arreglar lo sproyectos de obsidian (migrarlos)
-- [ ] Registrar eventos del años pasado de **GreatBinnacle** (1 semana) ⏳ 2025-08-27 📅 2025-08-28
-	- [ ] Hacer respaldo de fotos desde teléfono 📅 2025-08-29
+- [ ] Registrar eventos del años pasado de **GreatBinnacle** (1 semana)
+	- [ ] Hacer respaldo de fotos desde teléfono
 - [ ] Investigar como poder crear todas las notas con links de fechas funcionales desde antes de que sea ese día
 
 
