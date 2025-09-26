@@ -75,6 +75,7 @@ pertenece a: "[[♣T - Programador Junior]]"
 - [ ] #MILESTONE Aprender Linux bien 📅 2025-09-21
 - [ ] Elegir un proyecto de programación y trollearlo 📅 2025-09-22
 - [ ] Aprender a usar Quartz4
+- [ ] Programar un conversor de hexadecimal a binario en wEB
 
 
 ## # ***El Aprendiz tecnológico***<br>**Propuesta de Acciones**
