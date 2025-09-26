@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 5
-Incompleto: 61
-Total: 66
+Completado: 12
+Incompleto: 58
+Total: 70
 antecesor: 
 sucesor: 
 links_url: 
@@ -20,9 +20,9 @@ tags:
 ---
 # ***--BINNACLE-- {W39}***
 
-| 🏁 X-Chelons Asociados | ⏳ $T$ | Hora Inicio | 🏁 Hora estimada de Término |
-| ---------------------- | ----- | ----------- | --------------------------- |
-|                        |       |             |                             |
+| 🏁 X-Chelons Asociados                                     | ⏳ $T$          | Hora Inicio | 🏁 Hora estimada de Término |
+| ---------------------------------------------------------- | -------------- | ----------- | --------------------------- |
+| ![[‼Sanando el Alma - Consolidando el Capítulo 1#^b24f16]] | Hasta el final |             |                             |
 ## Domingo
 - [x] Ver bibliotecas ✅ 2025-09-18
 
@@ -35,9 +35,18 @@ tags:
 >En dispos
 >- [x] Leer sobre las regex, comparar lo que me dio Jose y enlistar lo que debo reportar ✅ 2025-09-23
 
-
-
 ## Martes
+- [x] Presentación Problema ✅ 2025-09-24
+
+>- [x] Hacer la presentación con lo que hice de análisis a mano ✅ 2025-09-24
+>- [x] Idear la presentación (forma de ella) ✅ 2025-09-24
+>- [x] S2. Preparar las cadenas que deben ser ✅ 2025-09-24
+>- [x] Subir presentación (Debo hacer primero la sección 2 en notebook) ✅ 2025-09-24
+## Miércoles 
+- [ ] T12 Dispos #AEM [🍅:: 3] ^d7yp
+- [ ] Recover SyS -> Reporte de lab #AEM
+- [ ] Corregir LFyA #AEM
+
 
 - [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
 	- [ ] Crear jup notebook, con todo lo de la actividad 1
@@ -47,28 +56,23 @@ tags:
 
 >En tiempo libre: 
 >- [ ] Leer sobre minimización etc
->- [ ] Hacer la presentación con lo que hice de análisis a mano
->- [ ] Idear la presentación (forma de ella)
->- [ ] S2. Preparar las cadenas que deben ser
->- [ ] Subir presentación (Debo hacer primero la sección 2 en notebook)
 >- [ ] Acabar código para Sección 1 y 2
 >- [ ] Acabar con la sección 4
 >- [ ] Redactar lo de la sección 3
 >- [ ] Mandar formulario #AEM
 
-
 - [ ] [[Revisión 1]]
 	- [ ] Ejercicio 1
 	- [ ] Ejercicio 2 #AEM
-		- [ ] Presentación Problema
+		- [x] Presentación Problema ✅ 2025-09-24
 	- [ ] Ejercicio 3
 	- [ ] Ejercicio 4
 
+
 - [ ] Previo 5 lab dispos
 - [ ] Pract 5 Lab BD [🍅:: 6] ^k1w5
-
-## Miércoles 
 ## Jueves
+
 ## Viernes 
 ## Sábado
 # 🏆$AEM$
