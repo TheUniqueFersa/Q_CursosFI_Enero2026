@@ -39,7 +39,7 @@ Considerando el alfabeto Σ={a,b,c,d,e,f,g,h,i,j,k,l,m,n,ñ,o,p,q,r,s,t,u,v,w,x,
 4. [ ] Su autómata finito no determinístico con transición epsilín ($AFND- \epsilon$)
 5. [ ] Su autómata finito no determinístico ($AFND$)
 6. [ ] Su autómata finito ($AF$)
-
+- [ ] Reportar resultados
 # 6
 
 1. [ ] 5 cadenas que pertenecen al lenguaje especificado
@@ -51,9 +51,13 @@ Considerando el alfabeto Σ={a,b,c,d,e,f,g,h,i,j,k,l,m,n,ñ,o,p,q,r,s,t,u,v,w,x,
 7. [ ] 5 cadenas aceptadas por el lenguaje
 8. [ ] 5 cadenas no aceptadas por el lenguaje
 9. [ ] O un $AFND-\epsilon$ o AFND o AF
-
+- [ ] Reportar resultados
 # 11
-
+La investigación
+- [ ] Reportar resultados
 # 12
+- [x] Checar el link ✅ 2025-09-24
+- [x] Hacer la regex ✅ 2025-09-24
+- [ ] Reportar resultados
 
 [^1]: Documentación oficial de máquinas https://maquinas.readthedocs.io/
