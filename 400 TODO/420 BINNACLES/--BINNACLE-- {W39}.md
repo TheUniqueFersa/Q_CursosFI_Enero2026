@@ -43,7 +43,7 @@ tags:
 >- [x] S2. Preparar las cadenas que deben ser ✅ 2025-09-24
 >- [x] Subir presentación (Debo hacer primero la sección 2 en notebook) ✅ 2025-09-24
 ## Miércoles 
-- [ ] T12 Dispos #AEM [🍅:: 3] ^d7yp
+- [ ] T12 Dispos #AEM [🍅:: 4] ^d7yp
 - [ ] Recover SyS -> Reporte de lab #AEM
 - [ ] Corregir LFyA #AEM
 
