@@ -17,7 +17,12 @@ tags:
 Materia: 
 Saga:
 ---
-# ***♣Lg -***
+# ***ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S6C2***
+
+| Material | Ejemplos         |
+| -------- | ---------------- |
+|          | [[Ejemplo S6C2]] |
+
 # Tipos de Comunicación?
 
 - [ ] Insertar fotos o traducirlas
