@@ -64,21 +64,26 @@ tags:
 ## Jueves
 
 ## Viernes 
-- [ ] Recover SyS -> Reporte de lab #AEM
-- [ ] Corregir LFyA #AEM
+- [x] Corregir LFyA #AEM ✅ 2025-09-27
 
-- [ ] ==Dejar a mi tio trabajando, pero debo leer el material asignado==
-- [ ] [[Revisión 1]]
-	- [ ] Ejercicio 1
-		- [ ] Código en Jup Notebook
-	- [ ] Ejercicio 2 #AEM
+- [x] ==Dejar a mi tio trabajando, pero debo leer el material asignado== ✅ 2025-09-27
+- [x] [[Revisión 1]] ✅ 2025-09-27
+	- [x] Ejercicio 1 ✅ 2025-09-27
+		- [x] Código en Jup Notebook ✅ 2025-09-27
+	- [x] Ejercicio 2 #AEM ✅ 2025-09-27
 		- [x] Presentación Problema ✅ 2025-09-24
-		- [ ] Código en JNotebook
-	- [ ] Ejercicio 3
-		- [ ] Leer sobre minimización etc
-	- [ ] Ejercicio 4
-		- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO
+		- [x] Código en JNotebook ✅ 2025-09-27
+	- [x] Ejercicio 3 ✅ 2025-09-27
+		- [x] Leer sobre minimización etc ✅ 2025-09-27
+	- [x] Ejercicio 4 ✅ 2025-09-27
+
+
 ## Sábado
+- [ ] Recover SyS -> Reporte de lab #AEM
+- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO
+
+>***PROC***
+>
 # 🏆$AEM$
 - [ ] [[ROLLER TROLLER]]
 - [ ] Usar las notas ***Legend*** #AEM
@@ -90,7 +95,7 @@ tags:
 	- [ ] Viernes
 	- [ ] Sábado
 	- [ ] Subir una usando Quartz4
-- [ ] PROC - USACO
+- [ ] PROC - USACO [🍅:: 2] ^vjnp
 
 # Hereda pendientes:
 >*RÁFAGAS*

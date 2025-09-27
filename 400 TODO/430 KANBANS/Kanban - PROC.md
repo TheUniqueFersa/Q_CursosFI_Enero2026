@@ -23,7 +23,7 @@ recurrencia:
 
 ## Incoming Problems
 
-- [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS]] ^3d4ba1
+- [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]] ^3d4ba1
 - [ ] Crear Notion 📅 2025-09-27
 - [ ] # W1
 	- [ ] NumTheory

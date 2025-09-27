@@ -1,6 +1,6 @@
 ---
 pertenece a:
-  - "[[PLAN PARA NO ESTAR DESEMPLEADOS]]"
+  - "[[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]]"
 ---
 ## Reasons to ask for financial aid
 Saludos
