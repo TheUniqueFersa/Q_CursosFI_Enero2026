@@ -4,17 +4,25 @@
 >- Regular Languages}
 >están disponibles
 
-| Tipo[^1] | Ubicación | nombre      | descripción |
-| -------- | --------- | ----------- | ----------- |
-|          |           | `save_file` |             |
-|          |           | ``          |             |
 - QUICKSTART
 	- [[CREATING MACHINES]]
-- REGULAR LANGUAGES
+- [REGULAR LANGUAGES](https://maquinas.readthedocs.io/en/stable/rl.html#regular-languages)
 	- [[REDUCTIONS]]
 	- [[MINIMIZATION]]
+- [[SIMULATION]]
+## Métodos comúnes y útiles
 
-# Diseccionando `Expresiones Regulares, reducciones y minimazación.ipynb`
+| Tipo[^1] | Ubicación                              | nombre            | descripción                                                                                                                                                                                                                                  |
+| -------- | -------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `m`      |                                        | `save_file`       | Guarda el autómata en formato txt (lo pid)                                                                                                                                                                                                   |
+| `m`      |                                        | `print_summary()` | Imprime el resumen del autómata                                                                                                                                                                                                              |
+| `m`      |                                        | `table()`         | Imprime la tabla de estados (transiciones)                                                                                                                                                                                                   |
+| `m`      |                                        | `graph()`         | Imprime el autómata en su forma de grafo                                                                                                                                                                                                     |
+| `m`      |                                        | `save_img()`      | guarda una imagen del autómata                                                                                                                                                                                                               |
+| `m`      | Cada autómata en **REGULAR LANGUAGES** | `accepts(w)`      | `true` o `false` si acepta o no una cadena<br>Particularmente útil si le autómata fue construido definiéndolo con constructor y no se consideraron todas las transiciones. Osea es útil cuando la simulación falla por falta de transiciones |
+
+
+# Diseccionando `Expresiones Regulares, reducciones y minimazación.ipynb` [:LiExternalLink:](https://colab.research.google.com/drive/1DWocXqt7gilyyaA87a6TLFjxqWqCWyzP#scrollTo=FO5y4ZcLj7u2)
 >Todo lo siguiente requeriría que se inserte en un *jupyter notebook*
 
 Primero instalamos la biblioteca ``maquinas``[^2]
@@ -92,58 +100,47 @@ reg.table()
 
 
 
+- [x] ==Cómo verificamos las entradas validas de una ER?== [🍅:: 1] ✅ 2025-09-26 ^5s1d
+>Con el método `accepts(w)` o con una [[SIMULATION]]
 
-- [ ] ==Cómo verificamos las entradas validas de una ER?== [🍅:: 1] ^5s1d
-
-	
 
 ---
-- [ ] END PRESENTATION #AEM 
+- [x] FINISH PRESENTATION #AEM ✅ 2025-09-26
 
 - [ ] PUT THE NECESARY CODE FOR AUTOMATONS -> a b
 	- [ ] Prove that it actually transforms into NDFA-e correctly
 	- [ ] Put the collab link into the presentation
 
->🕐 9:20
-
-- [ ] Correct hmk DB
-
 ---
 # Qué es lo que hace Emir?
 
 - Define por constructor su Expresión regular y lo transforma a AFND-$\epsilon$
-	- Guarda el lenguaje
+	- **Guarda** el lenguaje
 
 
-- Crea una simulación
-		- La ejecuta
+- Crea una **simulación**
+	- La ejecuta
 
-- Grafica el lenguaje
+- **Grafica** el lenguaje -> `.graph()`
 
-- Imprime el resumen con `print_sumary()` (método)
+- Imprime el *resumen* con ->  `.print_summary()`
+- Aunque también podría imprimir la *tabla* -> `.table()`
 
 - Lo transforma a AFND
 	- Lo guarda
 	- lo grafica
 	- lo simula
 
-- 
-
-- [ ] Qué es una simulación
+- [x] Qué es una [[SIMULATION]] ✅ 2025-09-26
+>Algo bien chido que te permite ver paso a paso la evaluación de una cadena específica por ejemplo
+>Cuando se declara en un DFA se puede controlar paso a paso la simulación, en otro tipo no y es más bien una imagen fija
 
 - [x] Cómo compruebo que las minimizaciónes a autómata es correcto ✅ 2025-09-23
 >Con ele ejercicio hecho en clase XD
 
 - [ ] Cómo construyo un AFND-e?
 
-
-
-
 # El proceso del autómata
-
-
-
-
 
 
 

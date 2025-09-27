@@ -10,9 +10,9 @@ serie:
 tipo_alcance: 
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-Completado: 
-Incompleto: 
-Total: 
+Completado: 0
+Incompleto: 1
+Total: 1
 tags: 
 Materia: 
 Saga:

@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 12
-Incompleto: 58
-Total: 70
+Completado: 23
+Incompleto: 50
+Total: 73
 antecesor: 
 sucesor: 
 links_url: 
@@ -43,37 +43,41 @@ tags:
 >- [x] S2. Preparar las cadenas que deben ser ✅ 2025-09-24
 >- [x] Subir presentación (Debo hacer primero la sección 2 en notebook) ✅ 2025-09-24
 ## Miércoles 
-- [ ] T12 Dispos #AEM [🍅:: 3] ^d7yp
-- [ ] Recover SyS -> Reporte de lab #AEM
-- [ ] Corregir LFyA #AEM
 
-
-- [ ] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
-	- [ ] Crear jup notebook, con todo lo de la actividad 1
-	- [ ] ==Dejar a mi tio trabajando, pero debo leer el material asignado==
-		- [ ] Usar las funciones para reducción
-		- [ ] Crear [[El proceso del autómata]]
+- [x] T12 Dispos #AEM [🍅:: 4] ✅ 2025-09-26 ^d7yp
+ ^ja68
+- [>] Documentarlas y tener listo que voy a usar [🍅:: 1] ^q4nx
+	- [x] Crear jup notebook, con todo lo de la Revisión 1 ✅ 2025-09-26
+		- [x] Usar las funciones para reducción
+		- [x] Crear [[El proceso del autómata]] ✅ 2025-09-26
 
 >En tiempo libre: 
->- [ ] Leer sobre minimización etc
->- [ ] Acabar código para Sección 1 y 2
->- [ ] Acabar con la sección 4
->- [ ] Redactar lo de la sección 3
->- [ ] Mandar formulario #AEM
-
-- [ ] [[Revisión 1]]
-	- [ ] Ejercicio 1
-	- [ ] Ejercicio 2 #AEM
-		- [x] Presentación Problema ✅ 2025-09-24
-	- [ ] Ejercicio 3
-	- [ ] Ejercicio 4
+>- [-] Acabar código para Sección 1 y 2 ❌ 2025-09-26
+>- [-] Acabar con la sección 4 ❌ 2025-09-26
+>- [-] Redactar lo de la sección 3 ❌ 2025-09-26
+>- [-] Mandar formulario #AEM ❌ 2025-09-26
 
 
-- [ ] Previo 5 lab dispos
-- [ ] Pract 5 Lab BD [🍅:: 6] ^k1w5
+
+- [-] Previo 5 lab dispos ❌ 2025-09-26
+- [-] Pract 5 Lab BD [🍅:: 6] ❌ 2025-09-26 ^k1w5
 ## Jueves
 
 ## Viernes 
+- [ ] Recover SyS -> Reporte de lab #AEM
+- [ ] Corregir LFyA #AEM
+
+- [ ] ==Dejar a mi tio trabajando, pero debo leer el material asignado==
+- [ ] [[Revisión 1]]
+	- [ ] Ejercicio 1
+		- [ ] Código en Jup Notebook
+	- [ ] Ejercicio 2 #AEM
+		- [x] Presentación Problema ✅ 2025-09-24
+		- [ ] Código en JNotebook
+	- [ ] Ejercicio 3
+		- [ ] Leer sobre minimización etc
+	- [ ] Ejercicio 4
+		- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO
 ## Sábado
 # 🏆$AEM$
 - [ ] [[ROLLER TROLLER]]
