@@ -52,4 +52,11 @@ m.print_summary()
 ```
 
 
-# RE
+# Regular Expression
+
+```python
+reg = RegularExpression("a*(ba*ba*)*+a*");
+reg = reg.ndfa_e() # lo convierte a ndfa_e
+```
+
+
