@@ -27,3 +27,6 @@ pertenece a:
 - [[5. Gramáticas de contexto sensitivo y autómatas lineales con frontera]]
 - [[6. Gramáticas de estructura de frase y máquina de Turing]]
 - [[7. Indecidibilidad]]
+
+
+[[REGEX]]
