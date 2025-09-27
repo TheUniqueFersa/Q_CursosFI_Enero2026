@@ -1,0 +1,18 @@
+---
+pertenece a:
+  - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
+---
+# NOTAS DE SESIÓN
+- SEMANA 5
+- SEMANA 6
+	- [[ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S6C2]]
+- SEMANA 7
+- SEMANA 8
+- SEMANA 9
+- SEMANA 10
+- SEMANA 11
+- SEMANA 12
+- SEMANA 13
+- SEMANA 14
+- SEMANA 15
+- SEMANA 16
