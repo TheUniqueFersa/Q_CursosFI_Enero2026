@@ -4,4 +4,4 @@ scope:
 ancestro_directo:
 tipo_nota: atomica
 ---
-# ***<% tp.file.title %>***
+# ***Nota atómica Lg.template***

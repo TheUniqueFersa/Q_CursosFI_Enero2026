@@ -17,28 +17,16 @@ ESTADO_RECOLECCION: "[[♣Learn]]"
 | ----- | -------- | ---------------------------------- | ------------------------------------------ | ------------------------------- | ------------ |
 | 1473  | 8        | [[programa_SyS.pdf]]               | [[Sys. DINAMICA DE SISTEMAS.pdf]]          | ✅ [[Lab de Señales y Sistemas]] |              |
 |       |          |                                    | [[Sys. Oppenheim Segnales y Sistemas.pdf]] |                                 |              |
+
+| ⤵                | 🔼***Legend***              |
+| ---------------- | --------------------------- |
+| [[Kanban - SyS]] | [[Lg - Señales y Sistemas]] |
+
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Señales y Sistemas en la carrera de [[Ingeniería en Computación]]
 
 # Asignatura
-
-## Evaluación
-![[--IMG-- Evaluación Sys.png]]
-![[Pasted image 20250814115614.png]]
-
-
-## Bibliografía recomendada
-OPPENHEIM, A. V., et al.
-Señales y Sistemas
-México
-Prentice Hall Hispanoamericana, 1998
-
-
-RODRÍGUEZ RAMÍREZ, Francisco
-Dinámica de sistemas
-México
-Trillas, 1994
-
+![[Acerca de la Asignatura de Señales y Sistemas]]
 
 ---
 # Planeación - MODELO
@@ -51,6 +39,10 @@ Trillas, 1994
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
+- [-] XD ❌ 2025-09-27
+## Primera Etapa (Primer examen)
+- [ ] Hacer toda la serie 1
+- [ ] Sacar buena calificación en el primer examen
 
 
 >## ***ETAPA FINAL***

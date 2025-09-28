@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 23
-Incompleto: 50
-Total: 73
+Completado: 33
+Incompleto: 45
+Total: 78
 antecesor: 
 sucesor: 
 links_url: 
@@ -80,10 +80,18 @@ tags:
 
 ## Sábado
 - [ ] Recover SyS -> Reporte de lab #AEM
-- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO
+							- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO
 
 >***PROC***
->
+- [ ] Hacer notas de todo lo que vimos el sábado
+- [ ] Hacer 2 problema del sábado
+- [ ] Intentar problemas de tarea 
+	- [ ] 1
+	- [ ] 2
+	- [ ] 3
+
+
+
 # 🏆$AEM$
 - [ ] [[ROLLER TROLLER]]
 - [ ] Usar las notas ***Legend*** #AEM
