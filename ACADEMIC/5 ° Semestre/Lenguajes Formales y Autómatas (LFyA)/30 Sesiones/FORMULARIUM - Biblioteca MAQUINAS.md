@@ -107,9 +107,9 @@ reg.table()
 ---
 - [x] FINISH PRESENTATION #AEM ✅ 2025-09-26
 
-- [ ] PUT THE NECESARY CODE FOR AUTOMATONS -> a b
-	- [ ] Prove that it actually transforms into NDFA-e correctly
-	- [ ] Put the collab link into the presentation
+- [x] PUT THE NECESARY CODE FOR AUTOMATONS -> a b ✅ 2025-09-27
+	- [x] Prove that it actually transforms into NDFA-e correctly ✅ 2025-09-27
+	- [x] Put the collab link into the presentation ✅ 2025-09-27
 
 ---
 # Qué es lo que hace Emir?
