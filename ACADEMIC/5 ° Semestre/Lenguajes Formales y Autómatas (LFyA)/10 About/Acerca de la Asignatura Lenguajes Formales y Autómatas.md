@@ -3,15 +3,15 @@
 > [!summary] Relevante
 > **Nombre del profe**
 > ```txt
-> <nombre profesor>
+> IVAN VLADIMIR MEZA RUIZ
 > ```
 > **Grupo**
 > ```txt
-> <NNN>
+> Grupo 3
 > ```
 > **Clave asignatura**
 > ```txt
-> <XXXX>
+> 0442
 > ```
 > 
 
