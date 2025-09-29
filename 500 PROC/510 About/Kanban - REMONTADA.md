@@ -24,7 +24,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] NOTAS DE LA PRIMERA SESIÓN DEL CURSO DE USACO
+- [ ] NOTAS DE LA PRIMERA SESIÓN DEL **CURSO DE USACO**
 	- [ ] Problemas
 		- [ ] 1
 		- [ ] 2
