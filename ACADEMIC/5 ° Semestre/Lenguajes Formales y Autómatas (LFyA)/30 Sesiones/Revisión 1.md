@@ -60,4 +60,23 @@ La investigación
 - [x] Hacer la regex ✅ 2025-09-24
 - [x] Reportar resultados ✅ 2025-09-27
 
+
+# ***INTERCONN***
+## Conexiones
+Notas secundarias
+Notas que han de considerarse para la revisión de la actual, para tener contexto
+## Recursos
+*Apoyan al contenido*
+Aspectos visibles de las notas secundarias
+
+| Material                                                                                                                                     | Status |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [CS - Fall 2020 Exponential gap in number of states between DFA and NFA sizes](https://sarielhp.org/teach/20/a_fall_20_374/lec/06/6_3_1.pdf) | ✅      |
+| [Determinism costs A NFA with exponentially bigger DFA](https://www.owenstephens.co.uk/blog/2014/09/28/NFA_DFA.html)                         | ❓      |
+
+
+## Referencias
+Referencia a notas externas como fuente de información
+Referencias externas de otra fuente de información
+
 [^1]: Documentación oficial de máquinas https://maquinas.readthedocs.io/
