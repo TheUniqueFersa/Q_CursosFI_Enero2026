@@ -7,8 +7,8 @@ tags:
   - AGM
   - Active_kanban/♠Algoritmia
 Completado: 7
-Incompleto: 12
-Total: 19
+Incompleto: 13
+Total: 20
 title: Kanban-♠Algoritmia
 recurrencia:
   - semanal
@@ -27,8 +27,8 @@ pertenece a: "[[♠ALGORITMIA]]"
 
 - [ ] # Problema :SiLeetcode: Leetcode ^3caaaf
 	- 1 -> Empezar con el problema diario
-	- [ ] Leer el problema y pensarlo 📅 2025-09-21 ^3caaaf
-- [ ] Aprender a Analizar matemáticamente la **complejidad de los algoritmos** #Read 
+	- [ ] Leer el problema y pensarlo 📅 2025-09-28 ^3caaaf
+- [ ] Establacer ALGORITMIA #Read 
 	
 	- [x] Elegir libro 📅 2025-08-16 ✅ 2025-08-17
 	- [x] Asignar fechas 📅 2025-08-18 ✅ 2025-08-18
@@ -37,6 +37,7 @@ pertenece a: "[[♠ALGORITMIA]]"
 	- [ ] Empezar a leerlo
 - [ ] Trazar mapa con *Estructuras discretas* y *LFyA*
 	>- [ ] En base a eso, ahora si elegir la secuencia de libros de sigan **►CS**
+- [ ] Aprender a Analizar matemáticamente la **complejidad de los algoritmos**
 
 
 ## Sorting
