@@ -18,7 +18,7 @@ recurrencia:
 - [ ] Investigar libros de ajedrez
 - [x] ## --ESTRATEGÍA Y MOVIMIENTOS--
 - [ ] Leer más sobre las estrategias de [[♠Chess - Skewer|skewer]] y [[♠Chess - Pin|pin]]
-- [ ] Lección que empieza un nuevo ciclo 📅 2025-09-22
+- [ ] Lección que empieza un nuevo ciclo 📅 2025-09-29
 
 
 ## ‼Yi
