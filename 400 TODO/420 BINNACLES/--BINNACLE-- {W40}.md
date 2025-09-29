@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 1
+Completado: 2
 Incompleto: 42
-Total: 43
+Total: 44
 antecesor: 
 sucesor: 
 links_url: 
@@ -24,6 +24,8 @@ tags:
 | ---------------------------------------------------------- | ------ | ----------- | --------------------------- |
 | ![[‼Sanando el Alma - Consolidando el Capítulo 1#^b24f16]] | 7 días | 02:02 pm    | 6:00 am (domingo)           |
 ## Domingo
+- [x] Algo inspirador que me recuerde que debo ser [[Un Ingeniero de Verdad]] ✅ 2025-09-28
+## Lunes
 - [ ] **MANUAL RECOVERY** #AEM 
 - [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO #AEM 
 
@@ -37,7 +39,6 @@ tags:
 - [ ] Previo 06 lab dispos #AEM 
 
 - [ ] Recover SyS -> Reporte de lab
-## Lunes
 ## Martes
 ## Miércoles
 ## Jueves
@@ -47,7 +48,8 @@ tags:
 # 🏆$AEM$
 - [ ] [[ROLLER TROLLER]]
 - [ ] Usar las notas **Legend** -> *FORMULARIUM*
-	- [ ] Domingo
+	- [x] Domingo ✅ 2025-09-28
+	- [ ] Lunes
 	- [ ] Subir una usando Quartz4
 - [ ] PROC - USACO
 
