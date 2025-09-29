@@ -25,7 +25,7 @@ image: "[[-- PORTADA -- OM - PROC.jpg]]"
 | [[♠ALGORITMIA]]                                                            |     | [[Mapeo de Kattis]]             | [[cp4-1.pdf]] y [[cp4-2.pdf]]                           |
 | [[♣CPCFI]]                                                                 |     | [[Mapeo UVa Online judge]]      | [[Guide_to_Competitive_Programming.pdf\|Springer trii]] |
 | [[♠Olympic Mind - Math]]                                                   |     | [[Mapeo Non starred Ex en CP4]] |                                                         |
-| [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]] |     | [[Mapeo USACO.ORG]]             |                                                         |
+| [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]] |     | [[USACO]]             |                                                         |
 
 | 🔼 Aprendizaje                                                      | 🔼 Práctica (Problemas)                                                           | 🔼 Legend                   |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------- |
