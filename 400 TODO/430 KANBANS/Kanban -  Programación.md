@@ -79,6 +79,11 @@ pertenece a: "[[♣T - Programador Junior]]"
 	#♣_PROYECTO_♣
 - [ ] Programar un conversor de hexadecimal a binario en wEB
 	#♣_PROYECTO_♣
+- [ ] #MILESTONE/ORDEN_SUPERIOR 
+	# Un computador desde cero
+	Construir un computador desde cero, considerando todos los conceptos de una estructura de computadoras
+- [ ] # Compilador
+	Construir un compilador desde cero, usando conocimientos de LFyA
 
 
 ## # ***El Aprendiz tecnológico***<br>**Propuesta de Acciones**
