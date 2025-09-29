@@ -1,4 +1,5 @@
 ---
+
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
@@ -9,6 +10,7 @@ recurrencia:
   - Saturday
   - Sunday
   - semanal
+
 ---
 
 ## # *--STATIC --*
@@ -29,7 +31,7 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Establecer la dieta de manera formal bajo **Protocolos**
-- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-09-27
+- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-10-04
 - [ ] Perfume y fragancia
 - [ ] -- ***ROZ*** --
 - [ ] Comprar peine nuevo para trollear

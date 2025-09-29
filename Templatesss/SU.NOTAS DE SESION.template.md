@@ -1,7 +1,7 @@
 ---
 pertenece a:
 ---
-# ***<% tp.file.title %>***
+# ***SU.NOTAS DE SESION.template***
 
 - SEMANA 1
 - SEMANA 2

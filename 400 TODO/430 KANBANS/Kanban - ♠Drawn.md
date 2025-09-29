@@ -53,12 +53,12 @@ pertenece a: "[[♠Drawn]]"
 
 ## Listos para ♦[°]X-chelons
 
+- [ ] ME COME UN AGUJERO NEGRO SUPERMASIVO
 - [ ] Publicaciones *Cursos FI*
 - [ ] Publicación **FRESHMAN-SOPHOMORE** 
 	- [ ] Bocetar publicaciones
 - [ ] Rozovy Strike -2-
 - [ ] Composición ***FERSA***
-- [ ] ME COME UN AGUJERO NEGRO SUPERMASIVO
 
 
 ## ‼Yi

@@ -1,21 +1,22 @@
 ---
 fecha: 2025-09-21
-pertenece a: 
+pertenece a:
+  - "[[{W39-2025}]]"
 tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
-fecha_entrega: 
-fecha_terminado: 
-Completado: 23
-Incompleto: 50
-Total: 73
-antecesor: 
-sucesor: 
-links_url: 
-Tiempo Objetivo: 
-Progreso: 
+terminado: true
+fecha_entrega: 2025-09-28
+fecha_terminado: 2025-09-28
+Completado: 39
+Incompleto: 0
+Total: 39
+antecesor: "[[--BINNACLE-- {W38}]]"
+sucesor: "[[--BINNACLE-- {W40}]]"
+links_url:
+Tiempo Objetivo:
+Progreso:
 tags:
 ---
 # ***--BINNACLE-- {W39}***
@@ -79,62 +80,51 @@ tags:
 
 
 ## Sábado
-- [ ] Recover SyS -> Reporte de lab #AEM
-- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO
 
->***PROC***
->
 # 🏆$AEM$
-- [ ] [[ROLLER TROLLER]]
-- [ ] Usar las notas ***Legend*** #AEM
-	- [ ] Domingo
-	- [ ] Lunes
-	- [ ] Martes
-	- [ ] Miércoles
-	- [ ] Jueves
-	- [ ] Viernes
-	- [ ] Sábado
-	- [ ] Subir una usando Quartz4
-- [ ] PROC - USACO [🍅:: 2] ^vjnp
+- [-] [[ROLLER TROLLER]] ❌ 2025-09-28
+- [-] Usar las notas ***Legend*** #AEM ❌ 2025-09-28
+	- [-] Subir una usando Quartz4 ❌ 2025-09-28
+- [-] PROC - USACO [🍅:: 2] ❌ 2025-09-28 ^vjnp
 
 # Hereda pendientes:
->*RÁFAGAS*
-- [ ] checar en la biblia de C
+>- [-] *RÁFAGAS* ❌ 2025-09-28
+- checar en la biblia de C
 
-- [ ] CURSITO DE MATLAB #ENHANCED/TECHMASTER  
+- CURSITO DE MATLAB #ENHANCED/TECHMASTER  
 
-- [ ] Arreglar apuntes
-	- [ ] SEÑALES Y SISTEMAS
-		- [ ] Write down the most important parts of his notes
-	- [ ] DISPOS ELECTRÓNICOS
-		- [ ] download his notes
-		- [ ] Check photos
+- Arreglar apuntes
+	- SEÑALES Y SISTEMAS
+		- Write down the most important parts of his notes
+	- DISPOS ELECTRÓNICOS
+		- download his notes
+		- Check photos
 
->[[DET. Fixing - Reminicencias PROC]]
->- [x] Problema ADHOC CF [🍅:: 2] ✅ 2025-09-21 ^e8rc
->	- [ ] [[21-09-2025]]
->- [ ] USACO #AEM
->- [ ] Leetcode ^9ube
->- [ ] Kattis
->- [ ] UVa
->- [ ] Leer libro de INTRODUCCIÓN A LA TEORÍA DE NÚMEROS
+>- [-] [[DET. Fixing - Reminicencias PROC]] ❌ 2025-09-28
+>- Problema ADHOC CF [🍅:: 2] ✅ 2025-09-21 ^e8rc
+>	- [[21-09-2025]]
+>- USACO #AEM
+>- Leetcode ^9ube
+>- Kattis
+>- UVa
+>- Leer libro de INTRODUCCIÓN A LA TEORÍA DE NÚMEROS
 
 
->*‼Break*
->- [ ] Curso de expresiones en inglés
->- [ ] Lección [[♠MasChesster]]
->- [ ] Clase de [[CURSO LATEX LIDSOL|LaTeX]]
+>- [-] *‼Break* ❌ 2025-09-28
+>- Curso de expresiones en inglés
+>- Lección [[♠MasChesster]]
+>- Clase de [[CURSO LATEX LIDSOL|LaTeX]]
 
-- [ ] EXPO Minería de datos
-- [ ] Práctica 1 por fin #AEM
-	- [ ] Formato para reportes `lab` en LaTeX
-	- [ ] Formato para `com`
-- [ ] Práctica 2
-	- [ ] `com`
-- [ ] Práctica 2 **completa**
-- [ ] Práctica 3 
-	- [ ] ``com``
-	- [ ] ``lab``
+- EXPO Minería de datos
+- Práctica 1 por fin #AEM
+	- Formato para reportes `lab` en LaTeX
+	- Formato para `com`
+- Práctica 2
+	- `com`
+- Práctica 2 **completa**
+- Práctica 3 
+	- ``com``
+	- ``lab``
 # BEYOND
 
 # Problemas encontrados
