@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🟧INESTABLE🟧
+status: 🟥CRÍTICO🟥
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -18,9 +18,9 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 | 0138  | 10       | [[programa_Dispos.pdf]]            | [[Dispos. Microelectronic_Circuit_Design.pdf]]                                                                                                | ✅ [[Lab de Dispositivos Electrónicos (Dispos)]] |              |
 |       |          |                                    | [[ACADEMIC/5 ° Semestre/_Libros/Dispos/Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf\|Dispos. Dispositivos Electrónicos - Floyd 8a ed]] |                                                 |              |
 
-| ⤵                   | :LiLink:                                                                                       |
-| ------------------- | ---------------------------------------------------------------------------------------------- |
-| [[Kanban - Dispos]] | [Tareas de Mango FI](https://drive.google.com/drive/folders/1hZTcZbz8f54gvRWt0Sp9pg86V5H0qLJQ) |
+| ⤵                   | :LiLink:                                                                                       | 🔼***Legend***                     |
+| ------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------- |
+| [[Kanban - Dispos]] | [Tareas de Mango FI](https://drive.google.com/drive/folders/1hZTcZbz8f54gvRWt0Sp9pg86V5H0qLJQ) | [[Lg - Dispositivos Electrónicos]] |
 
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Dispositivos Electrónicos (Dispos) en la carrera de [[Ingeniería en Computación]]
@@ -83,6 +83,9 @@ Esta asignatura presenta en su rúbrica de calificación apuntes hechos en clase
 ## *ETAPA INTERSEMESTRAL*
 - [x]  ✅ 2025-08-12
 
+## Etapa de Reincorporación
+- [ ] Dominar problemas de transistores
+- [ ] Sacar buena calificación en primer examen
 
 
 >## ***ETAPA FINAL***

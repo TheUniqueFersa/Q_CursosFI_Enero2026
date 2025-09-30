@@ -39,13 +39,13 @@ recurrencia:
 - [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]]
 - [ ] Sesión de Lectura de Libros OMM
 - [ ] Aprender y entender lo casos de uso de cada una de las estructuras en C++ para CP
-- [ ] [[Mapeo de Kattis]] 📅 2025-09-29
-- [ ] [[Mapeo UVa Online judge]] 📅 2025-09-29
+- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-01
 
 
 ## # Secuencia de *Problemas*<br>‼Yi
 
 **Complete**
+- [x] [[Mapeo de Kattis]] 📅 2025-09-30 ✅ 2025-09-30
 - [x] Saloneo ✅ 2024-12-05
 - [x] Organizar sesiones ✅ 2025-04-29
 - [x] Material para Flood Fill ✅ 2025-05-02
@@ -73,7 +73,7 @@ recurrencia:
 
 - [ ] Crear Notion
 - [ ] DSU 📅 2025-10-03 ^2eefaa
-- [ ] Combinatoria 📅 2025-10-01 ^e9a48d
+- [ ] Combinatoria 📅 2025-09-30 ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] [[GCD]]

@@ -26,7 +26,9 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Barras todos los días ⏳ 2025-09-29 📅 2025-10-04
+- [ ] Barras todos los días 📅 2025-10-04
+	- [x] Lunes ⏳ 2025-09-29 ✅ 2025-09-29
+	- [ ] Martes ⏳ 2025-09-30
 
 
 ## # Secuencia de Acciones<br>‼Yi

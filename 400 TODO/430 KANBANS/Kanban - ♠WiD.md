@@ -35,7 +35,7 @@ pertenece a: "[[♠Write It Down]]"
 - [ ] Entrada de lecturas tipo poesía y literatura
 - [ ] [[¿Qué es madurar?]]
 - [ ] [[OBSESIÓN]]
-- [ ] Fragmentos de realidad📅 2025-10-03 ⏳ 2025-09-29
+- [ ] Fragmentos de realidad 📅 2025-10-02
 
 
 ## ``Oda a la vida``

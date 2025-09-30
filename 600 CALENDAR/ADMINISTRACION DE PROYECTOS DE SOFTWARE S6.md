@@ -1,7 +1,7 @@
 ---
 event-id: usbv82cpfbbt37gch2ttid3ahu_20250927T133000Z
 pertenece a:
-  - "[[♠A-T Administración de Proyectos de Software (Admon)]]"
+  - "[[♠A-T Administración de Proyectos de Software (Admin)]]"
 scope:
 ancestro_directo:
 tipo_nota: atomica

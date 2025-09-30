@@ -8,7 +8,7 @@ serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T Señales y Sistemas]]"
-ESTADO_RECOLECCION: "[[♣Learn]]"
+ESTADO_RECOLECCION: COMPRENSIÓN
 ---
 # ***Lab de Señales y Sistemas***
 
@@ -32,8 +32,10 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 - [-] XD ❌ 2025-09-02
 
 ## *Primera práctica*
-- [ ] Hacer un buen reporte #MILESTONE ->`XD`
-## Segunda Práctica
+- [>] Hacer un buen reporte #MILESTONE ->`XD`
+## Segunda Práctica (Etapa de reincorporación)
+- [ ] Buen reporte (aunque mi abuelito nos haya dado todo)
+
 - Tercera Práctica
 - Cuarta Práctica
 - Quinta Práctica

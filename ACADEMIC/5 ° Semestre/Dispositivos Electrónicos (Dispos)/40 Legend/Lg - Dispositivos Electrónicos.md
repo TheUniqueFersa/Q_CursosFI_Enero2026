@@ -13,7 +13,7 @@ scope: General
 - [[3. El diodo semiconductor y modelos]]
 - [[4. El transistor bipolar de juntura (TBJ)]]
 - [[5. El amplificador operacional]]
-- [[6. El transistor de efecto de campo (FET]]
+- [[6. El transistor de efecto de campo (FET)]]
 - [[7. Introducción a los reguladores de tensión]]
 - [[8. Dispositivos ópticos y de potencia]]
 

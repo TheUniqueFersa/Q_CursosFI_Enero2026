@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🟥CRÍTICO🟥
+status: 🟧INESTABLE🟧
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -46,6 +46,10 @@ La estructura de temas de la asignatura dada por el profesor modifica la secuenc
 - Teoría de conjuntos
 - Algoritmos y estructuras de datos
 - Matemáticas discretas
+
+## ETAPA DE REINCORPORACIÓN
+- [ ] Estar al corriente con los temas, desplegando sesiones de A-T antes de clases
+- [ ] Participar a lo bestia por si la revisión 1 no me contó
 
 ## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

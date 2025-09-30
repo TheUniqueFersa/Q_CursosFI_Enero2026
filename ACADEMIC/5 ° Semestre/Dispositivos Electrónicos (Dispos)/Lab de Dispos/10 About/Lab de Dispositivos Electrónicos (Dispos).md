@@ -1,14 +1,14 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🟧INESTABLE🟧
+status: 🟥CRÍTICO🟥
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T Dispositivos Electrónicos (Dispos)]]"
-ESTADO_RECOLECCION: RETENCIÓN
+ESTADO_RECOLECCION: "[[♣Recover]]"
 ---
 # ***Lab de Dispositivos Electrónicos (Dispos)***
 
@@ -17,7 +17,7 @@ ESTADO_RECOLECCION: RETENCIÓN
 | 5138  | [[MANUAL_DE_Comp.pdf]] | [[Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf]] |              |
 |       |                        | (Más libros en Carpeta _Libros)                         |              |
 
-| ⤵                          |                                                           |
+| ⤵                          | 📌                                                        |
 | -------------------------- | --------------------------------------------------------- |
 | [[Kanban - Lab de Dispos]] | [[Prompt para pedir contexto de las prácticas de Dispos]] |
 
@@ -37,6 +37,11 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 ## *ETAPA INTERSEMESTRAL*
 - [-] XD ❌ 2025-09-02
 
+## ETAPA DE REINCORPORACIÓN
+- [ ] (Repay) - Práctica 5
+- [ ] Buena práctica 6
+	- [ ] Previo
+	- [ ] Reporte
 
 ## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

@@ -1,6 +1,6 @@
 ---
 pertenece a:
-  - "[[♠A-T Administración de Proyectos de Software (Admon)]]"
+  - "[[♠A-T Administración de Proyectos de Software (Admin)]]"
 ---
 # NOTAS DE SESIÓN
 - 

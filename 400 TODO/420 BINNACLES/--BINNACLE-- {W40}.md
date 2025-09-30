@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 2
+Completado: 6
 Incompleto: 42
-Total: 44
+Total: 48
 antecesor: 
 sucesor: 
 links_url: 
@@ -26,20 +26,32 @@ tags:
 ## Domingo
 - [x] Algo inspirador que me recuerde que debo ser [[Un Ingeniero de Verdad]] ✅ 2025-09-28
 ## Lunes
+>![[29-09-2025#^34568e]]
+
+- [x] Señales y Sistemas #AEM ✅ 2025-09-29
+	- [x] Analizar todos los problemas (lo que nos piden) de la serie ✅ 2025-09-29
+
+- [x] Pensar en como hacer la presentación LFyA #AEM ✅ 2025-09-30
+
+
+
+## Martes
+
 - [ ] **MANUAL RECOVERY** #AEM 
-- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO #AEM 
+
 
 >***PROC***
 - [ ] Hacer notas de todo lo que vimos el sábado #AEM 
 - [ ] Hacer 2 problema del sábado
 - [ ] Intentar problemas de tarea 
-	- [ ] 1|
+	- [ ] 1
 	- [ ] 2
 	- [ ] 3
-- [ ] Previo 06 lab dispos #AEM 
 
+- [ ] VIDEO TROLL DE LA PRESENTACIÓN DEL GILARDO #AEM 
 - [ ] Recover SyS -> Reporte de lab
-## Martes
+
+- [ ] Corregir Señales y Sistemas #AEM
 ## Miércoles
 ## Jueves
 ## Viernes

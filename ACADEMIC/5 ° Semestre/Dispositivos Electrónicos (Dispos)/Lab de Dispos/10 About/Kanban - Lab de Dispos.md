@@ -22,7 +22,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 5 Lab de Dispos]]
+- [ ] [[Práctica 6 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
