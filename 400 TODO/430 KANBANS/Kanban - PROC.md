@@ -23,6 +23,7 @@ recurrencia:
 
 ## Incoming Problems
 
+- [ ] Permutations **CSES**
 - [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]] ^3d4ba1
 - [ ] # W1
 	- [ ] NumTheory
