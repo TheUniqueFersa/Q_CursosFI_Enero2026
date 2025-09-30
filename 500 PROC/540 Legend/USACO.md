@@ -17,7 +17,7 @@ Total: 3
 # Mapeo USACO
 >Mapping [USACO GUIDE](https://usaco.guide/dashboard/)
 - [GENERAL](https://usaco.guide/general)
-	- Getting Started
+	- [[Getting Started]]
 	- Contributing
 	- General Resources
 	- Language - Specific
