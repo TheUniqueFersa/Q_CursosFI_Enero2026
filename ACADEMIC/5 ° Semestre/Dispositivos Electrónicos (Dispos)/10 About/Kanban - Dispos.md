@@ -18,7 +18,7 @@ pertenece a:
 ## **Propuesta de Acciones**
 
 - [ ] Completar conceptos de Tema 3 ([[Lg - Dispositivos Electrónicos]])
-- [ ] [[Tarea 9 - Dispos]]
+- [ ] Completar los conceptos del tema 4 (transistores)
 
 
 ## Listos para ♦(...R) X-chelons

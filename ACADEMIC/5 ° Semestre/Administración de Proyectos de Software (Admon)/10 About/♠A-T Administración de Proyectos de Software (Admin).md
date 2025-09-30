@@ -8,7 +8,7 @@ serie:
 tags:
   - ♠A-T
 antecesor: "[[♠A-T Ingeniería de Software]]"
-ESTADO_RECOLECCION: "[[♠A-time]]"
+ESTADO_RECOLECCION: "[[♣Learn]]"
 ---
 # ***♠A-T Administración de Proyectos de Software (Admon)***
 

@@ -18,17 +18,18 @@ pertenece a:
 
 ## **Propuesta de Acciones**
 
-- [ ] Presentación Karaoke
-- [ ] Revisión 1
+- [ ] Revisar las presentaciones de mis compañeros de la Revisión 1 para chismear y practicas ER
 
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] [[Presentación Karaoke]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Revisión 1]] ✅ 2025-09-29
 
 
 

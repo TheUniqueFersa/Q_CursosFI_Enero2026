@@ -34,6 +34,9 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 ## *ETAPA INTERSEMESTRAL*
 - [-] XD ❌ 2025-09-04
 
+## ETAPA DE REINCORPORACIÓN
+- [ ] Buena exposición 
+- [ ] A-T con los temas
 
 ## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

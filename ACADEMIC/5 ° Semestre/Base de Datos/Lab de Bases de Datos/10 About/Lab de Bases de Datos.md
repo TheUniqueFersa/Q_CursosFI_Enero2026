@@ -33,8 +33,15 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab d
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 - [-] XD ❌ 2025-09-16
-# ETAPA ==RECOVERY==
+## ETAPA ==RECOVERY==
 - [ ] [[ESCALÓN CERO]]
+
+## ETAPA **==A-T==**
+- [ ] Todas las prácticas pendientes después de ==MANUAL_RECOVERY==
+	- [ ] 5
+	- [ ] 6
+	- [ ] 7 (previo)
+	- [ ] 8 (previo)
 
 ## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

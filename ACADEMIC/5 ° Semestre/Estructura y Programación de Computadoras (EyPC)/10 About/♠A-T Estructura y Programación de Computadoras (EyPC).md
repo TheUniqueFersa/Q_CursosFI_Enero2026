@@ -1,13 +1,13 @@
 ---
 "\rptetra": "[[♠A-time]]"
 estado: En ejecución
-status: 🟧INESTABLE🟧
+status: 🟥CRÍTICO🟥
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
 tags:
   - ♠A-T
-ESTADO_RECOLECCION: COMPRENSIÓN
+ESTADO_RECOLECCION: "[[♣Recover]]"
 ---
 # ***♠A-T Estructura y Programación de Computadoras***
 
@@ -30,7 +30,11 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
+- [-] LOL ❌ 2025-09-29
 
+## ETAPA DE REINCORPORACIÓN
+- [ ] Buen proyecto 1
+- [ ] Con todos los extras
 
 # ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🔲INGAP🔲
+status: 🟧INESTABLE🟧
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -9,7 +9,7 @@ tags:
   - ♠A-T
 antecesor: "[[Lg - Matemáticas Avanzadas]]"
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
-ESTADO_RECOLECCION: "[[♣Learn]]"
+ESTADO_RECOLECCION: COMPRENSIÓN
 ---
 # ***♠A-T Señales y Sistemas***
 
@@ -40,9 +40,10 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 - [-] XD ❌ 2025-09-27
-## Primera Etapa (Primer examen)
+## Primera Etapa (Etapa de Reincorporación)
 - [ ] Hacer toda la serie 1
 - [ ] Sacar buena calificación en el primer examen
+- [ ] Hacer 2 tareas morales relacionadas con programar
 
 
 >## ***ETAPA FINAL***

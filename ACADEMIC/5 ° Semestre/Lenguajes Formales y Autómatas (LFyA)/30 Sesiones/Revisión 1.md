@@ -55,7 +55,13 @@ Considerando el alfabeto Σ={a,b,c,d,e,f,g,h,i,j,k,l,m,n,ñ,o,p,q,r,s,t,u,v,w,x,
 # 11
 La investigación
 - [x] Reportar resultados ✅ 2025-09-27
-# 12
+# Sección 4: ER vida real
+
+| Recursos                                                                                                                                                              |     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [Google collab con el ejercicio de REGEX en un conjunto de datos del gobierno](https://colab.research.google.com/drive/1GEocjK9wgM1s_Ww5EZkxxvJrmZnY1cXw?usp=sharing) |     |
+
+## 12
 - [x] Checar el link ✅ 2025-09-24
 - [x] Hacer la regex ✅ 2025-09-24
 - [x] Reportar resultados ✅ 2025-09-27

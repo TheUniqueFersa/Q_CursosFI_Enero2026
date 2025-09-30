@@ -57,7 +57,7 @@ fecha_terminado:
 - [ ] [[♠A-T Lenguajes Formales y Autómatas]]
 - [ ] [[♠A-T Señales y Sistemas]]
 	- [ ] [[Lab de Señales y Sistemas]]
-- [ ] [[♠A-T Administración de Proyectos de Software (Admon)]]
+- [ ] [[♠A-T Administración de Proyectos de Software (Admin)]]
 - [ ] [[♠A-T Bases de Datos]]
 	- [ ] [[Lab de Bases de Datos]]
 
