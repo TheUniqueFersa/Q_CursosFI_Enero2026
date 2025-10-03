@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🟥CRÍTICO🟥
+status: 🟧INESTABLE🟧
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -64,28 +64,38 @@ Se realizará una "libreta" de **apuntes de clase**
 >- Se hacen ejercicios y se resuelven (anexarlos a las notas)
 >💭 No es una transcripción de los apuntes del profe
 
-### 🔼 ***Legend***
-🔼 Las notas Legend que especifica el modelo de [[►Recolección Wissen-Garden]] para asignaturas de tipo matemática (como esta ciertamente) son ***FORMULARIUMS*** por definición.
-Esta asignatura presenta en su rúbrica de calificación apuntes hechos en clase, por lo que 
->dichos apuntes representarán la parte del proceso de Recolección ***==Legend==*** para esta asignatura
 
 
 ---
 # Planeación - MODELO
 ## ►MODELO `CORE`
+### 🔼 ***Legend***
+🔼 Las notas Legend que especifica el modelo de [[►Recolección Wissen-Garden]] para asignaturas de tipo matemática (como esta ciertamente) son ***FORMULARIUMS*** por definición.
 
-## Declaración de Etapas
+Esta asignatura presenta en su rúbrica de calificación apuntes hechos en clase, por lo que 
+>dichos apuntes representarán la parte del proceso de Recolección ***==Legend==*** para esta asignatura
 
-- 
+### 🔼 CLASE
+Durante la clase se hará:
+- Intentar descifrar el código Ranulfma
+
+- Lee cualquiera de los ``books`` y relacionarlo con el tema que estamos viendo
+### 🔼 Práctica Posterior
+>El mismo dia
+- Se hace la tarea que esté asignada para la siguiente sesión 
+
 
 ---
 # Misión
 ## *ETAPA INTERSEMESTRAL*
 - [x]  ✅ 2025-08-12
 
-## Etapa de Reincorporación
-- [ ] Dominar problemas de transistores
-- [ ] Sacar buena calificación en primer examen
+## ETAPA DE REINCORPORACIÓN
+>💥 DET.FIX - LA MÁQUINA M.
+
+- [ ] Hacer todos los ejercicios de la tarea de transistores
+- [ ] Saberle a los transistores para cuando regresemos
+- [ ] Sacar buena calificación en el primer examen (diodos y transistores)
 
 
 >## ***ETAPA FINAL***

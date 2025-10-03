@@ -23,13 +23,13 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Presentación Karaoke]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
 - [x] [[Revisión 1]] ✅ 2025-09-29
+- [x] [[Presentación Karaoke]] ✅ 2025-10-02
 
 
 

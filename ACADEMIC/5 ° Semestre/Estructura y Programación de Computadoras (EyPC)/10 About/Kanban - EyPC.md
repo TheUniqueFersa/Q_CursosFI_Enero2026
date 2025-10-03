@@ -14,6 +14,8 @@ pertenece a:
 
 ## # #Pendiente
 
+- [ ] Ver vidio
+	[Loco](https://www.youtube.com/watch?v=k_S_Nf_6weE)
 
 
 ## **Propuesta de Acciones**

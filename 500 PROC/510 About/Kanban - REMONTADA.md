@@ -30,6 +30,7 @@ pertenece a:
 		- [ ] 2
 		- [ ] 3
 		- [ ] 4
+- [ ] Hacer los problemas de tarea de W1 #MILESTONE
 
 
 ## # Secuencia de Acciones<br>‼Yi
@@ -39,10 +40,19 @@ pertenece a:
 
 ## # #MILESTONE
 
-- [ ] *Nivel 5* en **ThemeCP** #MILESTONE ^08580c
-- [ ] *Nivel 10* en **ThemeCP** #MILESTONE/ORDEN_SUPERIOR ^b8c167
+- [ ] *Nivel 5* en **ThemeCP**  📅 2025-10-30 #MILESTONE ^08580c
+- [ ] *Nivel 10* en **ThemeCP** 📅 2025-11-30 #MILESTONE/ORDEN_SUPERIOR ^b8c167
 - [ ] *Nivel 15* en **ThemeCP** #MILESTONE/ORDEN_SUPERIOR ^d59ca9
 - [ ] *NIvel 20* En **ThemeCP** #MILESTONE/ORDEN_SUPERIOR ^c763c2
+- [ ] # CF
+	Llegar a ser pupil #MILESTONE/ORDEN_SUPERIOR
+- [ ] # **CSES**
+	Hacer 30 problemas
+- [ ] # USACO
+	Completar Bronze #MILESTONE/ORDEN_SUPERIOR
+- [ ] # USACO
+	Completar Silver
+	#MILESTONE/ORDEN_SUPERIOR
 
 
 

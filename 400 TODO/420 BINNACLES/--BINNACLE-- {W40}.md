@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 6
+Completado: 16
 Incompleto: 42
-Total: 48
+Total: 58
 antecesor: 
 sucesor: 
 links_url: 
@@ -34,10 +34,27 @@ tags:
 - [x] Pensar en como hacer la presentación LFyA #AEM ✅ 2025-09-30
 
 
-
 ## Martes
 
-- [ ] **MANUAL RECOVERY** #AEM 
+- [x] **MANUAL RECOVERY** #AEM ✅ 2025-09-30
+- [x] Formato para `com` ✅ 2025-09-30
+## Miércoles
+>![[01-10-2025#^dac4cd]]
+
+- [x] Práctica 5 ✅ 2025-10-02
+- [x] Práctica 2 `com` ✅ 2025-10-02
+- [x] VIDEO cOJUDO De LFyA ✅ 2025-10-02
+## Jueves
+
+- [ ] ver lo del Proyecto cojudo de EyPC #AEM 
+>![[02-10-2025#^95bd0c]]
+
+- [ ] ``com`` 03 #AEM
+- [ ] `lab` 06 #AEM
+
+
+>![[02-10-2025#^2e87c6]]
+>![[02-10-2025#^c95f45]]
 
 
 >***PROC***
@@ -52,28 +69,28 @@ tags:
 - [ ] Recover SyS -> Reporte de lab
 
 - [ ] Corregir Señales y Sistemas #AEM
-## Miércoles
-## Jueves
+
+>![[02-10-2025#^b5039f]]
+
+- [ ] T13 Dispos #AEM (2 ejercicios)
+- [ ] 7 ejercicios de la serie SyS #AEM
+
 ## Viernes
 ## Sábado
+- [ ] ``Pr`` 07  #AEM
 
 # 🏆$AEM$
 - [ ] [[ROLLER TROLLER]]
 - [ ] Usar las notas **Legend** -> *FORMULARIUM*
 	- [x] Domingo ✅ 2025-09-28
-	- [ ] Lunes
+	- [x] Lunes ✅ 2025-09-30
+	- [x] Martes ✅ 2025-09-30
+	- [>] Miércoles
+	- [ ] Jueves
 	- [ ] Subir una usando Quartz4
 - [ ] PROC - USACO
 
 
-# Hereda pendientes:
-# ***--BINNACLE-- {W40}***
-
-| 🏁 X-Chelons Asociados | ⏳ $T$ | Hora Inicio | 🏁 Hora estimada de Término |
-| ---------------------- | ----- | ----------- | --------------------------- |
-|                        |       |             |                             |
-# 🏆$AEM$
-- 
 
 
 # Hereda pendientes:
@@ -92,9 +109,9 @@ tags:
 >[[DET. Fixing - Reminicencias PROC]]
 >- [x] Problema ADHOC CF [🍅:: 2] ✅ 2025-09-21 ^e8rc
 >	- [ ] [[21-09-2025]]
->- [ ] USACO #AEM
+>- [x] USACO #AEM ✅ 2025-09-30
 >- [ ] Leetcode ^9ube
->- [ ] Kattis
+>- [x] Kattis ✅ 2025-09-30
 >- [ ] UVa
 >- [ ] Leer libro de INTRODUCCIÓN A LA TEORÍA DE NÚMEROS
 
@@ -107,10 +124,7 @@ tags:
 - [ ] EXPO Minería de datos
 - [ ] Práctica 1 por fin #AEM
 	- [ ] Formato para reportes `lab` en LaTeX
-	- [ ] Formato para `com`
 - [ ] Práctica 2
-	- [ ] `com`
-- [ ] Práctica 2 **completa**
 - [ ] Práctica 3 
 	- [ ] ``com``
 	- [ ] ``lab
@@ -121,17 +135,5 @@ tags:
 
 # Decisiones Tomadas
 
----
-# Distracciones
-
-
-
-# BEYOND
-
-# Problemas encontrados
-
-# Decisiones Tomadas
-
----
 # Distracciones
 
