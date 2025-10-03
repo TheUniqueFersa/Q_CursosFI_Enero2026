@@ -29,13 +29,31 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 ---
 # Planeación - MODELO
 ## ►MODELO `CORE`
+
+| Convenciones | Significado                                                                                                                                                                                                          |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `tema`       | Cada tema de la nueva estructura de temas                                                                                                                                                                            |
+| `book`       | Libro estándar elegido ([[♦SuferBrainstorming/1'S/Sector Conocimientos & Habilidades/♠Read/LIGHTVOLT 3/AGM/TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf\|TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft]]) |
+| `Gnotebook`  | Nota de GoodNotes                                                                                                                                                                                                    |
+
 La estructura de temas de la asignatura dada por el profesor modifica la secuencia original del programa, por lo tanto a cada uno de los temas en la *nueva estructura de temas* se le llama `tema`[^2]
 ### Notas ***🔼 Legend***
 
 | `tema` | Notas | Tema Inicio | Tema final |
 | ------ | ----- | ----------- | ---------- |
 |        |       |             |            |
+### 🔼 Previo
+- Revisar el [calendario](Calendario de clases) y ver que tema nos toca de acuerdo al *día*
+- Checar y ver material relacionado al tema [en su página](https://turing.iimas.unam.mx/~ivanvladimir/page/curso_lfya/?authuser=0&hl=es)
+	- Hacer *notas previas*
+- Leer el tema correspondiente en `book`
 
+- Revisar la presentación de ejercicios de dicho tema e ir haciendo el `Gnotebook`
+
+### 🔼 Práctica posterior
+- Hacer la nota ***FORMULARIUM*** sobre el tema anterior (indicar los temas que abarca)
+
+- Hacer ejercicios de Revisión $x$
 
 ---
 # Misión

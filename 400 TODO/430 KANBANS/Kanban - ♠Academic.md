@@ -25,12 +25,12 @@ recurrencia:
 
 - [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) W1 ^e14b86
 	- [-] Domingo 📅 2025-09-28 ❌ 2025-09-28
-	- [ ] Lunes
-	- [ ] Martes
-	- [ ] Miércoles
-	- [ ] Jueves
+	- [>] Lunes
+	- [>] Martes
+	- [-] Miércoles 📅 2025-10-01 ❌ 2025-10-02
+	- [ ] Jueves 📅 2025-10-02 
 	- [ ] Viernes
-- [ ] Establecer las notas universales para Academic 📅 2025-09-29 ^88d66c
+- [ ] Establecer las notas universales para Academic ^88d66c
 - [ ] Subir alguna nota a ==Quartz4==
 
 

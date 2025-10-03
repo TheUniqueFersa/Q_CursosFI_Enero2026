@@ -2,19 +2,18 @@
 pertenece a:
   - "[[♠A-T Lenguajes Formales y Autómatas]]"
 fecha_entrega: 2025-10-06
-fecha_terminado:
+fecha_terminado: 2025-10-01
+terminado: true
 ---
 # ***Presentación Karaoke***
-
 
 | Presentación asignada                                                                       |                                   |
 | ------------------------------------------------------------------------------------------- | --------------------------------- |
 | [JoséManuel_12.pdf](https://drive.google.com/file/d/15HFxxCcVIb0GxJuJN8TfKqYc6Sb_e7hh/view) | Guardada en *holafersa.academico* |
-Duración: **5 min**
-
+Duración: ~~**5 min**~~ ->  9 minutos
 
 # ¿Qué son los LFyA?
-
+Wua wua
 
 # Sección cuatro: ER vida real
 ## Explicación del problema
@@ -77,11 +76,9 @@ datos_filtrados.RESPUESTA.count()
 
 
 ## De la vida real
-- [ ] Explicar por qué es de la vida real
+- [x] Explicar por qué es de la vida real ✅ 2025-10-02
 - REGEX
 - BD
-- 
-
 # GRACIAS POR SU ATENCIÓN ==EMOJI EMOJI==
 
 [^1]: Qué es un dataframe

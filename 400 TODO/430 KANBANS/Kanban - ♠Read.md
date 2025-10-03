@@ -46,7 +46,7 @@ pertenece a: "[[♠Read]]"
 	- Principio de las casillas
 	- Álgebra
 	## Orden
-	- [ ] W1 📅 2025-09-30
+	- [ ] W1 📅 2025-10-02
 - [ ] Ordenar la secuencia de libros de CS que quiero leer
 - [ ] Hacer la secuencia de libros de los pendientes para terminarlos todos
 - [ ] 5 libros

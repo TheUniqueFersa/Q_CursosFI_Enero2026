@@ -24,7 +24,6 @@ recurrencia:
 ## Incoming Problems
 
 - [ ] Permutations **CSES**
-- [ ] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]] ^3d4ba1
 - [ ] # W1
 	- [ ] NumTheory
 		- [ ] Primes
@@ -40,12 +39,14 @@ recurrencia:
 - [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]]
 - [ ] Sesión de Lectura de Libros OMM
 - [ ] Aprender y entender lo casos de uso de cada una de las estructuras en C++ para CP
-- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-01
+- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-02
 
 
 ## # Secuencia de *Problemas*<br>‼Yi
 
 **Complete**
+- [x] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]] ✅ 2025-10-01 ^3d4ba1
+- [x] Combinatoria 📅 2025-09-30 ✅ 2025-09-30
 - [x] [[Mapeo de Kattis]] 📅 2025-09-30 ✅ 2025-09-30
 - [x] Saloneo ✅ 2024-12-05
 - [x] Organizar sesiones ✅ 2025-04-29
@@ -74,7 +75,6 @@ recurrencia:
 
 - [ ] Crear Notion
 - [ ] DSU 📅 2025-10-03 ^2eefaa
-- [ ] Combinatoria 📅 2025-09-30 ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] [[GCD]]

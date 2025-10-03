@@ -13,8 +13,10 @@ pertenece a:
 - Remontar y demostrar que DESEMPLEADOS FI son capaces de llegar lejos en la *trayectoria PROC*
 # Planeación - MODELO
 ## ➡️ [[USACO SILVER CLASS FALL 2025]]
+>4 problemas pesados por semana
 
-## Lo que hacia MANGOFI
+## ➡ **ThemeCP** 3 veces a la semana
+### Lo que hacia MANGOFI
 4 problemas de temas distintos
 
 Terminando el ThemeCP:
@@ -24,25 +26,32 @@ Terminando el ThemeCP:
 Le bajaban un nivel
 Hacía un nuevo ThemeCP con el `tag` específico
 
-
-## Leer libros 
-
-
 Sacar en cualquier tema mínimo ***1200***
-
 
 En el nivel 10 -> 
 
 Hasta nivel 15 -> HACER los ThemeCP combinados
 
+A partir de ahí, intentar especializarnos
 
-A partir de ahí, intentar especializarno
+## ➡ 2 Divs a la semana
 
+## ➡ 1 Contest tipo A[^1]
+>Ya sea de [GYM](https://codeforces.com/gyms) en CF, o construido por nosotros con la cola de problemas
 
+## ➡ 10 Problemas semanales
+#MILESTONE/INCREMENTABLE
+
+## ➡ Leer libros (CP4, El de mango)
+>Incluyendo al menos 2 problemas #MILESTONE/INCREMENTABLE  por cada sesión de lectura
+
+## ➡ Problemas *Repay* (3)
+#MILESTONE/INCREMENTABLE 
+
+---
 # Misión
 ## PRIMERA ETAPA
 >![[Kanban - REMONTADA#^08580c]]
-
 
 
 
@@ -64,3 +73,5 @@ A partir de ahí, intentar especializarno
 | MangoFI    | Fersa  |
 | ---------- | ------ |
 | Num Theory | Graphs |
+
+[^1]: Tipo A: del formato de ICPC (más de 10 problemas en 5 horas)

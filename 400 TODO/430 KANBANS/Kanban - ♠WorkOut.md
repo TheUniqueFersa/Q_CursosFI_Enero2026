@@ -28,7 +28,9 @@ recurrencia:
 
 - [ ] Barras todos los días 📅 2025-10-04
 	- [x] Lunes ⏳ 2025-09-29 ✅ 2025-09-29
-	- [ ] Martes ⏳ 2025-09-30
+	- [x] Martes ⏳ 2025-09-30 ✅ 2025-09-30
+	- [-] Miércoles ⏳ 2025-10-01 ❌ 2025-10-02
+	- [ ] Viernes ⏳ 2025-10-03
 
 
 ## # Secuencia de Acciones<br>‼Yi

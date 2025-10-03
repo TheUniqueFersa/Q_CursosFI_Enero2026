@@ -1,3 +1,12 @@
+---
+terminado: true
+pertenece a:
+  - "[[Lab de Bases de Datos]]"
+Total: 7
+Completado: 6
+Incompleto: 1
+---
+
 >ℹ Notas sobre la práctica 1
 
 >La máquina donde se aloja el linux instalado se le llamará **máquina host**

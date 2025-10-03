@@ -28,7 +28,7 @@ pertenece a: "[[♠ALGORITMIA]]"
 - [ ] # Problema :SiLeetcode: Leetcode ^3caaaf
 	- 1 -> Empezar con el problema diario
 	- [x] Leer el problema y pensarlo 📅 2025-09-28 ✅ 2025-09-28 ^3caaaf
-	- [ ] Es un problema de geometría, cómo debería abordarlo? 📅 2025-10-01
+	- [ ] Es un problema de geometría, cómo debería abordarlo? 📅 2025-10-03
 - [ ] Establacer ALGORITMIA #Read 
 	
 	- [x] Elegir libro 📅 2025-08-16 ✅ 2025-08-17
