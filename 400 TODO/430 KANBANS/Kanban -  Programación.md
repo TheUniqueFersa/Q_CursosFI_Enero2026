@@ -2,9 +2,9 @@
 
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
-Total: 59
-Completado: 14
-Incompleto: 45
+Total: 61
+Completado: 15
+Incompleto: 46
 tags:
   - Active_kanban/♣T-Programacion
   - PJunior
@@ -25,7 +25,7 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ---
 
-## # --STATIC--<br>Aquí residen principalmente [[♠BrainOut|BO]]s que involucran los lenguajes descritos. <br><br>Adicionalmente, este Kanban formará parte de diferentes [[Ptetra|ptetras]] [[►PREZZER|ZERIADOS]] relacionados con la **Serie**: Programación Competitiva
+## # --STATIC--<br>Aquí residen principalmente [[♠BrainOut|BO]]s que involucran los lenguajes descritos. <br><br>Adicionalmente, este Kanban formará parte de diferentes [[Ptetra|ptetras]] [[►PREZZER|ZERIADOS]] relacionados con la **Serie**: Programación Competitiva<br><br># [[Kanban - Proyectos ♣T - Programador Junior]]
 
 
 
@@ -71,10 +71,9 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Aprender a documentar en **#LaTeX**
+- [ ] Aprender a usar Quartz4 📅 2025-10-07
+- [ ] Aprender a documentar en **#LaTeX** 📅 2025-10-08
 - [ ] #MILESTONE Aprender Linux bien
-- [ ] Elegir un proyecto de programación y trollearlo 📅 2025-10-02
-- [ ] Aprender a usar Quartz4
 - [ ] Una calculadora de gastos semanales en cel
 	#♣_PROYECTO_♣
 - [ ] Programar un conversor de hexadecimal a binario en wEB
@@ -108,6 +107,8 @@ pertenece a: "[[♣T - Programador Junior]]"
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Elegir un proyecto de programación y trollearlo 📅 2025-10-02 ✅ 2025-10-02
+	- [[Proyecto cojudo de EyPC]]
 - [x] Intentar lo de las notas de obsidian usando git 📅 2025-08-19 ✅ 2025-08-24
 - [x] [[GYM - 2. S1]] ✅ 2025-06-15
 - [x] #MILESTONE Reformar [[♠ALGORITMIA]] ✅ 2025-07-27

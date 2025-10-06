@@ -1,0 +1,82 @@
+---
+fecha: 2025-09-11
+pertenece a:
+  - "[[{W38-2025}]]"
+tipo: -- ESCALON --
+tipo_nota: Bitácora
+Participantes:
+  - "[[FERSA]]"
+terminado: false
+fecha_entrega: 2025-09-21
+fecha_terminado:
+Completado: 11
+Incompleto: 5
+Total: 16
+antecesor:
+sucesor: "[[ESCALÓN UNO]]"
+links_url:
+Tiempo Objetivo: 1020
+Progreso:
+tags:
+  - XCH/ALON
+---
+# ***ESCALÓN CERO***
+>- [ ] ==Corregir== Academic y mi **INCOMING** #XCH 
+
+| 🏁 X-Chelons Asociados       | ⏳ $T$    | Hora Inicio | 🏁 Hora estimada de Término |
+| ---------------------------- | -------- | ----------- | --------------------------- |
+| ![[Kanban - Lab BD#^e495bc]] | ***5H*** |             |                             |
+| ![[14-09-2025#^95fca0]]      | 12H      | 06:30 am    | 06:30 pm                    |
+|                              |          |             |                             |
+# 🏆$AEM$
+- [x] **==MANUAL RECOVERY==** #AEM ✅ 2025-09-11
+
+- [x] Formato de práctica lab #AEM [🍅:: 1] ✅ 2025-10-01 ^66f9
+	- [x] Hacer el provisional #AEM ✅ 2025-10-01
+
+- [ ] Checar la instalación de ER Studio en linux #AEM 
+
+- [x] Práctica 5 ✅ 2025-10-02
+	- [x] Previo 5 #AEM ✅ 2025-09-21
+- [x] Previo 6 #AEM ✅ 2025-09-21
+
+- [x] Practica 4 #AEM ✅ 2025-09-14
+
+- [ ] Comandos básicos del **==MANUAL_RECOVERY==**
+
+- [x] CORREGIR LFyA #AEM ✅ 2025-10-02
+	- [x] Presentación ✅ 2025-09-24
+	- [x] Revisión ✅ 2025-10-01
+	- [x] Karaoke ✅ 2025-10-02
+
+- [ ] Terminar ***==MANUAL_RECOVERY==*** #AEM
+
+- [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE 
+
+# Hereda pendientes:
+
+# BEYOND
+
+# Problemas encontrados
+
+# Decisiones Tomadas
+==Primer paso para la grandeza==
+Debo generar escalones consistentes y estables
+
+- La corrección de mi error que he llevado arrastrando desde que inicio el semestre es primordial pues probará si *realmente me estoy comprometiendo*.
+
+- El ==comprometerme con mi obsesión== (PROC), corregirá todo lo malo en mi
+
+Debo hacer que se arrepienta de la decisión, no por mala onda, sino porque no soy el que cree que soy.
+Nadie realmente me conoce, he estado inactivo por mucho tiempo, pero es tiempo de que finalmente de el primer paso.
+
+>==El que quiere, lo hará==[^1]
+
+>Todos dicen que no se puede todo a la vez.
+>Yo digo que si tienes un sistema al nivel de lo que quieres lograr, lo puedes lograr definiticvamente. Solo falta que domines tu poder, domines tu don, tu imitancia y tu obsesión. Compromiso y obsesión es la clave de un sistema complejo, porque solo ambas en conjunto generan una fuente
+>Y lo demostraré
+
+---
+# Distracciones
+
+[^1]: Aplica para todo, inclusive la 3° sección...

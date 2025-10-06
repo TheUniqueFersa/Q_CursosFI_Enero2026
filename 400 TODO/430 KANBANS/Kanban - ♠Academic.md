@@ -23,20 +23,24 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) W1 ^e14b86
-	- [-] Domingo 📅 2025-09-28 ❌ 2025-09-28
-	- [>] Lunes
-	- [>] Martes
-	- [-] Miércoles 📅 2025-10-01 ❌ 2025-10-02
-	- [ ] Jueves 📅 2025-10-02 
-	- [ ] Viernes
-- [ ] Establecer las notas universales para Academic ^88d66c
+- [ ] Hacer notas con el enfoque FORMULARIUM
+	- [ ] Lunes 📅 2025-10-06 
+	- [ ] Miercoles 📅 2025-10-08
+- [ ] Establecer las notas universales para Academic 📅 2025-10-06 ^88d66c
 - [ ] Subir alguna nota a ==Quartz4==
 
 
 ## ‼Yi
 
 **Complete**
+- [x] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) W1 ✅ 2025-10-05
+	- [-] Domingo 📅 2025-09-28 ❌ 2025-09-28
+	- [>] Lunes
+	- [>] Martes
+	- [-] Miércoles 📅 2025-10-01 ❌ 2025-10-02
+	- [x] Jueves 📅 2025-10-02 ✅ 2025-10-02
+	- [-] Viernes 📅 2025-10-03 ❌ 2025-10-05
+	- [x] Sábado 📅 2025-10-04 ✅ 2025-10-05
 - [x] Hacer calculadora de tiempo TETRACHRONOS 📅 2025-08-18 ✅ 2025-08-18
 - [x] Vaciar incoming de hoy 📅 2025-08-12 ✅ 2025-08-12 ^3ae5e4
 - [x] Terminar SUPER UNIVERSITARIO -3-, haciendo el Legacy de cada materia y su acción resultado ✅ 2025-07-16

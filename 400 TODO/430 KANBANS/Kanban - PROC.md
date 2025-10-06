@@ -23,28 +23,18 @@ recurrencia:
 
 ## Incoming Problems
 
+- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-06
+- [ ] [[--BINNACLE-- PROC W2]] 📅 2025-10-06
 - [ ] Permutations **CSES**
-- [ ] # W1
-	- [ ] NumTheory
-		- [ ] Primes
-	- [ ] Combi
-	- [ ] Graphs
-	- [ ] Prefix Sums
-- [ ] Daily
-	- [ ] ADHOC
-	- [ ] Problema 6G
-	- [ ] Codeforces
-	- [ ] CP4
-	- [ ] ThemeCP
 - [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]]
 - [ ] Sesión de Lectura de Libros OMM
 - [ ] Aprender y entender lo casos de uso de cada una de las estructuras en C++ para CP
-- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-02
 
 
 ## # Secuencia de *Problemas*<br>‼Yi
 
 **Complete**
+- [x] [[--BINNACLE-- PROC W1]] ✅ 2025-10-05
 - [x] Establecer orden en [[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]] ✅ 2025-10-01 ^3d4ba1
 - [x] Combinatoria 📅 2025-09-30 ✅ 2025-09-30
 - [x] [[Mapeo de Kattis]] 📅 2025-09-30 ✅ 2025-09-30
@@ -73,8 +63,8 @@ recurrencia:
 
 ## **Propuesta de temas**
 
+- [ ] DSU 📅 2025-10-06 ^2eefaa
 - [ ] Crear Notion
-- [ ] DSU 📅 2025-10-03 ^2eefaa
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered
 - [ ] [[GCD]]

@@ -22,6 +22,8 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 | [[Kanban - EyPC]] | [[Proyecto cojudo de EyPC]] | [[Lg - Estructura y Programación de Computadoras (EyPC)]]   |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Estructura y Programación de Computadoras en la carrera de [[Ingeniería en Computación]]
+# Asignatura
+- [Carpeta de Dropbox con las presentaciones](https://www.dropbox.com/sh/jwy945l9fqj7l81/AAARSDsrZ1NEGRlLEFWImlyda)
 
 ---
 # Planeación - MODELO

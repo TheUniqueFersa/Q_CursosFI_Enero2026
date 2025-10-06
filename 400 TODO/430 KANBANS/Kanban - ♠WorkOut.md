@@ -26,16 +26,16 @@ recurrencia:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Barras todos los días 📅 2025-10-04
-	- [x] Lunes ⏳ 2025-09-29 ✅ 2025-09-29
-	- [x] Martes ⏳ 2025-09-30 ✅ 2025-09-30
-	- [-] Miércoles ⏳ 2025-10-01 ❌ 2025-10-02
-	- [ ] Viernes ⏳ 2025-10-03
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Barras todos los días 📅 2025-10-04 ✅ 2025-10-04
+	- [x] Lunes ⏳ 2025-09-29 ✅ 2025-09-29
+	- [x] Martes ⏳ 2025-09-30 ✅ 2025-09-30
+	- [-] Miércoles ⏳ 2025-10-01 ❌ 2025-10-02
+	- [x] Viernes ⏳ 2025-10-03 ✅ 2025-10-04
 - [x] Hacer rutina con barras 📅 2025-08-18 ✅ 2025-08-18
 - [x] Ir a preguntar por los cursos de Patinaje 📅 2025-09-13 ✅ 2025-09-14
 
