@@ -28,13 +28,13 @@ pertenece a: "[[♠ALGORITMIA]]"
 - [ ] # Problema :SiLeetcode: Leetcode ^3caaaf
 	- 1 -> Empezar con el problema diario
 	- [x] Leer el problema y pensarlo 📅 2025-09-28 ✅ 2025-09-28 ^3caaaf
-	- [ ] Es un problema de geometría, cómo debería abordarlo? 📅 2025-10-03
+	- [ ] Es un problema de geometría, cómo debería abordarlo? 📅 2025-10-06
 - [ ] Establacer ALGORITMIA #Read 
 	
 	- [x] Elegir libro 📅 2025-08-16 ✅ 2025-08-17
 	- [x] Asignar fechas 📅 2025-08-18 ✅ 2025-08-18
 	- [x] Buscarlo en biblio 📅 2025-08-26 ✅ 2025-08-31
-		- [ ] Faltan varios
+		- [ ] Faltan varios --> Documentar cuáles y recordar el orden que deberían seguir 📅 2025-10-09
 	- [ ] Empezar a leerlo
 - [ ] Trazar mapa con *Estructuras discretas* y *LFyA*
 	>- [ ] En base a eso, ahora si elegir la secuencia de libros de sigan **►CS**

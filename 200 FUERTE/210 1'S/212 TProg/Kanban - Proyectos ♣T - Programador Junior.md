@@ -3,7 +3,7 @@
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
-pertenece a: 
+pertenece a:
 
 ---
 
@@ -13,11 +13,16 @@ pertenece a:
 - [ ] Algo de Estructuras Discretas
 
 
-## ACTIVOS
+## # #STANDBY
 
 - [ ] [[PROBATRÓN - MARATÓN]]
-- [ ] [[♠Repay - Árboles Binarios]]
 - [ ] [[♠Repay - Developing]]
+- [ ] [[♠Repay - Árboles Binarios]]
+
+
+## ACTIVOS
+
+- [ ] [[Proyecto cojudo de EyPC]]
 
 
 ## **Propuesta de Acciones**
@@ -35,6 +40,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,null]}
+{"kanban-plugin":"board","list-collapse":[false,null,false,null,false]}
 ```
 %%

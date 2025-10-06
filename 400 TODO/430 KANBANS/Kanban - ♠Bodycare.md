@@ -31,15 +31,22 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Establecer la dieta de manera formal bajo **Protocolos**
-- [ ] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-10-04
 - [ ] Perfume y fragancia
 - [ ] -- ***ROZ*** --
+- [ ] Mantener buena dieta
+	- [ ] Lunes 📅 2025-10-06 
+	- [ ] Martes
+	- [ ] Miercoles
+	- [ ] Jueves
+	- [ ] Viernes
+	- [ ] Sábado
 - [ ] Comprar peine nuevo para trollear
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Mantener un desayuno bueno hecho por mi los Lunes, Miércoles y Viernes 📅 2025-10-04 ✅ 2025-10-05
 - [x] Comer correctamente en la semana 📅 2025-08-15 ✅ 2025-08-16
 - [x] Rasurarme ✅ 2025-08-11
 - [x] Productos de cuidado de piel ✅ 2025-05-04

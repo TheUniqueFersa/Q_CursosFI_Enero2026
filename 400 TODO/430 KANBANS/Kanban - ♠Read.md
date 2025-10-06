@@ -34,8 +34,8 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
-- [ ] Terminar la Historia de la Computación esta semana #MILESTONE 📅 2025-10-04
-- [ ] Empezar la Fundación 📅 2025-10-03
+- [ ] Continuar la Historia de la Computación 📅 2025-10-10
+- [ ] Empezar la Fundación 📅 2025-10-10
 - [ ] Identificar Libros para 
 	- *Álgebra Lineal*
 	- Probabilidad
@@ -46,7 +46,7 @@ pertenece a: "[[♠Read]]"
 	- Principio de las casillas
 	- Álgebra
 	## Orden
-	- [ ] W1 📅 2025-10-02
+	- [ ] W1
 - [ ] Ordenar la secuencia de libros de CS que quiero leer
 - [ ] Hacer la secuencia de libros de los pendientes para terminarlos todos
 - [ ] 5 libros
