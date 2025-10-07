@@ -6,6 +6,7 @@ fecha_terminado: 2025-10-04
 Completado: 14
 Incompleto: 1
 Total: 15
+terminado: true
 ---
 # ***SyS - Serie 1***
 
