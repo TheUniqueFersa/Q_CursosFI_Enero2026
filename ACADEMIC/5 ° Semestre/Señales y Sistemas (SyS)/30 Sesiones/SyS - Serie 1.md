@@ -8,7 +8,7 @@ Incompleto: 1
 Total: 15
 terminado: true
 ---
-# ***SyS - Serie 1***
+t# ***SyS - Serie 1***
 
 - [x] 1 ✅ 2025-10-02
 - Amplitud y fase
