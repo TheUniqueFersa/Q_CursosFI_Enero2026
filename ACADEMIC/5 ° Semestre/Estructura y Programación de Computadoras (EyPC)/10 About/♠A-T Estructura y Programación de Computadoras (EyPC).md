@@ -17,9 +17,10 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 |       |          |                                    | [[EyPC. ibm_pc_assembly_language_and_programming-0131920634.pdf]]     |                     |              |
 |       |          |                                    | [[EyPC. The 80x86 IBM PC and Compatible Computers - 4th Edition.pdf]] |                     |              |
 
-| ⤵                 | ♣PROYECTOS♣                 | 🔼 ***Legend*** |
-| ----------------- | --------------------------- | --------------- |
-| [[Kanban - EyPC]] | [[Proyecto cojudo de EyPC]] | [[Lg - Estructura y Programación de Computadoras (EyPC)]]   |
+| ⤵                 | ♣PROYECTOS♣                 | 🔼 ***Legend***                                           |
+| ----------------- | --------------------------- | --------------------------------------------------------- |
+| [[Kanban - EyPC]] | [[Proyecto cojudo de EyPC]] | [[Lg - Estructura y Programación de Computadoras (EyPC)]] |
+|                   |                             | [[EyPC - NOTAS DE SESION]]                                |
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Estructura y Programación de Computadoras en la carrera de [[Ingeniería en Computación]]
 # Asignatura
