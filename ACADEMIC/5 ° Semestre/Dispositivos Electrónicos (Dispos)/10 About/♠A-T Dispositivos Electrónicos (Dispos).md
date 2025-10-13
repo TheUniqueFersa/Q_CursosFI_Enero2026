@@ -111,3 +111,10 @@ Durante la clase se hará:
 | ---------------------- | ----------- | ---------- |
 | [[nota_apunte_01.pdf]] | 1.1         |            |
 | [[nota_apunte_02.pdf]] | 2.1         |            |
+
+### Material y buenos profesores
+
+| Material                                                             | Temas                                                                     |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Sistemas Digitales](https://www.youtube.com/@sistemasdigitales7685) | [Punto de operación del BJT](https://www.youtube.com/watch?v=6GTzh3RGT4M) |
+|                                                                      |                                                                           |

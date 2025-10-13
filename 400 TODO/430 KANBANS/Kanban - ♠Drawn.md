@@ -53,7 +53,7 @@ pertenece a: "[[♠Drawn]]"
 
 ## Listos para ♦[°]X-chelons
 
-- [ ] ME COME UN AGUJERO NEGRO SUPERMASIVO
+- [ ] ME COME UN AGUJERO NEGRO SUPERMASIVO ⏳ 2025-10-13
 - [ ] Publicaciones *Cursos FI*
 - [ ] Publicación **FRESHMAN-SOPHOMORE** 
 	- [ ] Bocetar publicaciones

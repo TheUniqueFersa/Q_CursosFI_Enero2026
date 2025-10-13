@@ -8,7 +8,7 @@ Lee todo el documento y ayudame con lo siguiente:
 
 Enlistame los conceptos que debo conocer para poder realizar la práctica
 Hazme un resumen de lo que tengo que hacer en el trabajo
-Haz una lista de los materiales que debo comprar para pdoer realizar la práctica
+Haz una lista de los materiales que debo comprar para poder realizar la práctica
 
 Toma en cuenta que soy nuevo con los conceptos
 ```
