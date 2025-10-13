@@ -23,8 +23,8 @@ recurrencia:
 
 ## Incoming Problems
 
-- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-06
-- [ ] [[--BINNACLE-- PROC W2]] 📅 2025-10-06
+- [ ] [[Mapeo UVa Online judge]] 📅 2025-10-12
+- [ ] [[--BINNACLE-- PROC W2]] 📅 2025-10-13
 - [ ] Permutations **CSES**
 - [ ] Terminar el Miércoles de Propedéutico ([[♣CPCFI]]) [[Mapeo de Problemas]]
 - [ ] Sesión de Lectura de Libros OMM
@@ -63,7 +63,7 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] DSU 📅 2025-10-06 ^2eefaa
+- [ ] DSU ^2eefaa
 - [ ] Crear Notion
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
 - [ ] multisets, mutimaps, unordered

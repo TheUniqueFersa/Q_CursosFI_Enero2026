@@ -69,6 +69,6 @@ pertenece a: "[[♠Write It Down]]"
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false]}
+{"kanban-plugin":"board","list-collapse":[false,null,null,null,null,true]}
 ```
 %%
