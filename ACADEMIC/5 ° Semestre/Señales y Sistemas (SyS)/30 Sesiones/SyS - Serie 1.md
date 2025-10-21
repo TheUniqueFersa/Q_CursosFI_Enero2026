@@ -7,6 +7,8 @@ Completado: 14
 Incompleto: 1
 Total: 15
 terminado: true
+links_url:
+  - "[[G1Serie1SyS_LópezMoralesFernandoSamuel.pdf]]"
 ---
 t# ***SyS - Serie 1***
 
