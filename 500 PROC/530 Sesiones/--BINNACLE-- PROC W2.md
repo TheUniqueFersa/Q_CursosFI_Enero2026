@@ -66,3 +66,6 @@ De nivel incrementable
 - [ ] J
 - [ ] V
 - [ ] S
+
+- [ ] Hacer notas de todo lo que vimos el sábado #AEM 
+- [ ] Hacer 2 problema del sábado

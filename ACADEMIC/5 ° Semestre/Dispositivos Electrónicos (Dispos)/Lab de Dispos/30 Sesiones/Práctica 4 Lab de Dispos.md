@@ -2,7 +2,7 @@
 pertenece a:
   - "[[Lab de Dispositivos Electrónicos (Dispos)]]"
 antecesor: "[[Práctica 3 Lab de Dispos]]"
-sucesor: "[[Práctica 5 Lab de Dispos]]"
+sucesor: "[[Práctica 7 Lab de Dispos]]"
 terminado: true
 fecha_terminado: 2025-09-21
 ---

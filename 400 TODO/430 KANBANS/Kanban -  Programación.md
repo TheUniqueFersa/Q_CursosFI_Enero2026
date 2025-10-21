@@ -71,9 +71,9 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Aprender a usar Quartz4 📅 2025-10-07
-- [ ] Aprender a documentar en **#LaTeX** 📅 2025-10-08
+- [ ] Aprender a documentar en **#LaTeX** 📅 2025-10-13
 - [ ] #MILESTONE Aprender Linux bien
+- [ ] Aprender a usar Quartz4
 - [ ] Una calculadora de gastos semanales en cel
 	#♣_PROYECTO_♣
 - [ ] Programar un conversor de hexadecimal a binario en wEB

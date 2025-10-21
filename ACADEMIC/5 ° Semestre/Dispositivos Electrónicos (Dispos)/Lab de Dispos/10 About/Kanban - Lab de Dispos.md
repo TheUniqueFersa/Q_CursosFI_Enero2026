@@ -22,15 +22,16 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 6 Lab de Dispos]]
+- [ ] [[Práctica 7 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
-- [x] [[Práctica 2 Lab de Dispos]] ✅ 2025-09-08
-- [x] [[Práctica 3 Lab de Dispos]] ✅ 2025-09-14
+- [x] [[Práctica 6 Lab de Dispos]] ✅ 2025-10-12
 - [x] [[Práctica 4 Lab de Dispos]] ✅ 2025-09-22
+- [x] [[Práctica 3 Lab de Dispos]] ✅ 2025-09-14
+- [x] [[Práctica 2 Lab de Dispos]] ✅ 2025-09-08
 
 
 
