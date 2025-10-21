@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: 🟧INESTABLE🟧
+status: 🟦ESTABLE🟦
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
@@ -41,8 +41,8 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 ## *ETAPA INTERSEMESTRAL*
 - [-] XD ❌ 2025-09-27
 ## Primera Etapa (Etapa de Reincorporación)
-- [ ] Hacer toda la serie 1
-- [ ] Sacar buena calificación en el primer examen
+- [x] Hacer toda la serie 1 #MILESTONE  ✅ 2025-10-14
+- [x] Sacar buena calificación en el primer examen #MILESTONE -> 10 ✅ 2025-10-14
 - [ ] Hacer 2 tareas morales relacionadas con programar
 
 
@@ -58,3 +58,4 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 | Recurso               | Tema inicio | Tema fin |
 | --------------------- | ----------- | -------- |
 | [[CursoSyS_123a.pdf]] | 1.1         |          |
+| [[TBilineal_SyS.pdf]] | extra       |          |

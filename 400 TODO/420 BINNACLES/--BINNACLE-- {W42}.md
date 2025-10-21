@@ -28,22 +28,24 @@ tags:
 ## Domingo
 
 ## Lunes
-![[13-10-2025#^9cda29]]
-![[13-10-2025#^429904]]
 
-![[13-10-2025#^00b392]]
+## Martes
+![[14-10-2025#^9cda29]]
+![[14-10-2025#^b34006]]
+## Miércoles
+![[15-10-2025#^dypt]]
+![[15-10-2025#^946550]]
+![[15-10-2025#^p1u8]]
+## Jueves
 
-![[13-10-2025#^99bc20]]
+## Viernes 
 
+## Sábado
+![[18-10-2025#^ihz1]]
+![[ESCALÓN CERO#^x6ex]]
+# Hereda pendientes:
 
-![[13-10-2025#^64d28f]]
-
-
-![[13-10-2025#^8b5529]]
-
-
-
-
+# BEYOND
 >[[DET. Fixing - Reminicencias PROC]]
 >- [ ] Leetcode
 >- [ ] UVa
@@ -56,16 +58,19 @@ tags:
 >- [ ] Clase de [[CURSO LATEX LIDSOL|LaTeX]]
 >- [ ] checar en la biblia de C
 >- [ ] Instalar MATLAB #ENHANCED/TECHMASTER  
-## Martes
-## Miércoles
-## Jueves
-## Viernes 
-## Sábado
 
 
-# Hereda pendientes:
+![[16-10-2025#^429904]]
 
-# BEYOND
+![[16-10-2025#^00b392]]
+
+![[16-10-2025#^99bc20]]
+
+
+![[16-10-2025#^64d28f]]
+
+
+![[16-10-2025#^8b5529]]
 
 # Problemas encontrados
 

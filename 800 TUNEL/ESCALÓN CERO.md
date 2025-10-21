@@ -9,8 +9,8 @@ Participantes:
 terminado: false
 fecha_entrega: 2025-09-21
 fecha_terminado:
-Completado: 11
-Incompleto: 9
+Completado: 14
+Incompleto: 6
 Total: 20
 antecesor:
 sucesor: "[[ESCALÓN UNO]]"
@@ -34,15 +34,11 @@ tags:
 - [x] Formato de práctica lab #AEM [🍅:: 1] ✅ 2025-10-01 ^66f9
 	- [x] Hacer el provisional #AEM ✅ 2025-10-01
 
-- [ ] Checar la instalación de ER Studio en linux #AEM 
-
 - [x] Práctica 5 ✅ 2025-10-02
 	- [x] Previo 5 #AEM ✅ 2025-09-21
 - [x] Previo 6 #AEM ✅ 2025-09-21
 
 - [x] Practica 4 #AEM ✅ 2025-09-14
-
-- [ ] Comandos básicos del **==MANUAL_RECOVERY==**
 
 - [x] CORREGIR LFyA #AEM ✅ 2025-10-02
 	- [x] Presentación ✅ 2025-09-24
@@ -50,12 +46,17 @@ tags:
 	- [x] Karaoke ✅ 2025-10-02
 
 - [ ] Terminar ***==MANUAL_RECOVERY==*** #AEM
-	- [ ] `lab` 01
-	- [ ] `lab` 02
+	- [x] `lab` 01 [🍅:: 5] ✅ 2025-10-19 ^ddph
+	- [x] `lab` 02 [🍅:: 3] ✅ 2025-10-20 ^3jf9
 	- [ ] `lab` 03
-	- [ ] `com` 03
+- [x] `com` 03 [🍅:: 13] ✅ 2025-10-19 ^x6ex
 
-- [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE 
+
+- [ ] Comandos básicos del **==MANUAL_RECOVERY==**
+
+- [ ] Checar la instalación de ER Studio en linux #AEM 
+
+- [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE
 
 # Hereda pendientes:
 
