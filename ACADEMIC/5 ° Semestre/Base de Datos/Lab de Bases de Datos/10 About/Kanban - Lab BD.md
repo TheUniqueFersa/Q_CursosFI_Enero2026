@@ -13,6 +13,7 @@ pertenece a:
 
 ## # #Pendiente
 
+- [ ] Ver porque no jaló rlwrap en contenedor 2 para conexión a distancia
 
 
 ## **Propuesta de Acciones**
