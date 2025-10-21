@@ -10,8 +10,8 @@ terminado: false
 fecha_entrega: 2025-09-21
 fecha_terminado:
 Completado: 11
-Incompleto: 5
-Total: 16
+Incompleto: 9
+Total: 20
 antecesor:
 sucesor: "[[ESCALÓN UNO]]"
 links_url:
@@ -50,6 +50,10 @@ tags:
 	- [x] Karaoke ✅ 2025-10-02
 
 - [ ] Terminar ***==MANUAL_RECOVERY==*** #AEM
+	- [ ] `lab` 01
+	- [ ] `lab` 02
+	- [ ] `lab` 03
+	- [ ] `com` 03
 
 - [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE 
 

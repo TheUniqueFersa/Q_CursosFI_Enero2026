@@ -34,8 +34,8 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
-- [ ] Continuar la Historia de la Computación 📅 2025-10-10
-- [ ] Empezar la Fundación 📅 2025-10-10
+- [ ] Continuar la Historia de la Computación 📅 2025-10-13
+- [ ] Empezar la Fundación 📅 2025-10-17
 - [ ] Identificar Libros para 
 	- *Álgebra Lineal*
 	- Probabilidad
