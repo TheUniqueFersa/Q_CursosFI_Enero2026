@@ -1,21 +1,22 @@
 ---
 fecha: 2025-10-12
-pertenece a: 
+pertenece a:
+  - "[[{W42-2025}]]"
 tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
-fecha_entrega: 
-fecha_terminado: 
+terminado: true
+fecha_entrega: 2025-10-19
+fecha_terminado: 2025-10-19
 Completado: 0
 Incompleto: 8
 Total: 8
-antecesor: 
-sucesor: 
-links_url: 
-Tiempo Objetivo: 
-Progreso: 
+antecesor: "[[--BINNACLE-- {W41}]]"
+sucesor: "[[--BINNACLE-- {W43}]]"
+links_url:
+Tiempo Objetivo:
+Progreso:
 tags:
 ---
 # ***--BINNACLE-- {W42}***
