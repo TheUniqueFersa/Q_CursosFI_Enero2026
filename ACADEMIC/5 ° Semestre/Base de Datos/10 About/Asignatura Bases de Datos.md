@@ -66,6 +66,32 @@ Entregar:
 > [!hint] Convenciones
 > Soy el número de lista **==27==**
 
+### Ip Servidor de laboratorio
+```bash
+#usuario
+usr_BD
+#contraseña
+123456*
+#ip
+132.248.59.8
+```
+
+CON MANAGEMENT
+```bash
+# en "server name" se escribe la ip
+# Con SQL Server Authentification
+#Login
+usr_BD
+#password
+123456*
+```
+
+Poner el nombre del `servidor`
+poner el 
+
+1. Abrir SQL Server Configuration Manager
+	1. SQL Server Services
+
 > [!hint] Exentar
 > - Aprobar todos los exámenes parciales
 > Entregar proyecto final
