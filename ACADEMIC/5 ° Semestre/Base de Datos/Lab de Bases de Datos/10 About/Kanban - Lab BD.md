@@ -15,6 +15,11 @@ pertenece a:
 
 - [ ] Ver porque no jaló rlwrap en contenedor 2 para conexión a distancia
 - [ ] Redactar como abrir el sql ese de campos de manera visual, que se parece mucho al de microsoft 📅 2025-10-23
+- [ ] - Comandos básicos del **==MANUAL_RECOVERY==**
+	- Checar la instalación de ER Studio en linux #AEM
+- [ ] Entender que hace el spool
+- [ ] Entender como funciona lo de las carpetas compartidas entre contenedor
+- [ ] Entender como usar sql developer
 
 
 ## **Propuesta de Acciones**
@@ -23,13 +28,13 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 3]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
-- [x] Fix - Lab de BD #XCH ✅ 2025-10-22
+- [x] Fix - Lab de BD #XCH ✅ 2025-10-22 ^5721f9
+- [x] [[Práctica 3]] ✅ 2025-10-22
 - [x] [[Práctica 2]] ✅ 2025-10-01
 - [x] [[Práctica 1]] ✅ 2025-10-01
 
