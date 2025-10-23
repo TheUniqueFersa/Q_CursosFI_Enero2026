@@ -18,7 +18,6 @@ pertenece a:
 
 ## **Propuesta de Acciones**
 
-- [ ] Fix - Lab de BD #XCH ^e495bc
 
 
 ## Listos para ♦(...R) X-chelons
@@ -29,6 +28,7 @@ pertenece a:
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Fix - Lab de BD #XCH ✅ 2025-10-22
 - [x] [[Práctica 2]] ✅ 2025-10-01
 - [x] [[Práctica 1]] ✅ 2025-10-01
 

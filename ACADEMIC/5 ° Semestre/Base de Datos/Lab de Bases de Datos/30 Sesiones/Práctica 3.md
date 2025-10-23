@@ -1,7 +1,7 @@
 ---
 pertenece a:
   - "[[Lab de Bases de Datos]]"
-terminado: false
+terminado: true
 ---
 # Contenido
 `CDB`: Base de datos contenedora
