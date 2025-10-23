@@ -6,12 +6,12 @@ tipo: -- ESCALON --
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
+terminado: true
 fecha_entrega: 2025-09-21
-fecha_terminado:
-Completado: 14
-Incompleto: 6
-Total: 20
+fecha_terminado: 2025-10-22
+Completado: 17
+Incompleto: 0
+Total: 17
 antecesor:
 sucesor: "[[ESCALÓN UNO]]"
 links_url:
@@ -21,12 +21,13 @@ tags:
   - XCH/ALON
 ---
 # ***ESCALÓN CERO***
->- [ ] ==Corregir== Academic y mi **INCOMING** #XCH 
+>- [x] ==Corregir== Academic y mi **INCOMING** #XCH ✅ 2025-10-22
 
 | 🏁 X-Chelons Asociados       | ⏳ $T$    | Hora Inicio | 🏁 Hora estimada de Término |
 | ---------------------------- | -------- | ----------- | --------------------------- |
-| ![[Kanban - Lab BD#^e495bc]] | ***5H*** |             |                             |
+| ![[Kanban - Lab BD#^5721f9]] | ***5H*** |             |                             |
 | ![[14-09-2025#^95fca0]]      | 12H      | 06:30 am    | 06:30 pm                    |
+|                              |          |             |                             |
 |                              |          |             |                             |
 # 🏆$AEM$
 - [x] **==MANUAL RECOVERY==** #AEM ✅ 2025-09-11
@@ -45,22 +46,19 @@ tags:
 	- [x] Revisión ✅ 2025-10-01
 	- [x] Karaoke ✅ 2025-10-02
 
-- [ ] Terminar ***==MANUAL_RECOVERY==*** #AEM
+- [x] Terminar ***==MANUAL_RECOVERY==*** #AEM ✅ 2025-10-22
 	- [x] `lab` 01 [🍅:: 5] ✅ 2025-10-19 ^ddph
 	- [x] `lab` 02 [🍅:: 3] ✅ 2025-10-20 ^3jf9
-	- [ ] `lab` 03
+	- [x] `lab` 03 ✅ 2025-10-22
 - [x] `com` 03 [🍅:: 13] ✅ 2025-10-19 ^x6ex
-
-
-- [ ] Comandos básicos del **==MANUAL_RECOVERY==**
-
-- [ ] Checar la instalación de ER Studio en linux #AEM 
-
-- [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE
 
 # Hereda pendientes:
 
 # BEYOND
+- Comandos básicos del **==MANUAL_RECOVERY==**
+- Checar la instalación de ER Studio en linux #AEM 
+
+- Vaciar ACADEMIC **INCOMING** #MILESTONE
 
 # Problemas encontrados
 
