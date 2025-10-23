@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega: 
 fecha_terminado: 
 Completado: 0
-Incompleto: 0
-Total: 0
+Incompleto: 7
+Total: 7
 antecesor: 
 sucesor: 
 links_url: 
