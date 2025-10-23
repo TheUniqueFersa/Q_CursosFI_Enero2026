@@ -9,8 +9,8 @@ Participantes:
 terminado: true
 fecha_entrega: 2025-09-21
 fecha_terminado: 2025-10-22
-Completado: 16
-Incompleto: 1
+Completado: 17
+Incompleto: 0
 Total: 17
 antecesor:
 sucesor: "[[ESCALÓN UNO]]"
@@ -21,12 +21,13 @@ tags:
   - XCH/ALON
 ---
 # ***ESCALÓN CERO***
->- [ ] ==Corregir== Academic y mi **INCOMING** #XCH 
+>- [x] ==Corregir== Academic y mi **INCOMING** #XCH ✅ 2025-10-22
 
 | 🏁 X-Chelons Asociados       | ⏳ $T$    | Hora Inicio | 🏁 Hora estimada de Término |
 | ---------------------------- | -------- | ----------- | --------------------------- |
-| ![[Kanban - Lab BD#^e495bc]] | ***5H*** |             |                             |
+| ![[Kanban - Lab BD#^5721f9]] | ***5H*** |             |                             |
 | ![[14-09-2025#^95fca0]]      | 12H      | 06:30 am    | 06:30 pm                    |
+|                              |          |             |                             |
 |                              |          |             |                             |
 # 🏆$AEM$
 - [x] **==MANUAL RECOVERY==** #AEM ✅ 2025-09-11
