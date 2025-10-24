@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega: 
 fecha_terminado: 
 Completado: 0
-Incompleto: 7
-Total: 7
+Incompleto: 10
+Total: 10
 antecesor: 
 sucesor: 
 links_url: 
@@ -27,19 +27,25 @@ tags:
 ## Lunes
 
 ## Martes
+
+## Jueves
 ### EyPC
 - [ ] Hacer tarea de EyPC #XCH 
 - [ ] Corregir notas de EyPC #XCH 
 - [ ] Empezar el proyecto de EyPC #XCH 
-
-- [ ] Reportes de práctica de Lab SyS -> practica 2 #XCH 
-	- [ ] practica 3 #XCH 
+ ^f926bc
+- [ ] Reportes de práctica de Lab SyS -> practica 2 #XCH
+	- [ ] practica 3 #XCH
 
 
 >Break
 >- [ ] Instalar correctamente matlab
 >- [ ] Corregir notas de LFyA
 
+## Viernes
+- [ ] terminar de redactar ``lab`` 09
+- [ ] empezar ``com`` 09
+- [ ] empezar proyecto BD
 
 # Hereda pendientes:
 

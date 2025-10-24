@@ -1,7 +1,7 @@
 ---
 Completado: 1
-Incompleto: 14
-Total: 15
+Incompleto: 16
+Total: 17
 fecha_entrega: 2025-10-07
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
@@ -96,6 +96,7 @@ Es requisito indispensable presentar el reporte
 ## Puntos extra
 - [ ] Generar un archivo con el listado mostrando una diferencia de color entre los códigos de instrucción y los operandos que conforman el código objeto (*1 punto*) (de $(7)$)
 >Realmente se requieren **3 colores**: 
+>Se pretende hacer en html
 
 - [ ] Generación del archivo del código objeto con el formato oficial de Motorola mostrando una diferencia de color entre los códigos de instrucción y los operando que conforman el código (*1 puntos*)
 	- [ ] De colores (*1 punto*)
@@ -104,8 +105,8 @@ Es requisito indispensable presentar el reporte
 # Según mi tio #ChatGPT 
 Plan de acción para desarrollar el compilador básico
 ## 1. Preparación
-Estudia el set de instrucciones
-Modos de redireccionamiento
+- [ ] Estudia el set de instrucciones
+- [ ] Modos de redireccionamiento
 - Inmediato
 - Directo
 - Extendido

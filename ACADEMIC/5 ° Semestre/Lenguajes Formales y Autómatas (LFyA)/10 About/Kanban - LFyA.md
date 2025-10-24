@@ -14,6 +14,7 @@ pertenece a:
 
 ## # #Pendiente
 
+- [ ] Jerarquía de Chomsky
 
 
 ## **Propuesta de Acciones**
@@ -23,6 +24,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] [[Revisión 2]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
