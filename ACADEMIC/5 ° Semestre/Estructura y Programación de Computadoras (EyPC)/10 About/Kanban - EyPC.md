@@ -26,6 +26,11 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] Ver clase S11C1 (grabación)
+- [ ] Recopilar las tareas que debimos haber hecho
+	- 2
+		- cristal
+	- Código para transmitir un mensaje
 
 
 ## # Secuencia de Acciones<br>‼Yi

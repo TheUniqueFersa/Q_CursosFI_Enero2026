@@ -13,7 +13,7 @@ Completado: 0
 Incompleto: 13
 Total: 13
 antecesor: "[[ESCALÓN CERO]]"
-sucesor:
+sucesor: "[[ESCALÓN DOS]]"
 links_url:
 Tiempo Objetivo: 6720
 Progreso:
