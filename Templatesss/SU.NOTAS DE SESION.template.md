@@ -1,5 +1,6 @@
 ---
 pertenece a:
+tipo_nota: Recolectora
 ---
 # ***SU.NOTAS DE SESION.template***
 
