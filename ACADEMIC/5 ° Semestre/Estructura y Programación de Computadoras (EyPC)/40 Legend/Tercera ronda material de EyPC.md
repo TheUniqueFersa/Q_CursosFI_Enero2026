@@ -2,7 +2,7 @@
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
 terminado: false
-tipo: nota sembradora
+tipo_nota: Recolectora
 ---
 
 | Material                                                                                          | Status    |
