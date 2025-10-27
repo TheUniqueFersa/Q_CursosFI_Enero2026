@@ -4,7 +4,7 @@ estado:
 status:
 tipo_nota: atomica
 ptetra: "[[♣Legend]]"
-fecha_creado: <% tp.date.now("YYYY-MM-DD") %>
+fecha_creado: 2025-10-26
 próxima_fecha:
 serie:
 scope:

@@ -1,21 +1,21 @@
 ---
 fecha: 2025-10-20
-pertenece a: 
+pertenece a:
 tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
-fecha_entrega: 
-fecha_terminado: 
-Completado: 0
-Incompleto: 10
-Total: 10
-antecesor: 
-sucesor: 
-links_url: 
-Tiempo Objetivo: 
-Progreso: 
+terminado: true
+fecha_entrega: 2025-10-26
+fecha_terminado: 2025-10-26
+Completado: 9
+Incompleto: 0
+Total: 9
+antecesor: "[[--BINNACLE-- {W42}]]"
+sucesor: "[[--BINNACLE-- {W44}]]"
+links_url:
+Tiempo Objetivo:
+Progreso:
 tags:
 ---
 # ***--BINNACLE-- {W43}***
@@ -33,7 +33,7 @@ tags:
 
 >Break
 >- [x] Instalar correctamente matlab ✅ 2025-10-25
->- [ ] Corregir notas de LFyA
+>- [x] Corregir notas de LFyA ✅ 2025-10-27
 
 
 
@@ -44,44 +44,26 @@ tags:
 
 # EN TRANSICIÓN CON B44
 
-### EyPC
-- [ ] Hacer tarea de EyPC
-- [ ] Corregir notas de EyPC  
-- [ ] Empezar el proyecto de EyPC   ^f926bc
-
-- [ ] EyPC: teoría para el proyecto (tallo) #XCH ^9aeeaa
-- [ ] EyPC Clase 1
-	- [ ] Clase 2
-
-### SyS
-- [ ] Clase de SyS #AEM ^03658a
-
 ### Lab SyS
-- [ ] Reportes de práctica de Lab SyS -> practica 2 #XCH ^596e4d
-	- [ ] practica 3
+- [x] Reportes de práctica de Lab SyS -> practica 2 #XCH 📅 2025-10-26 ✅ 2025-10-26 ^596e4d
 
 ### Lab BD
-- [ ] empezar ``com`` 09 #XCH ^1aa4ac
-- [ ] `lab` 08
-- [ ] Leer `prev` 10 #XCH ^7deaa7
-	- [ ] resolverlo
-
-### BD
-- [ ] empezar proyecto BD #XCH ^1b2b6a
+- [x] empezar ``com`` 09 #XCH 📅 2025-10-26 ✅ 2025-10-26 ^1aa4ac
 
 ### Dispos
-- [ ] Entender método de Ranulfis #XCH ^622303
+- [x] Entender método de Ranulfis #XCH ✅ 2025-10-26 ^622303
 
 ### Lab Dispos
-- [ ] Dispos: Leer y planear el previo 08 #XCH ^0f02a5
+- [x] Dispos: Leer y planear el previo 08 #XCH 📅 2025-10-26 ✅ 2025-10-26 ^0f02a5
 
 ### LFyA
 - [x] LFyA: Sesión Aislada ✅ 2025-10-25
-- [ ] Hacer la presentación del Problema 4 (KARAOKE) 📅 2025-10-26 #XCH ^421027
+- [x] Hacer ejercicio 12 (ADP a mano) #XCH 📅 2025-10-26 ✅ 2025-10-26 ^421027
 
 
 
 # Hereda pendientes:
+>a B44-> EyPC, SyS, BD
 
 # BEYOND
 

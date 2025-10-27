@@ -1,19 +1,21 @@
 ---
-
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
-
+  - "[[Lab de Dispositivos Electrónicos (Dispos)]]"
 ---
 
 ## ♦(°)Out - ♦(...R)
 
+- [ ] curvas caracteristicas MOSFET canal n de enriquecimiento
+- [ ] Página para ver [datasheets](https://www.alldatasheet.com/view.jsp?Searchword=2n7000%20datasheet&gad_source=1&gad_campaignid=169919099&gclid=CjwKCAjwjffHBhBuEiwAKMb8pNolUI_t3RKPr_KdT9iJ5ZtLH5uxJxFqLCm94e5CyGmjjAim4zN4UBoCVfsQAvD_BwE)
 
 
 ## # #Pendiente
 
 - [ ] [[voltaje de offset]]
+- [ ] [[Práctica 7 Lab de Dispos]]
 
 
 ## **Propuesta de Acciones**
@@ -22,7 +24,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 7 Lab de Dispos]]
+- [ ] [[Práctica 8 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi

@@ -17,6 +17,11 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 | 6473  | [[MDPSYS-01.pdf]]                                                    |              |              |
 |       | [[Manual de practicas SyS v2.pdf]]                                   |              |              |
 |       | [[Manual de Prácticas del laboratorio de señales y sistemas v3.pdf]] |              |              |
+
+| ⤵                    |     |
+| -------------------- | --- |
+| [[Kanban - Lab SyS]] |     |
+
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Señales y Sistemas en la carrera de [[Ingeniería en Computación]]
 # Asignatura

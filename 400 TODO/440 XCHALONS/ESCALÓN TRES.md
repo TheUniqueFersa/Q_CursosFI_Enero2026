@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 1
-Incompleto: 7
-Total: 8
+Completado: 2
+Incompleto: 10
+Total: 12
 antecesor: "[[ESCALÓN DOS]]"
 sucesor:
 links_url:
@@ -30,11 +30,17 @@ tags:
 
 - [ ] `com` 09 #XCH
 - [x] `prev` 09 #XCH ✅ 2025-10-23
-- [ ] `lab` 09 #XCH
+- [x] `lab` 09 #XCH ✅ 2025-10-26
 
 - [ ] `prev` 10 #XCH 
 - [ ] `lab` 10 #XCH 
 - [ ] `com` 10 #XCH
+
+## Opcionales pero GODS
+- [ ] `com` 4
+- [ ] `com` 5
+- [ ] `com` 6
+- [ ] `com` 7
 
 
 # Hereda pendientes:
