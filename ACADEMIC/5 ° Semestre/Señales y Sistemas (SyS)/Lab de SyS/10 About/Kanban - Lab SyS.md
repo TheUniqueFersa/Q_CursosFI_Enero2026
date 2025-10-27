@@ -4,7 +4,7 @@ tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
-  - "[[♠A-T Dispositivos Electrónicos (Dispos)]]"
+  - "[[Lab de Señales y Sistemas]]"
 
 ---
 
@@ -14,13 +14,14 @@ pertenece a:
 
 ## # #Pendiente
 
-- [ ] Entender el ejercicio 4B de 2 transistores
 
 
 ## **Propuesta de Acciones**
 
-- [ ] Completar conceptos de Tema 3 ([[Lg - Dispositivos Electrónicos]])
-- [ ] Completar los conceptos del tema 4 (transistores)
+- [ ] [[Lab SyS. Reporte P02]]
+- [ ] [[Lab SyS. Reporte P03]]
+- [ ] [[Lab SyS. Reporte P04]]
+- [ ] [[Lab SyS. Reporte P05]]
 
 
 ## Listos para ♦(...R) X-chelons
