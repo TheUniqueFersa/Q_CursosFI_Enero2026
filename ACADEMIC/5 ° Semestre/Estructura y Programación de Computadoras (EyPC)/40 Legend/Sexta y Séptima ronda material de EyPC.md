@@ -3,6 +3,8 @@ pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
 terminado: false
 tipo_nota: Recolectora
+antecesor: "[[Quinta ronda material de EyPC]]"
+sucesor: "[[Octava y Novena ronda de material de EyPC]]"
 ---
 # Sexta ronda
 
