@@ -16,12 +16,13 @@ pertenece a:
 
 - [ ] Ver vidio
 	[Loco](https://www.youtube.com/watch?v=k_S_Nf_6weE)
+- [ ] ## [[EyPC - Tarea S12C1]] #TAREA
 
 
 ## **Propuesta de Acciones**
 
-- [ ] Completar notas sembradoras
-- [ ] # [[Proyecto cojudo de EyPC]]
+- [ ] Completar notas recolectoras
+- [ ] # [[Proyecto cojudo de EyPC]] #♣_PROYECTO_♣
 
 
 ## Listos para ♦(...R) X-chelons

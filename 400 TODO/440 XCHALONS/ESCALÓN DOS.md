@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 5
+Completado: 6
 Incompleto: 10
-Total: 15
+Total: 16
 antecesor: "[[ESCALÓN UNO]]"
 sucesor: "[[ESCALÓN TRES]]"
 links_url:
@@ -65,11 +65,12 @@ tags:
 
 >Sábado
 
-- [ ] [[ESCALÓN CERO]] en un día #MILESTONE #XCH 
+- [x] [[ESCALÓN CERO]] en un día #MILESTONE #XCH ✅ 2025-10-27
 
 # Hereda pendientes:
 
 # BEYOND
+- [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE ^b940c7
 
 # Problemas encontrados
 

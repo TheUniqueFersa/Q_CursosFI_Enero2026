@@ -98,10 +98,12 @@ Es requisito indispensable presentar el reporte
 >Realmente se requieren **3 colores**: 
 >Se pretende hacer en html
 
+![[Pasted image 20251028110535.png]]
+
 - [ ] Generación del archivo del código objeto con el formato oficial de Motorola mostrando una diferencia de color entre los códigos de instrucción y los operando que conforman el código (*1 puntos*)
 	- [ ] De colores (*1 punto*)
-
-
+	
+![[Pasted image 20251028110555.png|800]]
 # Según mi tio #ChatGPT 
 Plan de acción para desarrollar el compilador básico
 ## 1. Preparación
