@@ -23,6 +23,7 @@ pertenece a:
 ## ACTIVOS
 
 - [ ] [[Proyecto cojudo de EyPC]]
+- [ ] [[Proyecto BD]]
 
 
 ## **Propuesta de Acciones**

@@ -17,9 +17,9 @@ ESTADO_RECOLECCION: COMPRENSIÓN
 | 1644  | 14       | [[programa_BD.pdf]]                | [[BD. Database_fundamentals.pdf]]                     | ✅[[Lab de Bases de Datos]] |              |
 |       |          | [[Temario BD desglosado.pdf]]      | [[BD. Fundamentos-de-Sistemas-de-Bases-de-Datos.pdf]] |                            |              |
 
-| ⤵               | ℹ ***Legend***          |
-| --------------- | ----------------------- |
-| [[Kanban - BD]] | [[Lg - Bases de Datos]] |
+| ⤵               | ℹ ***Legend***          | ♣PROYECTOS♣     |
+| --------------- | ----------------------- | --------------- |
+| [[Kanban - BD]] | [[Lg - Bases de Datos]] | [[Proyecto BD]] |
 
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-T Bases de Datos en la carrera de [[Ingeniería en Computación]]
