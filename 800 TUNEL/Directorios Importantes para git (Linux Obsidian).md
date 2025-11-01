@@ -37,14 +37,14 @@ Son los directorios BASE que abligatoriamente deben trasladarse a través del T�
 [^1]
 ## Decenas
 
-| Decenas | Siginifcado                          |
-| ------- | ------------------------------------ |
-| $X10$   | About. Notas primarias y secundarias |
-| $X20$   | DET. Protocolos detonados            |
-| $X30$   | Notas tipo sesión                    |
-| $X40$   | Notas tipo Legend                    |
-|         |                                      |
-| $X90$   | [[♠COLJAR\|COLJAR]]                  |
+| Decenas | Siginifcado                          | Nombre   |
+| ------- | ------------------------------------ | -------- |
+| $X10$   | About. Notas primarias y secundarias | About    |
+| $X20$   | DET. Protocolos detonados            | DET      |
+| $X30$   | Notas tipo sesión                    | Sesiones |
+| $X40$   | Notas tipo Legend                    | Legend   |
+|         |                                      |          |
+| $X90$   | [[♠COLJAR\|COLJAR]]                  |          |
 ### $X30$ Sesion
 Las **tareas** (*y derivados*) y **Proyectos** son consideradas ==Sesión==
 
