@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 2025-11-02
 fecha_terminado:
-Completado: 14
-Incompleto: 25
-Total: 39
+Completado: 17
+Incompleto: 19
+Total: 36
 antecesor: "[[--BINNACLE-- {W43}]]"
 sucesor:
 links_url:
@@ -60,15 +60,21 @@ tags:
 
 ## Miércoles
 ***==GOOD MORNIING==***
-- [ ] **LFyA** Preguntarle a mi tío sobre lo de Sección 3 #ChatGPT 
-- [ ] **Lab SyS**: Pedirle a mi tio que haga la 2 #ChatGPT 
-	- [ ] 3
-- [ ] **LFyA** Ejercicio 1 acabarlo y programarlo
-- [ ] Ejercicio 1 P8 lab bd
-### Lab SyS
-- [ ] Terminar práctica 2 📅 2025-10-29
-- [ ] practica 3
+- [x] **LFyA** Preguntarle a mi tío sobre lo de Sección 3 #ChatGPT ✅ 2025-10-30
+- [x] **LFyA** Ejercicio 1 acabarlo y programarlo ✅ 2025-10-30
+
+
+>⏳ **3H**
+### LFyA
+- [x] Terminar revisión 2 📅 2025-10-29 ✅ 2025-10-30
+
+## Jueves
+>DÍA DEL ESCALÓN TRES (BASES DE DATOS PRO)
+
 ### Lab BD
+>⏳**5H**
+
+`com` 10
 
 >⏳**5h** c/Tarea
 - [ ] `lab` 08
@@ -77,55 +83,39 @@ tags:
 
 - [ ] `lab` 10 #XCH ^7deaa7
 
-### EyPC
->⏳**2H**
-- [ ] Proyecto en grande ->  Requerimientos y *objetivos* #XCH 📅 2025-10-29
-
->⏳ **3H**
-### LFyA
-- [ ] Terminar revisión 2 📅 2025-10-29
-
 ### BD
 - [ ] empezar *A LEER* proyecto BD^1b2b6a
-## Jueves
->DÍA DEL ESCALÓN TRES (BASES DE DATOS PRO)
 
+## Viernes
+
+### LFyA
+- [ ] Video cojon #XCH 
 ### Lab BD
-- [ ] `lab` 08
-`lab` 10
-
->⏳**5H**
-
-`com` 10
-
 >⏳**2H** c/Cluster
 
 *Cluster 1*
 - [ ] `com` 4
 - [ ] `com` 5
-### LFyA
-- [ ] Video cojon #XCH 
-### BD
-- [ ] Proyecto #XCH
-	- [ ] Requerimientos de proyecto 
-	- [ ] Borrador de modelo
-
-### EyPC
-- [ ] Proyecto (ETAPA 2)
-- [ ] EyPC Clases, RESUMIRLAS
-- [ ] Qué tareas hay de EyPC? ^7dbg
-
-## Viernes
-### Lab BD
 *Cluster 2*
 - [ ] `com` 6
 - [ ] `com` 7
 
-
-
+### BD
+- [ ] Proyecto #XCH
+	- [ ] Requerimientos de proyecto 
+	- [ ] Borrador de modelo
 ## Sábado
+### EyPC
+- [ ] Proyecto en grande ->  Requerimientos y *objetivos* #XCH 
+- [ ] Proyecto (ETAPA 2)
+- [ ] EyPC Clases, RESUMIRLAS
+- [ ] Qué tareas hay de EyPC? ^7dbg
 
-## Domingo
+## Transicionando hacia *W55*
+### Lab SyS
+- [ ] Terminar práctica 2
+- [ ] Pedirle a mi tio #ChatGPT
+- [ ] practica 3
 
 
 # Hereda pendientes:
