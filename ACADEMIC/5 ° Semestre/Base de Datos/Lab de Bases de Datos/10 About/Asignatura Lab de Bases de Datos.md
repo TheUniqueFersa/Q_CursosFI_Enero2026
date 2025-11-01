@@ -23,10 +23,17 @@
 
 **IMPORTANTE**
 
+| LINK                                                           |     |
+| -------------------------------------------------------------- | --- |
+| [CLASES EN LÍNEA](https://cuaed-unam-mx.zoom.us/j/85286292595) |     |
+| Lista de videos grabados (clases)                              |     |
+
+
 | Google Groups                                                                                              | Correo                                                                    | Drive                                                                                                                                 |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [BD Laboratorio]([https://groups.google.com/g/bd-lab-fi-unam](https://groups.google.com/g/bd-lab-fi-unam)) | [bd-lab-fi-unam@googlegroups.com](mailto:bd-lab-fi-unam@googlegroups.com) | [unam-bd](https://drive.google.com/drive/folders/0B4FYUEdc5Wx6RS1OX0tvdkxzbmM?usp=sharing)                                            |
 | [Bases de datos]([https://groups.google.com/g/bd-fi-unam](https://groups.google.com/g/bd-fi-unam))         | bd-fi-unam@googlegroups.com                                               | [unam-comun](https://drive.google.com/drive/folders/0B4FYUEdc5Wx6UDM4bVFkbWVtMEE?resourcekey=0-awaYE3b5odMkKh-FxLenvQ&usp=share_link) |
+|                                                                                                            |                                                                           |                                                                                                                                       |
 **A-T**
 
 | Google Groups                                                                                                           | Correo                                                                                | Drive                                                                                                                               |
