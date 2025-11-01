@@ -4,11 +4,18 @@ tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
+  - "[[Lab de Bases de Datos]]"
 
 ---
 
 ## ♦(°)Out - ♦(...R)
 
+- [ ] QUé pasa si no coinciden los tipos al hacer una conexión FK?
+- [ ] se puede hacer la verificacion de datos en constraints haciendo joins?
+- [ ] Su hora y fecha de salida fue el 31 de agosto del año pasado a
+	las 5 am.?
+- [ ] 14 como fecha límite
+- [x] fechas de practicas pasadas ✅ 2025-10-31
 
 
 ## # #Pendiente
@@ -27,11 +34,14 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] [[Práctica 10]]
+- [ ] [[Práctica 11]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Práctica 9]] ✅ 2025-10-30
 - [x] Entender que hace el spool ✅ 2025-10-23
 - [x] Fix - Lab de BD #XCH ✅ 2025-10-22 ^5721f9
 - [x] [[Práctica 3]] ✅ 2025-10-22
@@ -43,6 +53,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,null,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,null,false],"show-checkboxes":true}
 ```
 %%
