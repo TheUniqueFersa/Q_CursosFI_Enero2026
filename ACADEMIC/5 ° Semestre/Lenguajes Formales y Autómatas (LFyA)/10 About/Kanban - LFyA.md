@@ -24,12 +24,12 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Revisión 2]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Revisión 2]] ✅ 2025-11-01
 - [x] [[Revisión 1]] ✅ 2025-09-29
 - [x] [[Presentación Karaoke]] ✅ 2025-10-02
 
