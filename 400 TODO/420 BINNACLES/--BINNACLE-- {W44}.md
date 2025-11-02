@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega: 2025-11-02
 fecha_terminado:
-Completado: 17
-Incompleto: 19
-Total: 36
+Completado: 23
+Incompleto: 14
+Total: 37
 antecesor: "[[--BINNACLE-- {W43}]]"
 sucesor:
 links_url:
@@ -72,24 +72,45 @@ tags:
 >DÍA DEL ESCALÓN TRES (BASES DE DATOS PRO)
 
 ### Lab BD
->⏳**5H**
-
-`com` 10
 
 >⏳**5h** c/Tarea
-- [ ] `lab` 08
 
-- [ ] `com` 09 📅 2025-10-29 
+- [x] `com` 09 📅 2025-10-29 ✅ 2025-11-01
 
-- [ ] `lab` 10 #XCH ^7deaa7
+- [x] empezar `lab` 10 #XCH ✅ 2025-11-01 ^7deaa7
 
 ### BD
-- [ ] empezar *A LEER* proyecto BD^1b2b6a
+- [x] empezar *A LEER* proyecto BD^1b2b6a ✅ 2025-11-01
 
 ## Viernes
 
+### BD
+- [x] Proyecto #XCH ✅ 2025-11-01
+	- [x] Requerimientos de proyecto ✅ 2025-11-01
+	- [x] Borrador de modelo ✅ 2025-11-01
+## Sábado
+### Proyecto de Bases de Datos
+- [ ] Requerimientos completos y documentación lista usando Quartz 📅 2025-11-01 
+### EyPC
+- [ ] Proyecto en grande ->  Requerimientos y *objetivos* #XCH 📅 2025-11-01 
+
 ### LFyA
-- [ ] Video cojon #XCH 
+- [ ] Video cojon #XCH 📅 2025-11-01 
+
+### Lab SyS 
+- [ ] Terminar práctica 2 📅 2025-11-01 
+
+## Transicionando hacia *W55*
+### EyPC
+- [ ] Proyecto (ETAPA 2)
+- [ ] EyPC Clases, RESUMIRLAS
+- [ ] Qué tareas hay de EyPC? ^7dbg
+
+### Lab SyS
+
+- [ ] Pedirle a mi tio #ChatGPT
+- [ ] practica 3
+
 ### Lab BD
 >⏳**2H** c/Cluster
 
@@ -100,23 +121,7 @@ tags:
 - [ ] `com` 6
 - [ ] `com` 7
 
-### BD
-- [ ] Proyecto #XCH
-	- [ ] Requerimientos de proyecto 
-	- [ ] Borrador de modelo
-## Sábado
-### EyPC
-- [ ] Proyecto en grande ->  Requerimientos y *objetivos* #XCH 
-- [ ] Proyecto (ETAPA 2)
-- [ ] EyPC Clases, RESUMIRLAS
-- [ ] Qué tareas hay de EyPC? ^7dbg
-
-## Transicionando hacia *W55*
-### Lab SyS
-- [ ] Terminar práctica 2
-- [ ] Pedirle a mi tio #ChatGPT
-- [ ] practica 3
-
+- [ ] `lab` 08
 
 # Hereda pendientes:
 
