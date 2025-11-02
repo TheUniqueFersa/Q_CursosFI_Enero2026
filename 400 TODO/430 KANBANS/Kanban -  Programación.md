@@ -71,7 +71,6 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Aprender a usar ==Quartz4==
 - [ ] Aprender a documentar en **#LaTeX** 📅 2025-10-13
 - [ ] #MILESTONE Aprender Linux bien
 - [ ] Una calculadora de gastos semanales en cel
@@ -107,6 +106,7 @@ pertenece a: "[[♣T - Programador Junior]]"
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Aprender a usar ==Quartz4== ✅ 2025-11-01
 - [x] Elegir un proyecto de programación y trollearlo 📅 2025-10-02 ✅ 2025-10-02
 	- [[Proyecto cojudo de EyPC]]
 - [x] Intentar lo de las notas de obsidian usando git 📅 2025-08-19 ✅ 2025-08-24
@@ -175,6 +175,6 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,true,null,false,null,null,false,null,null,false,null,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,true,null,false,null,null,false,null,null,false,null,false],"show-checkboxes":true}
 ```
 %%
