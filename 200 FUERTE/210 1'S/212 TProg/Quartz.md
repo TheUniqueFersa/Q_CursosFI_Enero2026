@@ -4,6 +4,19 @@ pertenece a:
 links_url:
   - https://theuniquefersa.github.io/Fuerte-Universal/
 ---
+# ***Acciones para desplegar notas del Fuerte*** 
+En `FUERTE-DE-LA-CREACIÓN`, hacer cambios, committear y subir
+En `FUERTE-UNIVERSAL`
+1. Hacer pull del ``subtree`` desde la rama ``v4``
+```shell
+git subtree pull --prefix=content notes main --squash
+```
+Cambios sincronizados: *ok*
+2. Sincronizar repo Universal con Pages
+```shell
+npx quartz sync
+```
+3. ***¡¡Listo!!***
 # ***Quartz***
 # Set up
 1. [Clonar repo de quartz4](https://quartz.jzhao.xyz/#-get-started)
@@ -31,8 +44,6 @@ npx quartz sync --no-pull
 ```
 
 # Comandos comúnes
-
-
 Sincronizar con repo remoto (y pages)
 ```shell
 npx quartz sync
@@ -95,3 +106,24 @@ en `/.github/workflows/deploy.yml`
 
 2. Habilitar en GitHub: ``Repo>Settings>Source``: ``GitHub Actions``
 3. Commit con `npx quartz sync`
+
+# ***INTERCONN***
+## Conexiones
+Notas secundarias
+Notas que han de considerarse para la revisión de la actual, para tener contexto
+## Recursos
+
+| Recurso                                                |
+| ------------------------------------------------------ |
+| [Página oficial de Quartz4](https://quartz.jzhao.xyz/) |
+
+Aspectos visibles de las notas secundarias
+MATEEXTRA relacionado
+
+
+## Referencias
+
+| Referencias                                                                                     | Status |
+| ----------------------------------------------------------------------------------------------- | ------ |
+| [Video que explica la configuración inicial](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=34s) | ✅      |
+| [Página oficial de Quartz4](https://quartz.jzhao.xyz/)                                          | ✅      |
