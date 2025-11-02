@@ -42,7 +42,7 @@ INTERCONN: "[[Kanban - Proyecto BD]]"
 	- justificar
 	*las actividades realizadas en cada uno de los scripts*
 # Indicaciones
->En un word
+>En un ~~word~~ Google Docs
 1. [ ] Tabla de contenido (ÍNDICE) #TOCHECK
 2. [ ] Enunciado del problema
 3. [ ] MER
