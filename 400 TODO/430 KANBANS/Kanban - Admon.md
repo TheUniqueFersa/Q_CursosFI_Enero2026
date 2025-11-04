@@ -3,7 +3,8 @@
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
-pertenece a: 
+pertenece a:
+  - "[[♠A-T Administración de Proyectos de Software (Admin)]]"
 
 ---
 
@@ -21,6 +22,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] [[TAREA 1 (QUE BARCO)]]
 
 
 ## # Secuencia de Acciones<br>‼Yi

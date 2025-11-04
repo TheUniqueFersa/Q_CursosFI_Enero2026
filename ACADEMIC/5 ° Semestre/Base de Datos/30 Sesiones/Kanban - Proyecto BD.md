@@ -41,7 +41,6 @@ pertenece a:
 - [ ] `num_poliza` `id_poliza` no son lo mismo?
 - [ ] `COTIZACIÓN` cobertura y opciones?
 - [ ] ``COTIZACIÓN`` Recordatorio? Recordatorios no vendidos
-- [ ] CURP o RFC (XOR?)
 
 
 ## # #Pendiente
