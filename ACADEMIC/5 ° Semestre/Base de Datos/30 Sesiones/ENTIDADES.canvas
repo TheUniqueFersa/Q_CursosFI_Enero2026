@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"c0da519ebf0d9c8e","x":260,"y":-400,"width":400,"height":400,"type":"file","file":"5. PÓLIZA.md"},
-		{"id":"c8265f8e0b039f19","x":260,"y":220,"width":400,"height":417,"type":"file","file":"6. PAGO.md"},
-		{"id":"56acba2370555d1c","x":-600,"y":-320,"width":400,"height":400,"type":"file","file":"1. ASEGURADO.md"},
-		{"id":"6e7f24573efb0e0f","x":-600,"y":237,"width":400,"height":400,"type":"file","file":"7. COTIZACIÓN.md"},
-		{"id":"916541506b7fcbe3","x":1040,"y":-80,"width":400,"height":400,"type":"file","file":"ACADEMIC/5 ° Semestre/Base de Datos/30 Sesiones/8. SINIESTRO.md"}
+		{"id":"c8265f8e0b039f19","type":"file","file":"ACADEMIC/5 ° Semestre/Base de Datos/30 Sesiones/6. PAGO.md","x":260,"y":220,"width":400,"height":417},
+		{"id":"6e7f24573efb0e0f","type":"file","file":"ACADEMIC/5 ° Semestre/Base de Datos/30 Sesiones/7. COTIZACIÓN.md","x":-600,"y":237,"width":400,"height":400},
+		{"id":"916541506b7fcbe3","type":"file","file":"ACADEMIC/5 ° Semestre/Base de Datos/30 Sesiones/8. SINIESTRO.md","x":1040,"y":-80,"width":400,"height":400},
+		{"id":"c0da519ebf0d9c8e","type":"file","file":"ACADEMIC/5 ° Semestre/Base de Datos/30 Sesiones/5. PÓLIZA.md","x":320,"y":-480,"width":440,"height":400},
+		{"id":"56acba2370555d1c","type":"file","file":"ACADEMIC/5 ° Semestre/Base de Datos/30 Sesiones/1. ASEGURADO.md","x":-440,"y":-490,"width":400,"height":420}
 	],
 	"edges":[]
 }
