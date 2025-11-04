@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega: 2025-11-02
 fecha_terminado:
 Completado: 23
-Incompleto: 14
-Total: 37
+Incompleto: 0
+Total: 23
 antecesor: "[[--BINNACLE-- {W43}]]"
 sucesor:
 links_url:

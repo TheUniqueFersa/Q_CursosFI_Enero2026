@@ -9,8 +9,8 @@ terminado: false
 fecha_entrega: 2025-11-02
 fecha_terminado:
 Completado: 0
-Incompleto: 0
-Total: 0
+Incompleto: 14
+Total: 14
 antecesor: "[[INSANITY DAY I]]"
 sucesor:
 links_url:
