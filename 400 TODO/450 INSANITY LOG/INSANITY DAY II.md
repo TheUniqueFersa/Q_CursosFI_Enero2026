@@ -8,8 +8,8 @@ Participantes:
 terminado: false
 fecha_entrega: 2025-11-02
 fecha_terminado:
-Completado: 0
-Incompleto: 14
+Completado: 1
+Incompleto: 13
 Total: 14
 antecesor: "[[INSANITY DAY I]]"
 sucesor:
@@ -25,7 +25,7 @@ tags:
 | ![[02-11-2025#^9c6942]] | 24    | 12:00 doimingo | 12:00 lunes                 |
 # 🏆$AEM$
 ### Proyecto de Bases de Datos
-- [ ] Requerimientos completos y documentación lista usando Quartz [🍅:: 5] 📅 2025-11-01  ^1wa3
+- [x] Requerimientos completos y documentación lista usando Quartz [🍅:: 5] 📅 2025-11-01 ✅ 2025-11-04 ^1wa3
 ### EyPC
 - [ ] Proyecto en grande ->  Requerimientos y *objetivos* #XCH 📅 2025-11-01 
 
