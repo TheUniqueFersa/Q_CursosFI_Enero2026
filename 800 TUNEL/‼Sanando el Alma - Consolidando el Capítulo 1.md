@@ -4,7 +4,7 @@ tipo: "[[Cluxter]]"
 fecha_creado: 2025-06-06
 fecha_entrega:
 Momento: "[[FINAL DEL 2025]]"
-próxima_fecha: 2025-09-28
+próxima_fecha: 2025-11-16
 ---
 # ***‼Sanando el Alma - Consolidando el Capítulo 1***
 A cada Lección de [[♦(...L)]] se le será asignada una acción específica para poder representar dicha lección.
@@ -20,15 +20,25 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 # [[♦(...L)#3|Regla 3]] -> El poder del hombre
 - [ ] #MILESTONE/ORDEN_SUPERIOR Lograr terminar todos los proyectos establecidos en [[Kanban - Proyectos ♣T - Programador Junior]]
 - [ ] Haber hecho las misiones de BrainOut para el final del Capítulo [^1]
-
+- [ ] Haber logrado inculcar PROC en la rutina de vida
 # [[♦(...L)#4|Regla 4]] -> La polimatía que aprende
 - [ ] [[♠A-T SUPER UNIVERSITARIO {-4-}]] -> [[INSTRUCTOR CURSOS FI 2025 Verano]]
+- [ ] [[-(°)EH - ELECTRO]]
+- [ ] [[♣AUTODIDACTA master]]
+- [ ] [[-(°)EH - INVENTOR]]
 # [[♦(...L)#5|Regla 5]] -> Sin miedo aparente
 - [ ] Empezar a ser un hombre
 	- [ ] Acontecimientos de [[FINAL DEL 2025]]
+	- [ ] Invitar a SUS a salir
 
 # [[♦(...L)#6|Regla 6]] -> Sin distracciones
 - [ ] No abrir Youtube ni cualquier red social aparte del momento asignado en el |1| [^1] durante **1 semana** #MILESTONE/INCREMENTABLE ^c3d624
+	- [ ] Sábado 📅 2025-11-08 
+- [ ] Construir una rutina sana de series, MIENTRAS COMA
+>Si veo una serie en la comida, entonces debo lavar mis trastes
+
+- [ ] No abrir el *==sector negativo==* por una semana #MILESTONE/INCREMENTABLE 
+	- [ ] Sabado 📅 2025-11-08 
 
 # [[♦(...L)#7|Regla 7]] -> El benevolente 
 - [ ] Hacer las pases conmigo mismo y tratar con amor a todos
@@ -42,6 +52,8 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 
 # [[♦(...L)#10|Regla 10]] -> El fuerte creado
 - [ ] Tener un sistema (Fuerte) funcional que me permita ampliar mis capacidades y multiplicar mi productividad. Construir el Fuerte en Obsidian con notas que evidencíen el jardín de conocimiento
+- INCOD
+- *GENERADORES*
 >[[Unificación del Fuerte]] como elemento fundamental en mi camino a completar el Primer surgimiento y el primer MES MÁQUINA
 
 # [[♦(...L)#11|Regla 11]] -> El proceso perfecto
@@ -51,13 +63,16 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 # [[♦(...L)#12|Regla 12]] -> Más acciones que pensamientos
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Rebasar mis acciones, completar todos los ***MILESTONES*** de esta nota ^fa6f60
 - [ ]  EMPIEZA AQUÍ -> [[ESCALÓN CERO]] ^b24f16
+- [ ] [[ESCALÓN UNO]]
+- [ ] [[ESCALÓN DOS]] ^9a31e2
+- [ ] [[ESCALÓN TRES]] ^9e0ecf
 # [[♦(...L)#13|Regla 13]] -> Oportunidades aceptadas
 - [ ] Trabajar en la página de Dani
 - [ ] Proyecto de Emir
 - [x] Otro? -> Chamba de Isabella ✅ 2025-07-20
 
 # [[♦(...L)#14|Regla 14]] -> Respeto de los tiempos
-- [ ] Tener un buen tiempo de sueño (más de 6 horas)
+- [ ] Tener un buen tiempo de sueño (más de 6 horas) #MILESTONE/INCREMENTABLE 
 
 # [[♦(...L)#15|Regla 15]] -> Principios respetados
 - [ ] Consolidar los principios
@@ -83,8 +98,8 @@ Cumplir con [[‼YI]]
 	- [ ] Reformas VTA, como primer paso de [[♣BuildYourEmpire]]
 	- [ ] #MILESTONE Limpieza masiva en mi cuarto y renovación de mi casa ([[♠HOME]])
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Construir un CV competente para el [[#Objetivo|objetivo principal]] ^f05390
-
-- [ ] [[Kanban remontada]] #MILESTONE/ORDEN_SUPERIOR 
+- [ ] PROC consolidado
+	- [ ] [[Kanban remontada]] #MILESTONE/ORDEN_SUPERIOR 
 # [[♦(...L)#20|Regla 20]] -> La perfecta preparación para el perfecto manto
 - [ ] [[Programando diario por 1 hora hasta conseguir INTERNSHIP]]
 - [ ] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]

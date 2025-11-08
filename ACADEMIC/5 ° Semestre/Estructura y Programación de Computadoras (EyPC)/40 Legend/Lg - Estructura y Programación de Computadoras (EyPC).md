@@ -9,7 +9,7 @@ scope: General
 ## [[Lg - El objeto de estudio de EyPC SEM5]]
 >El microcontrolador ***MC68HC11***
 
-## Temario original
+# Temario original
 - [[1. Estructura de la máquina]]
 - [[2. Presentación de un caso real]]
 - [[3 Ensambladores y macroensambladores]]

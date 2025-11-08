@@ -3,8 +3,8 @@
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 Total: 61
-Completado: 15
-Incompleto: 46
+Completado: 17
+Incompleto: 44
 tags:
   - Active_kanban/♣T-Programacion
   - PJunior
@@ -71,7 +71,6 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Aprender a documentar en **#LaTeX** 📅 2025-10-13
 - [ ] #MILESTONE Aprender Linux bien
 - [ ] Una calculadora de gastos semanales en cel
 	#♣_PROYECTO_♣
@@ -106,6 +105,7 @@ pertenece a: "[[♣T - Programador Junior]]"
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Aprender a documentar en **#LaTeX** 📅 2025-10-13 ✅ 2025-11-08
 - [x] Aprender a usar ==Quartz4== ✅ 2025-11-01
 - [x] Elegir un proyecto de programación y trollearlo 📅 2025-10-02 ✅ 2025-10-02
 	- [[Proyecto cojudo de EyPC]]
@@ -175,6 +175,6 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,true,null,false,null,null,false,null,null,false,null,false],"show-checkboxes":true}
+{"kanban-plugin":"board","list-collapse":[false,null,true,null,false,null,null,false,true,null,false,null,false],"show-checkboxes":true}
 ```
 %%

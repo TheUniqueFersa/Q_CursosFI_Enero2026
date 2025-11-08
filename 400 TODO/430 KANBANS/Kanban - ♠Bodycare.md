@@ -34,7 +34,7 @@ recurrencia:
 - [ ] Perfume y fragancia
 - [ ] -- ***ROZ*** --
 - [ ] Mantener buena dieta
-	- [ ] Lunes 📅 2025-10-13 
+	- [ ] Lunes 
 	- [ ] Martes
 	- [ ] Miercoles
 	- [ ] Jueves

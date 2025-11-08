@@ -21,9 +21,10 @@
 | ------------------------------------------------- |
 | [[2026-1-Syllabus BD Martha Lopez Pelcastre.pdf]] |
 
-| Links útiles |
-| ------------ |
-|              |
+| Links útiles                                                                                              |
+| --------------------------------------------------------------------------------------------------------- |
+| 💻 [SESIONES EN LÍNEA GRABADAS](https://drive.google.com/drive/folders/1bReHdLPMKqzo4JKCRtNa2V2wTuxhbuLp) |
+|                                                                                                           |
 
 ## ℹ️ Dinámica de la Materia
 

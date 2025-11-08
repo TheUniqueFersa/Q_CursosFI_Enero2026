@@ -14,18 +14,13 @@ pertenece a:
 - [ ] #TOREPLACE
 - [ ] #NOTCLEAR
 - [ ] #NO_RELEVANTE
+- [ ] #IF_CONF
+- [ ] #ELSE
 
 
 ## ♦(°)Out - ♦(...R)
 
-- [ ] 2. Será buena idea modelar 
-	- colonia
-	- ciudad
-	- estado
-	Como catálogo en cliente.dirección
 - [ ] 3. En 2.3 SEGURO_AUTO, ``detalle vehículo`` se puede llamar matrícula
-- [ ] 5. ``AJUSTADOR`` pa que sirve?
-- [ ] 6. ``CLAVE`` en ``SEGURO_VIDA`` y ``SEGURO_RETIRO`` es la llave heredada de la jerarquía no?
 - [ ] 7. Entidades potenciales, como ``BENEFICIARIOS``, se tienen que modelar en ER asumiendo datos esenciales?
 - [ ] Diferencia entre ``monto_asegurado_mínimo`` y ``cobertura básica``
 - [ ] En 8. estadísticas
@@ -41,6 +36,11 @@ pertenece a:
 - [ ] `num_poliza` `id_poliza` no son lo mismo?
 - [ ] `COTIZACIÓN` cobertura y opciones?
 - [ ] ``COTIZACIÓN`` Recordatorio? Recordatorios no vendidos
+- [ ] CURP o RFC (XOR?)
+- [ ] Marca y modelo pueden ser catálogos, pero conviene?
+- [ ] DEBE guardar sobre quien realizó la cotización?
+- [ ] # Bitácora o no bitácora?
+	SI: porque lo pide
 
 
 ## # #Pendiente
@@ -49,10 +49,29 @@ pertenece a:
 - [ ] Establacer bien las PKs de todas las relaciones
 
 
+## Para la profa
+
+- [ ] 2. Será buena idea modelar 
+	- colonia
+	- ciudad
+	- estado
+	Como catálogo en cliente.dirección
+	>Si, para la carga de información nos podemos ayudar de chatgpt
+- [x] 6. ``CLAVE`` en ``SEGURO_VIDA`` y ``SEGURO_RETIRO`` es la llave heredada de la jerarquía no? ✅ 2025-11-02
+	>Si
+- [x] 5. ``AJUSTADOR`` pa que sirve? ✅ 2025-11-02
+- [x] ``CLIENTE`` moral y natural, requiere de más atributos que los sugeridos? ✅ 2025-11-02
+	>No
+
+
 ## **Propuesta de Acciones**
 
+- [ ] Corregir `PAGO` para todas las polizas
 - [ ] Modelo ER
 - [ ] Modelo Relacional
+- [ ] JERARQUÍA en CLIENTE SI O NO #❓
+	>Como MORAL solo tendría su RFC, pues mejor no xd
+- [ ] Aportación mínima mensual -> pagos que se deben registrar para dichas pólizas o seguros?
 
 
 ## Listos para ♦(...R) X-chelons
@@ -66,19 +85,15 @@ pertenece a:
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Un ajustador a un `SINIESTRO`? ✅ 2025-11-02
 - [x] 4. Podemos trabajar en Google docs en vez de word? ✅ 2025-11-02
 - [x] 1. Se puede trabajar en drawio? ✅ 2025-11-02
-
-
-## Para la profa
-
-- [ ] ``CLIENTE`` moral y natural, requiere de más atributos que los sugeridos?
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false,null,null,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[null,false,null,false,null,false,false]}
 ```
 %%

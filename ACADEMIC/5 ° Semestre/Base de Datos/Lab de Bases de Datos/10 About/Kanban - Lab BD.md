@@ -21,7 +21,7 @@ pertenece a:
 ## # #Pendiente
 
 - [ ] Ver porque no jaló rlwrap en contenedor 2 para conexión a distancia
-- [ ] Redactar como abrir el sql ese de campos de manera visual, que se parece mucho al de microsoft 📅 2025-10-23
+- [ ] Redactar como abrir el sql ese de campos de manera visual, que se parece mucho al de microsoft
 - [ ] - Comandos básicos del **==MANUAL_RECOVERY==**
 	- Checar la instalación de ER Studio en linux #AEM
 - [ ] Entender como funciona lo de las carpetas compartidas entre contenedor
@@ -30,6 +30,7 @@ pertenece a:
 
 ## **Propuesta de Acciones**
 
+- [x] [[spool]] ✅ 2025-11-08
 
 
 ## Listos para ♦(...R) X-chelons
