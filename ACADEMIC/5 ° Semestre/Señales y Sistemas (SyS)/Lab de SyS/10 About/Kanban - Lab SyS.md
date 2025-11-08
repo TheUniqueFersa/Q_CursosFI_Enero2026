@@ -18,10 +18,6 @@ pertenece a:
 
 ## **Propuesta de Acciones**
 
-- [ ] [[Lab SyS. Reporte P02]]
-- [ ] [[Lab SyS. Reporte P03]]
-- [ ] [[Lab SyS. Reporte P04]]
-- [ ] [[Lab SyS. Reporte P05]]
 
 
 ## Listos para ♦(...R) X-chelons
@@ -31,6 +27,10 @@ pertenece a:
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Lab SyS. Reporte P05]] ✅ 2025-11-06
+- [x] [[Lab SyS. Reporte P04]] ✅ 2025-11-06
+- [x] [[Lab SyS. Reporte P03]] ✅ 2025-11-06
+- [x] [[Lab SyS. Reporte P02]] ✅ 2025-11-06
 
 
 
