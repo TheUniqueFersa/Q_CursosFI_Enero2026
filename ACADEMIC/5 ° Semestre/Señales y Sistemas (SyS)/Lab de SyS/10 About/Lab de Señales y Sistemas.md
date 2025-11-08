@@ -1,14 +1,14 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: En ejecución
-status: 🟥CRÍTICO🟥
+estado: STANDBY
+status: 🟩ÓPTIMO🟩
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:
 tags:
   - ♠A-T
 pertenece a: "[[♠A-T Señales y Sistemas]]"
-ESTADO_RECOLECCION: COMPRENSIÓN
+ESTADO_RECOLECCION: BASE
 ---
 # ***Lab de Señales y Sistemas***
 

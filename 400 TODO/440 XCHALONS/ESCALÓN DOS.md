@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 6
+Completado: 7
 Incompleto: 10
-Total: 16
+Total: 17
 antecesor: "[[ESCALÓN UNO]]"
 sucesor: "[[ESCALÓN TRES]]"
 links_url:
@@ -55,7 +55,7 @@ tags:
 - [ ] Proyecot EYPC: empezado y logrado
 
 >Miércoles
-- [ ] Lab SyS: Corregido
+- [x] Lab SyS: Corregido ✅ 2025-11-08
 
 >Jueves
 - [ ] ELECTRO mejorado
@@ -71,7 +71,7 @@ tags:
 
 # BEYOND
 - [ ] Vaciar ACADEMIC **INCOMING** #MILESTONE ^b940c7
-
+- [ ] Vaciar **TODOIST INCOMING** 🛫 2025-11-08  ^653803
 # Problemas encontrados
 
 # Decisiones Tomadas

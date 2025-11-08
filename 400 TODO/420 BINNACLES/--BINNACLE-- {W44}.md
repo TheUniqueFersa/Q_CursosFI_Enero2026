@@ -5,17 +5,17 @@ tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
+terminado: true
 fecha_entrega: 2025-11-02
-fecha_terminado:
+fecha_terminado: 2025-11-02
 Completado: 23
 Incompleto: 0
 Total: 23
 antecesor: "[[--BINNACLE-- {W43}]]"
-sucesor:
+sucesor: "[[--BINNACLE-- {W45}]]"
 links_url:
 Tiempo Objetivo: 4200
-Progreso: 600
+Progreso: 1300
 tags:
 ---
 # ***--BINNACLE-- {W44}***

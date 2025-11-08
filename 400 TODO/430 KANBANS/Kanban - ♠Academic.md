@@ -24,15 +24,14 @@ recurrencia:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Hacer notas con el enfoque FORMULARIUM
-	- [ ] Lunes 📅 2025-10-13 
-	- [ ] Miercoles 📅 2025-10-15
-- [ ] Establecer las notas universales para Academic 📅 2025-10-15 ^88d66c
-- [ ] Subir alguna nota a ==Quartz4==
+	- [ ] Lunes
+- [ ] Establecer las notas universales para Academic ^88d66c
 
 
 ## ‼Yi
 
 **Complete**
+- [x] Subir alguna nota a ==Quartz4== ✅ 2025-11-08
 - [x] Cumplir con las Tareas en tiempo y forma todos los días (==Academic Tick==) W1 ✅ 2025-10-05
 	- [-] Domingo 📅 2025-09-28 ❌ 2025-09-28
 	- [>] Lunes
