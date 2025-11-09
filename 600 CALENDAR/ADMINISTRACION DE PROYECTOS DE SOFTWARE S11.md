@@ -22,4 +22,3 @@ ancestro_directo:
 # ***ADMINISTRACION DE PROYECTOS DE SOFTWARE S11***
 ![[Pasted image 20251025081453.png]]
 
-# ***Nota atómica Lg.template***
