@@ -1,7 +1,7 @@
 ---
 pertenece a:
   - "[[Lab de Dispositivos Electrónicos (Dispos)]]"
-terminado: false
+terminado: true
 fecha_entrega:
 fecha_terminado:
 antecesor: "[[Práctica 6 Lab de Dispos]]"
@@ -51,23 +51,23 @@ $$\frac{V_O}{V_i}$$
 # Reporte
 >- [ ] Carátula
 
-- [ ] ## Objetivos
+- [x] ## Objetivos ✅ 2025-11-09
 Analizar, diseñar e implementar configuraciones básicas de circuitos amplificadores de una etapa, con transistores bipolares de juntura, considerando modelos de señal pequeña y señal grande.
 
-- [ ] ## Material y Equipo
+- [x] ## Material y Equipo ✅ 2025-11-09
 Transistores TBJ, Resistencias, Potenciómetro, Capacitores, Multímetro, Fuente de poder, Generador de funciones, Osciloscopio,Cables (banana-caimán, caimán- caimán, BNC-caimán), Tableta de prototipos (Protoboard).
 
-- [ ] ## Trabajo Previo
+- [x] ## Trabajo Previo ✅ 2025-11-09
 >Analizar, diseñar, simular y armar configuraciones básicas de amplificadores de una etapa, con transistores bipolares de juntura, atendiendo las indicaciones del profesor.
 
-- [ ] ## Desarrollo
+- [x] ## Desarrollo ✅ 2025-11-09
 >Medir y caracterizar cada uno de los circuitos indicados en el trabajo previo.
 
-- [ ] ## Resultados
+- [x] ## Resultados ✅ 2025-11-09
 >- [ ] Realizar tabla comparativa. El alumno debe analizar y comparar los resultados teóricos, simulados y experimentales obtenidos, con la finalidad de generar, de carácter obligatorio, sus propias conclusiones, haciendo énfasis en los objetivos planteados al inicio de la práctica.
 
-- [ ] ## Conclusiones
+- [x] ## Conclusiones ✅ 2025-11-09
 
-- [ ] ## Referencias
+- [x] ## Referencias ✅ 2025-11-09
 
-- [ ] ==Completo== #AEM
+- [x] ==Completo== #AEM ✅ 2025-11-09

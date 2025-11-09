@@ -12,10 +12,10 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 ---
 # ***Lab de Dispositivos Electrónicos (Dispos)***
 
-| Clave | Manual de Prácticas    | Bibliografía                                            | Calificación |
-| ----- | ---------------------- | ------------------------------------------------------- | ------------ |
-| 5138  | [[MANUAL_DE_Comp.pdf]] | [[Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf]] |              |
-|       |                        | (Más libros en Carpeta _Libros)                         |              |
+| Clave | Manual de Prácticas                                                                    | Bibliografía                                            | Calificación |
+| ----- | -------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------ |
+| 5138  | [[MANUAL_DE_Comp.pdf]]                                                                 | [[Dispos. Dispositivos Electrónicos - Floyd 8a ed.pdf]] |              |
+|       | [MANUAL](https://drive.google.com/file/d/1zcyEzY54Rc_ioIG7dzi7gQEeZO_52lqK/view?hl=es) | (Más libros en Carpeta _Libros)                         |              |
 
 | ⤵                          | 📌                                                        |
 | -------------------------- | --------------------------------------------------------- |

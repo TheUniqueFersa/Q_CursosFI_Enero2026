@@ -33,12 +33,14 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 
 # [[♦(...L)#6|Regla 6]] -> Sin distracciones
 - [ ] No abrir Youtube ni cualquier red social aparte del momento asignado en el |1| [^1] durante **1 semana** #MILESTONE/INCREMENTABLE ^c3d624
-	- [ ] Sábado 📅 2025-11-08 
+	- [x] Sábado 📅 2025-11-08 ✅ 2025-11-08
+	- [ ] Domingo 📅 2025-11-09 
 - [ ] Construir una rutina sana de series, MIENTRAS COMA
 >Si veo una serie en la comida, entonces debo lavar mis trastes
 
 - [ ] No abrir el *==sector negativo==* por una semana #MILESTONE/INCREMENTABLE 
-	- [ ] Sabado 📅 2025-11-08 
+	- [x] Sabado 📅 2025-11-08 ✅ 2025-11-08
+	- [ ] Domingo 📅 2025-11-09 
 
 # [[♦(...L)#7|Regla 7]] -> El benevolente 
 - [ ] Hacer las pases conmigo mismo y tratar con amor a todos
