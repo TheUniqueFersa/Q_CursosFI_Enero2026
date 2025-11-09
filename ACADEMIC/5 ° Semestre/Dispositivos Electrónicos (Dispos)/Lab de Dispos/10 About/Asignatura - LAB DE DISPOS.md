@@ -1,3 +1,8 @@
+---
+pertenece a:
+  - "[[Lab de Dispositivos Electrónicos (Dispos)]]"
+---
+
 # Asignatura
 
 > [!summary] Relevante

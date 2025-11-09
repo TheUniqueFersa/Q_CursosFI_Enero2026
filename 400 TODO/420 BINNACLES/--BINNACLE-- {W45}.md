@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 4
-Incompleto: 13
-Total: 17
+Completado: 8
+Incompleto: 14
+Total: 22
 antecesor: "[[--BINNACLE-- {W44}]]"
 sucesor:
 links_url:
@@ -39,8 +39,8 @@ tags:
 ## Jueves
 ## Viernes
 ## ~~Sábado~~ -> Transicionando hacia W46 (T-8W)
-- [ ] Arreglar archivos de Descargas en PC
-- [ ] Leer notas Dispos
+- [x] Arreglar archivos de Descargas en PC ✅ 2025-11-08
+- [x] Leer notas Dispos ✅ 2025-11-09
 
 - [ ] Video FET ejercicio
 - [ ] Video FET teoría -> apuntes 
@@ -50,6 +50,13 @@ tags:
 ---
 
 ![[INSANITY DAY II#🏆$AEM$]]
+
+### LAB DISPOS
+- [x] corregir medición en -0.4 ✅ 2025-11-09
+- [x] Armar las gráficas con mis datos wtf ✅ 2025-11-09
+- [ ] portada
+- [ ] Tener construido el formato igual a la anterior
+- [ ] Aplicar el **Teorema del final predecido**
 
 ### EyPC
 - [ ] Proyecto (ETAPA 2) 

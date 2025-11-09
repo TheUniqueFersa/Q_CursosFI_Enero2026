@@ -1,9 +1,11 @@
 ---
+
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
   - "[[Lab de Dispositivos Electrónicos (Dispos)]]"
+
 ---
 
 ## ♦(°)Out - ♦(...R)
@@ -15,7 +17,6 @@ pertenece a:
 ## # #Pendiente
 
 - [ ] [[voltaje de offset]]
-- [ ] [[Práctica 7 Lab de Dispos]]
 
 
 ## **Propuesta de Acciones**
@@ -24,12 +25,14 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 8 Lab de Dispos]]
+- [ ] [[Práctica 9 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Práctica 7 Lab de Dispos]] ✅ 2025-11-09
+- [x] [[Práctica 8 Lab de Dispos]] ✅ 2025-11-09
 - [x] [[Práctica 6 Lab de Dispos]] ✅ 2025-10-12
 - [x] [[Práctica 4 Lab de Dispos]] ✅ 2025-09-22
 - [x] [[Práctica 3 Lab de Dispos]] ✅ 2025-09-14
@@ -40,6 +43,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,null,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,null,false,true]}
 ```
 %%
