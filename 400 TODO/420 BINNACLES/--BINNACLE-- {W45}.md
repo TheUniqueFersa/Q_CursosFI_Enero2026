@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 8
-Incompleto: 14
-Total: 22
+Completado: 11
+Incompleto: 8
+Total: 19
 antecesor: "[[--BINNACLE-- {W44}]]"
 sucesor:
 links_url:
@@ -42,9 +42,6 @@ tags:
 - [x] Arreglar archivos de Descargas en PC ✅ 2025-11-08
 - [x] Leer notas Dispos ✅ 2025-11-09
 
-- [ ] Video FET ejercicio
-- [ ] Video FET teoría -> apuntes 
-- [ ] Video FET ejercicio 2
 ---
 >🕐 02:30
 ---
@@ -54,9 +51,9 @@ tags:
 ### LAB DISPOS
 - [x] corregir medición en -0.4 ✅ 2025-11-09
 - [x] Armar las gráficas con mis datos wtf ✅ 2025-11-09
-- [ ] portada
-- [ ] Tener construido el formato igual a la anterior
-- [ ] Aplicar el **Teorema del final predecido**
+- [x] portada ✅ 2025-11-09
+- [x] Tener construido el formato igual a la anterior ✅ 2025-11-09
+- [x] Aplicar el **Teorema del final predecido** ✅ 2025-11-09
 
 ### EyPC
 - [ ] Proyecto (ETAPA 2) 
