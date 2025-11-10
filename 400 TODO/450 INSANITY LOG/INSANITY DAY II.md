@@ -56,7 +56,7 @@ tags:
 - [ ] S2 Dispos
 	- [ ] Videos sobre FET
 ### Lab Dispos
-- [ ] Reporte pract 8 [🍅:: 4] ^p3nq
+- [ ] Reporte pract 8
 - [ ] Prev 9
 ### Lab BD
 - [ ] Entregar los previos calificados 
