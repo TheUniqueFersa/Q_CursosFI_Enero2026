@@ -23,10 +23,10 @@
 
 **IMPORTANTE**
 
-| LINK                                                           |     |
-| -------------------------------------------------------------- | --- |
-| [CLASES EN LÍNEA](https://cuaed-unam-mx.zoom.us/j/85286292595) |     |
-| Lista de videos grabados (clases)                              |     |
+| LINK                                                                                                          |     |
+| ------------------------------------------------------------------------------------------------------------- | --- |
+| [zoom CLASES EN LÍNEA](https://cuaed-unam-mx.zoom.us/j/85286292595)                                           |     |
+| [Lista de videos grabados (clases)](https://www.youtube.com/playlist?list=PLN-e6cjDYpAaHVKGi-BzGnPfSs3SppJeB) |     |
 
 
 | Google Groups                                                                                              | Correo                                                                    | Drive                                                                                                                                 |
