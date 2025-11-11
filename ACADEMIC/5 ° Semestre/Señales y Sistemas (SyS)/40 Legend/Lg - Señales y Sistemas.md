@@ -5,6 +5,13 @@ scope: General
 tipo: Nota Legend
 ---
 # ***Lg - Señales y Sistemas***
+## Rondas de Legendarización
+
+| Ronda | Tipo             | Temas englobados | $N_{T}^{Lg}$ | $FORM_{T}$                               | $EJ_{T}$                                                           |
+| ----- | ---------------- | ---------------- | ------------ | ---------------------------------------- | ------------------------------------------------------------------ |
+| 1     | ``simplificada`` | 1-3              |              | $F_{com}$: [[FORMULARIUM SyS 1.pdf\|F1]] | $Serie R$: [[G1Serie1SyS_LópezMoralesFernandoSamuel.pdf\|Serie 1]] |
+
+# Señales y Sistemas
 >🎯**Objetivo**: El alumno integrará las técnicas fundamentales que facilitan la comprensión y el análisis de los sistemas lineales que se encuentran en el campo de las comunicaciones, el procesamiento de datos y el control
 
 - [[1. Señales y sistemas]]
@@ -14,8 +21,3 @@ tipo: Nota Legend
 - [[5. Características dinámicas de los sistemas continuos y discretos]]
 - [[6. Respuesta en frecuencia]]
 
-# Rondas de Legendarización
-
-| Ronda | Tipo             | Temas englobados | $N_{T}^{Lg}$ | $FORM_{T}$                               | $EJ_{T}$                                                           |
-| ----- | ---------------- | ---------------- | ------------ | ---------------------------------------- | ------------------------------------------------------------------ |
-| 1     | ``simplificada`` | 1-3              |              | $F_{com}$: [[FORMULARIUM SyS 1.pdf\|F1]] | $Serie R$: [[G1Serie1SyS_LópezMoralesFernandoSamuel.pdf\|Serie 1]] |
