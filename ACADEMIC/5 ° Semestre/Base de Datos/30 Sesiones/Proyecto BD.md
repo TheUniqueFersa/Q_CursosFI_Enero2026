@@ -9,6 +9,8 @@ tags:
   - "#TOCHECK"
   - NOTCLEAR
 INTERCONN: "[[Kanban - Proyecto BD]]"
+links_url:
+  - https://drive.google.com/drive/folders/1Me6-ID-9l6vPt913TvvmA1AIiJKcGgKK?usp=drive_link
 ---
 # Proyecto Final 
 >Bases de datos
@@ -26,9 +28,10 @@ INTERCONN: "[[Kanban - Proyecto BD]]"
 - [ ] [[#INDICACIONES]]
 - [ ] [[#CONSIDERACIONES]]
 
-| ⤵️                       |     |
-| ------------------------ | --- |
-| [[Kanban - Proyecto BD]] |     |
+| ⤵️                        |     |
+| ------------------------- | --- |
+| [[Kanban - Proyecto BD]]  |     |
+| [[GLOSARIO DE CONCEPTOS]] |     |
 # Requerimientos
 # Requisitos
 # Entregables
@@ -75,32 +78,19 @@ INTERCONN: "[[Kanban - Proyecto BD]]"
 | F     |                    |               |
 | G     |                    |               |
 
-# Consideraciones
-1. [ ] Hacer uso de todos los tipos de restricciones vistas en clase: ``unique, check, pk, fk``
-2. [ ] Alguna tabla (al menos un caso) deberá usar `default`
-3. [ ] Se debe haber un uso al menos 2 veces de **llaves naturales**
-4. [ ] Elaborar 4 o más consultas. Empleando:
-	1. [ ] uso de ``JOINS`` (distintos tipos)
-	2. [ ] funciones de agregación
-	3. [ ] álgebra relacional
-	4. [ ] subconsultas[^1]
-5. [ ] Para cada [[estadística]] debe generar 1 [[procedimiento almacenado]], para nombrarlos utilice el prefijo ``pa_NombredelProcedimiento``
-6. [ ] Cada [[estadística]] debe generarse con información suficiente que permita ver que la estadística se genera de forma adecuada #NOTCLEAR
-7. [ ] Hacer un análisis y seleccionar casos donde el uso de índices pudiera ser adecuado:
-	1. [ ] Índices Non Clustered
-	Considerar ``FK`` usadas frecuentemente en ``JOINS``
-	2. [ ] índices Unique (simples o compuestos) para verificar *unicidad*
-8. [ ] Debe contar con:
-	1. [ ] 3 vistas
-	2. [ ] 3 funciones
+# [[CONSIDERACIONES - PROYECTO BD]]
 # *Notas*
 >❗Selección aleatoria de un miembro para que explique cada script SQL desarrollado
->❗Trabajo debe contener un apartado en donde se especifique donde aplicó cada [[#Consideraciones|consideración]] -> "*[[#Aplicación de consideraciones]]*"
+>- [ ] ❗Trabajo debe contener un apartado en donde se especifique donde aplicó cada ***consideración*** -> "*Aplicación de consideraciones*"
 >Debe contener:
 >- Consideración
 >- Componente
 >- Nombre
 >- Descripción
+
+
 >- [ ] Comp, nom y desc de qué exactamente?
+
+^a9fbf2
 
 [^1]:  (si ya las uso en las estadísticas no es necesario este punto, solo agregarlas en la parte de aplicación de consideraciones)

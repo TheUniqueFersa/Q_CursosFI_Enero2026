@@ -37,6 +37,7 @@ pertenece a:
 
 - [ ] [[Práctica 10]]
 - [ ] [[Práctica 11]]
+- [ ] [[EXAMENCITO LAB BD]]
 
 
 ## # Secuencia de Acciones<br>‼Yi

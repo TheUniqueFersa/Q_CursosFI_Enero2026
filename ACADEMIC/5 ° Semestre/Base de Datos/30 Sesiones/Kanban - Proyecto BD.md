@@ -35,18 +35,27 @@ pertenece a:
 - [ ] `num_empleado` en ``CORREDOR`` no es ya una artificial?
 - [ ] `num_poliza` `id_poliza` no son lo mismo?
 - [ ] `COTIZACIÓN` cobertura y opciones?
+	![[7. COTIZACIÓN#^0fb359]]
 - [ ] ``COTIZACIÓN`` Recordatorio? Recordatorios no vendidos
-- [ ] CURP o RFC (XOR?)
-- [ ] Marca y modelo pueden ser catálogos, pero conviene?
+- [ ] ![[1. ASEGURADO#^cce1d5]]
+- [ ] ![[4. VEHÍCULO#^e6fde4]]
 - [ ] DEBE guardar sobre quien realizó la cotización?
 - [ ] # Bitácora o no bitácora?
 	SI: porque lo pide
+- [ ] El valor comercial
+	Decisión de convertir modelo y marca en un catálogo complejo para poder determinar la cantidad del seguro
 
 
 ## # #Pendiente
 
 - [ ] Establecer bien las cardinalidades
 - [ ] Establacer bien las PKs de todas las relaciones
+- [ ] ![[5. PÓLIZA#^2c4b1a]]
+- [ ] [[DUDA LÓGICA. TIPO_SEGURO es un catálogo o como se interpreta?]]
+- [ ] DUDA LÓGICA. Conexión de AUTO con seguro_auto
+- [ ] ![[7. INFORMES#^7de5b7]]
+- [ ] [[8. ESTADÍSTICAS#^df9761|Campo de monto prima total vendido]] no es claro donde debe colocarse
+- [ ] RENOVACIÓN vuelve a estar en discusión por [[8. ESTADÍSTICAS#^1e40cd|Punto 10]]
 
 
 ## Para la profa
@@ -62,6 +71,7 @@ pertenece a:
 - [x] 5. ``AJUSTADOR`` pa que sirve? ✅ 2025-11-02
 - [x] ``CLIENTE`` moral y natural, requiere de más atributos que los sugeridos? ✅ 2025-11-02
 	>No
+- [ ] ![[Proyecto BD#^a9fbf2]]
 
 
 ## **Propuesta de Acciones**
@@ -71,11 +81,13 @@ pertenece a:
 - [ ] Modelo Relacional
 - [ ] JERARQUÍA en CLIENTE SI O NO #❓
 	>Como MORAL solo tendría su RFC, pues mejor no xd
+- [ ] 
 - [ ] Aportación mínima mensual -> pagos que se deben registrar para dichas pólizas o seguros?
 
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] 
 - [ ] # #TETRAPETAL/TALLO
 	TERMINAR DE HACER EL **ANÁLISIS EXHAUSTIVO**
 - [ ] Verificar CS#
