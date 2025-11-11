@@ -21,4 +21,8 @@ scope: General
 -  INTRODUCCIÓN DE LA PROGRAMACIÓN EN BASE DE DATOS
 
 
-# Laboratorio
+## Laboratorio
+- [[JOINS]]
+- [[Funciones de Agregación]]
+
+# 
