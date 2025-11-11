@@ -5,6 +5,14 @@ pertenece a:
   - "[[♠A-T Lenguajes Formales y Autómatas]]"
 ---
 # ***Lg - Lenguajes Formales y Autómatas (LFyA)***
+
+## Rondas de Legendarización
+
+|           |            |     |
+| --------- | ---------- | --- |
+| $LG(M,T)$ | $n_T^{Lg}$ |     |
+
+# Lenguajes Formales y Autómatas
 ## Temario propuesto `tema`
 - [[0. Introducción]]
 - [[1. De lenguajes y palabras]]
@@ -30,3 +38,12 @@ pertenece a:
 
 
 [[REGEX]]
+
+# FORMULARIUMS
+- [[FORMULARIUM - Biblioteca MAQUINAS]]
+- [[FORMULARIUM - MÁQUINAS]]
+
+# EJERCICIOS
+- [[Revisión 1]]
+- [[Revisión 2]]
+- [[Ejecicios Revisión 3]]
