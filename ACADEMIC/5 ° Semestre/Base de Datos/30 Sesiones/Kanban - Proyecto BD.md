@@ -71,6 +71,7 @@ pertenece a:
 - [ ] Modelo Relacional
 - [ ] JERARQUÍA en CLIENTE SI O NO #❓
 	>Como MORAL solo tendría su RFC, pues mejor no xd
+- [ ] 
 - [ ] Aportación mínima mensual -> pagos que se deben registrar para dichas pólizas o seguros?
 
 

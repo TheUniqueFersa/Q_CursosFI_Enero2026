@@ -9,6 +9,8 @@ tags:
   - "#TOCHECK"
   - NOTCLEAR
 INTERCONN: "[[Kanban - Proyecto BD]]"
+links_url:
+  - https://drive.google.com/drive/folders/1Me6-ID-9l6vPt913TvvmA1AIiJKcGgKK?usp=drive_link
 ---
 # Proyecto Final 
 >Bases de datos
