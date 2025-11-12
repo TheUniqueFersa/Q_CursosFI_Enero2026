@@ -1,12 +1,10 @@
 ---
 estado:
 status:
-tipo_nota: primaria
 ptetra: "[[♣Legend]]"
 fecha_creado: <% tp.date.now("YYYY-MM-DD") %>
 próxima_fecha:
 serie:
-scope:
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 Completado:
@@ -15,5 +13,21 @@ Total:
 tags:
 Materia:
 Saga:
+pertenece a:
+scope:
+recolecta de:
+tipo_nota: Legend
 ---
-# ***♣Lg -***
+# ***Lg -***
+>
+
+# Materia
+## 🎯 Objetivo
+
+## Contenido
+
+# FORMULARIUMS
+
+# Evidencias de Legendarización
+
+# Rondas de Legendarización

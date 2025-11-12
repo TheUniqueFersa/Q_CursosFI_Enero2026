@@ -1,18 +1,30 @@
 ---
-tipo: Nota Legend
-scope: General
+estado: En ejecución
+status: Activo
+ptetra: "[[♣Legend]]"
+fecha_creado: 2025-08-11
+próxima_fecha:
+serie: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
+modelo:
+  - "[[►Recolección Wissen-Garden]]"
+Completado: 0
+Incompleto: 0
+Total: 0
+tags:
+Materia: Lenguajes Formales y Autómatas
+Saga:
+  - "[[☼First Rise -7-]]"
 pertenece a:
   - "[[♠A-T Lenguajes Formales y Autómatas]]"
+scope: General
+tipo: Nota Legend
 ---
 # ***Lg - Lenguajes Formales y Autómatas (LFyA)***
 
-## Rondas de Legendarización
-
-|           |            |     |
-| --------- | ---------- | --- |
-| $LG(M,T)$ | $n_T^{Lg}$ |     |
 
 # Lenguajes Formales y Autómatas
+## 🎯 Objetivos
+- 
 ## Temario propuesto `tema`
 - [[0. Introducción]]
 - [[1. De lenguajes y palabras]]
@@ -25,7 +37,6 @@ pertenece a:
 - [[8. La máquina con cinta]]
 - [[9. Máquinas que comen máquinas]]
 - [[10. Extra. Recapitulación]]
-
 
 ## Temario original
 - [[1. INTRODUCCIÓN LFyA]]
@@ -43,7 +54,13 @@ pertenece a:
 - [[FORMULARIUM - Biblioteca MAQUINAS]]
 - [[FORMULARIUM - MÁQUINAS]]
 
-# EJERCICIOS
+# Evidencias de Legendarización
 - [[Revisión 1]]
 - [[Revisión 2]]
-- [[Ejecicios Revisión 3]]
+- [[Revisión 3]]
+	- [[Ejecicios Revisión 3]]
+# Rondas de Legendarización
+
+| Ronda | Tipo | Temas | $N_T^{Lg}$ | $FORM_T$ | $EJ_T$ |
+| ----- | ---- | ----- | ---------- | -------- | ------ |
+|       |      |       |            |          |        |

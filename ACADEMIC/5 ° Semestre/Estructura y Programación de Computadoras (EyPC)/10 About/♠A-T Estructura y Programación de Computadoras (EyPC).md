@@ -60,13 +60,4 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 | Video               |        |
 |                     |        |
 |                     |        |
-## Rondas de material
-### Haciendo un compilador del *68HC11*
-- [[Primera ronda de material EyPC]]
-- [[Segunda ronda material EyPC]]
-- [[Tercera ronda material de EyPC]]
-- [[Cuarta ronda material de EyPC]]
-- [[Quinta ronda material de EyPC]]
-- [[Sexta y Séptima ronda material de EyPC]]
-- [[Octava y Novena ronda de material de EyPC]]
-- [[Décima ronda de material de EyPC]]
+

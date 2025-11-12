@@ -1,7 +1,7 @@
 ---
-Completado:
-Incompleto:
-Total:
+Completado: 1
+Incompleto: 23
+Total: 24
 fecha_entrega: 2025-11-23
 pertenece a:
   - "[[♠A-T Bases de Datos]]"

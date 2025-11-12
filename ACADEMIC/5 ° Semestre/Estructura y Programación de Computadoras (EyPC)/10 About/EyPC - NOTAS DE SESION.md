@@ -1,8 +1,19 @@
 ---
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
+tipo_nota: Cluster
 ---
 # NOTAS DE SESIÓN
+- SEMANA 1
+	- [ ] [[Primera ronda de material EyPC]]
+- SEMANA 2
+	- [ ] [[Segunda ronda material EyPC]]
+	- [ ] [[Tercera ronda material de EyPC]]
+- SEMANA 3
+	- [ ] [[Cuarta ronda material de EyPC]]
+	- [ ] [[Quinta ronda material de EyPC]]
+- SEMANA 4
+	- [ ] [[Sexta y Séptima ronda material de EyPC]]
 - SEMANA 5
 - SEMANA 6
 - SEMANA 7
@@ -11,12 +22,20 @@ pertenece a:
 	- ***PARITO***
 - SEMANA 9
 	- [[ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S9C1]]
+	- [ ] [[Sexta y Séptima ronda material de EyPC]]
+	- [ ] [[Octava y Novena ronda de material de EyPC]]
 - SEMANA 10
 	- ***PARO ONLINE***
 - SEMANA 11
 	- [[ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S11C1]]
+	- [ ] [[Décima ronda de material de EyPC]]
 - SEMANA 12
+	- [ ] [[Rondas perdidas de transición EyPC]]
 - SEMANA 13
+	- [[Rondas perdidas de transición EyPC]]
 - SEMANA 14
+	- ***CLASE SUSPENDIDA***
+	- [[ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S14C2]]
 - SEMANA 15
+
 - SEMANA 16

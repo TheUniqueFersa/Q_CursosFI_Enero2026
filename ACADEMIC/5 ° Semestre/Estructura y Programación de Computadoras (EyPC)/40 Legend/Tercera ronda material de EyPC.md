@@ -1,7 +1,7 @@
 ---
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
-terminado: false
+terminado: true
 tipo_nota: Recolectora
 antecesor: "[[Segunda ronda material EyPC]]"
 sucesor: "[[Cuarta ronda material de EyPC]]"
@@ -14,5 +14,3 @@ sucesor: "[[Cuarta ronda material de EyPC]]"
 | 68HC11 SET DE INSTRUCCIONES SIN ERRORES UNAM                                                      | *(Excel)* |
 | SET_DE_INSTRUCCIONES_ COMPLETO_DEL_MC68HC11_ EN_ORDEN_ASCENDENTE(corregido y aumentado)<br>``A1`` | *(Excel)* |
 | SET DE INSTRUCCIONES COMPLETO DEL MC68HC11 EN ORDEN ASCENDENTE                                    | *(Excel)* |
-
-# 
