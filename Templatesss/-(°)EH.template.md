@@ -1,12 +1,12 @@
 ---
-estado: 
-status: 
+estado:
+status:
 tipo: "[[-(°) BigCoreElement]]"
-tipo_bce: "[[-(°)ENHANCED]]"
+tipo_te: "[[-(°)ENHANCED]]"
 tipo_nota: primaria
 LIGHTVOLT: ⚡6⚪
-serie: 
-image: 
+serie:
+image:
 tipo_EH:
 ---
 # ***<% tp.file.title %>***

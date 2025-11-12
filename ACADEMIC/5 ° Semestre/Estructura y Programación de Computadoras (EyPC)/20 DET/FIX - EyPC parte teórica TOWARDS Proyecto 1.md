@@ -89,15 +89,15 @@ Se define entonces:
 
 # Análisis del contenido de las diapositivas del profesor
 
-| Ronda | Diapos          | Contenido importante | Relevante para el proyecto? | LG?    |
-| ----- | --------------- | -------------------- | --------------------------- | ------ |
-| 1     | ARQUITECTURA... | Conceptos básicos    |                             | ==SI== |
-|       | PIPELINE...     | pipeline             |                             |        |
-| 2     | Elementos...    |                      |                             | ==SI== |
-| 3     |                 |                      |                             |        |
-| 4     |                 |                      |                             |        |
-| 5     |                 |                      |                             |        |
-| 6     |                 |                      |                             |        |
-| 7     |                 |                      |                             |        |
-| 8     |                 |                      |                             |        |
-| 9     |                 |                      |                             |        |
+| Ronda | Diapos           | Contenido importante            | Relevante para el proyecto? | LG?    |
+| ----- | ---------------- | ------------------------------- | --------------------------- | ------ |
+| 1     | ARQUITECTURA...  | Conceptos básicos               |                             | ==SI== |
+|       | PIPELINE...      | pipeline                        |                             |        |
+| 2     | Elementos...     |                                 |                             | ==SI== |
+| 3     | Modos de Dire... | [[Modos de redireccionamiento]] | Si                          | ==SI== |
+| 4     |                  |                                 |                             |        |
+| 5     |                  |                                 |                             |        |
+| 6     |                  |                                 |                             |        |
+| 7     |                  |                                 |                             |        |
+| 8     |                  |                                 |                             |        |
+| 9     |                  |                                 |                             |        |

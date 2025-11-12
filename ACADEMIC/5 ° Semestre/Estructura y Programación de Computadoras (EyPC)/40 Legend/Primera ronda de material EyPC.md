@@ -8,8 +8,8 @@ sucesor: "[[Segunda ronda material EyPC]]"
 
 | Material                                | Status |
 | --------------------------------------- | ------ |
-| [[ARQUITECTURA DEL 68HC11 - EYPDC.pdf]] |        |
-| [[PIPE LINE - ARQUITECTURA.pdf]]        |        |
+| [[ARQUITECTURA DEL 68HC11 - EYPDC.pdf]] | 🟢     |
+| [[PIPE LINE - ARQUITECTURA.pdf]]        | 🟨     |
 # ARQUITECTURA DEL 68HC11
 
 
