@@ -31,6 +31,7 @@ pertenece a:
 ## **Propuesta de Acciones**
 
 - [x] [[spool]] ✅ 2025-11-08
+- [ ] Estudiar sobre [[SQL window functions]]
 
 
 ## Listos para ♦(...R) X-chelons
