@@ -16,6 +16,14 @@ pertenece a:
 - [ ] #NO_RELEVANTE
 - [ ] #IF_CONF
 - [ ] #ELSE
+- [ ] ANALIZAR [[4. REQUERIMIENTOS DE USUARIOS Y ROLES]]
+- [ ] ANALIZAR [[6. DESCRIPCIÓN NARRATIVA]]
+- [ ] ``lugar_siniestro`` puede ir conectado con las tablas de lugar que se usan  en usuario
+- [ ] [[3. REQUISITOS DE INTEGRIDAD Y REGLAS DE NEGOCIO]]
+- [ ] [[GENERAR COTIZACIÓN]]
+- [ ] [[ADMINISTRAR PLANES]]
+- [ ] [[INGRESAR ASEGURADO]]
+- [ ] [[PRESUPUESTO]]
 
 
 ## ♦(°)Out - ♦(...R)
@@ -72,17 +80,27 @@ pertenece a:
 - [x] ``CLIENTE`` moral y natural, requiere de más atributos que los sugeridos? ✅ 2025-11-02
 	>No
 - [ ] ![[Proyecto BD#^a9fbf2]]
+- [ ] ![[8. ESTADÍSTICAS#^69f9eb]]: Debe considerar las primas en general? osea aun cuando no han sido pagadas?
+	O solo las totalmente pagadas
+- [ ] ![[8. ESTADÍSTICAS#^ad58cc]]
+	Como modelar mejor la **distribución**?
 
 
 ## **Propuesta de Acciones**
 
+- [ ] `RUC` en ASEGURADO
 - [ ] Corregir `PAGO` para todas las polizas
 - [ ] Modelo ER
 - [ ] Modelo Relacional
 - [ ] JERARQUÍA en CLIENTE SI O NO #❓
 	>Como MORAL solo tendría su RFC, pues mejor no xd
-- [ ] 
 - [ ] Aportación mínima mensual -> pagos que se deben registrar para dichas pólizas o seguros?
+- [ ] Quitar relacion  ATIENDE entre CLIENTE CORREDOR
+- [ ] modelar ``causa`` como catálogo dado el requierimiento en [[8. ESTADÍSTICAS#^df9761|ESTADÍSTICAS]]
+- [ ] [[LÓGICA DEL FRACCIONAMIENTO DE LA PRIMA]] modificar el Relacional
+- [ ] [[RECURSIVA EN PÓLIZA PARA RENOVAR]]}
+	modificar relacional
+- [ ] RELACION COTIZACION incluye SEGURO
 
 
 ## Listos para ♦(...R) X-chelons

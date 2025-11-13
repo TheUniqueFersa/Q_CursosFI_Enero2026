@@ -12,7 +12,7 @@ Completado: 11
 Incompleto: 8
 Total: 19
 antecesor: "[[--BINNACLE-- {W44}]]"
-sucesor:
+sucesor: "[[--BINNACLE --{W46}]]"
 links_url:
 Tiempo Objetivo: 4200
 Progreso: 245
