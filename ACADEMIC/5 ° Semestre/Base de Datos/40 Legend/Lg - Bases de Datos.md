@@ -35,8 +35,10 @@ tipo_nota: Legend
 
 
 ## Laboratorio
+- [[Consultas]]
 - [[JOINS]]
 - [[Funciones de Agregación]]
+- [[Subconsultas]]
 
 # FORMULARIUMS
 - [[FORM - LAB BD]]
