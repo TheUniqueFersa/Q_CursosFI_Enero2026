@@ -55,7 +55,9 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 # ***INTERCONN***
 ## Recursos
 
-| Recurso               | Tema inicio | Tema fin |
-| --------------------- | ----------- | -------- |
-| [[CursoSyS_123a.pdf]] | 1.1         |          |
-| [[TBilineal_SyS.pdf]] | extra       |          |
+| Recurso                      | Tema inicio | Tema fin |
+| ---------------------------- | ----------- | -------- |
+| [[CursoSyS_123a.pdf]]        | 1.1         |          |
+| [[TBilineal_SyS.pdf]]        | extra       |          |
+| [[CursoSyS_456a.pdf]]        | 4.1         | 5        |
+| [[AnálisisFourierSySa1.pdf]] |             |          |
