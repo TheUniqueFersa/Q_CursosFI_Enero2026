@@ -8,6 +8,14 @@
 
 - [ ] borrar duplicados en ACADEMIC 5°semestre
 
+# Glosario de conceptos
+
+|                                | Definición                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| $CLASE$ Clasificación Estándar | Es la clasificación de una nota dentro del [[♦Fuerte de la Creación♦]] en base a la numeración que indica el directorio donde se encuentra. Esta numeración está al principio del nombre del directorio de la forma `CDU <nombre>`.<br>Solo los directorios más cercanos a raíz tienen esta numeración, por lo que solo directorios de hasta una profundidad de 3 pueden tenerla |
+| `Elementos Desacoplados`       | Nota que tiene $CLASE$ pero está afuera de su directorio convencional. (Se encuentra disperso en el fuerte)                                                                                                                                                                                                                                                                      |
+
+
 Se idea una forma de reformar las carpetas del fuerte para poder mantener las notas compartidas entre Linux Manjaro y Windows/iPad desde iCloud usando `git`
 Se proponen [[#directorios]] esenciales que serán nuestros túneles de información entre ambos ecosistemas.
 ## Directorios
@@ -18,8 +26,6 @@ Directorios que elegiremos del fuerte que serán los únicos que serán consider
 Siguen una lógica de clasificación de la forma `DCU <nombre>`, donde:
 $CDU$ -> Centenas, Decenas y Unidades
 y `<nombre>` se reemplaza con el nombre elegido del directorio
-### Clasificación convencional $CLASC$
-Es el significado convencional que tienen los directorios de $D$ (decenas) de acuerdo a lo que comúnmente tienen dichos directorios
 ## Centenas
 Son los directorios BASE que abligatoriamente deben trasladarse a través del Túnel[^2]
 
@@ -50,8 +56,18 @@ Las **tareas** (*y derivados*) y **Proyectos** son consideradas ==Sesión==
 
 ## Unidades
 
-
+# Desacoplos
+>Puede haber subdirectorios que no estén dentro del directorio correspondiente a su $CLASE$, pero sigan la nomenclatura de ella `DCU`
+>A estos directorios y notas se les conoce como `Elementos Desacoplados`
 # Directorios
+## 100 ACADEMIC
+>Actualmente tiene solo el nombre de `ACADEMIC` #PROPENSO/CAMBIOS
+
+
+| `D`                           | `U`                                                                                                                     |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Indican el número de semestre | Indican la asignatura de acuerdo a la numeración dada por el `A-T SUPER UNIVERSITARIO` correspondiente a dicho semestre |
+
 ## 400 TODO
 ### 410 GB
 

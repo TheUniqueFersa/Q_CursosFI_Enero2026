@@ -51,14 +51,14 @@ fecha_terminado:
 >- *Imitar*
 
 ## ***Asignaturas***
-- [ ] [[♠A-T Estructura y Programación de Computadoras (EyPC)]]
-- [ ] [[♠A-T Dispositivos Electrónicos (Dispos)]]
+1. [ ] [[♠A-T Estructura y Programación de Computadoras (EyPC)]]
+2. [ ] [[♠A-T Dispositivos Electrónicos (Dispos)]]
 	- [ ] [[Lab de Dispositivos Electrónicos (Dispos)]]
-- [ ] [[♠A-T Lenguajes Formales y Autómatas]]
-- [ ] [[♠A-T Señales y Sistemas]]
+3. [ ] [[♠A-T Lenguajes Formales y Autómatas]]
+4. [ ] [[♠A-T Señales y Sistemas]]
 	- [ ] [[Lab de Señales y Sistemas]]
-- [ ] [[♠A-T Administración de Proyectos de Software (Admin)]]
-- [ ] [[♠A-T Bases de Datos]]
+5. [ ] [[♠A-T Administración de Proyectos de Software (Admin)]]
+6. [ ] [[♠A-T Bases de Datos]]
 	- [ ] [[Lab de Bases de Datos]]
 
 
