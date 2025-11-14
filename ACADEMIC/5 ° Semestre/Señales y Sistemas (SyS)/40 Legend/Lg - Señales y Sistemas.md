@@ -18,6 +18,9 @@ El alumno integrará las técnicas fundamentales que facilitan la comprensión y
 - [[5. Características dinámicas de los sistemas continuos y discretos]]
 - [[6. Respuesta en frecuencia]]
 
+## Extras
+- [[Transformada de Furier]]
+
 # FORMULARIUMS
 - $F_{com}$: [[FORMULARIUM SyS 1.pdf|F1]]
 # Evidencias de Legendarización
