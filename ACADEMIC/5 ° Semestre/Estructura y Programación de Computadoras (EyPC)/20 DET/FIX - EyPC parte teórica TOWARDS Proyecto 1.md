@@ -27,26 +27,22 @@ Se define entonces:
 
 *Que compile satisfactoriamente*
 
+>CLUSTER 1
 - [ ] Modo de direccionamiento (6)
 >Se recolectará dicha información con la ***Notas sembradoras***
-
-
-- [ ] Cómo funcionan los mnemónicos?
-
-
+- [ ] ¿Cómo funcionan los mnemónicos?
 - [ ] set de instrucciones?
-
-- [ ] Cómo se escriben los comentarios
-
-- [ ] Cómo funcionan las siguientes **directivas de ensamblador** `ORG`, `EQU`, `FCB`, `END`
-
-- [ ] Que significa la extención .asc y .asm
-
-- [ ] A qué se refiere con texto codificado en ANSI
-
+- [ ] ¿Cómo se escriben los comentarios?
 - [ ] A qué se refiere con **código objeto**
-- [ ] Para que sirve o que implica la extensión .LST en un archivo
+---
 
+>CLUSTER 2
+- [ ] Cómo funcionan las siguientes **directivas de ensamblador** `ORG`, `EQU`, `FCB`, `END`
+- [ ] Que significa la extención .asc y .asm
+- [ ] A qué se refiere con texto codificado en ANSI
+- [ ] Para que sirve o que implica la extensión .LST en un archivo
+---
+>Cluster 3
 - [ ] Entender los tipos de errores que existen para el compilador
 >[[Errores a distinguir]]
 

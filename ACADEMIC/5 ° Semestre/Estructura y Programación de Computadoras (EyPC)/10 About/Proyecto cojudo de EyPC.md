@@ -1,7 +1,7 @@
 ---
 Completado: 1
-Incompleto: 16
-Total: 17
+Incompleto: 21
+Total: 22
 fecha_entrega: 2025-10-07
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
@@ -18,13 +18,13 @@ pertenece a:
 
 - 6 modos de direccionamiento
 # Requerimientos
-1. [x] Equipo de hasta 5 integrantes ✅ 2025-10-21
-2. Se deberá programar un compilador básico del MC68HC11 en algún lenguaje de programación de alto nivel u entorno de programación (*LabView*)
-3. El compilador deberá reconocer **todos los mnemónicos del set de instrucciones del MC68HC11** tanto *con letras mayúsculas como minúsculas*, así como la **sintaxis** correspondiente a cada uno de los **seis modos de direccionamiento** que soporta el CPU de dicho microcontrolador
-4. El archivo deberá **soportar** archivos documentados con **comentarios**, los cuáles tendrá que ignorar
-5. Deberá **reconocer** las **directivas de ensamblador** `ORG`, `EQU`, `FCB`, `END`
-6. Será capaz de *abrir un archivo de texto codificado en ANSI, con extensión* `.asc` o `.asm`, *que contenga el código fuente en lenguaje ensamblador*. Después procederá a hacer un *análisis* del mismo, *línea por línea* (hasta llegar a `END`), para determinar **código objeto correspondiente.**
-7. Deberá generar un archivo de texto con extensión `.LST` que contenga el código fuente y el código objeto correspondiente empleando el siguiente formato propueso
+1. [x] Equipo de hasta 5 integrantes ✅ 2025-11-13
+2. Se deberá programar un compilador básico del MC68HC11 en algún lenguaje de programación de alto nivel u entorno de programación (*LabView*) 
+3. [ ] El compilador deberá reconocer **todos los mnemónicos del set de instrucciones del MC68HC11** tanto *con letras mayúsculas como minúsculas*, así como la **sintaxis** correspondiente a cada uno de los **seis modos de direccionamiento** que soporta el CPU de dicho microcontrolador [GitHub Issue](https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER/issues/1)
+4. [ ] El archivo deberá **soportar** archivos documentados con **comentarios**, los cuáles tendrá que ignorar [GitHub Issue](https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER/issues/2)
+5. [ ] Deberá **reconocer** las **directivas de ensamblador** `ORG`, `EQU`, `FCB`, `END` [GitHub Issue](https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER/issues/3)
+6. [ ] Será capaz de *abrir un archivo de texto codificado en ANSI, con extensión* `.asc` o `.asm`, *que contenga el código fuente en lenguaje ensamblador*. Después procederá a hacer un *análisis* del mismo, *línea por línea* (hasta llegar a `END`), para determinar **código objeto correspondiente.** [GitHub Issue](https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER/issues/4)
+7. [ ] Deberá generar un archivo de texto con extensión `.LST` que contenga el código fuente y el código objeto correspondiente empleando el siguiente formato propuesto [GitHub Issue](https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER/issues/5)
 
 ```
 <numero de linea>: <codigo objeto>: <codigo fuente>
@@ -39,7 +39,7 @@ En una sola línea
 
 
 - Debe tener línea de código
-8. Compilador deberá ser capaz de **detectar errores** de diferente índole y lo indicará en el listado **agregando mensajes dependiendo del tipo de error**
+8. Compilador deberá ser capaz de **detectar errores** de diferente índole y lo indicará en el listado **agregando mensajes dependiendo del tipo de error** [GitHub Issue](https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER/issues/6)
 
 9. El compilador generará un archivo de texto con extensión `.S19` que contenga el [[código objeto]] correspondiente empleando el siguiente formato propuesto
 
