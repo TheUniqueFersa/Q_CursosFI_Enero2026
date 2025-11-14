@@ -8,9 +8,9 @@ Participantes:
 terminado: false
 fecha_entrega:
 fecha_terminado:
-Completado: 8
-Incompleto: 8
-Total: 16
+Completado: 9
+Incompleto: 9
+Total: 18
 antecesor: "[[--BINNACLE-- {W45}]]"
 sucesor:
 links_url:
@@ -40,10 +40,15 @@ tags:
 - [x] Going out? **NO**✅ 2025-11-13
 
 ## Friday
-- [ ] Transcribir todo el proyecto de bases a Markdown
-- [ ] Decidir como lo voy a compartir con mis compañeros o y poder tener siempre en cuenta todas las reglas de negocio
+
 ### LFyA
 - [ ] Hacer los ejercicios restantes
+	- [x] 2 ✅ 2025-11-14
+	- [ ] 3
+---
+- [ ] Transcribir todo el proyecto de bases a Markdown
+- [ ] Decidir como lo voy a compartir con mis compañeros o y poder tener siempre en cuenta todas las reglas de negocio
+
 
 ### Lab BD
 - [ ] `lab` 10

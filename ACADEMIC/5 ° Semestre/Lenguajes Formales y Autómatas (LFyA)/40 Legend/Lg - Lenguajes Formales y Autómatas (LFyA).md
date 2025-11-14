@@ -58,7 +58,7 @@ tipo: Nota Legend
 - [[Revisión 1]]
 - [[Revisión 2]]
 - [[Revisión 3]]
-	- [[Ejecicios Revisión 3]]
+	- [[Ejercicios Revisión 3]]
 # Rondas de Legendarización
 
 | Ronda | Tipo | Temas | $N_T^{Lg}$ | $FORM_T$ | $EJ_T$ |
