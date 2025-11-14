@@ -15,5 +15,3 @@ from T1
 
 Por cada registro que se encuentre en la tabla T1, buscará las columnas y pondrá sus datos en la matriz de resultado que se retornará.
 En el caso de funciones, como lo son `sysdate` o `upper`, se evalúa por cada registro dicha función  
-
-![[Pasted image 20251111230930.png]]
