@@ -1,6 +1,8 @@
 ---
 pertenece a:
   - "[[EH - TM-  LINUXERO]]"
+links_url:
+  - https://www.youtube.com/watch?v=nRIqgLcnZP4
 ---
 # Versiones
 
