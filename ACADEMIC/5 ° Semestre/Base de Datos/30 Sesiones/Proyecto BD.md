@@ -19,19 +19,20 @@ links_url:
 - [x] [[1. INTRODUCCIÓN A LA EMPRESA]] ✅ 2025-11-02
 - [ ] [[2. CARACTERÍSTICAS DEL NEGOCIO]]
 - [ ] [[3. REQUISITOS DE INTEGRIDAD Y REGLAS DE NEGOCIO]]
-- [ ] [[4. REQUERIMIENTOS DE USUARIOS Y ROLES]]
+- [ ] [[4. REQUERIMIENTOS DE USUARIOS Y ROLES]] 
 - [ ] [[5. REQUERIMIENTOS FUNCIONALES Y NO FUNCIONALES]]
-- [ ] [[6. DESCRIPCIÓN NARRATIVA]]
+- [ ] [[6. DESCRIPCIÓN NARRATIVA]] 
 - [ ] [[7. INFORMES]]
 - [ ] [[8. ESTADÍSTICAS]]
 - [ ] [[#GENERALIDADES]]
 - [ ] [[#INDICACIONES]]
 - [ ] [[#CONSIDERACIONES]]
 
-| ⤵️                        |     |
-| ------------------------- | --- |
-| [[Kanban - Proyecto BD]]  |     |
-| [[GLOSARIO DE CONCEPTOS]] |     |
+| ⤵️                        | REGLAS                                              |
+| ------------------------- | --------------------------------------------------- |
+| [[Kanban - Proyecto BD]]  | [[REGLAS DE NEGOCIO - BD PROYECTO]]                 |
+| [[GLOSARIO DE CONCEPTOS]] | [[3. REQUISITOS DE INTEGRIDAD Y REGLAS DE NEGOCIO]] |
+|                           |                                                     |
 # Requerimientos
 # Requisitos
 # Entregables
