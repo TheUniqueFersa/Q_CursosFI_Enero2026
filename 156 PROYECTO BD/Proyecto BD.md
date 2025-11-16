@@ -11,6 +11,7 @@ tags:
 INTERCONN: "[[Kanban - Proyecto BD]]"
 links_url:
   - https://drive.google.com/drive/folders/1Me6-ID-9l6vPt913TvvmA1AIiJKcGgKK?usp=drive_link
+próxima_fecha: 2025-11-18
 ---
 # Proyecto Final 
 >Bases de datos

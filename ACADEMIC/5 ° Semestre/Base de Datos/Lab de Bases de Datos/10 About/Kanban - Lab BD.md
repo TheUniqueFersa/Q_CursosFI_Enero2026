@@ -36,14 +36,15 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 10]]
 - [ ] [[Práctica 11]]
 - [ ] [[EXAMENCITO LAB BD]]
+- [ ] [[Práctica 12]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Práctica 10]] ✅ 2025-11-15
 - [x] [[Práctica 9]] ✅ 2025-10-30
 - [x] Entender que hace el spool ✅ 2025-10-23
 - [x] Fix - Lab de BD #XCH ✅ 2025-10-22 ^5721f9

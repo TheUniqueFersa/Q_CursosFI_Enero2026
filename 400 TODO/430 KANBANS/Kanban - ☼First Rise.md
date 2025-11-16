@@ -1,13 +1,15 @@
 ---
+
 title: Kanban-☼First_Rise
 tags:
   - Active_progress_project
-Total: 59
+Total: 73
 Completado: 14
-Incompleto: 45
+Incompleto: 59
 kanban-plugin: board
 pertenece a:
   - "[[☼First Rise -7-]]"
+
 ---
 
 ## ♦\[...R]
@@ -116,6 +118,36 @@ pertenece a:
 - [ ] # [[☼Third Rise]]
 
 
+## # OCTAVA ETAPA (FINAL)
+
+- [ ] ## [[♠Academic]]
+	- Legendarizar las materias **Permanentes**
+- [ ] ## [[♣EL NUEVO CURSO WEB]]
+	- Calificar el anterior
+	- Organizar el nuevo con un plan de acción
+- [ ] ## [[♠Read]]
+	- [ ] 1 libro
+	- [ ] 2 libros
+	- [ ] 3 libros
+- [ ] ## [[♣T - Programador Junior]]
+	- Hacer un proyecto de legendarización de alguna materia PERMANENTE anterior (EDA I, EDA II POO o Estructuras Discretas)
+- [ ] ## [[♠ALGORITMIA]]
+	- Revisión de material más hacia CS
+- [ ] ## [[♣BuildYourEmpire]]
+	- Nuevo modelo de [[♣VTA]]
+- [ ] ## [[♣AUTODIDACTA master]] -> [[♠Olympic Mind - PROC]]
+	- Demostrar que soy autodidacta con PROC, volviendome de una clasificación mayor en THMECP
+- [ ] ## [[♠BrainOut]]
+	- **Brainoutons** semanales que limpien el INCOMING de [[Kanban -  Programación]]
+- [ ] ## [[♣THE CLOVERS SOCIETY]]
+	- Material para los chavos
+	- Biblioteca TheCloversSociety
+- [ ] ## [[☼Second Rise]]
+	- Ejercicio 4 días a la semana, 1 para sector negativo
+- [ ] ## [[☼Third Rise]]
+	- Hablar con mama coco
+
+
 ***
 
 ## Archive
@@ -130,6 +162,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","metadata-keys":[{"metadataKey":"kanban-plugin: basic","label":"","shouldHideLabel":false,"containsMarkdown":false}],"list-collapse":[true,null,null,false,false,false,null,null,null,false,false]}
+{"kanban-plugin":"board","metadata-keys":[{"metadataKey":"kanban-plugin: basic","label":"","shouldHideLabel":false,"containsMarkdown":false}],"list-collapse":[true,null,null,false,false,false,null,null,null,false,false,false]}
 ```
 %%

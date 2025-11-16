@@ -5,14 +5,14 @@ tipo: sesión
 tipo_nota: Bitácora
 Participantes:
   - "[[FERSA]]"
-terminado: false
-fecha_entrega:
-fecha_terminado:
-Completado: 9
-Incompleto: 9
-Total: 18
+terminado: true
+fecha_entrega: 2025-11-15
+fecha_terminado: 2025-11-15
+Completado: 12
+Incompleto: 0
+Total: 12
 antecesor: "[[--BINNACLE-- {W45}]]"
-sucesor:
+sucesor: "[[--BINNACLE --{W47]]"
 links_url:
 Tiempo Objetivo:
 Progreso:
@@ -42,27 +42,20 @@ tags:
 ## Friday
 
 ### LFyA
-- [ ] Hacer los ejercicios restantes
+- [x] Hacer los ejercicios restantes ✅ 2025-11-15
 	- [x] 2 ✅ 2025-11-14
-	- [ ] 3
+	- [x] 3 ✅ 2025-11-15
 ---
-- [ ] Transcribir todo el proyecto de bases a Markdown
-- [ ] Decidir como lo voy a compartir con mis compañeros o y poder tener siempre en cuenta todas las reglas de negocio
 
 
 ### Lab BD
-- [ ] `lab` 10
-
-### EyPC
-- [ ] Recopilar Tareas
-- [ ] Hacer preguntas clave
-- [ ] Crear repositorio
-- [ ] Entender que pedo
+- [x] `lab` 10 ✅ 2025-11-15
 
 
 # Hereda pendientes:
 
 # BEYOND
+- [[INSANITY DAY I]]
 
 # Problemas encontrados
 

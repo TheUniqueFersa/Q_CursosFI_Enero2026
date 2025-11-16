@@ -5,6 +5,7 @@ Total: 22
 fecha_entrega: 2025-10-07
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
+próxima_fecha: 2025-11-17
 ---
 
 | ⤵                                                      |     |

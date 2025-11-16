@@ -20,6 +20,7 @@ ESTADO_RECOLECCION: "[[♣Recover]]"
 | ⤵                          | 📌                                                        |
 | -------------------------- | --------------------------------------------------------- |
 | [[Kanban - Lab de Dispos]] | [[Prompt para pedir contexto de las prácticas de Dispos]] |
+|                            | [[Formato de Prácticas de Dispos]]                        |
 
 # Descripción
 Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de Lab de Dispositivos Electrónicos (Dispos) en la carrera de [[Ingeniería en Computación]]
