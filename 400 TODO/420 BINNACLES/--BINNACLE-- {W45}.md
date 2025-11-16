@@ -25,7 +25,7 @@ tags:
 | Lograr acabar [[ESCALÓN TRES]] |       |             |                             |
 # 🏆$AEM$
 ## Domingo
-![[INSANITY DAY II#🏆$AEM$]]
+![[PROTO INSANITY DAY II#🏆$AEM$]]
 
 ## Lunes ✅
 
@@ -46,7 +46,7 @@ tags:
 >🕐 02:30
 ---
 
-![[INSANITY DAY II#🏆$AEM$]]
+![[PROTO INSANITY DAY II#🏆$AEM$]]
 
 ### LAB DISPOS
 - [x] corregir medición en -0.4 ✅ 2025-11-09

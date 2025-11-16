@@ -7,14 +7,12 @@ Participantes:
   - "[[FERSA]]"
 terminado: true
 fecha_entrega: 2025-11-02
-
 fecha_terminado: 2025-11-02
 Completado: 5
 Incompleto: 9
-
 Total: 14
-antecesor: "[[INSANITY DAY I]]"
-sucesor: "[[INSANITY DAY III]]"
+antecesor: "[[PROTO INSANITY DAY I]]"
+sucesor: "[[INSANITY DAY I]]"
 links_url:
 Tiempo Objetivo: 24
 Progreso: 6

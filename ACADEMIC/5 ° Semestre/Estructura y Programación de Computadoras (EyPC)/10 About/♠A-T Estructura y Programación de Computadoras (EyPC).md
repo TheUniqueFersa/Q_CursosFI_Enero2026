@@ -43,8 +43,8 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 - [-] LOL ❌ 2025-09-29
 
 ## ETAPA DE REINCORPORACIÓN
-- [ ] Buen proyecto 1
-- [ ] Con todos los extras
+- [ ] Buen proyecto 1 #MILESTONE  ^f18654
+- [ ] Entender Ensamblador
 
 # ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

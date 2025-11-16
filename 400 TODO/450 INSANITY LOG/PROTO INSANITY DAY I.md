@@ -12,7 +12,7 @@ Completado: 16
 Incompleto: 1
 Total: 17
 antecesor:
-sucesor: "[[INSANITY DAY II]]"
+sucesor: "[[PROTO INSANITY DAY II]]"
 links_url:
 Tiempo Objetivo: 24
 Tiempo Sueño: "8"
