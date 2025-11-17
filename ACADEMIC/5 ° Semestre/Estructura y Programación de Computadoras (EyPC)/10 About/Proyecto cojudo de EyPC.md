@@ -1,11 +1,14 @@
 ---
-Completado: 1
-Incompleto: 21
+Completado: 2
+Incompleto: 20
 Total: 22
 fecha_entrega: 2025-10-07
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
 próxima_fecha: 2025-11-17
+links_url:
+  - https://docs.google.com/document/d/16JN8JPSceZTaz3KX3l4E9Wlykvvmfz1ItPUq0eJ87Io/edit?tab=t.0#heading=h.cpnmv5wlf8k3
+  - https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER
 ---
 
 | ⤵                                                      |     |
@@ -109,7 +112,7 @@ Es requisito indispensable presentar el reporte
 Plan de acción para desarrollar el compilador básico
 ## 1. Preparación
 - [ ] Estudia el set de instrucciones
-- [ ] Modos de redireccionamiento
+- [x] Modos de redireccionamiento ✅ 2025-11-16
 - Inmediato
 - Directo
 - Extendido
