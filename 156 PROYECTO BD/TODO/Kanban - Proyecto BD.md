@@ -32,6 +32,7 @@ pertenece a:
 
 ## ♦(°)Out - ♦(...R)
 
+- [x] modelar ``causa`` como catálogo dado el requierimiento en [[8. ESTADÍSTICAS#^df9761|ESTADÍSTICAS]] ✅ 2025-11-17
 - [x] Diferencia entre ``monto_asegurado_mínimo`` y ``cobertura básica`` ✅ 2025-11-16
 	>Cobertura básica debió ser un multivalorado que presenta multiples registros de [[COBERTURAS]]
 - [x] En 8. estadísticas ✅ 2025-11-16
@@ -54,6 +55,7 @@ pertenece a:
 - [ ] Establacer bien las PKs de todas las relaciones
 - [ ] ![[7. INFORMES#^7de5b7]]
 - [ ] [[8. ESTADÍSTICAS#^69f9eb|Campo de monto prima total vendido]] no es claro donde debe colocarse
+- [ ] `metodo_pago` en [[6. PAGO]] así como por ejemplos las tarjetas se deben guardar en entidades aparte?
 
 
 ## # Secuencia de Acciones<br>‼Yi
@@ -116,7 +118,7 @@ pertenece a:
 
 - [ ] Modelo ER
 - [ ] Modelo Relacional
-- [ ] [[ACC. RECURSIVA EN PÓLIZA PARA RENOVAR]]}
+- [ ] [[ACC. RECURSIVA EN PÓLIZA PARA RENOVAR]]
 	modificar relacional
 - [ ] [[LÓGICA DEL FRACCIONAMIENTO DE LA PRIMA]] modificar el Relacional
 
@@ -125,7 +127,6 @@ pertenece a:
 
 - [ ] Verificar CS#
 - [ ] Recabar preguntas iniciales en iPad
-- [ ] [[ACC. COTIZAR]]
 - [ ] [[ACC. CALCULO DE PRIMA]]
 - [ ] [[ACC. ADMINISTRAR PLANES]]
 - [ ] [[ACC. INGRESAR ASEGURADO]]
@@ -134,8 +135,6 @@ pertenece a:
 - [ ] [[ACC. VENTA DE PÓLIZA]]
 - [ ] [[ACC. Recordatorio de cotizaciones no vendidas]]🔼
 - [ ] [[ACC. Modelos por mi tio]]
-- [ ] modelar ``causa`` como catálogo dado el requierimiento en [[8. ESTADÍSTICAS#^df9761|ESTADÍSTICAS]]
-	[[ACC. CAUSA ES CATÁLOGO]]
 - [ ] [[ACC. ESTADO, CIUDAD, COLONIA por mi tio]]
 - [ ] [[ACC. DIFERENTES CASOS DE PAGO DE ACUERDO A PÓLIZA]]
 - [ ] [[ACC. SINIESTRALIDAD]]
@@ -143,6 +142,9 @@ pertenece a:
 - [ ] [[ACC. PLAN_DE_CORREDOR]]
 - [ ] [[ACC. RENOVACIÓN DE PÓLIZAS]]]
 - [ ] [[ACC. MODELO COCHE HACIA PRIMA]]
+- [ ] [[ACC. COTIZAR]]
+- [ ] [[ACC. CAUSA ES CATÁLOGO]]
+- [ ] [[ACC. Actualizar saldos pendientes]]
 
 
 ## # Rescatando del texto

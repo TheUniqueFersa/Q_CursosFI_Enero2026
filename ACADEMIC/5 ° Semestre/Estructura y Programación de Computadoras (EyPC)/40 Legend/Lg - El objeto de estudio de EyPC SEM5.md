@@ -29,7 +29,7 @@ Todas comparten el CPU, pero tienen distintos periféricos
 - [[Modos de redireccionamiento]]
 - [[Construyendo un COMANDO del MC68HC11]]
 
-
+- [[Entendiendo la memoria]]
 
 
 
