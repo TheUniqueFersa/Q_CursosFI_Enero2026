@@ -10,6 +10,7 @@ pertenece a:
 
 ## ♦(°)Out - ♦(...R)
 
+- [ ] Como funcionan las instrucciones de almacenamiento
 
 
 ## # #Pendiente
@@ -39,10 +40,18 @@ pertenece a:
 **Complete**
 
 
+## # SALVANDO EL SEMESTRE
+
+- [ ] Por qué es S110 al principio de el código objeto en su ejemplo?]
+	
+	- [ ] Y termina con 19
+	S9030000FC
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,null,false]}
+{"kanban-plugin":"board","list-collapse":[false,null,null,false,false]}
 ```
 %%

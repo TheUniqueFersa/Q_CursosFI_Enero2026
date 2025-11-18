@@ -1,6 +1,6 @@
 ---
-Completado: 0
-Incompleto: 15
+Completado: 1
+Incompleto: 14
 Total: 15
 ---
 # Brainstorm de Org
@@ -28,9 +28,19 @@ Se define entonces:
 *Que compile satisfactoriamente*
 
 >CLUSTER 1
-- [ ] Modo de direccionamiento (6)
+- [x] Modo de direccionamiento (6) ✅ 2025-11-16
 >Se recolectará dicha información con la ***Notas sembradoras***
 - [ ] ¿Cómo funcionan los mnemónicos?
+
+
+```
+8000 86 45
+Corresponde a:
+LDAA #$45
+```
+El opcode de LDAA es 86, 45 se ingresa como hexadecimal, por lo que no requiere conversión
+
+
 - [ ] set de instrucciones?
 - [ ] ¿Cómo se escriben los comentarios?
 - [ ] A qué se refiere con **código objeto**
