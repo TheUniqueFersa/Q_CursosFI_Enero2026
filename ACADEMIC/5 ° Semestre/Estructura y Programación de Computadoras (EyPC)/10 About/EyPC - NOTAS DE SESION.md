@@ -5,15 +5,15 @@ tipo_nota: Cluster
 ---
 # NOTAS DE SESIÓN
 - SEMANA 1
-	- [ ] [[Primera ronda de material EyPC]]
+	- [x] [[Primera ronda de material EyPC]] ✅ 2025-11-17
 - SEMANA 2
-	- [ ] [[Segunda ronda material EyPC]]
-	- [ ] [[Tercera ronda material de EyPC]]
+	- [x] [[Segunda ronda material EyPC]] ✅ 2025-11-17
+	- [ ] [[Tercera ronda material de EyPC]] #IMPORTANTE
 - SEMANA 3
-	- [ ] [[Cuarta ronda material de EyPC]]
-	- [ ] [[Quinta ronda material de EyPC]]
+	- [ ] [[Cuarta ronda material de EyPC]] #IMPORTANTE 
+	- [ ] [[Quinta ronda material de EyPC]] #IMPORTANTE [^1]
 - SEMANA 4
-	- [ ] [[Sexta y Séptima ronda material de EyPC]]
+	- [ ] [[Sexta y Séptima ronda material de EyPC]] [^2]
 - SEMANA 5
 - SEMANA 6
 - SEMANA 7
@@ -22,7 +22,7 @@ tipo_nota: Cluster
 	- ***PARITO***
 - SEMANA 9
 	- [[ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S9C1]]
-	- [ ] [[Sexta y Séptima ronda material de EyPC]]
+	- [ ] [[Sexta y Séptima ronda material de EyPC]][^3]
 	- [ ] [[Octava y Novena ronda de material de EyPC]]
 - SEMANA 10
 	- ***PARO ONLINE***
@@ -39,3 +39,9 @@ tipo_nota: Cluster
 - SEMANA 15
 
 - SEMANA 16
+
+[^1]: Tiene la explicación del formato .s19
+
+[^2]: Enumera los tipos de errores que detecta el compilador
+
+[^3]: Lo de los cristales

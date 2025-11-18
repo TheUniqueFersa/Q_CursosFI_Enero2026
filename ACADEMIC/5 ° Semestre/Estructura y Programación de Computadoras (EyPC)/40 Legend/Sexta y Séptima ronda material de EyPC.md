@@ -18,6 +18,8 @@ sucesor: "[[Octava y Novena ronda de material de EyPC]]"
 | **Material**                            | Status | Nota recolectora                                   |
 | --------------------------------------- | ------ | -------------------------------------------------- |
 | [[registros de control del 68hc11.pdf]] |        |                                                    |
-| [[Puerto serial asíncrono.pdf]]         |        |                                                    |
+| [[Puerto serial asíncrono.pdf]]         |        | #IMPORTANTE                                        |
 | [[USO del Puerto serial asíncrono.pdf]] |        | [[ESTRUCTURA Y PROGRAMACIÓN DE COMPUTADORAS S9C1]] |
 | [[MODOS DE FUNCIONAMIENTO 68HC11.bmp]]  |        |                                                    |
+
+[^1]: 

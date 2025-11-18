@@ -1,7 +1,7 @@
 ---
-Completado: 1
+Completado: 2
 Incompleto: 23
-Total: 24
+Total: 25
 fecha_entrega: 2025-11-23
 pertenece a:
   - "[[♠A-T Bases de Datos]]"
@@ -63,7 +63,7 @@ próxima_fecha: 2025-11-18
 	- vista
 	- procedimiento almacenado
 	- dml
-	*debe estar documentado al menos con la siguiente información*:
+	- [/] *debe estar documentado al menos con la siguiente información*:
 	- autor
 	- fecha de creación
 	- descripción
