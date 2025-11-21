@@ -12,10 +12,14 @@ El cálculo de una prima se da:
 
 # `descuentos`
 
-# `oberturas_adicionales`
+# `coberturas_adicionales`
 
 # `impuesto`
 
+
+# Requiere de entidades creadas:
+- [ ] [[TASA]]
+- [ ] 
 
 # Proceso para sacarla
 Se tiene un seguro 

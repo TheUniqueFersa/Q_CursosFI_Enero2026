@@ -25,12 +25,13 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[Práctica 9 Lab de Dispos]]
+- [ ] [[Práctica 10 Lab de Dispos]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] [[Práctica 9 Lab de Dispos]] ✅ 2025-11-20
 - [x] [[Práctica 7 Lab de Dispos]] ✅ 2025-11-09
 - [x] [[Práctica 8 Lab de Dispos]] ✅ 2025-11-09
 - [x] [[Práctica 6 Lab de Dispos]] ✅ 2025-10-12

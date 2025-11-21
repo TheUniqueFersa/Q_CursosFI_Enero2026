@@ -7,7 +7,6 @@ pertenece a:
 | RN                                                                     | CS       |
 | ---------------------------------------------------------------------- | -------- |
 | ![[1. ASEGURADO#^7d46a5]]                                              | **CS1**  |
-| ![[1. ASEGURADO#^7ef15b]]                                              | CS13     |
 | ![[1. ASEGURADO#^16e1dd]]<br>                                          | **CS2**  |
 | ![[2.CORREDOR DE SEGURO#^9a76f7]]                                      | **CS3**  |
 | ![[3.TIPO DE SEGURO#^000400]]                                          | **CS4**  |
@@ -19,5 +18,8 @@ pertenece a:
 | ![[3. REQUISITOS DE INTEGRIDAD Y REGLAS DE NEGOCIO#^4e7940]]           | **CS10** |
 | ![[3.2 SEGURO DE VIDA#^eb2254]]                                        | **CS11** |
 | Si es una poliza de Auto, entonces los campos de Auto son obligatorios | **CS12** |
+| Si es una poliza de vida, al menos debe contar con un BENEFICIARIO     | **CS13** |
+| ![[1. ASEGURADO#^7ef15b]]                                              | **CS14** |
+| Columna virtual, estado_poliza: 'V' vigente, 'N': no vigente           | **CS15** |
 
 ![[4. VEHÍCULO#^45ebf2]]

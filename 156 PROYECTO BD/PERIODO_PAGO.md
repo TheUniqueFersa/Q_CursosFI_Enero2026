@@ -1,0 +1,5 @@
+---
+tipo: Catálogo
+---
+Ver [[EJEMPLOS DE LLENADO DE ENTIDADES#PERIODO_PAGO]]
+
