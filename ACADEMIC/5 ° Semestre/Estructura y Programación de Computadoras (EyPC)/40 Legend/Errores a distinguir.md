@@ -73,7 +73,7 @@ ES cuando la ubicación de la etiqueta de salto de una instrucción relativa se 
 BEQ ETIQUETA
 ```
 
-# INSTRUCCIÓN CARECE DE AL MENOS AL MENOS UN ESPACIO RELATIVO AL MARGEN
+# INSTRUCCIÓN CARECE DE AL MENOS UN ESPACIO RELATIVO AL MARGEN
 Es cuando el programador se abstiene de dejar al menor un espacio respecto al margen de inicio de la línea al escribir una instrucción
 ```
 LDAA #$17 *Incorrecto

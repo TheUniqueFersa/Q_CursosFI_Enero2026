@@ -9,7 +9,7 @@ sucesor: "[[Tercera ronda material de EyPC]]"
 
 | Material                                                  | Status |
 | --------------------------------------------------------- | ------ |
-| [[Elementos de la arquitectura del MC68HC11 - EYPDC.pdf]] |        |
+| [[Elementos de la arquitectura del MC68HC11 - EYPDC.pdf]] | 🟢     |
 # Elementos de la arquitectura del MC68HC11
 
 El CPU cuenta con:

@@ -91,7 +91,7 @@ tags:
 ## Sábado
 
 ## Transicionando hacia *W55*
-![[INSANITY DAY II#🏆$AEM$]]
+![[PROTO INSANITY DAY II#🏆$AEM$]]
 
 # Hereda pendientes:
 

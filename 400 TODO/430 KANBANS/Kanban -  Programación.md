@@ -2,9 +2,9 @@
 
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
-Total: 61
+Total: 62
 Completado: 17
-Incompleto: 44
+Incompleto: 45
 tags:
   - Active_kanban/♣T-Programacion
   - PJunior
@@ -100,6 +100,7 @@ pertenece a: "[[♣T - Programador Junior]]"
 	Convertirme en Pupil
 - [ ] ![[‼Sanando el Alma - Consolidando el Capítulo 1#^f05390]]
 - [ ] #MILESTONE Aprender bash bien
+- [ ] Calculadora Greedy para calcular resistencias equivalentes comerciales
 
 
 ## # Secuencia de Acciones<br>‼Yi

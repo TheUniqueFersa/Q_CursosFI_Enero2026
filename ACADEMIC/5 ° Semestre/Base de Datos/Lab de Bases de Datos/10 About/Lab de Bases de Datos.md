@@ -9,6 +9,8 @@ tags:
   - ♠A-T
 pertenece a: "[[♠A-T Bases de Datos]]"
 ESTADO_RECOLECCION: "[[♣Recover]]"
+INTERCONN:
+  - "[[Errores en las notas de Campos]]"
 ---
 # ***Lab de Bases de Datos***
 

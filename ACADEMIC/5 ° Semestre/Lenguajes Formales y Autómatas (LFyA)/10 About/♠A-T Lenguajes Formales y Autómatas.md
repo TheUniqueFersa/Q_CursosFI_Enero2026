@@ -37,11 +37,6 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 | `Gnotebook`  | Nota de GoodNotes                                                                                                                                                                                                    |
 
 La estructura de temas de la asignatura dada por el profesor modifica la secuencia original del programa, por lo tanto a cada uno de los temas en la *nueva estructura de temas* se le llama `tema`[^2]
-### Notas ***🔼 Legend***
-
-| `tema` | Notas | Tema Inicio | Tema final |
-| ------ | ----- | ----------- | ---------- |
-|        |       |             |            |
 ### 🔼 Previo
 - Revisar el [calendario](Calendario de clases) y ver que tema nos toca de acuerdo al *día*
 - Checar y ver material relacionado al tema [en su página](https://turing.iimas.unam.mx/~ivanvladimir/page/curso_lfya/?authuser=0&hl=es)

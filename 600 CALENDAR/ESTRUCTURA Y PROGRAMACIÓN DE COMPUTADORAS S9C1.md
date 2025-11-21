@@ -9,9 +9,9 @@ serie:
 scope:
 modelo:
   - "[[►Recolección Wissen-Garden]]"
-Completado:
-Incompleto:
-Total:
+Completado: 0
+Incompleto: 4
+Total: 4
 tags:
 Materia:
 Saga:
