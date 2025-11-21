@@ -1,6 +1,6 @@
 ---
-Completado: 0
-Incompleto: 15
+Completado: 2
+Incompleto: 13
 Total: 15
 ---
 # Brainstorm de Org
@@ -27,26 +27,32 @@ Se define entonces:
 
 *Que compile satisfactoriamente*
 
-- [ ] Modo de direccionamiento (6)
+>CLUSTER 1
+- [x] Modo de direccionamiento (6) ✅ 2025-11-16
 >Se recolectará dicha información con la ***Notas sembradoras***
+- [x] ¿Cómo funcionan los mnemónicos? ✅ 2025-11-20
 
 
-- [ ] Cómo funcionan los mnemónicos?
+```
+8000 86 45
+Corresponde a:
+LDAA #$45
+```
+El opcode de LDAA es 86, 45 se ingresa como hexadecimal, por lo que no requiere conversión
 
 
 - [ ] set de instrucciones?
-
-- [ ] Cómo se escriben los comentarios
-
-- [ ] Cómo funcionan las siguientes **directivas de ensamblador** `ORG`, `EQU`, `FCB`, `END`
-
-- [ ] Que significa la extención .asc y .asm
-
-- [ ] A qué se refiere con texto codificado en ANSI
-
+- [ ] ¿Cómo se escriben los comentarios?
 - [ ] A qué se refiere con **código objeto**
-- [ ] Para que sirve o que implica la extensión .LST en un archivo
+---
 
+>CLUSTER 2
+- [ ] Cómo funcionan las siguientes **directivas de ensamblador** `ORG`, `EQU`, `FCB`, `END`
+- [ ] Que significa la extención .asc y .asm
+- [ ] A qué se refiere con texto codificado en ANSI
+- [ ] Para que sirve o que implica la extensión .LST en un archivo
+---
+>Cluster 3
 - [ ] Entender los tipos de errores que existen para el compilador
 >[[Errores a distinguir]]
 
@@ -55,7 +61,7 @@ Se define entonces:
 
 - [ ] Cuál es el formato oficial de Motorola?
 
-
+- [[Desplazamiento re]]
 
 
 ## Análisis de la carpeta de Dropbox del profe
@@ -89,15 +95,15 @@ Se define entonces:
 
 # Análisis del contenido de las diapositivas del profesor
 
-| Ronda | Diapos          | Contenido importante | Relevante para el proyecto? | LG?    |
-| ----- | --------------- | -------------------- | --------------------------- | ------ |
-| 1     | ARQUITECTURA... | Conceptos básicos    |                             | ==SI== |
-|       | PIPELINE...     | pipeline             |                             |        |
-| 2     | Elementos...    |                      |                             | ==SI== |
-| 3     |                 |                      |                             |        |
-| 4     |                 |                      |                             |        |
-| 5     |                 |                      |                             |        |
-| 6     |                 |                      |                             |        |
-| 7     |                 |                      |                             |        |
-| 8     |                 |                      |                             |        |
-| 9     |                 |                      |                             |        |
+| Ronda | Diapos           | Contenido importante            | Relevante para el proyecto? | LG?    |
+| ----- | ---------------- | ------------------------------- | --------------------------- | ------ |
+| 1     | ARQUITECTURA...  | Conceptos básicos               |                             | ==SI== |
+|       | PIPELINE...      | pipeline                        |                             |        |
+| 2     | Elementos...     |                                 |                             | ==SI== |
+| 3     | Modos de Dire... | [[Modos de redireccionamiento]] | Si                          | ==SI== |
+| 4     |                  |                                 |                             |        |
+| 5     |                  |                                 |                             |        |
+| 6     |                  |                                 |                             |        |
+| 7     |                  |                                 |                             |        |
+| 8     |                  |                                 |                             |        |
+| 9     |                  |                                 |                             |        |

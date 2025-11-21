@@ -6,6 +6,8 @@
 
 !.gitignore
 
+# --- [CLASE] ---
+
 # Permitir recorrer las rutas dentro de ACADEMIC
 !ACADEMIC/
 !ACADEMIC/**/
@@ -41,3 +43,8 @@
 
 # De nuevo si
 **/Credenciales de Git.md
+
+# ==========================================================================================
+# --- [ DESACOPLOS ] ---
+!156 PROYECTO BD/
+!156 PROYECTO BD/**

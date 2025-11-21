@@ -7,6 +7,7 @@ links_url:
   - https://colab.research.google.com/drive/1nGDelQhOaL06zxC-mgI01dvxKJlenG57?authuser=2#scrollTo=7pvxdLGEB-sz
 fecha_terminado: 2025-10-29
 antecesor: "[[ACADEMIC/5 ° Semestre/Lenguajes Formales y Autómatas (LFyA)/30 Sesiones/Revisión 1|Revisión 1]]"
+sucesor: "[[Revisión 3]]"
 ---
 > [!info] ABARCA
 > Cubre los siguientes temas

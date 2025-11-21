@@ -24,12 +24,12 @@ Todas comparten el CPU, pero tienen distintos periféricos
 | *Todo contenido en un solo encapsulado chip*      |        |                        |
 
 # ***El microcontralador MC68HC11***
-- [[Orgaización del 68HC11]]
+- [[Organización del 68HC11]]
 - [[Pipe line]]
 - [[Modos de redireccionamiento]]
 - [[Construyendo un COMANDO del MC68HC11]]
 
-
+- [[Entendiendo la memoria]]
 
 
 
