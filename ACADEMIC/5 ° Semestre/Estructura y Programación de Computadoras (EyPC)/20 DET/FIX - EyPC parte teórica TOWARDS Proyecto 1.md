@@ -1,6 +1,6 @@
 ---
-Completado: 1
-Incompleto: 14
+Completado: 2
+Incompleto: 13
 Total: 15
 ---
 # Brainstorm de Org
@@ -30,7 +30,7 @@ Se define entonces:
 >CLUSTER 1
 - [x] Modo de direccionamiento (6) ✅ 2025-11-16
 >Se recolectará dicha información con la ***Notas sembradoras***
-- [ ] ¿Cómo funcionan los mnemónicos?
+- [x] ¿Cómo funcionan los mnemónicos? ✅ 2025-11-20
 
 
 ```
@@ -61,7 +61,7 @@ El opcode de LDAA es 86, 45 se ingresa como hexadecimal, por lo que no requiere 
 
 - [ ] Cuál es el formato oficial de Motorola?
 
-
+- [[Desplazamiento re]]
 
 
 ## Análisis de la carpeta de Dropbox del profe

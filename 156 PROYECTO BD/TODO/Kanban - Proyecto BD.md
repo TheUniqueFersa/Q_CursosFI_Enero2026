@@ -58,9 +58,29 @@ pertenece a:
 - [ ] `metodo_pago` en [[6. PAGO]] así como por ejemplos las tarjetas se deben guardar en entidades aparte?
 
 
+## Para la profa
+
+- [ ] ![[Proyecto BD#^a9fbf2]]
+- [ ] ![[8. ESTADÍSTICAS#^69f9eb]]: Debe considerar las primas en general? osea aun cuando no han sido pagadas?
+	O solo las totalmente pagadas
+- [ ] ![[8. ESTADÍSTICAS#^ad58cc]]
+	Como modelar mejor la **distribución**?
+
+
+## **Propuesta de Acciones**
+
+- [ ] Modelo ER
+- [ ] Modelo Relacional
+- [x] ACC. RECURSIVA EN PÓLIZA PARA RENOVAR ✅ 2025-11-18
+	modificar relacional
+- [x] [[LÓGICA DEL FRACCIONAMIENTO DE LA PRIMA]] modificar el Relacional ✅ 2025-11-18
+
+
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Recabar preguntas iniciales en iPad ✅ 2025-11-18
+- [x] Verificar CS# ✅ 2025-11-18
 - [x] RELACION COTIZACION incluye SEGURO ✅ 2025-11-16
 	>Es M:M
 - [x] Quitar relacion  ATIENDE entre CLIENTE CORREDOR ✅ 2025-11-16
@@ -105,28 +125,8 @@ pertenece a:
 - [x] 1. Se puede trabajar en drawio? ✅ 2025-11-02
 
 
-## Para la profa
-
-- [ ] ![[Proyecto BD#^a9fbf2]]
-- [ ] ![[8. ESTADÍSTICAS#^69f9eb]]: Debe considerar las primas en general? osea aun cuando no han sido pagadas?
-	O solo las totalmente pagadas
-- [ ] ![[8. ESTADÍSTICAS#^ad58cc]]
-	Como modelar mejor la **distribución**?
-
-
-## **Propuesta de Acciones**
-
-- [ ] Modelo ER
-- [ ] Modelo Relacional
-- [ ] [[ACC. RECURSIVA EN PÓLIZA PARA RENOVAR]]
-	modificar relacional
-- [ ] [[LÓGICA DEL FRACCIONAMIENTO DE LA PRIMA]] modificar el Relacional
-
-
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Verificar CS#
-- [ ] Recabar preguntas iniciales en iPad
 - [ ] [[ACC. CALCULO DE PRIMA]]
 - [ ] [[ACC. ADMINISTRAR PLANES]]
 - [ ] [[ACC. INGRESAR ASEGURADO]]
@@ -166,6 +166,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,null,true,false,null,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,null,false,null,true,false,false,false,false]}
 ```
 %%
