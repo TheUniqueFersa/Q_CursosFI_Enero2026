@@ -36,7 +36,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 
 ## ETAPA DE REINCORPORACIÓN
 - [ ] Buena exposición 
-- [ ] ~~A-T con los temas~~ BUEN ORGANIZACIÓN PROYECTO #MILESTONE  ^0f9698
+- [ ] ~~A-T con los temas~~ BUEN ORGANIZACIÓN PROYECTO #MILESTONE ^0f9698
 
 ## ***ETAPA FINAL***
 >- [ ] Pasar con una buena calificación:

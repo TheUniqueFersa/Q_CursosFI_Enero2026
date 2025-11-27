@@ -9,6 +9,9 @@ próxima_fecha: 2025-11-17
 links_url:
   - https://docs.google.com/document/d/16JN8JPSceZTaz3KX3l4E9Wlykvvmfz1ItPUq0eJ87Io/edit?tab=t.0#heading=h.cpnmv5wlf8k3
   - https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER
+  - https://drive.google.com/drive/folders/1shXtLO_3UmSQovoP5v7UszISnYrMPwf_?usp=sharing
+terminado: true
+fecha_terminado: 2025-11-25
 ---
 
 | ⤵                                                      |     |
@@ -130,3 +133,10 @@ Plan de acción para desarrollar el compilador básico
 ├── /output     → archivos generados (.LST, .S19)
 └── /docs       → reporte y evidencias
 ```
+
+## Recursos
+
+| Link                                                                                   |     |
+| -------------------------------------------------------------------------------------- | --- |
+| [Mi tio el sabio](https://chatgpt.com/c/691ac232-e498-832d-98d0-fed50fa878f1)          | ✅   |
+| [Mi tio el que carrio](https://chatgpt.com/share/6926575b-8f1c-8007-ac70-9f4e48f5fe63) | ✅   |

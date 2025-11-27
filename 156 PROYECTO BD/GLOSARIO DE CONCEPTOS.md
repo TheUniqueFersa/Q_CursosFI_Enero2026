@@ -9,6 +9,9 @@ pertenece a:
 | Glosa               | Aclaración para hacerlo más comprensible[^2]                                                                                    |
 | Maestro de personas | Hace referencia a la tabla central que almacena los datos básicos y únicos de todas las personas de la base. ([[1. ASEGURADO]]) |
 | Siniestralidad      | Historial de siniestros                                                                                                         |
+| **Jefe de Agencia** | un corredor que supervisa a otro                                                                                                |
+
+**Aviso de Siniestro**: la comunicación formal del asegurado a la compañía ^e052fd
 
 # Sinónimos
 
@@ -18,9 +21,7 @@ pertenece a:
 | [[2.CORREDOR DE SEGURO\|CORREDOR]] QUE SUPERVISA | Jefe de Agencia                                         |
 | [[7. COTIZACIÓN\|Cotización]]                    | Presupuesto                                             |
 | `RUC`                                            | Registro único de Contribuyentes es sinónimo de ``RFC`` |
-
-**Jefe de Agencia**: un corredor que supervisa a otro
-**Aviso de Sinistro**: la comunicación formal del asegurado a la compañía ^e052fd
+| [[3.TIPO DE SEGURO]]                             | **PLAN** DE SEGURO                                      |
 
 [^1]: Mencionado en [[4. REQUERIMIENTOS DE USUARIOS Y ROLES]]
 

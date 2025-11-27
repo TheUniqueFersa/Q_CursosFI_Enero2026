@@ -8,8 +8,8 @@ Participantes:
 terminado: false
 fecha_entrega: 
 fecha_terminado: 
-Completado: 1
-Incompleto: 2
+Completado: 2
+Incompleto: 1
 Total: 3
 antecesor: 
 sucesor: 
@@ -34,7 +34,7 @@ tags:
 
 
 ## EyPC
-- [ ] Vide coding -> **ETAPA 1** [🍅:: 7] ^jqxs
+- [x] Vide coding -> **ETAPA 1** [🍅:: 7] ✅ 2025-11-26 ^jqxs
 
 
 
