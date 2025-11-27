@@ -33,6 +33,7 @@ tipo_nota: Legend
 -  LENGUAJE DE CONSULTA DE DATOS (DQL)
 -  INTRODUCCIÓN DE LA PROGRAMACIÓN EN BASE DE DATOS
 
+- [[TRANSACTIONAL SQL]]
 
 ## Laboratorio
 - [[Consultas]]
