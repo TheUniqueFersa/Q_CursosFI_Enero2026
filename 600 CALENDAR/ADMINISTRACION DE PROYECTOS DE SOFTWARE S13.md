@@ -20,7 +20,7 @@ fecha: 2025-11-08
 
 
 ![[Pasted image 20251108095946.png]]
-
+# Definir recursos
 ![[Pasted image 20251108100305.png]]
 
 ![[Pasted image 20251108101705.png]]

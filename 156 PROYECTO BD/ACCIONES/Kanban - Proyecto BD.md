@@ -34,7 +34,7 @@ pertenece a:
 
 - [x] modelar ``causa`` como catálogo dado el requierimiento en [[8. ESTADÍSTICAS#^df9761|ESTADÍSTICAS]] ✅ 2025-11-17
 - [x] Diferencia entre ``monto_asegurado_mínimo`` y ``cobertura básica`` ✅ 2025-11-16
-	>Cobertura básica debió ser un multivalorado que presenta multiples registros de [[COBERTURAS]]
+	>Cobertura básica debió ser un multivalorado que presenta multiples registros de [[COBERTURA]]
 - [x] En 8. estadísticas ✅ 2025-11-16
 	Como se calcula ``Tasa de renovación de polizas``
 	renovadas vs finalizaron vigencia
@@ -51,7 +51,7 @@ pertenece a:
 ## # #Pendiente
 
 - [ ] **Modificar a jerarquía pues persona moral no tiene muchos atributos de matural**
-- [ ] Establecer bien las cardinalidades
+- [x] Establecer bien las cardinalidades ✅ 2025-11-23
 - [ ] Establacer bien las PKs de todas las relaciones
 - [ ] ![[7. INFORMES#^7de5b7]]
 - [ ] [[8. ESTADÍSTICAS#^69f9eb|Campo de monto prima total vendido]] no es claro donde debe colocarse
@@ -69,16 +69,19 @@ pertenece a:
 
 ## **Propuesta de Acciones**
 
-- [ ] Modelo ER
-- [ ] Modelo Relacional
-- [x] ACC. RECURSIVA EN PÓLIZA PARA RENOVAR ✅ 2025-11-18
-	modificar relacional
-- [x] [[LÓGICA DEL FRACCIONAMIENTO DE LA PRIMA]] modificar el Relacional ✅ 2025-11-18
+- [ ] Modelo ER #MILESTONE
+- [ ] Modelo Relacional #MILESTONE
+- [ ] Modelar ejemplos de COBERTURAS ADICIONALES DE [[3.2 SEGURO DE VIDA]]
+- [ ] Nueva CS en edad máxima [[3.2 SEGURO DE VIDA]]
 
 
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Determinar como se van a manejar las coberturas adicionales ✅ 2025-11-23
+- [x] [[LÓGICA DEL FRACCIONAMIENTO DE LA PRIMA]] modificar el Relacional ✅ 2025-11-18
+- [x] ACC. RECURSIVA EN PÓLIZA PARA RENOVAR ✅ 2025-11-18
+	modificar relacional
 - [x] Recabar preguntas iniciales en iPad ✅ 2025-11-18
 - [x] Verificar CS# ✅ 2025-11-18
 - [x] RELACION COTIZACION incluye SEGURO ✅ 2025-11-16
@@ -127,12 +130,12 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] [[ACC. VENTA DE PÓLIZA]]
 - [ ] [[ACC. CALCULO DE PRIMA]]
 - [ ] [[ACC. ADMINISTRAR PLANES]]
 - [ ] [[ACC. INGRESAR ASEGURADO]]
 - [ ] [[ACC. Recordatorio de cotizaciones no vendidas]]
 - [ ] [[ACC. Corredor automático por CP]]
-- [ ] [[ACC. VENTA DE PÓLIZA]]
 - [ ] [[ACC. Recordatorio de cotizaciones no vendidas]]🔼
 - [ ] [[ACC. Modelos por mi tio]]
 - [ ] [[ACC. ESTADO, CIUDAD, COLONIA por mi tio]]
@@ -140,7 +143,7 @@ pertenece a:
 - [ ] [[ACC. SINIESTRALIDAD]]
 - [ ] [[ACC. GLOSA EN POLIZA]]
 - [ ] [[ACC. PLAN_DE_CORREDOR]]
-- [ ] [[ACC. RENOVACIÓN DE PÓLIZAS]]]
+- [ ] [[ACC. RENOVACIÓN DE PÓLIZAS]]
 - [ ] [[ACC. MODELO COCHE HACIA PRIMA]]
 - [ ] [[ACC. COTIZAR]]
 - [ ] [[ACC. CAUSA ES CATÁLOGO]]
@@ -162,10 +165,19 @@ pertenece a:
 - [ ] ``lugar_siniestro`` puede ir conectado con las tablas de ``colonia``, ``ciudad``, ``estado``,
 
 
+## # Casos de prueba
+
+- [ ] Solicitar cotización
+- [ ] Venta de Póliza
+- [ ] Evento de siniestro
+- [ ] Impresión de [[8. ESTADÍSTICAS]]
+- [ ] Impresión de [[7. INFORMES]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,null,false,null,true,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,null,false,null,true,false,false,false,false,false]}
 ```
 %%
