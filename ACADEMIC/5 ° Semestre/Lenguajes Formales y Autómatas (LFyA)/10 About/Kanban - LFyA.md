@@ -1,10 +1,9 @@
 ---
-
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
 pertenece a:
-
+  - "[[♠A-T Lenguajes Formales y Autómatas]]"
 ---
 
 ## ♦(°)Out - ♦(...R)
