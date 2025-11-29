@@ -55,7 +55,7 @@ próxima_fecha: 2025-11-18
 3. [ ] MER
 4. [ ] Diseño lógico
 	1. [ ] A. Modelo Relacional (ER Studio)
-	2. [ ] B. [[Diccionario de datos]]
+	2. [ ] B. [[Diccionario de Datos]]
 	3. [ ] C. Normalización hasta 3FN
 5. [ ] Diseño Físico 
 	1. Poner la [[#Forma de la tabla del punto 5|tabla]] 
