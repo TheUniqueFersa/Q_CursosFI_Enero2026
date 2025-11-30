@@ -153,6 +153,7 @@ pertenece a:
 ## # Rescatando del texto
 
 - [x] [[Inconsistencia corregida 1]] ✅ 2025-11-16
+- [ ] RFC o CURP en CLIENTE (construir procedimiento)
 
 
 ## # REPORTES
@@ -162,7 +163,8 @@ pertenece a:
 
 ## # IMPLEMENTACIONES POSTERIORES
 
-- [ ] ``lugar_siniestro`` puede ir conectado con las tablas de ``colonia``, ``ciudad``, ``estado``,
+- [x] ``lugar_siniestro`` puede ir conectado con las tablas de ``colonia``, ``ciudad``, ``estado``, ✅ 2025-11-30
+	De hecho si va conectado, en ese sentido pues ya esta
 
 
 ## # Casos de prueba
@@ -174,10 +176,40 @@ pertenece a:
 - [ ] Impresión de [[7. INFORMES]]
 
 
+## # Correcciones
+
+- [ ] CORREGIR CANTIDAD EN [[IMPUESTO]]
+	- [ ] CODIGO
+	- [ ] ER
+- [ ] Corrregir nombres en Jerarquía EMPLEADOS
+	- [ ] Codigo
+	- [ ] ER
+- [ ] COrregir tipo de dato en PERIODO_PAGO
+	- [ ] CODIGO
+	- [ ] ER
+- [ ] PK de VEHICULO debe ser NUMERIC
+	- [ ] CODIGO
+	- [ ] ER
+- [ ] COrregir estado PAGO 
+	- [ ] CODIGO
+	- [ ] ER
+- [ ] Correo_cliente es numeric
+	- [ ] Clodigo
+	- [ ] ER
+- [ ] ID_OFERTA en OFERTA es NUMERIC
+	- [ ] Codigo
+	- [ ] ER
+
+
+## # Relacional
+
+- [ ] Añadir CS a IMPUESTO de TIPO_SEGURO
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,null,false,null,true,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[true,true,null,false,null,true,false,false,false,false,false,false,false]}
 ```
 %%
