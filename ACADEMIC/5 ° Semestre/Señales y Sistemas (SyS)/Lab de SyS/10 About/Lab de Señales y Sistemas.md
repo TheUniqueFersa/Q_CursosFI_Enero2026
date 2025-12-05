@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: STANDBY
-status: 🟩ÓPTIMO🟩
+estado: Concluido
+status: Finalizado
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:

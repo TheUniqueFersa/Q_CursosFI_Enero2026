@@ -44,10 +44,10 @@
 | [BD NoSQL]([https://groups.google.com/g/bdn-unam](https://groups.google.com/g/bdn-unam))                                | [bdn-unam@googlegroups.com](mailto:bdn-unam@googlegroups.com)                         | [unam-bdn](https://drive.google.com/drive/folders/1eHn3l1agpxpdPCRs-WjSNGPnLhrmu4-Y?usp=share_link)                                 |
 | [Exalumnos]([https://groups.google.com/g/ex-alumnos-jorge](https://groups.google.com/g/ex-alumnos-jorge))               | [ex-alumnos-jorge@googlegroups.com](mailto:ex-alumnos-jorge@googlegroups.com)         |                                                                                                                                     |
 
-| Links                                                     |     |
-| --------------------------------------------------------- | --- |
-| [:FabYoutube: Youtube](https://www.youtube.com/@jorgerdc) |     |
-|                                                           |     |
+| Links                                                                                                                                                |     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [:FabYoutube: Youtube](https://www.youtube.com/@jorgerdc)                                                                                            |     |
+| [Libros (Carpeta de Drive)](https://drive.google.com/drive/folders/0B4FYUEdc5Wx6RFFKOHF5WlRSa3c?resourcekey=0-K87vWTjrF3vopKQ3Hk4jag&usp=drive_link) |     |
 ## ℹ️ Dinámica de la Materia
 Los trabajos a entregar, los cuales son la carga principal del curso, son de 3 tipos:
 

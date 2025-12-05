@@ -1,7 +1,7 @@
 ---
 ptetra: "[[♠A-time]]"
 estado: En ejecución
-status: ⚪INGAP⚪
+status: " 🟥CRÍTICO🟥"
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:

@@ -7,3 +7,4 @@ Hay 3 de acuerdo al **Diagrama de Momentos del Asegurado**
 2. Cliente adquiere Póliza
 3. Cliente sufre siniestro, la Aseguradora tiene que brindar el pago
 
+![[DIAGRAMA MOMENTOS DEL ASEGURADO.png]]
