@@ -118,4 +118,25 @@ Niveles de dominación
 *Fechas de la escuela*
 
 ---
+# ***INTERCONN***
+## Conexiones
+Notas secundarias
+Notas que han de considerarse para la revisión de la actual, para tener contexto
+## Recursos
+*Apoyan al contenido*
+Aspectos visibles de las notas secundarias
+MATEEXTRA relacionado
+
+
+| Recursos                                                                               |     |
+| -------------------------------------------------------------------------------------- | --- |
+| [Página para obtener textos, papers, libros gratis en PDF](https://annas-archive.org/) |     |
+
+
+## Referencias
+Referencia a notas externas como fuente de información
+Referencias externas de otra fuente de información
+
+
+---
 - 🍅 (pomodoro::WORK) (duration:: 10m) (begin:: 2025-08-12 20:17) - (end:: 2025-08-12 20:27)

@@ -1,7 +1,7 @@
 ---
 "\rptetra": "[[♠A-time]]"
-estado: En ejecución
-status: 🟥CRÍTICO🟥
+estado: STANDBY
+status: Finalizado
 modelo:
   - "[[►Recolección Wissen-Garden]]"
 serie:

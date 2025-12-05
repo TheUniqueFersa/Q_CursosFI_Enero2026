@@ -17,22 +17,18 @@ pertenece a:
 
 ## ➡ **ThemeCP** 3 veces a la semana
 ### Lo que hacia MANGOFI
-4 problemas de temas distintos
+>4 problemas de temas distintos
 
 Terminando el ThemeCP:
 - Le pedía ayuda a chatgpt
 - Veía las soluciones de los demás
-
 Le bajaban un nivel
 Hacía un nuevo ThemeCP con el `tag` específico
 
 Sacar en cualquier tema mínimo ***1200***
 
-En el nivel 10 -> 
-
 Hasta nivel 15 -> HACER los ThemeCP combinados
-
-A partir de ahí, intentar especializarnos
+A partir de ahí, ==intentar especializarnos==
 
 ## ➡ 2 Divs a la semana
 
@@ -65,7 +61,6 @@ A partir de ahí, intentar especializarnos
 
 ## TERCERA ETAPA
 >![[Kanban - REMONTADA#^c763c2]]
-
 
 
 # FORTALEZAS

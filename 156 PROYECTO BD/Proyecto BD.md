@@ -1,13 +1,11 @@
 ---
-Completado: 2
-Incompleto: 23
+Completado: 3
+Incompleto: 22
 Total: 25
 fecha_entrega: 2025-11-23
 pertenece a:
   - "[[♠A-T Bases de Datos]]"
 tags:
-  - "#TOCHECK"
-  - NOTCLEAR
 INTERCONN: "[[Kanban - Proyecto BD]]"
 links_url:
   - https://drive.google.com/drive/folders/1Me6-ID-9l6vPt913TvvmA1AIiJKcGgKK?usp=drive_link
@@ -18,6 +16,10 @@ próxima_fecha: 2025-11-18
 # Proyecto Final 
 >Bases de datos
 >Caso: ***ASEGURADORA***
+
+| [[Rúbrica Proyecto BD]]                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------ |
+| [Rúbrica Google Sheets](https://docs.google.com/spreadsheets/d/1zMzp2n7JL9JDFBRxFFZ5zvqIU368wqXm/edit?gid=1356446156#gid=1356446156) |
 
 - [x] [[1. INTRODUCCIÓN A LA EMPRESA]] ✅ 2025-11-02
 - [ ] [[2. CARACTERÍSTICAS DEL NEGOCIO]]
@@ -33,8 +35,8 @@ próxima_fecha: 2025-11-18
 
 | ⤵️                        | REGLAS                                              |
 | ------------------------- | --------------------------------------------------- |
-| [[Kanban - Proyecto BD]]  | [[REGLAS DE NEGOCIO - BD PROYECTO]]                 |
-| [[GLOSARIO DE CONCEPTOS]] | [[3. REQUISITOS DE INTEGRIDAD Y REGLAS DE NEGOCIO]] |
+| [[GLOSARIO DE CONCEPTOS]] | [[REGLAS DE NEGOCIO - BD PROYECTO]]                 |
+|                           | [[3. REQUISITOS DE INTEGRIDAD Y REGLAS DE NEGOCIO]] |
 |                           |                                                     |
 # Requerimientos
 # Requisitos
@@ -50,7 +52,7 @@ próxima_fecha: 2025-11-18
 	*las actividades realizadas en cada uno de los scripts*
 # Indicaciones
 >En un ~~word~~ Google Docs
-1. [ ] Tabla de contenido (ÍNDICE) #TOCHECK
+1. [x] Tabla de contenido (ÍNDICE) #TOCHECK ✅ 2025-12-04
 2. [ ] Enunciado del problema
 3. [ ] MER
 4. [ ] Diseño lógico

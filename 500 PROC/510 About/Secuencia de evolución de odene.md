@@ -3,14 +3,15 @@ pertenece a:
   - "[[Perfiles en PROC]]"
 ---
 # DIA CERO
+- [x]  ✅ 2025-12-03
 ![[Pasted image 20250910210559.png|450]]
 
-
+- [ ] ![[Kanban - REMONTADA#^08580c]]
 # HARTOOO
 ![[Pasted image 20250910211655.png|450]]
 
 
-# CODE VIBING
+# VIBING THE CODE
 ![[Pasted image 20250910210454.png]]
 
 

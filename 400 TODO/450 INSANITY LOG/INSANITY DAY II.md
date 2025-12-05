@@ -25,15 +25,8 @@ tags:
 |                        | ==24H== | 11:00 pm    | 11:00 pm                    |
 # 🏆$AEM$
 
-## Dispos
-
-## LFyA
-
-## EyPC
-- [ ] Corregir THRSIM ==1==
-## BD
-
-
+## BD :)
+- [ ] Restaurar Base [🍅:: 9] ^odmm
 
 
 # Hereda pendientes:
