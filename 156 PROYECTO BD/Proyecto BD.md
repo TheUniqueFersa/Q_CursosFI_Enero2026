@@ -20,6 +20,7 @@ próxima_fecha: 2025-11-18
 | [[Rúbrica Proyecto BD]]                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------ |
 | [Rúbrica Google Sheets](https://docs.google.com/spreadsheets/d/1zMzp2n7JL9JDFBRxFFZ5zvqIU368wqXm/edit?gid=1356446156#gid=1356446156) |
+| [[Modelo Relacional Proyecto BD]]                                                                                                    |
 
 - [x] [[1. INTRODUCCIÓN A LA EMPRESA]] ✅ 2025-11-02
 - [ ] [[2. CARACTERÍSTICAS DEL NEGOCIO]]
