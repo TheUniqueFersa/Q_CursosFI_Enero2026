@@ -16,7 +16,7 @@ Esta representará la curación simbólica de lo cometido en la transición del 
 # [[♦(...L)#1|Regla 1]] -> El respeto al tiempo
 - [ ] Respetar el [[SCHEDULE - FR -6- 2.pdf]], de tal forma que pueda tener una precisión de más de 60% en el día. ( ***61%*** )
 # [[♦(...L)#2|Regla 2]] -> El respeto del impulso
-- [ ] No abandonar el Fuerte en todos los días activo -> Terminar [[☼First Rise -7-]]
+- [ ] No abandonar el Fuerte en todos los días activo -> Terminar [[☼First Rise -8-]]
 # [[♦(...L)#3|Regla 3]] -> El poder del hombre
 - [ ] #MILESTONE/ORDEN_SUPERIOR Lograr terminar todos los proyectos establecidos en [[Kanban - Proyectos ♣T - Programador Junior]]
 - [ ] Haber hecho las misiones de BrainOut para el final del Capítulo [^1]

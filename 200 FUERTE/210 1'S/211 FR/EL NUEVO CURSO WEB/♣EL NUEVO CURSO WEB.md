@@ -25,7 +25,7 @@ tags:
   - ♣_PROYECTO_♣
 nombre: CURSO_WEB
 Saga:
-  - "[[☼First Rise -7-]]"
+  - "[[☼First Rise -8-]]"
 ---
 # ***♣EL NUEVO CURSO WEB***
 >*Para mantener el legado*

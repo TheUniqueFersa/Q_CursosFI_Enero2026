@@ -3,12 +3,12 @@
 title: Kanban-☼First_Rise
 tags:
   - Active_progress_project
-Total: 73
+Total: 80
 Completado: 14
-Incompleto: 59
+Incompleto: 66
 kanban-plugin: board
 pertenece a:
-  - "[[☼First Rise -7-]]"
+  - "[[☼First Rise -8-]]"
 
 ---
 
@@ -121,7 +121,9 @@ pertenece a:
 ## # OCTAVA ETAPA (FINAL)
 
 - [ ] ## [[♠Academic]]
-	- Legendarizar las materias **Permanentes**
+	- [ ] Legendarizar las materias **Permanentes**
+	- [ ] [[♠A-T SUPER UNIVERSITARIO {-5-}]]
+	- [ ] Cursos FI Invierno 2026
 - [ ] ## [[♣EL NUEVO CURSO WEB]]
 	- Calificar el anterior
 	- Organizar el nuevo con un plan de acción
@@ -130,7 +132,8 @@ pertenece a:
 	- [ ] 2 libros
 	- [ ] 3 libros
 - [ ] ## [[♣T - Programador Junior]]
-	- Hacer un proyecto de legendarización de alguna materia PERMANENTE anterior (EDA I, EDA II POO o Estructuras Discretas)
+	- [ ] Hacer un proyecto de legendarización de alguna materia PERMANENTE anterior (EDA I, EDA II POO o Estructuras Discretas)
+	- [ ] PROC
 - [ ] ## [[♠ALGORITMIA]]
 	- Revisión de material más hacia CS
 - [ ] ## [[♣BuildYourEmpire]]
@@ -140,8 +143,8 @@ pertenece a:
 - [ ] ## [[♠BrainOut]]
 	- **Brainoutons** semanales que limpien el INCOMING de [[Kanban -  Programación]]
 - [ ] ## [[♣THE CLOVERS SOCIETY]]
-	- Material para los chavos
-	- Biblioteca TheCloversSociety
+	- [ ] Material para los chavos
+	- [ ] Biblioteca TheCloversSociety
 - [ ] ## [[☼Second Rise]]
 	- Ejercicio 4 días a la semana, 1 para sector negativo
 - [ ] ## [[☼Third Rise]]

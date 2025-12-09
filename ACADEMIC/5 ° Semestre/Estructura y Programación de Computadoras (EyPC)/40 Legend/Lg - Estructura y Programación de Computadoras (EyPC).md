@@ -13,7 +13,7 @@ Total: 0
 tags:
 Materia: Programación Avanzada
 Saga:
-  - "[[☼First Rise -7-]]"
+  - "[[☼First Rise -8-]]"
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
 scope: General
