@@ -13,7 +13,7 @@ Total: 0
 tags:
 Materia: Lenguajes Formales y Autómatas
 Saga:
-  - "[[☼First Rise -7-]]"
+  - "[[☼First Rise -8-]]"
 pertenece a:
   - "[[♠A-T Lenguajes Formales y Autómatas]]"
 scope: General
