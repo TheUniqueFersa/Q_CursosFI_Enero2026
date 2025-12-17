@@ -2,7 +2,8 @@
 scope: Específico
 ancestro_directo: "[[2. La máquina sin memoria]]"
 ---
-> [!info] Definición 1
+# Definición
+> [!info] Autómata finito (determinístico)
 > Un autómata finito es una tupla $Q, \Sigma, q_0, A, \delta$ donde:
 > - $Q$ es un conjunto de estados finitos
 > - $\Sigma$ es un alfabeto

@@ -14,7 +14,7 @@ Lugar:
 | Plan de estudios                                               | :IbInternetBrowser: Recursos | **Semestre activo**       |
 | -------------------------------------------------------------- | ---------------------------- | ------------------------- |
 | [[mapa_curricular_computacion_2023.pdf\|Mapa Curricular 2023]] |                              | [[Guia_2026-1.pdf]]       |
-|                                                                |                              | [[Calendario 2026-1.pdf]] |
+| [[computacion_2016.pdf]]                                       |                              | [[Calendario 2026-1.pdf]] |
 
 # No hiciste tu papeleo *anoche*
 
