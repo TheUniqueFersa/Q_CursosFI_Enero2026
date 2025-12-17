@@ -28,7 +28,7 @@ tipo: Nota Legend
 ## Temario propuesto `tema`
 - [[0. Introducción]]
 - [[1. De lenguajes y palabras]]
-- [[2. La máquina sin memoria]]
+- [[2. La máquina sin me°moria]]
 - [[3. Las máquinas que están en varios lugares]]
   [[4. Abro paréntesis, abro paréntesis, cierro paréntesis, cierro paréntesis, ...]]
 - [[5. Gramáticas libres de contexto en su hábitat..., y AP]]
@@ -48,7 +48,7 @@ tipo: Nota Legend
 - [[7. Indecidibilidad]]
 
 
-[[REGEX]]
+[[REGEX]] 
 
 # FORMULARIUMS
 - [[FORMULARIUM - Biblioteca MAQUINAS]]

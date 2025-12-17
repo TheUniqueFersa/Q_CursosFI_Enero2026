@@ -4,14 +4,17 @@ pertenece a:
 scope: Específico
 ancestro_directo: "[[8. La máquina con cinta]]"
 ---
-# Máquina de Turing
-$(Q, \Sigma, \Gamma, q_0, B, A, \delta)$
-- $Q$ es un conjunto de estados finitos
-- $\Sigma$ es un alfabeto de símbolos terminales
-- $\Gamma$ es un alfabeto de cinta, $\Sigma \subset \Gamma$
-- $q_0$ es el estado inicial
-- $B$ es el símbolo de espacio blanco
-- $\delta$ función de transición $\delta:Q\times\Gamma\to Q\times\Gamma\times\{left, right\}$
+# Definición
+> [!info] MT
+> $(Q, \Sigma, \Gamma, q_0, B, A, \delta)$
+> - $Q$ es un conjunto de estados finitos
+> - $\Sigma$ es un alfabeto de símbolos terminales
+> - $\Gamma$ es un alfabeto de cinta tal que $\Sigma \subset \Gamma$
+> - $q_0$ es el estado inicial, $q_0 \in Q$
+> - $B$ es el símbolo de espacio blanco
+> - $A$ es un conjunto de estados que denominaremos finales donde $A\subset Q$
+> - $\delta$ función de transición que cumple con: 
+> $$\delta:Q\times\Gamma\to Q\times\Gamma\times\{\text{left, right}\}$$
 
 # Objeto de memoria: ***Cinta***
 - Infinita: cuando necesitemos más, obtenemos más

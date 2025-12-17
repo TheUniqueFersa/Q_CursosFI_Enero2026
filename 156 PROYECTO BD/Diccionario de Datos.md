@@ -3,7 +3,7 @@ pertenece a:
   - "[[Proyecto BD]]"
 ---
 
-- [[ENTIDADES]]
+- [[ENTIDADES PROYECTO BD]]
 - [[PROCEDIMIENTOS ALMACENADOS]]
 - [[ÍNDICES]]
 - [[VISTAS]]

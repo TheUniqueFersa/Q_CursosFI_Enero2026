@@ -9,12 +9,13 @@ tags:
   - ♠A-T
 pertenece a: "[[♠A-T SUPER UNIVERSITARIO {-4-}]]"
 ESTADO_RECOLECCION: COMPRENSIÓN
+Calificación: "10"
 ---
 # ***♠A-T Lenguajes Formales y Autómatas***
 
 | Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía                                             | Laboratorio<br>(L+) | Calificación |
 | ----- | -------- | ---------------------------------- | -------------------------------------------------------- | ------------------- | ------------ |
-| 0442  | 8        | [[programa_LFyA.pdf]]              | [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] |                     |              |
+| 0442  | 8        | [[programa_LFyA.pdf]]              | [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] |                     | 10           |
 
 | ⤵                 | 🔼***Legend***                                 |
 | ----------------- | ---------------------------------------------- |
@@ -62,10 +63,10 @@ La estructura de temas de la asignatura dada por el profesor modifica la secuenc
 
 ## ETAPA DE REINCORPORACIÓN
 - [ ] Estar al corriente con los temas, desplegando sesiones de A-T antes de clases
-- [ ] Participar a lo bestia por si la revisión 1 no me contó
+- [x] Participar a lo bestia por si la revisión 1 no me contó ✅ 2025-12-12
 
 ## ***ETAPA FINAL***
->- [ ] Pasar con una buena calificación:
+>- [x] Pasar con una buena calificación: ==10== ✅ 2025-12-12
 >- [ ] Obtener un buen legado de la asignatura (♠️Legacy)
 
 ## ETAPA *BEYOND*
@@ -83,4 +84,4 @@ La estructura de temas de la asignatura dada por el profesor modifica la secuenc
 
 [^1]: Esto Altera el modelo de Academic, añadiendo este concepto por primera vez para hacer alusión a elementos adicionales que mejoran el conocimiento
 
-[^2]: zPara revisar los temas, revise:
+[^2]: Para revisar los temas, revise:
