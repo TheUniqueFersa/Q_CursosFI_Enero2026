@@ -32,7 +32,7 @@ pertenece a: "[[♠Drawn]]"
 - [ ] # --ANATOMIA--
 - [ ] # --[[CROSS HATCHING]]--
 - [ ] # --GESTOS--
-- [ ] Composición intermedia [[♦SuferBrainstorming/1'S/Sector Conocimientos & Habilidades/♠Drawn/El legado de las generaciones]]
+- [ ] Composición intermedia [[200 FUERTE/♠Drawn/El legado de las generaciones]]
 - [ ] # --MANDALAS--
 - [ ] # --PERSPECTIVA--
 - [ ] Composición compleja [[Los enamorados bailan...]] #STANDBY

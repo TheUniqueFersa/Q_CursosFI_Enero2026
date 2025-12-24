@@ -1,21 +1,21 @@
 ---
 estado: En ejecución
-status: 
+status:
 tipo_nota: alimentadora/secundaria
 fecha_creado: <% tp.date.now("YYYY-MM-DD") %>
 fecha_terminado:
-próxima_fecha: 
+próxima_fecha:
 modelo:
-  - "[[►PREZZER]]"
+  - "[[►GEZZER]]"
   - "[[►Recolección Wissen-Garden]]"
-antecesor: 
-sucesor: 
+antecesor:
+sucesor:
 ptetra: "[[♣Recover]]"
 serie: Matemáticas básicas
-Completado: 
-Incompleto: 
-Total: 
-tags: 
+Completado:
+Incompleto:
+Total:
+tags:
 ---
 # ***♣Rec -***
 *Dato*

@@ -3,9 +3,9 @@
 title: Kanban-☼First_Rise
 tags:
   - Active_progress_project
-Total: 80
+Total: 78
 Completado: 14
-Incompleto: 66
+Incompleto: 64
 kanban-plugin: board
 pertenece a:
   - "[[☼First Rise -8-]]"
@@ -91,7 +91,7 @@ pertenece a:
 **Complete**
 - [x] [[♠PEFYC - Suseo fallido]] ✅
 - [x] [[♣Servicio Social ETECM]] ✅
-- [x] [[♦SuferBrainstorming/1'S/Sector Conocimientos & Habilidades/♠Space Your Time/♠DesigntheFuture/♠DesigntheFuture]] : [[♠Academic]] ✅ 2025-04-08
+- [x] [[♠DesigntheFuture]] : [[♠Academic]] ✅ 2025-04-08
 	Se refiere al diseño de un plan para mi carrera, intercambios.
 	Aspectos de oportunidades, becas, servicios, laborales, etc.
 	
@@ -128,9 +128,7 @@ pertenece a:
 	- Calificar el anterior
 	- Organizar el nuevo con un plan de acción
 - [ ] ## [[♠Read]]
-	- [ ] 1 libro
-	- [ ] 2 libros
-	- [ ] 3 libros
+	- [ ] Leer todos los restantes (reminiscencias)
 - [ ] ## [[♣T - Programador Junior]]
 	- [ ] Hacer un proyecto de legendarización de alguna materia PERMANENTE anterior (EDA I, EDA II POO o Estructuras Discretas)
 	- [ ] PROC
@@ -159,7 +157,7 @@ pertenece a:
 - [x] [[►Tetrachronos]] { 29-11-2024 22:25
 - [x] [[►Tetrapetal]] para la elaboración de proyectos { 29-11-2024 22:25
 - [x] Primer progreso y formulación en Project dentro de Obsidian, junto con sus planificaciones de [[☼MEGA - La Última Jacaranda]] { 29-11-2024 22:25
-- [x] [[►Prezzer]] { 29-11-2024 22:25
+- [x] [[►GEZZER]] { 29-11-2024 22:25
 - [x] [[-(°)EH - iPad Professional]] { 29-11-2024 22:25
 - [x] [[♠A-time]] { 29-11-2024 22:25
 

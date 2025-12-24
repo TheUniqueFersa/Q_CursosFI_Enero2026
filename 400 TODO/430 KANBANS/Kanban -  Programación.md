@@ -25,7 +25,7 @@ pertenece a: "[[♣T - Programador Junior]]"
 
 ---
 
-## # --STATIC--<br>Aquí residen principalmente [[♠BrainOut|BO]]s que involucran los lenguajes descritos. <br><br>Adicionalmente, este Kanban formará parte de diferentes [[Ptetra|ptetras]] [[►PREZZER|ZERIADOS]] relacionados con la **Serie**: Programación Competitiva<br><br># [[Kanban - Proyectos ♣T - Programador Junior]]
+## # --STATIC--<br>Aquí residen principalmente [[♠BrainOut|BO]]s que involucran los lenguajes descritos. <br><br>Adicionalmente, este Kanban formará parte de diferentes [[Ptetra|ptetras]] [[►GEZZER|ZERIADOS]] relacionados con la **Serie**: Programación Competitiva<br><br># [[Kanban - Proyectos ♣T - Programador Junior]]
 
 
 

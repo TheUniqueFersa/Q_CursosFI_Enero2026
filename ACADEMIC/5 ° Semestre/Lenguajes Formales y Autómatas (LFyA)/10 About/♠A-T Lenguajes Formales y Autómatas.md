@@ -15,7 +15,7 @@ Calificación: "10"
 
 | Clave | Créditos | Temario / <br>Programa de Estudios | Bibliografía                                             | Laboratorio<br>(L+) | Calificación |
 | ----- | -------- | ---------------------------------- | -------------------------------------------------------- | ------------------- | ------------ |
-| 0442  | 8        | [[programa_LFyA.pdf]]              | [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] |                     | 10           |
+| 0442  | 8        | [[programa_LFyA.pdf]]              | [[ACADEMIC/5 ° Semestre/_Libros/LFyA/TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] |                     | 10           |
 
 | ⤵                 | 🔼***Legend***                                 |
 | ----------------- | ---------------------------------------------- |
@@ -34,7 +34,7 @@ Travesía para lograr ser ***Advanced*** y ***Ahead*** en la asignatura de ♠A-
 | Convenciones | Significado                                                                                                                                                                                                          |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `tema`       | Cada tema de la nueva estructura de temas                                                                                                                                                                            |
-| `book`       | Libro estándar elegido ([[♦SuferBrainstorming/1'S/Sector Conocimientos & Habilidades/♠Read/LIGHTVOLT 3/AGM/TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf\|TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft]]) |
+| `book`       | Libro estándar elegido ([[200 FUERTE/♠Read/LIGHTVOLT 3/AGM/TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf\|TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft]]) |
 | `Gnotebook`  | Nota de GoodNotes                                                                                                                                                                                                    |
 
 La estructura de temas de la asignatura dada por el profesor modifica la secuencia original del programa, por lo tanto a cada uno de los temas en la *nueva estructura de temas* se le llama `tema`[^2]

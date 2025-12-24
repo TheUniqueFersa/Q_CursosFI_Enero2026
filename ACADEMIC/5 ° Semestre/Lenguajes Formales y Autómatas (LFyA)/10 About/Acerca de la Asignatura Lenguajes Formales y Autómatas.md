@@ -106,7 +106,7 @@ En ==1 `bloque`== hay:
 %% Información importante de la materia, como el número de lista que soy, una contraseña, la forma de trabajar impuesta no establecida en la rúbrica %%
 
 > [!hint] Convenciones
-> - Se declara a [[TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] como el #Read principal de la asignatura.
+> - Se declara a [[ACADEMIC/5 ° Semestre/_Libros/LFyA/TeoriaDeAutomatas,lenguajesYComputacion-Hopcroft.pdf]] como el #Read principal de la asignatura.
 > - Se comienza 15:10
 > - **70%** Asistencia para exentar el final
 

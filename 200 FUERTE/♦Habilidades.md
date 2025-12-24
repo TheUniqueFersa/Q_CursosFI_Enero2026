@@ -1,0 +1,10 @@
+---
+title: ♦Habilidades
+
+---
+# ***♦Habilidades***
+
+
+
+## *Estratega*
+

@@ -24,7 +24,7 @@ pertenece a: "[[♦Fuerte de la Creación♦]]"
 - [ ] [[♠ISRY]]
 - [ ] [[♠WorkOut]]
 - [ ] [[♠ DesigntheFuture - CW24]]
-- [ ] [[♦SuferBrainstorming/1'S/Sector Conocimientos & Habilidades/♠Space Your Time/♠DesigntheFuture/♠DesigntheFuture]]
+- [ ] [[♠DesigntheFuture]]
 - [ ] [[♠HOME]]
 - [ ] [[♣Bodycare]]
 - [ ] [[►Tetrachronos]]
@@ -40,6 +40,7 @@ pertenece a: "[[♦Fuerte de la Creación♦]]"
 - [ ] Registrar eventos del años pasado de **GreatBinnacle** (1 semana)
 	- [ ] Hacer respaldo de fotos desde teléfono
 - [ ] Investigar como poder crear todas las notas con links de fechas funcionales desde antes de que sea ese día
+- [ ] Me quedé en [[Protocolo]]
 
 
 ## **Propuesta de acciones**

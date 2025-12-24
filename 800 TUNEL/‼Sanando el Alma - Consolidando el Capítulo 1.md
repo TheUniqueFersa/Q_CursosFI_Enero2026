@@ -93,7 +93,7 @@ Cumplir con [[‼YI]]
 - [ ] Anticipar mis sesiones de:
 	- [-] Cursos Fi ❌ 2025-07-20
 	- [-] CW ❌ 2025-07-20
-	- [ ] PROC -> [[PLAN PARA NO ESTAR DESEMPLEADOS]]
+	- [ ] PROC -> [[PLAN PARA NO ESTAR DESEMPLEADOS (REMONTADA)]]
 
 - [ ] #MILESTONE Empezar a hacer los **Protocolos de SUNIE**
 # [[♦(...L)#19|Regla 19]] -> Lo quiero en verdad
@@ -104,7 +104,7 @@ Cumplir con [[‼YI]]
 	- [ ] #MILESTONE Limpieza masiva en mi cuarto y renovación de mi casa ([[♠HOME]])
 - [ ] #MILESTONE/ORDEN_SUPERIOR  Construir un CV competente para el [[#Objetivo|objetivo principal]] ^f05390
 - [ ] PROC consolidado
-	- [ ] [[Kanban remontada]] #MILESTONE/ORDEN_SUPERIOR 
+	- [ ] [[Kanban - REMONTADA]] #MILESTONE/ORDEN_SUPERIOR 
 # [[♦(...L)#20|Regla 20]] -> La perfecta preparación para el perfecto manto
 - [ ] [[Programando diario por 1 hora hasta conseguir INTERNSHIP]]
 - [ ] [[Entrenando 3 horas diarias hasta subir de clasificatoria en Codeforces]]

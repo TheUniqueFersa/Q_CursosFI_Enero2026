@@ -56,7 +56,7 @@ pertenece a: "[[♠Write It Down]]"
 - [x] [[Cuando dejé de escribir]] ⏳ 2025-08-16 ✅ 2025-08-17
 	📅 2025-08-17
 - [x] Terminar [[Los enamorados bailan...]] ✅ 2024-02-17
-- [x] Terminar [[El legado de las generaciones]] ✅ 2024-02-17
+- [x] Terminar [[200 FUERTE/♠WiD/El legado de las generaciones]] ✅ 2024-02-17
 - [x] [[Y cuando hayamos sahanado]] ✅ 2024-10-13
 
 

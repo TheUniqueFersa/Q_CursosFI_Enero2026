@@ -1,22 +1,22 @@
 ---
 ptetra: "[[♠A-time]]"
-estado: Planeación
-status: Pendiente
+estado: Concluido
+status: Finalizado
 fecha_creado: 2025-07-22
 fecha_entrega: 2025-11-29
 modelo:
   - "[[♠Academic#►Aprendizaje (Adaptación de ►Recolección Wissen-Garden )|►Aprendizaje de ♠Academic]]"
-Completado: 3
-Incompleto: 12
+Completado: 15
+Incompleto: 0
 Total: 15
-terminado: false
+terminado: true
 etapa: 4
 tags:
   - ♠A-T
   - SUPER_UNI
 antecesor: "[[♠A-T SUPER UNIVERSITARIO {-3-}]]"
 sucesor: "[[♠A-T SUPER UNIVERSITARIO {-5-}]]"
-fecha_terminado:
+fecha_terminado: 2025-12-19
 ---
 # ***♠A-T SUPER UNIVERSITARIO {-4-}***
 >🔶 Implementa 🔶  [[♠Academic#►*Comprensión* (Adaptación de ►Recolección Wissen-Garden )|►Comprensión]]
@@ -51,28 +51,31 @@ fecha_terminado:
 >- *Imitar*
 
 ## ***Asignaturas***
-1. [ ] [[♠A-T Estructura y Programación de Computadoras (EyPC)]]
-2. [ ] [[♠A-T Dispositivos Electrónicos (Dispos)]]
-	- [ ] [[Lab de Dispositivos Electrónicos (Dispos)]]
-3. [ ] [[♠A-T Lenguajes Formales y Autómatas]]
-4. [ ] [[♠A-T Señales y Sistemas]]
-	- [ ] [[Lab de Señales y Sistemas]]
-5. [ ] [[♠A-T Administración de Proyectos de Software (Admin)]]
-6. [ ] [[♠A-T Bases de Datos]]
-	- [ ] [[Lab de Bases de Datos]]
+1. [x] [[♠A-T Estructura y Programación de Computadoras (EyPC)]] ✅ 2025-12-19
+2. [x] [[♠A-T Dispositivos Electrónicos (Dispos)]] ✅ 2025-12-19
+	- [x] [[Lab de Dispositivos Electrónicos (Dispos)]] ✅ 2025-12-19
+3. [x] [[♠A-T Lenguajes Formales y Autómatas]] ✅ 2025-12-19
+4. [x] [[♠A-T Señales y Sistemas]] ✅ 2025-12-19
+	- [x] [[Lab de Señales y Sistemas]] ✅ 2025-12-19
+5. [x] [[♠A-T Administración de Proyectos de Software (Admin)]] ✅ 2025-12-19
+6. [x] [[♠A-T Bases de Datos]] ✅ 2025-12-19
+	- [x] [[Lab de Bases de Datos]] ✅ 2025-12-19
 
 
 ---
 # Misión
 ## Intersemestral
-- [ ] A-T de todas las asignaturas que voy a meter: bibliografía, recursos etc
+- [x] A-T de todas las asignaturas que voy a meter: bibliografía, recursos etc ✅ 2025-12-19
 
 ## Semestre activo
-- [ ] Mantener mi beca con buenas calificaciones
-- [ ] Subir de promedio otra vez
+- [x] Mantener mi beca con buenas calificaciones ✅ 2025-12-19
+- [-] Subir de promedio otra vez ❌ 2025-12-19 -> pero lo mantuve :)
 
 ---
 # Horario
+> [!hint] Progreso
+> El ==**progreso**== se logra, solo cuando el portador cumple con los objetivos en todos sus ``Path``
+
 >**X-chelons**
 >- [x] Concretar horario bueno ✅ 2025-08-14
 >- [x] Elegir buenos profes para barquear pero uno insano para morir ✅ 2025-08-14
