@@ -1,0 +1,40 @@
+///---///---///---///---///---///--->		___		<---///---///---///---///---///---///---///---///---///
+///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///
+
+///---///---///---///---///---///--->		LINUX related		<---///---///---///---///---///---///---///---///---///
+
+-> https://www.softzone.es/windows/como-se-hace/subsistema-windows-linux/
+COMANDOS UTILIZADOS:
+
+-COMANDO-
+# <<"Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux">>
+{		Para poder solucionar lo de 
+		"Esta aplicación requiere el componente opcional Subsistema de Windows para Linux. 
+		Es posible que sea necesario reiniciar el sistema para que los cambios surtan efecto."
+}
+
+
+# INSTALACIÓN DE WSL
+>> https://learn.microsoft.com/en-us/windows/wsl/install-manual <<
+
+
+///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///
+
+
+///---///---///---///---///---///--->		(♣LEARN) Documentación		<---///---///---///---///---///---///---///---///---///
+
+https://github.com/nasciiboy/NCURSES-Programming-HOWTO/blob/master/NCURSES-Programming-HOWTO-es.org
+
+
+
+///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///
+Repo: https://github.com/SantiagoDanda/juego-de-beis-chido
+
+
+
+///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///
+
+///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///
+
+///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///---///
+

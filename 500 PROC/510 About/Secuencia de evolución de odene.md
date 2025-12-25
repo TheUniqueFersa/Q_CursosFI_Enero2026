@@ -7,6 +7,11 @@ pertenece a:
 ![[Pasted image 20250910210559.png|450]]
 
 - [ ] ![[Kanban - REMONTADA#^08580c]]
+# UWU
+![[Misato UwU.jpg]]
+# CHILL
+![[Misato CHILL.jpg]]
+
 # HARTOOO
 ![[Pasted image 20250910211655.png|450]]
 
@@ -26,4 +31,5 @@ pertenece a:
 
 # ***COMPETITIVE CONTESTANT***
 ![[Pasted image 20250910210550.png]]
+
 
