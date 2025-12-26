@@ -29,6 +29,7 @@ Dígase GitHub, AWS, Linux, GeoGebra, Excel, etc.
 
 ```dataview
 LIST 
+FROM "200 FUERTE"
 WHERE tipo_EH = "TECHMASTER"
 ```
 

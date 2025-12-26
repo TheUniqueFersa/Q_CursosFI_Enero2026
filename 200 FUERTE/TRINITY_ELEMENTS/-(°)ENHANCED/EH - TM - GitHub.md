@@ -2,12 +2,12 @@
 estado: En ejecución
 status: Activo
 tipo: "[[-(°) BigCoreElement]]"
+tipo_EH: TECHMASTER
 tipo_te: "[[-(°)ENHANCED]]"
 tipo_nota: primaria
 LIGHTVOLT: ⚡3🟠
 serie: Programación competitiva
 image: "[[-- PORTADA -- Git - GitHub.jpg]]"
-tipo_EH: TECHMASTER
 banner: "![[-- PORTADA -- GitHub.jpg]]"
 ---
 # ***-(°)EH - TM - GitHub***
