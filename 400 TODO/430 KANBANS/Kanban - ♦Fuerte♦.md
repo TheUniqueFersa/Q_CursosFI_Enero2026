@@ -41,6 +41,7 @@ pertenece a: "[[♦Fuerte de la Creación♦]]"
 	- [ ] Hacer respaldo de fotos desde teléfono
 - [ ] Investigar como poder crear todas las notas con links de fechas funcionales desde antes de que sea ese día
 - [ ] Me quedé en [[Protocolo]]
+- [ ] Definir formalmente un [[►Modelos]]
 
 
 ## **Propuesta de acciones**

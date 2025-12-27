@@ -52,7 +52,7 @@ es decir, cualquier elemento dentro del Fuerte recae en las siguientes categorí
 
 | Concepto       | Definición                                                                                                                                                        | Palabra Reservada |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fundamentación | Describen al ser, su filosofía, psicología, principios, gustos, sentimientos y comportamiento                                                                     | `Essential`       |
+| Fundamentación | Describen al ser, su filosofía, psicología, principios, gustos, sentimientos y comportamiento                                                                     | `Essen`           |
 | Estrategias    | Describen los caminos, planes y estrategias que el portador debe tomar para lograr sus metas                                                                      | `Path`            |
 | Ideas          | Describen todo lo que recae en las anteriores categorías y que nace de su ser                                                                                     | `Idea`            |
 | Dato externo   | Toda la información que el portador recibe del mundo externo. La mayor cantidad de esta información es ==conocimiento que ha de ser procesado y preservado==[^1], | `Data`            |
@@ -80,7 +80,7 @@ La **==certidumbre==**, las sesiones de prevención (PEFYC) y DesignTheFuture
 Mismas que son las únicas que pueden considerarse maleables en el sentido de que el portador decide que hacer con cada una de ellas, no son el resultado de algo más como el vivir, sino son aspectos propios que tienen su **Objetivo** inherente y por ende, la decisión de *desarrollar una idea*, o de *cumplir una estrategia* cambia el curso del camino del portador
 
 > [!important] Objetivo
-> Por lo tanto, todo [[-(°) BigCoreElement]] que tenga la categoría de ``Idea`` o ``Path`` siempre tiene un ==Objetivo==
+> Por lo tanto, todo [[-(°) BigCoreElement]] que tenga la categoría de ``Idea`` o ``Path`` siempre tiene un ==Objetivo== mutable, es decir, que puede cambiar en cualquier momento
 
 > [!hint] Progreso
 > El ==**progreso**== se logra, solo cuando el portador cumple con los objetivos en todos sus ``Path``
@@ -93,7 +93,7 @@ Esto implica que nuestra existencia misma está sujeta a lograr dominar dichas a
 
 Esto implica que se debe adoptar que cumpla exactamente eso, y además, se percibe que si se quiere **ser la mejor versión de si mismo** (ideal), entonces se debe minimizar el impacto de las antientidades y maximizar la cantidad de ==control==, ==orden== y ==certidumbre== al portador, para que este pueda generar la mayor cantidad de ==estrategias== e ==ideas==, mismas que deben contener **objetivos** que permitan construir ==progreso== al portador mediante su cumplimiento.
 
-Como la definición del universo está delimitada por el Tiempo ($T$), nuestra existencia también lo está, entonces lo anterior se debe maximizar en la menor cantidad de tiempo, para que de esa forma, ==el portador puede vivir, conectar y eventualmente descansar al *final de la Línea*==
+Como la definición del universo está delimitada por el Tiempo ($T$), nuestra existencia también lo está, entonces lo anterior se debe maximizar en la menor cantidad de tiempo, para que de esa forma, ==el portador pueda vivir, conectar y eventualmente descansar al *final de la Línea*==
 
 Por todo lo anterior, nace el concepto de [[🌐La Máquina Formidable]], que es **El Ideal** del modelo [[►FLOW]], mismo que es Modelo de **==clase primaria==**[^3]
 
@@ -135,12 +135,14 @@ Posteriormente se crearon las categorías:
 - Programa
 - Proyecto
 - Protocolo
+
 # Lecciones del Portador
 Durante los [[♦(T)Los 15 años perdidos|15 años de fundamentación]] y lo 5 años posteriores de preparación, se lograron divisar ciertos componentes de la existencia.
 Aunque cronológicamente surgieron a la par que el desarrollo del Fuerte, se puede decir que estos elementos en forma de lista, pueden definir perfectamente al Fuerte y ***todo lo necesario para subsistir en esta realidad a la que estamos atados***.
 - [[♦(...L)]]
 
 >Si eventualmente el universo se reiniciase, bastaría con cumplir con las [[♦(...L)|Lecciones de Vida]] para volver a crear todo de nuevo, esto inmediatamente de tal forma que, en un par de semanas, uno pueda volver a ser [[🌐La Máquina Formidable]] y continuar con su nueva vida
+
 
 
 

@@ -3,6 +3,16 @@ pertenece a:
   - "[[♦Fuerte de la Creación♦]]"
 ---
 # ***MNEMÓNICOS DEL FUERTE***
+## Primarios
+
+| MNEMÓNICO | Significado    |
+| --------- | -------------- |
+| $DON$     | [[DONES]]      |
+| $PRIN$    | [[Principios]] |
+| $MOD$     | [[►Modelos]]   |
+| $GEN$     | [[GENERADOR]]  |
+| $TSK$     | [[Task]]       |
+
 
 | MNEMÓNICO | Significado              |
 | --------- | ------------------------ |

@@ -19,6 +19,17 @@ tipo_nota: primaria
 | [[🔶Palabras Reservadas del 🔶Fuerte🔶]] |                       |
 | [[MNEMÓNICOS DEL FUERTE]]                |                       |
 
+# Definición
+> [!info] Fuerte
+> Es una tupla $(\Psi, E, \Gamma_F, M, S, \Xi, \Phi)$
+> - $\Psi$: Cronómetro univesal
+> - $E$: Entidades
+> - $\Gamma_F$: Lista de `task` univesal
+> - $M$: Conjunto de Modelos
+> - $S$: Conjunto de Sectores
+> - $\Xi$: Interconexión
+> - $\Phi$: Permisos
+
 # Descripción
 Lugar imaginario creado por [[FERSA]] que es capaz de explicar toda la realidad en torno a él y dentro de él.
 Es un proyecto de **nivel OMEGA**, que almacena, maneja, controla y fundamenta toda acción del ==portador original== [^1]

@@ -15,12 +15,12 @@ Los ***BCE*** se dividen en las siguiente categorías:
 - PRINCIPIOS
 - MODELOS
 - GENERADOR
-- INSTRUMENTOS
+- TASKS
 
-| [[DONES]]          | [[Principios]] | [[►Modelos]]                      | [[GENERADOR]]        | [[Instrumento\|Instrumentos]] | Planeadores |
-| ------------------ | -------------- | --------------------------------- | -------------------- | ----------------------------- | ----------- |
-| [[♠DON - Colibrí]] |                | 🔝 [[►Recolección Wissen-Garden]] | [[Ptetra]]           | Abstractos<br>- [[GYM]]       | [[Serie]]   |
-| [[EL COMUNICADOR]] |                | 🔝 [[►Legacy]]                    | [[Trinity Elements]] |                               |             |
-|                    |                | [[►Tetrapetal]]                   |                      |                               |             |
-|                    |                | [[►Tetrachronos]]                 |                      |                               |             |
+| [[DONES]]          | [[Principios]] | [[►Modelos]]                      | [[GENERADOR]]        | [[Instrumento\|Instrumentos]] |
+| ------------------ | -------------- | --------------------------------- | -------------------- | ----------------------------- |
+| [[♠DON - Colibrí]] |                | 🔝 [[►Recolección Wissen-Garden]] | [[Ptetra]]           | Abstractos<br>- [[GYM]]       |
+| [[EL COMUNICADOR]] |                | 🔝 [[►Legacy]]                    | [[Trinity Elements]] |                               |
+|                    |                | [[►Tetrapetal]]                   | [[Serie]]            |                               |
+|                    |                | [[►Tetrachronos]]                 |                      |                               |
 

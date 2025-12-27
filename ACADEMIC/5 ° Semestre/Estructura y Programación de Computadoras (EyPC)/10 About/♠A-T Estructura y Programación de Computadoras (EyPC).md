@@ -7,7 +7,7 @@ modelo:
 serie:
 tags:
   - ♠A-T
-ESTADO_RECOLECCION: "[[♣Recover]]"
+ESTADO_RECOLECCION:
 ---
 # ***♠A-T Estructura y Programación de Computadoras***
 

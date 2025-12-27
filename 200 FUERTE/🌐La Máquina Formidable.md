@@ -4,7 +4,7 @@ tipo_concepto: UPPER
 ---
 # 🌐 La Máquina Formidable
 >Lo que ***debo ser*** para lograr [[Mi impulso]]
->Mantener el estado del ***Flujo de Productividad***
+>Mantener el estado del [[►FLOW]]
 
 >ℹ️ ***Máquina***: Humano altamente disciplinado, productivo y eficaz.
 >& Corredor que sigue el [[MNEMÓNICO de YI]]

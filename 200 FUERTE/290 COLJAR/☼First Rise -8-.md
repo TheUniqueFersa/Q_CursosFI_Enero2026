@@ -18,12 +18,11 @@ Total: 9
 tags:
   - "#Active_kanban/FR-4-"
 nombre: ☼First_Rise
-image: "[[FIRST RISE -4-.png]]"
-banner: "![[FIRST RISE -4-.png]]"
+image: "[[🔅FIRST RISE -8-.jpg]]"
+banner: "![[🔅FIRST RISE -8-.jpg]]"
 fecha_entrega: 2025-01-25
 tipo_misión: MISIÓN PRINCIPAL
 ---
-
 # ***☼First Rise {-8-}***
 >***El primer paso para ser FERSA***
 
@@ -39,7 +38,6 @@ La misión principal de la ***máquina formidable*** para construir una **discip
 
 ---
 # Objetivo
-
 Mediante la ***Primer Asamblea***, se estableció en el punto A:
 ![[1° Asamblea#^PuntoA]]
 ![[1° Asamblea#^ObjetivoFR]]
@@ -53,7 +51,7 @@ Para poder alzarme como ***La Máquina Formidable***, debo asegurar primero el *
 > [!NOTE] # Proyectos del ***Primer Surgimiento*** **5° Etapa**
 > Para ello, debo demostrar que he aprendido de mis Errores y Fracasos venidos de [[♠PEFYC]]
 > Por ende, mediante [[♠DesigntheFuture]], se presentan los siguientes 8 ptetras o similares para cumplir en este cuarto y último intento del primer surgimiento.
-> ![[🔅FIRST RISE -5-.png]]
+> ![[🔅FIRST RISE -8-.jpg]]
 
 ^311605
 
@@ -72,10 +70,10 @@ Para poder alzarme como ***La Máquina Formidable***, debo asegurar primero el *
 Tras el tercer intento, ahora con más experiencias que antes y sabiendo cuáles fueron mis errores, me propongo a intentarlo de nuevo, teniendo **en cuenta aquello que me impidió avanzar y que voy a hacer para mejorar** [^1]
 *Hasta que el objetivo no se haya cumplido, no podré avanzar en mi esencia*
 
-># ***6° Etapa***
->Después de una larga jornada de *intentos no exitosos*[^4], todo culminará con el intento número 6, donde se demostrará de una manera arriesgada, si el portados es digno o no de llevar el manto de [[🌐La Máquina Formidable]]
+># ***8° Etapa***
+>Después de una larga jornada de *intentos no exitosos*[^4], todo culminará con el intento número 8, donde se demostrará de una manera arriesgada, si el portados es digno o no de llevar el manto de [[🌐La Máquina Formidable]]
 >Esto dado que enfrentará el 3 año de la carrera, el cuál busca:
->![[♠A-T SUPER UNIVERSITARIO {-4-}#^b0a686]] y que además lleva consigo la responsabilidad de 6 materias, con 3 laboratorios.
+>![[♠A-T SUPER UNIVERSITARIO {-5-}#^0c6ace]]
 >Un reto total para el portador, que además deberá buscar el balance con la 2° y 3° sección más que nunca.
 >El portador deberá demostrar entre otras aptitudes como la de la ***disciplina***, si es capaz de poder *partir en una aventura por su cuenta de manera independiente* en el próximo semestre, así como preparar su alma para un capítulo donde *el corazón no es reprimido*, el *cuerpo florece* y la **disciplina le permite construir imperio**.
 
@@ -134,7 +132,7 @@ La ***productividad*** se cumplirá con:
 - [ ] Para la **Puntualidad**, ~~se debe llegar a tiempo todos los días del nuevo semestre a lo largo de~~ ~~10 semanas seguidas~~ ~~lo que queda del semestre~~ *Respetar el* **SCHEDULE** #MILESTONE y llegar puntual a todos los eventos en los que sea citado:
 	- [-] Desayuno con Angie ❌ 2025-07-20
 	- [x] Chamba del 11 de julio ✅ 2025-07-20
-	- [ ] Colorines Trolleo
+	- [x] Colorines Trolleo ✅ 2025-12-26
 
 
 ---
@@ -148,7 +146,7 @@ Para definir los tiempos de las acciones de la [[#PLANEACIÓN - MODELO]] se recu
 - [x] [[SCHEDULE - ☼First Rise {-4-}.pdf]] ✅ 2024-06-03
 - [x] [[SCHEDULE - 🔆FR -5-.pdf]] ✅ 2025-07-29
 	
-- [ ] ![[SCHEDULE - FR -6- 2.pdf]]
+- [x] [[SCHEDULE - FR -6- 2.pdf]] ✅ 2025-12-26
 
 
 

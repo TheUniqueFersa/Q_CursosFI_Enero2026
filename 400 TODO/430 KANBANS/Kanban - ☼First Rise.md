@@ -118,31 +118,31 @@ pertenece a:
 - [ ] # [[☼Third Rise]]
 
 
-## # OCTAVA ETAPA (FINAL)
+## # OCTAVA ETAPA (FINAL) $\Gamma^O$
 
+- [ ] ## [[♣BuildYourEmpire]]
+	- Nuevo modelo de [[♣VTA]]
 - [ ] ## [[♠Academic]]
 	- [ ] Legendarizar las materias **Permanentes**
 	- [ ] [[♠A-T SUPER UNIVERSITARIO {-5-}]]
 	- [ ] Cursos FI Invierno 2026
+- [ ] ## [[♣T - Programador Junior]]
+	- [ ] Hacer un proyecto de legendarización de alguna materia PERMANENTE anterior (EDA I, EDA II POO o Estructuras Discretas)
+	- [ ] PROC
 - [ ] ## [[♣EL NUEVO CURSO WEB]]
 	- Calificar el anterior
 	- Organizar el nuevo con un plan de acción
 - [ ] ## [[♠Read]]
 	- [ ] Leer todos los restantes (reminiscencias)
-- [ ] ## [[♣T - Programador Junior]]
-	- [ ] Hacer un proyecto de legendarización de alguna materia PERMANENTE anterior (EDA I, EDA II POO o Estructuras Discretas)
-	- [ ] PROC
 - [ ] ## [[♠ALGORITMIA]]
 	- Revisión de material más hacia CS
-- [ ] ## [[♣BuildYourEmpire]]
-	- Nuevo modelo de [[♣VTA]]
+- [ ] ## [[♣THE CLOVERS SOCIETY]]
+	- [ ] Material para los chavos
+	- [ ] Biblioteca TheCloversSociety
 - [ ] ## [[♣AUTODIDACTA master]] -> [[♠Olympic Mind - PROC]]
 	- Demostrar que soy autodidacta con PROC, volviendome de una clasificación mayor en THMECP
 - [ ] ## [[♠BrainOut]]
 	- **Brainoutons** semanales que limpien el INCOMING de [[Kanban -  Programación]]
-- [ ] ## [[♣THE CLOVERS SOCIETY]]
-	- [ ] Material para los chavos
-	- [ ] Biblioteca TheCloversSociety
 - [ ] ## [[☼Second Rise]]
 	- Ejercicio 4 días a la semana, 1 para sector negativo
 - [ ] ## [[☼Third Rise]]

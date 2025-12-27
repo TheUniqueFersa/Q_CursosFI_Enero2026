@@ -36,9 +36,13 @@ fecha_terminado:
 	- Terminar [[☼First Rise -8-]]
 
 >*Semestre activo*
->- Mantener a la programación como mi eje principal
->- Crecer como programador competitivo
->- Incorporar al científico de la computación con el desarrollo del Fuerte
+>- Mantener a la **programación** como mi eje principal
+>	- Crecer como *programador competitivo*
+>	- Incorporar al **científico de la computación** con el desarrollo del Fuerte
+>- Tener un equilibrio con mis 3 secciones
+>- Ser la [[🌐La Máquina Formidable]]
+
+^0c6ace
 
 
 # Planeación - MODELO
@@ -54,11 +58,15 @@ fecha_terminado:
 
 ## Clubes
 - [ ] [[♣CPCFI -2-]]
-- [ ] 
+- [ ] [[ROLLER TROLLER]]
+- [ ] [[Los enamorados bailan.._]]
+
 # Misión
 ## Intersemestral
 
 ## Semestre activo
+
+^3b7772
 
 # Horario
 >#XCH

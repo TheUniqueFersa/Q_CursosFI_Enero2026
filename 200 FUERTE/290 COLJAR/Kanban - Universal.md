@@ -29,6 +29,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
+- [ ] Idear un SCHEDULE
 
 
 ## # Secuencia de Acciones<br>‼Yi
