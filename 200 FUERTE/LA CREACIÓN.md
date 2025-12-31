@@ -97,6 +97,11 @@ Como la definición del universo está delimitada por el Tiempo ($T$), nuestra e
 
 Por todo lo anterior, nace el concepto de [[🌐La Máquina Formidable]], que es **El Ideal** del modelo [[►FLOW]], mismo que es Modelo de **==clase primaria==**[^3]
 
+---
+# Cuando el aparato funciona
+>Cuando una creación del Fuerte adquiere la capacidad de poder gestionar y supervisar alguna parte del fuerte, se ha logrado la creación.
+
+Un elemento UPPER es aquel que representa un elemento esencial para la gestión del Fuerte, ya sea porque su definición fue hecha para ello, o porque 
 
 ---
 # Cronología

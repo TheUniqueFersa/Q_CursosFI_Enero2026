@@ -19,5 +19,5 @@ pertenece a:
 >Enmendar todos los fracasos cometidos en las anteriores ediciones de SUPER UNIVERSITARIO
 >- [ ]  [[DET.LEG - Post Cursos]] (Álgebra, GA, Cálculo Diferencial)
 >- [ ]  Preparar los Cursos de Invierno (Lg)
->- [ ]  [[♠A-T SUPER UNIVERSITARIO {-4-}]]
+>	- [ ]  [[♠A-T SUPER UNIVERSITARIO {-4-}]]
 >- [ ] Desplegar 5 sesiones de [[♠BO - Mates Universitarias]]

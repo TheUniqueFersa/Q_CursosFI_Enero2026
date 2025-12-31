@@ -1,16 +1,71 @@
 ---
-title: ♠SpaceYourTime
-estado: En ejecución
-status: Activo
 tipo: ptetra
 tipo_p: ♠Programa
+estado: En ejecución
+status: Activo
+title: ♠SpaceYourTime
 tipo_nota: primaria
+Completado:
+Incompleto:
+Total:
 ---
 # ***♠SpaceYourTime***
-# ABOUT
----
-***Programa madre*** para la organización y manejo del tiempo, esencia vital del universo, que domina si no es dominada.
+*Pequeñas conexiones o datos curiosos*
 
+| ⤵️  |     |
+| --- | --- |
+|     |     |
+
+# Descripción
+Programa para el control y gestión del tiempo
+
+---
+# Objetivo
+- No permitir que el tiempo no se encuentre dominado. Dominarlo implica el manejo correcto de la vida
+
+---
+# Fundamentación 
+El tiempo $T$ es una de las variables fundamentales de la vida. Siendo la [[♦(...L)#El tiempo es lo absoluto para tí|regla número 1]] de la vida, su estudio y control resulta ser obligatorio e intrínseco en la existencia.
+
+---
+# Planeación - MODELO
+*Órganos alimentadores*
+
+
+---
+# Misión
+## Etapa de CREACIÓN
+- [ ] Crear concepto de $SCH$
+- [ ] 
+- [ ] Renovar $SCH$ para el **2026** #MILESTONE 
+
+---
+# Frecuencia
+
+---
+
+
+# ***INTERCONN***
+## Conexiones
+Notas secundarias
+Notas que han de considerarse para la revisión de la actual, para tener contexto
+## Recursos
+Aspectos visibles de las notas secundarias
+MATEEXTRA relacionado
+Recursos para la MISION y OBJETIVO
+
+## Referencias
+Referencia a notas externas como fuente de información
+Referencias externas de otra fuente de información
+
+---
+---
+
+\# Opcionales:
+
+# Consideraciones
+
+# Restricciones
 
 ## Tiempo
 Dentro de las reglas del universo creado, donde hemos aceptado habitar, se encuentra la máxima de todas, aquella que lo domina todo, porque decide que tanto, cuanto, hasta donde.

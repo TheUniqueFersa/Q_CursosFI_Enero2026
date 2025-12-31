@@ -1,5 +1,7 @@
 ---
-status: Activo
+estado: Heredado
+heredado a: "[[Kanban - FIX REM I]]"
+status: Finalizado
 tipo_nota: Sesión
 tipo_error:
   - Académico
@@ -14,7 +16,7 @@ Errores definidos:
   - "[[♦(...L)#13]]"
   - "[[♦(...L)#17]]"
 fecha: 2024-11-30
-superado: false
+superado: true
 image:
 próxima_fecha:
 tags:
@@ -49,38 +51,38 @@ En general podemos destacar ciertas acciones que no me gustaron del todo en cada
 
 - Ingeniería en Software
 - Matemáticas Avanzadas
-- [ ] Pedir más material y repasarlo
+- [x] Pedir más material ✅ 2025-12-27
+
 - **Estructuras Discretas**
 - [x] Mejorar el proyecto visualmente [[02-06-2025]] 
 
 
 - Electricidad y Magnetismo
-- [ ] EMPEZAR [[-(°)EH - ELECTRO]]
+- [x] EMPEZAR [[-(°)EH - ELECTRO]] ✅ 2025-12-28
 - Fundamentos de Estadística
-- [ ] Leer libros de estadística y proba
-- [ ] Atender cursos de lo mismo (atendiendo más a una necesidad de Machine Learning)
+	-  Leer libros de estadística y proba
+	- Atender cursos de lo mismo (atendiendo más a una necesidad de Machine Learning)
 - Análisis Numérico
 - [x] Remontar Análisis Numérico ✅ 2025-05-29
-
 
 
 ---
 # MODELO
 - [x] [[DET. FIX - Las nuevas reminiscencias -2-]] ✅ 2025-07-16
-- [ ] [[DET. Fixing - Reminicencias PROC]]
+- [x] [[DET. Fixing - Reminicencias PROC]] ✅ 2025-12-28
 
-| El Error                                                                                                                                                      | Detona | ==***La Acción***==                                                                                                                                                                                                      | STATUS | 🔃 Perform                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------- |
-| No hablar bien                                                                                                                                                | ➡      | [[EL COMUNICADOR\|Don de EL COMUNICADOR]]                                                                                                                                                                                | ❌      | 1️⃣                                                                                                                       |
-| Desperdiciar una asignatura importante                                                                                                                        | ⏩      | [[Un Ingeniero de Verdad]]                                                                                                                                                                                               | ❌      | 1️⃣ Pasa de nuevo con [[♠A-T Electricidad y Magnetismo]], [[♠A-T Matemáticas Avanzadas]]                                  |
-| No poder apreciar la belleza de la ingeniería en acción con las matemáticas                                                                                   | ▶      | [[Un Ingeniero de Verdad]]                                                                                                                                                                                               | ❌      | 1️⃣ Pasa de nuevo con [[♠A-T Electricidad y Magnetismo]], [[♠A-T Análisis Numérico]], [[♠A-T Fundamentos de Estadística]] |
-|                                                                                                                                                               |        | [[‼Ren - ►Aprendizaje]]                                                                                                                                                                                                  | ❌      |                                                                                                                           |
-| No haber investigado sobre temas de programación, buenas técnicas y patrones de diseño                                                                        | ➡      | Notas de Teoría sobre como ser un buen programador para [[♣T - Programador Junior]]                                                                                                                                      | ❌      |                                                                                                                           |
-|                                                                                                                                                               |        | [[♠Repay - Developing]]                                                                                                                                                                                                  | ❌      |                                                                                                                           |
-| No haber entregado muchas tareas a tiempo y no mostrar mi potencial de buen desarrollador                                                                     | ▶      | [[♠Repay - Árboles Binarios]]                                                                                                                                                                                            | ❌      | 1️⃣                                                                                                                       |
-| ==CUARTO SEMESTRE==                                                                                                                                           |        |                                                                                                                                                                                                                          |        |                                                                                                                           |
+| El Error                                                                                                                                                           | Detona | ==***La Acción***==                                                                                                                                                                                                      | STATUS | 🔃 Perform                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ------------------------------------------------------------------------------------------------------------------------- |
+| No hablar bien                                                                                                                                                     | ➡      | [[EL COMUNICADOR\|Don de EL COMUNICADOR]]                                                                                                                                                                                | ❌      | 1️⃣                                                                                                                       |
+| Desperdiciar una asignatura importante                                                                                                                             | ⏩      | [[Un Ingeniero de Verdad]]                                                                                                                                                                                               | ❌      | 1️⃣ Pasa de nuevo con [[♠A-T Electricidad y Magnetismo]], [[♠A-T Matemáticas Avanzadas]]                                  |
+| No poder apreciar la belleza de la ingeniería en acción con las matemáticas                                                                                        | ▶      | [[Un Ingeniero de Verdad]]                                                                                                                                                                                               | ❌      | 1️⃣ Pasa de nuevo con [[♠A-T Electricidad y Magnetismo]], [[♠A-T Análisis Numérico]], [[♠A-T Fundamentos de Estadística]] |
+|                                                                                                                                                                    |        | [[‼Ren - ►Aprendizaje]]                                                                                                                                                                                                  | ❌      |                                                                                                                           |
+| No haber investigado sobre temas de programación, buenas técnicas y patrones de diseño                                                                             | ➡      | Notas de Teoría sobre como ser un buen programador para [[♣T - Programador Junior]]                                                                                                                                      | ❌      |                                                                                                                           |
+|                                                                                                                                                                    |        | [[♠Repay - Developing]]                                                                                                                                                                                                  | ❌      |                                                                                                                           |
+| No haber entregado muchas tareas a tiempo y no mostrar mi potencial de buen desarrollador                                                                          | ▶      | [[♠Repay - Árboles Binarios]]                                                                                                                                                                                            | ❌      | 1️⃣                                                                                                                       |
+| ==CUARTO SEMESTRE==                                                                                                                                                |        |                                                                                                                                                                                                                          |        |                                                                                                                           |
 | No apreciar las matemáticas discretas y la gran oportunidad de construir un análisis cercano al de **ciencias de la computación** ([[♠A-T Estructuras Discretas]]) | ➡      | ***Reforma*** a [[♠ALGORITMIA]] para que parte de su ejecución y su MODELO adopte un enfoque de lectura, investigación y aprendizaje de conceptos más cercanos a ciencias de la computación, matemáticas discretas, etc. | ✅      |                                                                                                                           |
-|                                                                                                                                                               |        |                                                                                                                                                                                                                          |        |                                                                                                                           |
+|                                                                                                                                                                    |        |                                                                                                                                                                                                                          |        |                                                                                                                           |
 
 
 ---

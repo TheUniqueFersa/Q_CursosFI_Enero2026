@@ -2,8 +2,8 @@
 tipo: Acontecimiento
 pertenece a:
   - "[[☼First Rise -8-]]"
-estado: Planeación
-status:
+estado: Cancelado
+status: Finalizado
 Completado:
 Incompleto:
 Total:
