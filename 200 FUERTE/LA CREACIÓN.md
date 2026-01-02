@@ -97,11 +97,46 @@ Como la definición del universo está delimitada por el Tiempo ($T$), nuestra e
 
 Por todo lo anterior, nace el concepto de [[🌐La Máquina Formidable]], que es **El Ideal** del modelo [[►FLOW]], mismo que es Modelo de **==clase primaria==**[^3]
 
+
+# EL IDEAL
+Todo [[GENERADOR]] tiene un conjunto de [[►Modelos|MODELOS]] $(\Theta)$
+Este conjunto se compone normalmente de $(\hat{\Theta}, \bar{\Theta})$, (IDEAL, CORE) respectivamente
+
+De tal forma que la vida tiene un modelo IDEAL, pues dicho concepto es un tipo de [[GENERADOR]] complejo que engloba a todos los demás GENERADORES que se puedan completar a lo largo del tiempo.
+
+Se identifican 3 variables $(t, x, o)$
+- $t$: tiempo
+- $x$: `XCH`
+- $\Theta$ : Objetivo
+
+> [!success] IDEAL DE VIDA
+> Dado un tiempo $t$, se deben hacer la mayor cantidad de $XCH$ que acerquen al portador al $\Theta$
+
+
+
 ---
 # Cuando el aparato funciona
 >Cuando una creación del Fuerte adquiere la capacidad de poder gestionar y supervisar alguna parte del fuerte, se ha logrado la creación.
 
-Un elemento UPPER es aquel que representa un elemento esencial para la gestión del Fuerte, ya sea porque su definición fue hecha para ello, o porque 
+Un elemento UPPER es aquel que representa un elemento esencial para la gestión del Fuerte, ya sea porque su definición fue hecha para ello, o porque se acopla perfectamente como gestor de algún sector del fuerte.
+
+>Cuando un sector del fuerte es demasiado importante, entonces se le asocia un elemento UPPER que lo gestiona. Aunque las entidades son un concepto teórico no traducible a máquina, una entidad puede ser entendida como un sector que tiene un elemento UPPER asociado.
+
+## Elementos `UPPER`
+>Localizable en $\text{PA}_{n_\alpha}$ para toda nota $n_\alpha$ con la forma:
+>`tipo_concepto: UPPER`
+
+| Elemento                | UPPER              |
+| ----------------------- | ------------------ |
+| Cronómetro Universal    | [[♠SpaceYourTime]] |
+| Cuidado del Cuerpo      | [[♠Bodycare]]      |
+| Ejercicio físico        | [[♠WorkOut]]       |
+| Búsqueda de la estrella | [[♠Star]]          |
+|                         |                    |
+|                         |                    |
+
+# El IDEAL
+
 
 ---
 # Cronología

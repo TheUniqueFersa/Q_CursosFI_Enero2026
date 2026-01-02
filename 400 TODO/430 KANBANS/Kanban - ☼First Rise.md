@@ -51,7 +51,7 @@ pertenece a:
 
 
 
-## # [[♠Leading - ☼First Rise]]
+## # [[♠Leading - ☼First Rise DEPRECATED]]
 
 - [ ] [[♠Olympic Mind - PROC]]
 - [ ] [[♠Write It Down]]
@@ -72,7 +72,7 @@ pertenece a:
 
 - [ ] [[♠DON - Colibrí]]
 - [ ] [[EL COMUNICADOR]]
-- [ ] [[♣Bodycare]]
+- [ ] [[♠Bodycare]]
 	- [ ] [[‼Renovacion]] - [[♠WorkOut]]
 - [ ] [[‼Renovacion]] - [[♠HOME]]
 - [ ] Empezar a ser INGENIERO
@@ -118,7 +118,7 @@ pertenece a:
 - [ ] # [[☼Third Rise]]
 
 
-## # OCTAVA ETAPA (FINAL) $\Gamma^O$
+## # OCTAVA ETAPA (FINAL) $\Gamma
 
 - [ ] ## [[♣BuildYourEmpire]]
 	- Nuevo modelo de [[♣VTA]]
@@ -140,7 +140,7 @@ pertenece a:
 	- [ ] Material para los chavos
 	- [ ] Biblioteca TheCloversSociety
 - [ ] ## [[♣AUTODIDACTA master]] -> [[♠Olympic Mind - PROC]]
-	- Demostrar que soy autodidacta con PROC, volviendome de una clasificación mayor en THMECP
+	- Demostrar que soy autodidacta con PROC, volviendome de una clasificación mayor en THEMECP
 - [ ] ## [[♠BrainOut]]
 	- **Brainoutons** semanales que limpien el INCOMING de [[Kanban -  Programación]]
 - [ ] ## [[☼Second Rise]]

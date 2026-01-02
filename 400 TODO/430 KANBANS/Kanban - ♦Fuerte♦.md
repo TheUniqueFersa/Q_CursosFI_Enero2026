@@ -26,7 +26,7 @@ pertenece a: "[[♦Fuerte de la Creación♦]]"
 - [ ] [[♠ DesigntheFuture - CW24]]
 - [ ] [[♠DesigntheFuture]]
 - [ ] [[♠HOME]]
-- [ ] [[♣Bodycare]]
+- [ ] [[♠Bodycare]]
 - [ ] [[►Tetrachronos]]
 - [ ] [[♠DesigntheFuture - Nuevo universitario]]
 - [ ] [[♣THE CLOVERS SOCIETY]] como parte de [[♣BuildYourEmpire]]

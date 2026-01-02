@@ -1,4 +1,5 @@
 ---
+tipo_concepto: UPPER
 estado: Planeación
 status: Pendiente
 tipo: ptetra

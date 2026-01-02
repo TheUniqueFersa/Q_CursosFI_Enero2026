@@ -3,8 +3,9 @@ tipo: "[[-(°) BigCoreElement]]"
 tipo_concepto: UPPER
 ---
 # 🌐 La Máquina Formidable
+>ESTADO IDEAL de [[►FLOW]]
 >Lo que ***debo ser*** para lograr [[Mi impulso]]
->Mantener el estado del [[►FLOW]]
+>Mantener el estado de [[♦FLOW (flujo)]]
 
 >ℹ️ ***Máquina***: Humano altamente disciplinado, productivo y eficaz.
 >& Corredor que sigue el [[MNEMÓNICO de YI]]

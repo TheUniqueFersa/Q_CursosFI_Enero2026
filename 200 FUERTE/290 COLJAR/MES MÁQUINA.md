@@ -1,10 +1,9 @@
 ---
-tipo: Concepto Compuesto
+pertenece a:
+  - "[[►FLOW]]"
 ---
- # MES MÁQUINA
->Acción Emblemática máxima, catalogada como:
->**MISIÓN Objetivo**
->de todo momento del ser, esto para preservar el estado de:
+# ***MES MÁQUINA***
+>Resultado de mantener el estado de 
 >[[🌐La Máquina Formidable]]
 
 
@@ -12,13 +11,13 @@ tipo: Concepto Compuesto
 | --------- | ----------------------------------- |
 | 5 semanas | [[STAMINA]] de orden superior a 80% |
 |           |                                     |
-
- 
-
+# Principios
+- Hacer funcionar todos los *sectores UPPER*
+- Tener en buen estado las 3 secciones o los 2 PLANOS
 
 # ***REWARD***
 Cada que se logre 1 mes máquina, se podrá optar por desplegar algún protocolo registrado en la lista de #REWARD 
 
-| Locuras del ser | [[‼Disguising the Lust]] |
-| --------------- | ------------------------ |
 |                 |                          |
+| --------------- | ------------------------ |
+| Locuras del ser | [[‼Disguising the Lust]] |

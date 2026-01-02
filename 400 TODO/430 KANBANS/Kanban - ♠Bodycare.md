@@ -1,16 +1,14 @@
 ---
-
 tipo: Kanban
 tipo_nota: alimentadora/secundaria
 kanban-plugin: board
-pertenece a: "[[♣Bodycare]]"
+pertenece a: "[[♠Bodycare]]"
 recurrencia:
   - sábado
   - domingo
   - Saturday
   - Sunday
   - semanal
-
 ---
 
 ## # *--STATIC --*

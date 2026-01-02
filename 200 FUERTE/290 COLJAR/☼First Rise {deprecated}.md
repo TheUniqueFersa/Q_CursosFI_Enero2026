@@ -77,7 +77,7 @@ Para lograr el objetivo, debo enfocar mis esfuerzos en:
 *Después del primer semestre de uni hasta terminar el 2° semestre*
 
 ## ->
-![[♠Leading - ☼First Rise]]
+![[♠Leading - ☼First Rise DEPRECATED]]
 
 ---
 # Misión

@@ -1,6 +1,6 @@
 ---
-estado: En ejecución
-status: Activo
+estado: Cancelado
+status: No activo
 tipo: ptetra
 tipo_p: ♠Programa
 tipo_nota: alimentadora/secundaria
@@ -34,7 +34,7 @@ Para poder lograr ***EL EQUILIBRIO*** debo enfocarme en los siguientes *ptetras*
 - [[♠PEFYC]]
 - [[♠MasChesster]]
 
-- ~~[[☼Castillos]]~~ PUESTA EN **STANDBY** POR ***PROC***
+- ~~[[☼Castillos]]~~ PUESTA EN **STANDBY** POR ***PROCW***
 - ~~[[♣ T - OBSIDIAN]]~~ -> PUESTA EN **STANDBY** POR ***PROC***
 - ~~[[☼MEGA - La Última Jacaranda]]~~ -> PUESTA EN **STANDBY** POR ***PROC***
 - ~~**[[♣Servicio Social ETECM]]**~~ -> En espera de *actualización*
@@ -45,5 +45,5 @@ Para poder lograr ***EL EQUILIBRIO*** debo enfocarme en los siguientes *ptetras*
 
 3'S
 - [[♠HOME]]
-- [[♣Bodycare]]
+- [[♠Bodycare]]
 	- [[♠WorkOut]]

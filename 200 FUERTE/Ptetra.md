@@ -28,12 +28,14 @@ Hereda la [[GENERADOR#Definición|definición de GENERADOR]]:
 ![[GENERADOR#Definición]]
 > [!info] PTETRA
 > 
-> Un ptetra es una tupla $(\delta, T_F, \Gamma)$
-> - $\delta$ es la Planeación / MODELO que seguirá el ptetra para su compleción. Presenta un Modelo Ideal que es el *mejor estado que puede adquirir dicho ptetra*
-> - $T_F$ es el lugar dentro del $SCH$ activo
+> Un ptetra es una tupla $(\Theta, T_f, \Gamma)$
+> - $\Theta$ es la `Planeación / MODELO` que seguirá el ptetra para su compleción. Presenta:
+> 	- $\hat{\Theta}$ un Modelo Ideal que es el *mejor estado que puede adquirir dicho ptetra*
+> 	- $\bar{\Theta}$ un Modelo CORE, que es la metodología de dicho ptetra
+> - $T_f$: (`Frecuencia`) es el lugar dentro del $SCH$ activo
 > - $\Gamma_\alpha$ es una lista de `Task` que definen la existencia del ptetra, es una tupla
->  $(\Gamma_\alpha^O, \Gamma_\alpha^M, \Gamma_\alpha)$[^1]
-> 	- $\Gamma^O$: Lista de Objetivos, estos son `task` de #MILESTONE/ORDEN_SUPERIOR . ==La compleción de la totalidad de esta lista implica la compleción del Ptetra==
+>  $(\Gamma_\alpha^\theta, \Gamma_\alpha^M, \Gamma_\alpha)$[^1]
+> 	- $\Gamma^\theta$: Lista de Objetivos, estos son `task` de #MILESTONE/ORDEN_SUPERIOR . ==La compleción de la totalidad de esta lista implica la compleción del Ptetra==
 > 	- $\Gamma^M$: Lista de Misiones, estos son `task` de tipo #XCH. ==La compleción de un `task` de tipo Misión implica la transición de una etapa a otra dentro del ptetra==
 > 	- $\Gamma$: Lista de `task` convencional. ==La compleción de estos `task` puede cambiar el estado del ptetra.==
 

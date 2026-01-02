@@ -1,4 +1,5 @@
 ---
+tipo_concepto: UPPER
 nombre: ♠Bodycare
 estado: Planeación
 status: Pendiente
@@ -17,31 +18,9 @@ tags:
 # ***♠Bodycare***
 *Hacia la perfección de la segunda sección*
 
-| [[Kanban - ♠Bodycare\|Kanban]] |
+| ⤵️                             |
 | ------------------------------ |
-|                                |
-``` dataviewjs
-function projectTracker(dv, query) {
-    let searchPagePaths = dv.pages(query).file.path
-    
-    for(let i=0; i < searchPagePaths.length; i++){
-        if(dv.page(searchPagePaths[i]).Total){
-                    let title = dv.page(searchPagePaths[i]).nombre;
-                    console
-                    let total = dv.page(searchPagePaths[i]).Total;
-                    let status = ((dv.page(searchPagePaths[i]).Completado / dv.page(searchPagePaths[i]).Total) * 100).toFixed();
-                    const progress = "![pb|500](https://progress-bar.dev/" + status + "/?scale=" + "100" + "&title=" + title + "&width=400)"; //you could set any width if you need
-                    dv.paragraph(progress);
-                    dv.paragraph("<br>"); //use this if you have many projects to track.
-        }
-    }
-} 
-
-projectTracker(
-    dv,
-    "#Active_kanban/♠Bodycare" //change tag if you need
-)
-```
+| [[Kanban - ♠Bodycare\|Kanban]] |
 # Descripción
 Proyecto para lograr el cuidado del cuerpo; la manifestación física de la esencia
 
@@ -52,7 +31,7 @@ Cuidar y preservar lo mayor posible al cuerpo con hábitos saludables
 ---
 # Fundamentación 
 Durante la temprana formulación del fuerte, se concluyó que el humano se divide en 3 secciones[^1] fundamentales: mente, corazón y cuerpo. Esta última es la representación física y la forma de expresión de la esencia de cada individuo, por lo que su cuidado y preservación es fundamental en la juventud.
-Inclusive puede tener beneficios para [[♣Star]] [^1]
+Inclusive puede tener beneficios para [[♠Star]] [^1]
 Por ende, este proyecto busca en todo lugar, cuidar el templo de la esencia: el cuerpo.
 
 ---

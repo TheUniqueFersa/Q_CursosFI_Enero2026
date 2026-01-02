@@ -1,36 +1,34 @@
 ---
-estado: 
-status: 
+tipo_concepto: UPPER
+estado: STANDBY
+status:
 Completado:
-Incompleto: 
-Total: 
+Incompleto:
+Total:
+tipo: ptetra
+tipo_p: ♠Programa
 ---
-# ***Nombre nota***
-*Pequeñas conexiones o datos curiosos*
+# ***♠Star***
+>En búsqueda de la Rosa Eterna
 # Descripción
+
+---
+# Objetivo
+- Encontrar SUS
 
 ---
 # Fundamentación 
 
 ---
-# Objetivo $\Gamma^\theta$
-
----
-# MODELOS $\Theta$
-## IDEAL $\hat{\Theta}$
-
-## CORE $\bar{\Theta}$
-
-# Etapas $E$
-
-# Planeación $\delta$
+# Planeación - MODELO
+*Órganos alimentadores*
 
 
 ---
-# Misión $\Gamma^M$
+# Misión
 
 ---
-# Frecuencia $T_f$
+# Frecuencia
 
 ---
 

@@ -11,7 +11,7 @@ modelo:
   - "[[►Tetrapetal]]"
   - "[[►GEZZER]]"
 sucesor: "[[☼Second Rise]]"
-etapa: "7"
+etapa: 8
 Completado: 4
 Incompleto: 5
 Total: 9
@@ -31,7 +31,7 @@ tipo_misión: MISIÓN PRINCIPAL
 | [[Kanban - ☼First Rise\|Kanban]]          | [[‼Sanando el Alma - Consolidando el Capítulo 1]] |
 | [[INTERCONN - SERIES (☼FR).excalidraw]]   |                                                   |
 | **[[SCHEDULE -FR-5- 2-2.pdf\|SCHEDULE]]** |                                                   |
-| [[♠Leading - ☼First Rise]]                |                                                   |
+| [[Leading - FR -8-]]                      |                                                   |
 
 # Descripción
 La misión principal de la ***máquina formidable*** para construir una **disciplina firme**
@@ -42,9 +42,11 @@ Mediante la ***Primer Asamblea***, se estableció en el punto A:
 ![[1° Asamblea#^PuntoA]]
 ![[1° Asamblea#^ObjetivoFR]]
 es decir:
-> - El **==objetivo del primer surgimiento==** sería inculcar una ==***disciplina naciente***==.
+> [!important] Objetivo
+> El **==objetivo del primer surgimiento==** sería inculcar una ==***disciplina naciente***==.
 > Esto mediante un objetivo concreto:
-> Conseguir el ***MES MÁQUINA[^3]***
+>  - Conseguir el ***MES MÁQUINA*** [^3]
+
 
 Para poder alzarme como ***La Máquina Formidable***, debo asegurar primero el **poder del humano**, la ***disciplina***, para poder tener la capacidad de manejar cualquier tarea, sea del tamaño que sea.
 
@@ -81,7 +83,7 @@ Tras el tercer intento, ahora con más experiencias que antes y sabiendo cuáles
 # PLANEACIÓN - MODELO
 ***Órganos Alimentadores***
 Se conservan los [[♠Leading]] para los ptetras comunes
-## ➡ [[♠Leading - ☼First Rise|♠Leading ]]
+## ➡ [[♠Leading - ☼First Rise DEPRECATED|♠Leading ]]
 
 ## **Línea del SUPER UNIVERSITARIO**
 ### ▶ [[♠A-T SUPER UNIVERSITARIO]] como *Primer Plano*

@@ -1,4 +1,5 @@
 ---
+tipo_concepto: UPPER
 nombre: ♠WorkOut
 estado: Planeación
 status: Pendiente
@@ -8,7 +9,7 @@ tipo_nota: primaria
 seccion: 3°
 prioridad: Media
 pertenece a:
-  - "[[♣Bodycare]]"
+  - "[[♠Bodycare]]"
 ---
 # ***♠WorkOut***
 >*La preparación física del cuerpo para estar mamadoOOO*

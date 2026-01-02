@@ -1,4 +1,5 @@
 ---
+tipo_concepto: UPPER
 nombre: ♠HOME
 estado: Planeación
 status: Pendiente

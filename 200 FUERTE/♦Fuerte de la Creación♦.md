@@ -21,17 +21,17 @@ tipo_nota: primaria
 
 # Definición
 > [!info] Fuerte
-> Es una tupla $(\Psi, E, \Gamma_F, M, S, \Xi, \Phi, \Omega, \Pi, \zeta_F)$
-> - $\Psi$: Cronómetro univesal
-> - $E$: Entidades
-> - $\Gamma_F$: Lista de `task` univesal
+> Es una tupla $(\Psi_F, \Gamma_F, \Theta_F, M, S, \Xi, \Phi, \Omega, \Pi, \zeta_F)$
+> - $\Psi_F$: Cronómetro univesal
+> - $\Gamma_F$: Cinta de `task` univesal
+> - $\Theta_F$: [[Mi impulso]]
 > - $M$: Conjunto de Modelos
 > - $S$: Conjunto de Sectores
 > - $\Xi$: Interconexión
 > - $\Phi$: Permisos
-> - $\Omega$: BCE
-> - $\Pi$: Protocolos
-> - $\zeta_F$: Gráfica del Fuerte
+> - $\Omega$: Elementos `UPPER`
+> - $\Pi$: Conjunto de [[Protocolo|protocolos]]
+> - $\zeta_F$: Yggdrasil
 
 # Descripción
 Lugar imaginario creado por [[FERSA]] que es capaz de explicar toda la realidad en torno a él y dentro de él.

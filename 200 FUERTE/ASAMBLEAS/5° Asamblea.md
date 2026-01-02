@@ -29,7 +29,7 @@ Con las demandas expuestas a continuación, se asegura que el ser pueda:
 - [ ] Re apertura del Sector negativo con las demandas atendidas y cumplidas
 
 # Demandas
-- [ ] Haber logrado tener un buen cuidado corporal ([[♣Bodycare]])
+- [ ] Haber logrado tener un buen cuidado corporal ([[♠Bodycare]])
 	- [ ] Y con él, [[☼First Rise -8-]]]
 - [ ] No desplegar la $AEM$ del sector de Luxeline más de 3 veces por semana
 - [ ] Lograr 1 MES MÁQUINA
