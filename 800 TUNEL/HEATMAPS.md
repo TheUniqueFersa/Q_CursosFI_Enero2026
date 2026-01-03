@@ -6,7 +6,7 @@ pertenece a:
 ```dataviewjs
 dv.span("# **TIEMPO ENCAPSULADO** ⌛")
 const calendarData = {
-    year: 2025, // optional, remove this line to autoswitch year
+    year: 2026, // optional, remove this line to autoswitch year
     colors: {
         green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
         red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
