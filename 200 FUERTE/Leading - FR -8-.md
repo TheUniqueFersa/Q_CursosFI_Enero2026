@@ -13,7 +13,7 @@
 
 >Incorporados en [[►Recolección Wissen-Garden]]
 - [[♠Read]]
-- [[♠BrainOut]]
+- [[♠BrainOut]]p
 	- [[♠Repay]]
 
 >Para cumplir con [[♦(V) Polimatía]]
