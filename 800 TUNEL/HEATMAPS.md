@@ -53,7 +53,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("# ** Dieta 🍖 **") /* optional ⏹️💤⚡⚠↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
@@ -90,7 +90,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("** ⏹️Trinity Element **") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
         green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
@@ -125,7 +125,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span(" # **🏋🏽[[♠WorkOut]] **") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨🏋🏽 */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
         green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
@@ -160,7 +160,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("** 💖Evento Encorazonador **") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
         green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
@@ -195,7 +195,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("# **[[♠Read]]📖 **") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
         green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
@@ -230,7 +230,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span(" # **[[♠Drawn]] 🎨 **") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
@@ -265,7 +265,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("# ** [[♠Write It Down]] 📝**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
@@ -300,7 +300,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("# ** [[♠Olympic Mind - PROC]] ⌨️🧩**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
@@ -335,7 +335,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```dataviewjs // PS. remove backslash \ at the very beginning
 dv.span("# ** [[SUPER UNIVERSITARIO]] 📝✨**") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
 const calendarData = {
-	//year: 2025,  // (optional) defaults to current year
+	year: 2026,  // (optional) defaults to current year
 	colors: {    // (optional) defaults to green
 		green: ["#196127", "#2e8840", "#49af5d", "#7bc96f", "#c6e48b"],
 		red: ["#bd2a00", "#e73400","#ff4d1a","#ff7b55","#ff9e82"],
