@@ -4,7 +4,7 @@ tags:
 pertenece a:
   - "[[EH - TM - GitHub]]"
 ---
-# SSH en Windows
+# SSH en Windows y Linux Manjaro
 ## Verificación de llaves
 En *powershell*
 ```shell
@@ -32,7 +32,22 @@ eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 ```
 
+>👀 Cuando se ejecuta `eval ...`
+>Si todo va bien, verás algo como: 
+>`Agent pid 1234`
+
 Si windows pide permiso, acepta
+Si se ingresó passhphrase, aquí se pide de nuevo
+
+### Prueba
+Para verificar que quedó cargada después de `ssh-add`
+```shell
+ssh-add -l
+```
+se deberá ver algo como:
+```text
+256 SHA256:xxxxxx id_ed25519 (ED25519)
+```
 
 ## Copiar la clave pública
 ```shell
