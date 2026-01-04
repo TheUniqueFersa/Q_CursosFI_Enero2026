@@ -118,7 +118,7 @@ pertenece a:
 - [ ] # [[☼Third Rise]]
 
 
-## # OCTAVA ETAPA (FINAL) $\Gamma
+## # OCTAVA ETAPA (FINAL) $\Gamma$
 
 - [ ] ## [[♣BuildYourEmpire]]
 	- Nuevo modelo de [[♣VTA]]
@@ -137,8 +137,9 @@ pertenece a:
 - [ ] ## [[♠ALGORITMIA]]
 	- Revisión de material más hacia CS
 - [ ] ## [[♣THE CLOVERS SOCIETY]]
-	- [ ] Material para los chavos
-	- [ ] Biblioteca TheCloversSociety
+	- [ ] [[PROBATRÓN - MARATÓN]]
+		- [ ] Material para los chavos
+		- [ ] Biblioteca TheCloversSociety
 - [ ] ## [[♣AUTODIDACTA master]] -> [[♠Olympic Mind - PROC]]
 	- Demostrar que soy autodidacta con PROC, volviendome de una clasificación mayor en THEMECP
 - [ ] ## [[♠BrainOut]]
