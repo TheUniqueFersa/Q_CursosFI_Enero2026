@@ -29,7 +29,7 @@ pertenece a:
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Idear plan para CURSOS FI Invierno 2026
-- [ ] Idear un SCHEDULE 📅 2026-01-04
+- [x] Idear un SCHEDULE 📅 2026-01-04 ✅ 2026-01-05
 - [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]]
 - [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito)
 - [ ] Ver lo del trámite de licencia para conducir
