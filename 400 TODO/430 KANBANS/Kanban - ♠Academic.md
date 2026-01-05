@@ -26,6 +26,7 @@ recurrencia:
 - [ ] Hacer notas con el enfoque FORMULARIUM
 	- [ ] Lunes
 - [ ] Establecer las notas universales para Academic ^88d66c
+- [ ] # ¿[[Debería alargar la carrera un año o más y llevarmela tranqui]]?
 
 
 ## ‼Yi
