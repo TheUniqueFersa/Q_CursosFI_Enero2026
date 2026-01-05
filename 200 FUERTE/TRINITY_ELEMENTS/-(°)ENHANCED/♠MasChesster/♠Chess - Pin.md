@@ -1,7 +1,7 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 última_fecha_modificacion: 2024-06-02
 image: "[[-- IMG -- ♠Chess - Pin.gif]]"
 terminado: true

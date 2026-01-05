@@ -104,7 +104,7 @@ kanban-plugin: board
 - [x] #HabilidadesMínimas 
 	Registrar libros que recomendo el Okas ✅ 2023-09-23 { 12-11-2023 19:41
 - [x] Adventure of a lifetime ✅ 2024-01-07 { 07-01-2024 16:37
-- [x] Ajedrez -> [[♠MasChesster]] { 25-02-2024 12:26
+- [x] Ajedrez -> [[♠Chess]] { 25-02-2024 12:26
 - [x] [[-(°)EH - iPad Professional]] { 25-02-2024 12:26
 - [x] -(°)EH - Aprender a usar Geogebra { 25-02-2024 12:26
 - [x] Quiero memorizar 16 digitos de PI XD { 25-02-2024 12:26

@@ -1,11 +1,11 @@
 ---
 tipo_nota: Sesión
-ptetra: "[[♠MasChesster]]"
+ptetra: "[[♠Chess]]"
 fecha: <% tp.date.now("YYYY-MM-DD") %>
-Calificación: 
-image: 
+Calificación:
+image:
 terminado: false
-dificultad: 
+dificultad:
 tácticas conocidas:
 ---
 # ***<% tp.file.title %>***

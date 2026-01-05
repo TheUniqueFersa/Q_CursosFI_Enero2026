@@ -1,10 +1,10 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
   - "[[♠Masschester - Secuencia de Lecciones]]"
 fecha: 2025-04-28
-image: 
+image:
 terminado: false
 ---
 # ***♠Chess - Winning the Game***

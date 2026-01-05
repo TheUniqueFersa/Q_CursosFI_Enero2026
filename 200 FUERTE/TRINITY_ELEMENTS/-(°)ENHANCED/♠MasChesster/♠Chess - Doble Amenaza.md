@@ -1,7 +1,7 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 fecha: 2024-04-30
 image: "[[--IMG-- ♠Chess Doble amenaza 2.jpg]]"
 terminado: true

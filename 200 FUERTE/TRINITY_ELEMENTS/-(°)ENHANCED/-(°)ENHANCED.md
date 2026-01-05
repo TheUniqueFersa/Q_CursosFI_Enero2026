@@ -31,7 +31,7 @@ El individuo cuente con diversas habilidades gracias a su impulso de querer ser 
 
 ## 2. [[-(°)EH - Rubik]]
 
-## 3. [[♠MasChesster]]
+## 3. [[♠Chess]]
 
 ## 4. [[-(°)EH - Cursiva]]
 

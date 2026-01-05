@@ -1,7 +1,7 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 fecha: 2024-04-20
 terminado: true
 status: Finalizado

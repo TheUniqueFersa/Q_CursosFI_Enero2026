@@ -1,11 +1,10 @@
 ---
-
 kanban-plugin: board
 recurrencia:
   - domingo
   - Sunday
+  - semanal
 pertenece a: "[[♠HOME]]"
-
 ---
 
 ## # *-- STATIC --*
@@ -18,20 +17,26 @@ pertenece a: "[[♠HOME]]"
 	- [ ] V
 
 
+## # *Recurrente*
+
+- [ ] Lavar tangas
+- [ ] Arreglar algo de mi casa
+- [ ] Barrer
+
+
 ## ♦\[°]Out - ♦\[...R]
 
-- [ ] Colgar mis Cuadros y renovar el de mi generación
-- [ ] Colgar mi cuadro de Dani
 - [ ] Ayudar a renovar la vista del hogar
 
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Arreglar algo de mi casa
-- [ ] Lavar tangas
-- [ ] Lavar otros pantalones o otras playeras (a mano)
-- [ ] **LIMPIEZA MASIVA DE MI CUARTO**
-- [ ] Barrer
+- [ ] Trollearme los platos
+	- [ ] L 📅 2026-01-05 
+	- [ ] M
+	- [ ] Mi
+	- [ ] J
+	- [ ] V
 - [ ] Aprender a hacer tareas del hogar
 	- [ ] Sacar la basura
 	- [ ] Limpiar el baño
@@ -47,10 +52,21 @@ pertenece a: "[[♠HOME]]"
 - [x] Mantener mi racha de lavar los platos que uso
 
 
+## # **LIMPIEZA MASIVA DE MI CUARTO {M1 - 2026}**
+
+- [ ] Colgar mis Cuadros y renovar el de mi generación
+- [ ] Colgar mi cuadro de Dani
+- [ ] # HiperBarrida
+	- [ ] Parte central
+	- [ ] Debajo de la cama
+	- [ ] Detrás de los muebles
+- [ ] [[‼Ren - Arreglo Cuarto]]
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false]}
+{"kanban-plugin":"board","list-collapse":[null,null,false,false,true]}
 ```
 %%

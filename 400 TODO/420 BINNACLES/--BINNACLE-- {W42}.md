@@ -55,7 +55,7 @@ tags:
 
 >*‼Break*
 >- [ ] Curso de expresiones en inglés
->- [ ] Lección [[♠MasChesster]]
+>- [ ] Lección [[♠Chess]]
 >- [ ] Clase de [[CURSO LATEX LIDSOL|LaTeX]]
 >- [ ] checar en la biblia de C
 >- [ ] Instalar MATLAB #ENHANCED/TECHMASTER  

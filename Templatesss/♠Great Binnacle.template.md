@@ -102,12 +102,12 @@ filter: "@MMD & (today|overdue)"
 
 ## [[♠Poliglota]]
 ```todoist
-filter: "@Duolingo & (today | overdue)"
+filter: "(@Poliglota | @Duolingo) & (today | overdue)"
 ```
 :SiDuolingo:  ^INTERCONNGBPoliglotaDuolingo
 - [ ] Audios de [[♠Poliglota]] ->  ^INTERCONNGBPoliglotaAudios
 - [ ] Lectura en otros idiomas ->  ^INTERCONNGBPoliglotaRead
-- [ ] Conversación con mi tío ->  ^INTERCONNGBPoliglotaChatGPT
+- [ ] Conversación con mi tío (Mismo en *Todoist*) ->  ^INTERCONNGBPoliglotaChatGPT
 
 
 ## [[♦(V) Polimatía|Polimatía]] y multimedia

@@ -83,14 +83,14 @@ Y un **BO** que se puede encontrar en estado de STANDBY por su naturaleza desape
 >*Mañaneros*
 - Tecleo
 - Rubik
-- [[♠MasChesster]]
+- [[♠Chess]]
 - Cursiva
 >*En la tarde*
 - iPad Professional
 - AGM
 
 ### EH 
-- [[♠MasChesster]] más **elaborado**
+- [[♠Chess]] más **elaborado**
 - ***[[♠Read]]***
 >Solo los fines
 - **ELECTRO**

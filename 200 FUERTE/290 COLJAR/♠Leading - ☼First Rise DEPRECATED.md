@@ -32,7 +32,7 @@ Para poder lograr ***EL EQUILIBRIO*** debo enfocarme en los siguientes *ptetras*
 - [[♠BrainOut]]
 	- [[♠Repay]]
 - [[♠PEFYC]]
-- [[♠MasChesster]]
+- [[♠Chess]]
 
 - ~~[[☼Castillos]]~~ PUESTA EN **STANDBY** POR ***PROCW***
 - ~~[[♣ T - OBSIDIAN]]~~ -> PUESTA EN **STANDBY** POR ***PROC***

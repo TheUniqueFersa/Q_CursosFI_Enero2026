@@ -1,6 +1,6 @@
 ---
 kanban-plugin: board
-pertenece a: "[[♠MasChesster]]"
+pertenece a: "[[♠Chess]]"
 recurrencia:
   - lunes
   - Monday
@@ -25,7 +25,7 @@ recurrencia:
 
 **Complete**
 - [x] Ponerme al corriente con los problemas diarios no registrados en el fuerte
-- [x] Clasificar por dificultad a las sesiones de [[♠MasChesster]] y filtrar correctamente en la vista de Kanban ✅ 2024-04-30
+- [x] Clasificar por dificultad a las sesiones de [[♠Chess]] y filtrar correctamente en la vista de Kanban ✅ 2024-04-30
 - [x] Ver partidas de Ajedrez, aprovechando también practico Inglés
 - [x] Continuar con Lecciones de Chess
 - [x] Terminar de registrar la lección de chess del 22 de abril

@@ -1,7 +1,7 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 ---
 # ***♠Chess - Movimientos variados***
 ## Captura al paso inteligente

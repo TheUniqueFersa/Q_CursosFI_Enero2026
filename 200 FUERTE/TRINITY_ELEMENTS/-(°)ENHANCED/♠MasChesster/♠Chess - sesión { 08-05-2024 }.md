@@ -1,6 +1,6 @@
 ---
 tipo_nota: Sesión
-ptetra: "[[♠MasChesster]]"
+ptetra: "[[♠Chess]]"
 fecha: 2024-05-08
 Calificación: ⭐
 image: "[[--IMG-- Chess {08-05-2024}.gif]]"

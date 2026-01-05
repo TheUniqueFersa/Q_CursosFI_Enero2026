@@ -9,7 +9,11 @@ tipo_nota: primaria
 seccion: 3°
 ---
 # ***♠HOME***
-*El cuidado del castillo actual*
+>*El cuidado del castillo actual*
+
+| ⤵                  |     |
+| ------------------ | --- |
+| [[Kanban - ♠HOME]] |     |
 # Descripción
 Programa para el cuidado del castillo y acciones relacionadas con el hogar.
 
@@ -61,20 +65,28 @@ Para tiempos de *☼First Rise*
 
 ---
 # Misión
-# - [[☼First Rise -8-]]
+
+- [ ] ## **LIMPIEZA MASIVA DE MI CUARTO {M1 - 2026}** #MILESTONE 
+>(Ver en kanban)
+
+>Extras:
 - [ ] Limpiar mi cuarto
 - [ ] Expandir cuidados a la sala
 - [ ] Organizar visualmente la sala
 
-- [ ] #MILESTONE Prepararme para poder ***volar del nido***
-
-# *X-chelons*
 - [ ] Colgar los nuevos cuadros 
 - [ ] Renovar vistas de la casa
 
+
+
+## #MILESTONE/ORDEN_SUPERIOR  
+
+- [ ] #MILESTONE Prepararme para poder ***volar del nido***
+
 ---
 # Frecuencia
-Dada por el [[SCHEDULE]] y las facilidades dadas en torno a la misión en proceso.
+>Elemento `UPPER`
+>Siempre presente en el SCH vigente
 
 
 ---

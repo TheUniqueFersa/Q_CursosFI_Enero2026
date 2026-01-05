@@ -1,6 +1,6 @@
 ---
 tipo_nota: Sesión
-ptetra: "[[♠MasChesster]]"
+ptetra: "[[♠Chess]]"
 tipo: sesión
 fecha: 2024-04-21
 Calificación: ⭐⭐⭐⭐

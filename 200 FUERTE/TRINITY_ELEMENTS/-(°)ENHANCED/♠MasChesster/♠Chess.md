@@ -13,7 +13,7 @@ serie:
 image: 
 tipo_EH: Primario
 ---
-# ***♠MasChesster***
+# ***♠Chess***
 >ℹ *Programa para aprender ajedrez*, evolución de un **-(°)EH**
 >🔶Implementa🔶 ►Recolección Wissen Garden: [[►Recolección Wissen-Garden#Para habilidades|FähigkeitenGarden]]
 

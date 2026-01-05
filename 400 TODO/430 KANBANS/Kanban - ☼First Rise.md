@@ -3,9 +3,9 @@
 title: Kanban-☼First_Rise
 tags:
   - Active_progress_project
-Total: 78
-Completado: 14
-Incompleto: 64
+Total: 79
+Completado: 16
+Incompleto: 63
 kanban-plugin: board
 pertenece a:
   - "[[☼First Rise -8-]]"
@@ -14,37 +14,33 @@ pertenece a:
 
 ## ♦\[...R]
 
+- [ ] [[☼Castillos]]
 - [ ] [[☼MEGA - La Última Jacaranda]]
 - [ ] ♣Lg - Química
 - [ ] [[‼Sanando el Alma - Universal]]
+- [ ] Hacer ejercicios de física de ingeniería
+	>Serie de Física básica
+- [ ] Leer sobre artículos/libros científicos y entenderlos
 
 
 ## ♦[...R] INTERCONN - [[♠Repay]]s' de [[♠PEFYC]] (Fracasos Ya Cometidos)
 
-- [ ] [[Un Ingeniero de Verdad]]
-- [ ] [[♠PEFYC.E - Las Nuevas Reminiscencias]]
 
 
 ## Planeación
 
-- [ ] [[☼Castillos]]
 - [ ] [[♠A-T Mates Universitarias]]
 
 
 ## # *Serie de Matemáticas básicas*
 
 - [ ] Hacer sesiones BO exitosas
+- [ ] [[Un Ingeniero de Verdad]]
 
 
 ## # S*erie de Programación Competitiva*
 
 - [ ] Volverme competitivo
-
-
-## # *Serie de Física básica*
-
-- [ ] Leer sobre artículos/libros científicos y entenderlos
-- [ ] Hacer ejercicios de física de ingeniería
 
 
 ## Requiere elaboración
@@ -57,13 +53,12 @@ pertenece a:
 - [ ] [[♠Write It Down]]
 - [ ] [[♠PEFYC]]
 - [ ] [[♠ISRY]]
-- [ ] [[♠MasChesster]]
+- [ ] [[♠Chess]]
 - [ ] [[♠HOME]]
 - [ ] [[♣Rec - Mates preuniversitarias]]
 - [ ] [[♣ T - OBSIDIAN]]
 - [ ] [[♠Poliglota]]
 - [ ] [[♠Drawn]]
-- [ ] Aprender Linux porque no voy a poder aprender en cursos intersemestrales XD
 - [ ] Construir un equipo bueno y liderarlo ([[♣Platzi Master]])
 - [ ] ♦[...E]Geogebra -> [[-(°)ENHANCED]]
 
@@ -89,6 +84,8 @@ pertenece a:
 ## # Secuencia de Acciones<br>‼ YI
 
 **Complete**
+- [x] Aprender Linux porque no voy a poder aprender en cursos intersemestrales XD ✅ 2026-01-05
+- [x] [[♠PEFYC.E - Las Nuevas Reminiscencias]] ✅ 2026-01-05
 - [x] [[♠PEFYC - Suseo fallido]] ✅
 - [x] [[♣Servicio Social ETECM]] ✅
 - [x] [[♠DesigntheFuture]] : [[♠Academic]] ✅ 2025-04-08
@@ -164,6 +161,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","metadata-keys":[{"metadataKey":"kanban-plugin: basic","label":"","shouldHideLabel":false,"containsMarkdown":false}],"list-collapse":[true,null,null,false,false,false,null,null,null,false,false,false]}
+{"kanban-plugin":"board","metadata-keys":[{"metadataKey":"kanban-plugin: basic","label":"","shouldHideLabel":false,"containsMarkdown":false}],"list-collapse":[false,true,null,false,false,true,null,null,false,false,false]}
 ```
 %%

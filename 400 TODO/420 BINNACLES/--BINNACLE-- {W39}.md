@@ -112,7 +112,7 @@ tags:
 
 >- [-] *‼Break* ❌ 2025-09-28
 >- Curso de expresiones en inglés
->- Lección [[♠MasChesster]]
+>- Lección [[♠Chess]]
 >- Clase de [[CURSO LATEX LIDSOL|LaTeX]]
 
 - EXPO Minería de datos

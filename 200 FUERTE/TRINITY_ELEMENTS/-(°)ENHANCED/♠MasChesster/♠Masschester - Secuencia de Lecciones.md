@@ -1,6 +1,6 @@
 ---
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 tipo_nota: alimentadora/secundaria
 tipo: Contenido
 ---

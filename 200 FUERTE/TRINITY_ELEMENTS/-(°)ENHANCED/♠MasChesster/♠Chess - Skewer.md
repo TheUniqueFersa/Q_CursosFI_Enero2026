@@ -1,7 +1,7 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 image: "[[-- IMG -- ♠Chess - Skewer.gif]]"
 ---
 # ***Chess -Skewer***

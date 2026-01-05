@@ -21,17 +21,17 @@ pertenece a:
 ## **Propuesta de Acciones**
 
 - [ ] Limpiar kanban First Rise
-- [ ] Idear **Matriz de Misiones** para [[☼Second Rise]]
 - [ ] Idear buen |1|
 	Con audio motivador OMG
 
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Idear plan para CURSOS FI Invierno 2026
-- [x] Idear un SCHEDULE 📅 2026-01-04 ✅ 2026-01-05
-- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]]
-- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito)
+- [ ] Dibujo de [[♠️DreamCatcher {05-01-2026}]] 📅 2026-01-05 
+	#Drawn
+- [ ] Idear plan para CURSOS FI Invierno 2026 📅 2026-01-05
+- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-05
+- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito) 📅 2026-01-05
 - [ ] Ver lo del trámite de licencia para conducir
 - [ ] Despegar hojas viejas y pegar protocolos y verdades del fuerte 📅 2026-01-05 #HOME
 - [ ] Contestar todos los mensjes #ISRY 📅 2026-01-05
@@ -48,6 +48,8 @@ pertenece a:
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Idear un SCHEDULE 📅 2026-01-04 ✅ 2026-01-05
+- [x] Idear **Matriz de Misiones** para [[☼Second Rise]] ✅ 2026-01-05
 - [x] Imprimir Calendario de siguiente semestre y en base a el, planificar todo físicamente ✅ 2026-01-04
 - [x] Checar lo de los dulces 📅 2026-01-04 ✅ 2026-01-04
 	#HOME
@@ -57,6 +59,6 @@ pertenece a:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,null,null,false]}
+{"kanban-plugin":"board","list-collapse":[true,null,null,false]}
 ```
 %%

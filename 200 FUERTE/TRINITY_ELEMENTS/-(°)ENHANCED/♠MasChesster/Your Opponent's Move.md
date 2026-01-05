@@ -1,9 +1,9 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 fecha: 2024-12-16
-image: 
+image:
 terminado: false
 ---
 # ***♠Chess - Your Opponent's Move***

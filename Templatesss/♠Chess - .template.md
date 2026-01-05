@@ -1,9 +1,9 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 fecha: <% tp.date.now("YYYY-MM-DD") %>
-image: 
+image:
 terminado: false
 ---
 # ***♠Chess -***

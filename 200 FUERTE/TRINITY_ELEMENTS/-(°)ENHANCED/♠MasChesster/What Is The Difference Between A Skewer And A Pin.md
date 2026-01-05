@@ -1,7 +1,7 @@
 ---
 tipo_nota: alimentadora/secundaria
 pertenece a:
-  - "[[♠MasChesster]]"
+  - "[[♠Chess]]"
 image: "[[-- IMG -- What Is The Difference Between A Skewer And A Pin.png]]"
 ---
 
