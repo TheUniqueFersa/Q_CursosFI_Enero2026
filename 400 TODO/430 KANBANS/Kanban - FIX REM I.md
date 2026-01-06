@@ -31,7 +31,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] [[INSTRUCTOR CURSOS FI 2025 Verano]] 📅 2026-01-05
+- [ ] [[INSTRUCTOR CURSOS FI 2025 Verano]] 📅 2026-01-06
 
 
 ## # Secuencia de Acciones<br>‼Yi

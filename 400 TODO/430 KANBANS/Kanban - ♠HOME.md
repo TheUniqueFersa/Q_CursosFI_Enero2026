@@ -32,7 +32,7 @@ pertenece a: "[[♠HOME]]"
 ## Listos para ♦(...R) X-chelons
 
 - [ ] Trollearme los platos
-	- [ ] L 📅 2026-01-05 
+	- [x] L 📅 2026-01-07 ✅ 2026-01-06
 	- [ ] M
 	- [ ] Mi
 	- [ ] J
