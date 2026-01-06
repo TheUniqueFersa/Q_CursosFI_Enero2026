@@ -43,6 +43,7 @@ pertenece a:
 	- [ ] future?
 	- [ ] VTA #XCH
 - [ ] Ver mi nuevo peluquero COÑo
+- [ ] Depurar mi CEL 📅 2026-01-06
 
 
 ## # Secuencia de Acciones<br>‼Yi
