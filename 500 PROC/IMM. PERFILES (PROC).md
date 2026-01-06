@@ -17,6 +17,7 @@ pertenece a:
 - [ ] [RacsoFractal](https://codeforces.com/profile/RacsoFractal)
 - [ ] [AldoEZ](https://codeforces.com/profile/AldoEZ_21)
 - [ ] [Gus](https://codeforces.com/profile/GusTimeTraveler)
+- [ ] [Emir](https://codeforces.com/profile/Emir_q0)
 
 
 ## # **NIVEL B**
