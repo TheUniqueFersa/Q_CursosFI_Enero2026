@@ -27,23 +27,23 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Dibujo de [[♠️DreamCatcher {05-01-2026}]] 📅 2026-01-06
-	#Drawn
-- [ ] Idear plan para CURSOS FI Invierno 2026 📅 2026-01-06
-- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-06
-- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito) 📅 2026-01-06
-- [ ] Ver lo del trámite de licencia para conducir
-- [ ] Despegar hojas viejas y pegar protocolos y verdades del fuerte #HOME 📅 2026-01-06
-- [ ] Contestar todos los mensjes #ISRY 📅 2026-01-06
-- [ ] Saldar cuentas: 📅 2026-01-06
+- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito) 📅 2026-01-07
+- [ ] Saldar cuentas: 📅 2026-01-07
 	- [ ] AMIGO TROL
 	- [ ] Sherdi
 	- [ ] Cuentas de gastos con joshi
 	- [ ] Regalo de Orestes
 	- [ ] future?
 	- [ ] VTA #XCH
+- [ ] Dibujo de [[♠️DreamCatcher {05-01-2026}]] 📅 2026-01-07
+	#Drawn
+- [ ] Depurar mi CEL 📅 2026-01-08
+- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-07
+- [ ] Idear plan para CURSOS FI Invierno 2026 📅 2026-01-07
+- [ ] Despegar hojas viejas y pegar protocolos y verdades del fuerte #HOME 📅 2026-01-07
+- [ ] Ver lo del trámite de licencia para conducir
+- [ ] Contestar todos los mensjes #ISRY 📅 2026-01-07
 - [ ] Ver mi nuevo peluquero COÑo
-- [ ] Depurar mi CEL 📅 2026-01-06
 
 
 ## # Secuencia de Acciones<br>‼Yi

@@ -1,17 +1,14 @@
 ---
 estado: En ejecución
-tipo: "[[Cluxter]]"
+tipo: "[[CluXter]]"
 fecha_creado: 2025-06-06
 fecha_entrega:
 Momento: "[[FINAL DEL 2025]]"
-próxima_fecha: 2025-11-16
+próxima_fecha: 2026-01-11
 ---
 # ***‼Sanando el Alma - Consolidando el Capítulo 1***
 A cada Lección de [[♦(...L)]] se le será asignada una acción específica para poder representar dicha lección.
 Esta representará la curación simbólica de lo cometido en la transición del Capítulo 0 al 1, cada lección aprendida es un perdón en el remordimiento del alma.
-
-# Modelo
-- ==Se han de realizar durante [[FINAL DEL 2025]]==
 
 # [[♦(...L)#1|Regla 1]] -> El respeto al tiempo
 - [ ] Respetar el [[SCHEDULE - FR -6- 2.pdf]], de tal forma que pueda tener una precisión de más de 60% en el día. ( ***61%*** )

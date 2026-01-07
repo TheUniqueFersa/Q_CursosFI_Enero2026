@@ -15,7 +15,7 @@ tags:
   - Lg
 links_url: 
 terminado: false
-próxima_fecha: 2024-12-05
+próxima_fecha: 
 Completado: 
 Incompleto: 
 Algoritmos:

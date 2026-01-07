@@ -1,11 +1,11 @@
 ---
+estado: STANDBY
+status: No activo
 image: "[[_PORTADA PLATZI.png]]"
 banner_x: 0.42806
 banner_y: 0.1
 tipo: ptetra
 tipo_p: ♣Proyecto
-estado: En ejecución
-status: Activo
 fecha_terminado:
 tipo_nota: primaria
 pertenece a:

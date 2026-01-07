@@ -1,5 +1,5 @@
 ---
-estado: En ejecución
+estado: STANDBY
 tipo_nota: Essentia
 Ruta:
 LIGHTVOLT:

@@ -1,7 +1,6 @@
 ---
-
 kanban-plugin: basic
-
+estado: Concluido
 ---
 
 ## ♦\[...R]

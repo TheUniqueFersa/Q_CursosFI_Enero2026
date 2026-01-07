@@ -20,8 +20,9 @@ image: "[[-- PORTADA -- OM - PROC.jpg]]"
 >***META DEZZERIADA*** en la Serie de ***Programación Competitiva***
 >🔶Implementa🔶 [[►Recolección Wissen-Garden]]
 
-| [[Kanban - PROC]]                                                          | [[Problemitas variados]]        | **BIBLIAS**                                             |
+| ⤵                                                                          | $\Gamma$ de Problemas           | **BIBLIAS**                                             |
 | -------------------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------- |
+| [[Kanban - PROC]]                                                          | [[Problemitas variados]]        |                                                         |
 | [[♠ALGORITMIA]]                                                            | [[Mapeo de Kattis]]             | [[cp4-1.pdf]] y [[cp4-2.pdf]]                           |
 | [[♣CPCFI]]                                                                 | [[Mapeo UVa Online judge]]      | [[Guide_to_Competitive_Programming.pdf\|Springer trii]] |
 | [[♠Olympic Mind - Math]]                                                   | [[Mapeo Non starred Ex en CP4]] |                                                         |
@@ -248,11 +249,7 @@ Para el conocimiento matemático necesario para la resolución de problemas
 
 - [ ] [[‼Renovacion]] - [[DET. Fixing - Reminicencias PROC]]
 	- [ ] Establecer un nuevo modelo de acciones específicas, reformando el modelo Implementado
-## X-chelons
-- [ ] Hacer una cantidad grande problemas del CP4
-	- [ ] 10
-	- [ ] 20
-- [ ] Terminar el tema 1 CP4
+
 ---
 # Frecuencia
 ==Todos los días==

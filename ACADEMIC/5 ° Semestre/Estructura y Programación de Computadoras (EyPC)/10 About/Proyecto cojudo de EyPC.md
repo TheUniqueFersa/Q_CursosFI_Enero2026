@@ -1,11 +1,12 @@
 ---
+estado: Concluido
 Completado: 2
 Incompleto: 20
 Total: 22
 fecha_entrega: 2025-10-07
 pertenece a:
   - "[[♠A-T Estructura y Programación de Computadoras (EyPC)]]"
-próxima_fecha: 2025-11-17
+próxima_fecha:
 links_url:
   - https://docs.google.com/document/d/16JN8JPSceZTaz3KX3l4E9Wlykvvmfz1ItPUq0eJ87Io/edit?tab=t.0#heading=h.cpnmv5wlf8k3
   - https://github.com/TheUniqueFersa/MC68HC11_BASIC_COMPILER

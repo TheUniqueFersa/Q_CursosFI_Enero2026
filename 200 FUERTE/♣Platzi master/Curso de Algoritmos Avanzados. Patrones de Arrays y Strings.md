@@ -1,5 +1,5 @@
 ---
-estado: En ejecución
+estado: STANDBY
 tipo_nota: Essentia
 Ruta: PROGRAMACIÓN
 LIGHTVOLT: ⚡3🟠
@@ -29,7 +29,7 @@ horas_práctica: 10
 horas_empleadas: 1
 próxima_clase:
   - https://platzi.com/home/clases/4592-algoritmos-avanzados-arrays/55837-solucion-de-merge-two-sorted-lists/
-próxima_fecha: 2025-11-11
+próxima_fecha: 
 ---
 # ***Curso de Algoritmos Avanzados. Patrones de Arrays y Strings***
 | Presentación general del Curso | Apuntes adicionales | Examen |

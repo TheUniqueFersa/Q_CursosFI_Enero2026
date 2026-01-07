@@ -79,6 +79,10 @@ recurrencia:
 - [ ] [[GCD]]
 - [ ] # Semana 1
 	DS
+- [ ] Hacer una cantidad grande problemas del CP4
+	- [ ] 10
+	- [ ] 20
+- [ ] Terminar el tema 1 CP4
 
 
 ## Problems

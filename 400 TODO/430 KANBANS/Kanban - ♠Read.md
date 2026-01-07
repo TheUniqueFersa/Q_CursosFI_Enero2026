@@ -5,8 +5,8 @@ kanban-plugin: board
 tags:
   - Active_kanban_♠Read
 Total: 44
-Completado: 9
-Incompleto: 35
+Completado: 10
+Incompleto: 34
 pertenece a: "[[♠Read]]"
 
 ---
@@ -34,11 +34,10 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
-- [ ] Continuar la Historia de la Computación 
-- [ ] Empezar la Fundación 
 - [ ] Identificar Libros para 
 	- *Álgebra Lineal*
 	- Probabilidad
+- [ ] Empezar la Fundación
 - [ ] [[Orden para libros OMM.excalidraw|Libros OMM]]:
 	- Combinatoria
 	- Teoría de números
@@ -57,6 +56,11 @@ pertenece a: "[[♠Read]]"
 
 - [ ] La república Popular de Walmart
 - [ ] Ética para Amador
+
+
+## # Secuencia de Acciones<br>‼Yi
+
+- [x] Continuar la Historia de la Computación ✅ 2026-01-06
 
 
 ## LIGHTVOLT 0
@@ -116,14 +120,15 @@ pertenece a: "[[♠Read]]"
 - [ ] Pivoteo en método de Gauss-Jordan
 
 
-## # Secuencia de Lecturas<br>‼Yi
+## # Secuencia de Lecturas
 
+**Complete**
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[null,false,null,false,null,null,null,null,null,null,null,null,false,false]}
+{"kanban-plugin":"board","list-collapse":[null,false,null,false,false,null,null,null,null,null,null,null,null,false,false]}
 ```
 %%

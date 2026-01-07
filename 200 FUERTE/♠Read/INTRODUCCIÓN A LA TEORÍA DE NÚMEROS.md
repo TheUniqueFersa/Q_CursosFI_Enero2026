@@ -22,7 +22,7 @@ Progreso:
 image: "[[--PORTADA-- INTRODUCCIÓN A LA TEORÍA DE NÚMEROS.jpg]]"
 fecha_creado: 2025-09-07
 fecha_terminado:
-próxima_fecha: 2025-11-10
+próxima_fecha: 2026-01-07
 tags:
   - Active_kanban/♠Read/
 serie: Programación competitiva

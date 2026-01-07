@@ -1,5 +1,5 @@
 ---
-estado: En ejecución
+estado: STANDBY
 tipo_nota: Essentia
 Ruta: HABILIDADES
 LIGHTVOLT: ⚡6⚪
@@ -29,7 +29,7 @@ horas_práctica: 12
 horas_empleadas:
 próxima_clase:
   - https://platzi.com/home/clases/4989-expresiones-tiempo-cantidad/58112-listening-practice-meeting-a-coworker/
-próxima_fecha: 2025-11-16
+próxima_fecha: 
 ---
 # ***Curso de Inglés Intermedio B1: Expresiones de Tiempo y Cantidad***
 | Presentación general del Curso                                                                                                   | Apuntes adicionales | Examen |

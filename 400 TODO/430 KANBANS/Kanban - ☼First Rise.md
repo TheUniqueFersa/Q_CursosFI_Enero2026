@@ -4,8 +4,8 @@ title: Kanban-☼First_Rise
 tags:
   - Active_progress_project
 Total: 79
-Completado: 16
-Incompleto: 63
+Completado: 17
+Incompleto: 62
 kanban-plugin: board
 pertenece a:
   - "[[☼First Rise -8-]]"
@@ -59,7 +59,6 @@ pertenece a:
 - [ ] [[♣ T - OBSIDIAN]]
 - [ ] [[♠Poliglota]]
 - [ ] [[♠Drawn]]
-- [ ] Construir un equipo bueno y liderarlo ([[♣Platzi Master]])
 - [ ] ♦[...E]Geogebra -> [[-(°)ENHANCED]]
 
 
@@ -108,7 +107,7 @@ pertenece a:
 - [ ] # [[♣T - Programador Junior]]
 - [ ] # [[♣BuildYourEmpire]]
 - [ ] # [[♣AUTODIDACTA master]]
-	- [ ] [[♣Platzi Master]]
+	- [>] [[♣Platzi Master]]
 - [ ] # [[♠BrainOut]]
 - [ ] # [[♣THE CLOVERS SOCIETY]]
 - [ ] # [[☼Second Rise]]
@@ -142,7 +141,8 @@ pertenece a:
 - [ ] ## [[♠BrainOut]]
 	- **Brainoutons** semanales que limpien el INCOMING de [[Kanban -  Programación]]
 - [ ] ## [[☼Second Rise]]
-	- Ejercicio 4 días a la semana, 1 para sector negativo
+	- Ejercicio 4 días a la semana
+		- DANCE!
 - [ ] ## [[☼Third Rise]]
 	- Hablar con mama coco
 
@@ -158,9 +158,10 @@ pertenece a:
 - [x] [[►GEZZER]] { 29-11-2024 22:25
 - [x] [[-(°)EH - iPad Professional]] { 29-11-2024 22:25
 - [x] [[♠A-time]] { 29-11-2024 22:25
+- [ ] Construir un equipo bueno y liderarlo ([[♣Platzi Master]])
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","metadata-keys":[{"metadataKey":"kanban-plugin: basic","label":"","shouldHideLabel":false,"containsMarkdown":false}],"list-collapse":[false,true,null,false,false,true,null,null,false,false,false]}
+{"kanban-plugin":"board","metadata-keys":[{"metadataKey":"kanban-plugin: basic","label":"","shouldHideLabel":false,"containsMarkdown":false}],"list-collapse":[false,true,null,false,false,true,true,true,true,false,false]}
 ```
 %%

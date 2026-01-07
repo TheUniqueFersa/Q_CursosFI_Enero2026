@@ -1,4 +1,5 @@
 ---
+estado: Concluido
 Completado: 3
 Incompleto: 22
 Total: 25
@@ -11,7 +12,7 @@ links_url:
   - https://drive.google.com/drive/folders/1Me6-ID-9l6vPt913TvvmA1AIiJKcGgKK?usp=drive_link
   - https://github.com/TheUniqueFersa/ASEGURADORA-El-Buen-Retiro/issues/1
   - https://theuniquefersa.github.io/Q_ProyectoBD_doc/
-próxima_fecha: 2025-11-18
+próxima_fecha:
 ---
 # Proyecto Final 
 >Bases de datos

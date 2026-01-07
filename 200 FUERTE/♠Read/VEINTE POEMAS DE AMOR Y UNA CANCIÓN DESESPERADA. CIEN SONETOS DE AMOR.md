@@ -1,5 +1,5 @@
 ---
-status: En espera de ejecución
+ESTADO_LEC: 🟡EN PROCESO🟡
 tipo_nota: Essentia
 pertenece a:
   - "[[♠Read]]"
@@ -9,7 +9,6 @@ Requerimientos_libro:
 Libro:
 Autor:
   - Pablo Neruda
-ESTADO_LEC: 🟡EN PROCESO🟡
 Editorial: ALTAYA
 Colección: "BIBLIOTECA DE PREMIOS NOBEL: 1971"
 LIGHTVOLT: ⚡4🟣
@@ -23,7 +22,7 @@ Progreso:
 image: "[[--PORTADA-- VEINTE POEMAS DE AMOR Y UNA CANCIÓN DESESPERADA. CIEN SONETOS DE AMOR.jpg]]"
 fecha_creado: 2024-07-25
 fecha_terminado:
-próxima_fecha: 2025-11-14
+próxima_fecha: 2026-01-09
 tags:
   - Active_kanban/♠Read/VEINTEPOEMASDEAMOR
 serie: Oratoria y escritura

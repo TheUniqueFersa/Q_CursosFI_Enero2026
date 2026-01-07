@@ -17,7 +17,7 @@ Completado:
 Incompleto: 
 Total: 
 tags: 
-próxima_fecha: 2024-12-06
+próxima_fecha: 
 ---
 # ***IEEEXtreme 18***
 *Dato*

@@ -21,7 +21,7 @@ Progreso: 13
 image: "[[--PORTADA-- Atomic Habits.jpg]]"
 fecha_creado: 2025-04-20
 fecha_terminado:
-próxima_fecha: 2025-11-12
+próxima_fecha: 2026-01-08
 tags:
   - Active_kanban/♠Read/
 serie:

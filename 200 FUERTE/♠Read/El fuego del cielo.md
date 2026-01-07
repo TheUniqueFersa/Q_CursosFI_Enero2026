@@ -1,5 +1,5 @@
 ---
-status: Activo
+ESTADO_LEC: 🟠EN ESPERA🟠
 tipo_nota: Essentia
 pertenece a:
   - "[[♠Read]]"
@@ -8,7 +8,6 @@ Requerimientos_libro:
 Libro:
 Autor:
   - José Altshuler
-ESTADO_LEC: 🟡EN PROCESO🟡
 Editorial: Fondo de Cultura Económica
 Colección: La Ciencia para Todos
 LIGHTVOLT: ⚡1🔵
@@ -22,7 +21,7 @@ Progreso: 57
 image: "[[--PORTADA-- EL Fuego del Cielo.jpg]]"
 fecha_creado: 2024-10-01
 fecha_terminado:
-próxima_fecha: 2025-11-13
+próxima_fecha: 
 tags:
   - Active_kanban/♠Read/
 serie: Física Básica

@@ -1,5 +1,5 @@
 ---
-ESTADO_LEC: 🟡EN PROCESO🟡
+ESTADO_LEC: 🟠EN ESPERA🟠
 tipo_nota: Essentia
 pertenece a:
   - "[[♠Read]]"
@@ -26,7 +26,7 @@ Progreso:
 image: "[[--PORTADA-- INTRO TO ALGORITHMS MIT.png]]"
 fecha_creado: 2024-04-27
 fecha_terminado:
-próxima_fecha: 2025-11-15
+próxima_fecha:
 tags:
   - AGM
 serie: Programación competitiva

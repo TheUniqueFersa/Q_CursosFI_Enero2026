@@ -7,8 +7,8 @@ fecha_entrega: 2026-02-03
 modelo:
   - "[[♠Academic#►Aprendizaje (Adaptación de ►Recolección Wissen-Garden )|►Aprendizaje de ♠Academic]]"
 Completado: 0
-Incompleto: 13
-Total: 13
+Incompleto: 14
+Total: 14
 terminado: false
 etapa: 5
 tags:
@@ -24,10 +24,10 @@ fecha_terminado:
 >🔶Versión🔶 5
 >🔶Sigue🔶el [[♠Academic#El *Ingeniero*|el principio del Ingeniero]]
 
-| ⤵                       |                         | :LiListChecks:          |
-| ----------------------- | ----------------------- | ----------------------- |
-| [[Kanban - Horario...]] | [[-- IMG -- Horario...] | **[[TAREAS PARA HOY]]** |
-| [[\|Calendario]]        |                         |                         |
+| ⤵                                     |                         | :LiListChecks:          |
+| ------------------------------------- | ----------------------- | ----------------------- |
+| [[Kanban - Horario...]]               | [[-- IMG -- Horario...] | **[[TAREAS PARA HOY]]** |
+| [[Calendario 2026-2.pdf\|Calendario]] |                         |                         |
 # Objetivo
 >*Intersemestral*
 - Poder ser un individuo que mejora respecto al semestre anterior, enmienda sus errores y mejora considerablemente
@@ -52,6 +52,7 @@ fecha_terminado:
 	- [ ] [[♠A-T Lab de Diseño Digital Moderno]]
 - [ ] [[♠A-T Circuitos Eléctricos]]
 	- [ ] [[♠A-T Lab de Circuitos]]
+
 - [ ] [[♠A-T Compiladores]]
 - [ ] [[♠A-T Inteligencia Artificial]]
 - [ ] [[♠A-T Finanzas en la Ingeniería en Computación]]
