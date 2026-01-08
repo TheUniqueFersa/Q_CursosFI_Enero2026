@@ -4,9 +4,9 @@ title: kanban-♠Read
 kanban-plugin: board
 tags:
   - Active_kanban_♠Read
-Total: 44
+Total: 45
 Completado: 10
-Incompleto: 34
+Incompleto: 35
 pertenece a: "[[♠Read]]"
 
 ---
@@ -34,10 +34,10 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
+- [ ] Empezar la Fundación 📅 2026-01-08
 - [ ] Identificar Libros para 
-	- *Álgebra Lineal*
+	- [ ] *Álgebra Lineal* 📅 2026-01-08
 	- Probabilidad
-- [ ] Empezar la Fundación
 - [ ] [[Orden para libros OMM.excalidraw|Libros OMM]]:
 	- Combinatoria
 	- Teoría de números

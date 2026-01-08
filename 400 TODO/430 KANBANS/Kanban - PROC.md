@@ -71,10 +71,13 @@ recurrencia:
 
 ## **Propuesta de temas**
 
+- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito) 📅 2026-01-08
 - [ ] Crear Notion
 - [ ] DSU ^2eefaa
 - [ ] Combinatoria ^e9a48d
 - [ ] Corregir las sesiones de Aprendizaje atrasadas desde el incoming de Obsidian
+- [ ] [[IEEEXtreme 18]]
+- [ ] [[Algoritmo de Kruskal]]
 - [ ] multisets, mutimaps, unordered
 - [ ] [[GCD]]
 - [ ] # Semana 1

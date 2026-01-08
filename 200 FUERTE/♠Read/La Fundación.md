@@ -21,7 +21,7 @@ Progreso:
 image: "[[--PORTADA-- TRILOGÍA DE FUNDACIÓN - ISAAC ASIMOV.jpg]]"
 fecha_creado: 2025-07-15
 fecha_terminado:
-próxima_fecha: 2026-01-07
+próxima_fecha: 2026-01-08
 tags:
   - Active_kanban/♠Read/
 serie:

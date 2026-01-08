@@ -12,8 +12,8 @@ modelo:
   - "[[►GEZZER]]"
 sucesor: "[[☼Second Rise]]"
 etapa: 8
-Completado: 4
-Incompleto: 5
+Completado: 6
+Incompleto: 3
 Total: 9
 tags:
   - "#Active_kanban/FR-4-"

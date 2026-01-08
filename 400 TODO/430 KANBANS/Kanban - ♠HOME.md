@@ -1,10 +1,12 @@
 ---
+
 kanban-plugin: board
 recurrencia:
   - domingo
   - Sunday
   - semanal
 pertenece a: "[[♠HOME]]"
+
 ---
 
 ## # *-- STATIC --*
@@ -33,8 +35,8 @@ pertenece a: "[[♠HOME]]"
 
 - [ ] Trollearme los platos
 	- [x] L 📅 2026-01-07 ✅ 2026-01-06
-	- [ ] M
-	- [ ] Mi
+	- [x] M ✅ 2026-01-07
+	- [x] Mi 📅 2026-01-07 ✅ 2026-01-07
 	- [ ] J
 	- [ ] V
 - [ ] Aprender a hacer tareas del hogar
