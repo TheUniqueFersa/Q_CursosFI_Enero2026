@@ -38,8 +38,7 @@ pertenece a:
 - [ ] Dibujo de [[♠️DreamCatcher {05-01-2026}]] 📅 2026-01-11
 	#Drawn
 - [ ] Depurar mi CEL 📅 2026-01-09
-- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-08
-- [ ] Idear plan para CURSOS FI Invierno 2026 📅 2026-01-08
+- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-09
 - [ ] Despegar hojas viejas y pegar protocolos y verdades del fuerte #HOME 📅 2026-01-11
 - [ ] Ver lo del trámite de licencia para conducir
 - [ ] Contestar todos los mensjes #ISRY 📅 2026-01-09
@@ -49,6 +48,7 @@ pertenece a:
 ## # Secuencia de Acciones<br>‼Yi
 
 **Complete**
+- [x] Idear plan para CURSOS FI Invierno 2026 📅 2026-01-08 ✅ 2026-01-08
 - [x] Idear un SCHEDULE 📅 2026-01-04 ✅ 2026-01-05
 - [x] Idear **Matriz de Misiones** para [[☼Second Rise]] ✅ 2026-01-05
 - [x] Imprimir Calendario de siguiente semestre y en base a el, planificar todo físicamente ✅ 2026-01-04

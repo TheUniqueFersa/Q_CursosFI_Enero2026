@@ -36,7 +36,7 @@ pertenece a: "[[♠Read]]"
 
 - [ ] Empezar la Fundación 📅 2026-01-09
 - [ ] Identificar Libros para 
-	- [ ] *Álgebra Lineal* 📅 2026-01-08
+	- [ ] *Álgebra Lineal* 📅 2026-01-09
 	- Probabilidad
 - [ ] [[Orden para libros OMM.excalidraw|Libros OMM]]:
 	- Combinatoria
