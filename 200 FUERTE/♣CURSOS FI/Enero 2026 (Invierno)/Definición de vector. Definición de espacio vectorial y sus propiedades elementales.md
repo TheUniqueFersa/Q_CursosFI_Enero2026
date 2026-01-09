@@ -31,10 +31,26 @@ Así, una función, una matriz y la solución de una ecuación diferencial puede
 En la asignatura de Cálculo y Geometría Analítica se trabajó con los conjuntos $\mathbb{R}^2$ y $\mathbb{R}^3$
 >La definición de *espacio vectorial* es la más importante del curso de Álgebra Lineal
 
+Sea $\mathbb{V}$ un **conjunto no vacío** y sea $(K, \oplus, \otimes)$ un sistema algebraico con estructura de **campo**. Se dice que $\mathbb{V}$ es un **espacio vectorial** sobre $\mathbb{K}$ si están definidas dos leyes de composición, llamadas adición (+) y multiplicación por un escalar $(\cdot)$ tales que cumplan las siguientes propiedades:
 
-pARTIMOS DE UN CONJUNTO NO VACÍO QUE DENOT
 
-Como notación
+
+Partimos de un conjunto no vacío que denotaremos como $\mathbb{V}$ y nos referiremos a el **espacio vectorial**
+
+Como en cualquier conjunto, sus miembros deben compartir ciertas características en común. 
+Los miembros de $\mathbb{V}$ se llamaran **vectores** y pueden ser:
+- números reales
+- números complejos
+- polinomios
+- matrices
+- funciones
+- etc.
+
+De tal manera que, se puede llamar vector a una matriz si sabemos que este pertenece a un **espacio vectorial**
+
+>Como notación utilizaremos una línea sobre las letras cuando nos refiramos a vectores: $\bar{u}, \bar{v}, \bar{w}$
+
+
 ## Propiedades elementales
 
 
