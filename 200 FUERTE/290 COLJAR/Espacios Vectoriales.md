@@ -10,3 +10,4 @@ ancestro_directo:
 - [[Conjunto generador. Base y dimensión de un espacio vectorial. Coordenadas de un vector respecto a una base. Matriz de transición]]
 
 - [[Espacio Renglón]]
+

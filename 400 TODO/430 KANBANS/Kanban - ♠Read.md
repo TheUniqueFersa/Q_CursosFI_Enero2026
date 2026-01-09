@@ -34,7 +34,7 @@ pertenece a: "[[♠Read]]"
 
 ## EN PROCESO
 
-- [ ] Empezar la Fundación 📅 2026-01-08
+- [ ] Empezar la Fundación 📅 2026-01-09
 - [ ] Identificar Libros para 
 	- [ ] *Álgebra Lineal* 📅 2026-01-08
 	- Probabilidad
