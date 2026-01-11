@@ -10,7 +10,8 @@ links_url:
 - [x] [2148A](https://codeforces.com/problemset/problem/2148/A) ✅ 2026-01-09
 - [x] [2137A. Collatz Conjecture](https://codeforces.com/problemset/problem/2137/A) ✅ 2026-01-09
 - [x] [2034A](https://codeforces.com/problemset/problem/2034/A) ✅ 2026-01-10
-- [ ] 5
+- [x] [GYM106063A](https://codeforces.com/gym/106063/problem/A) ✅ 2026-01-11 
+	- [ ] -> PUdo haber sido mucho más fácil
 - [ ] 6
 - [ ] 7
 - [ ] 8

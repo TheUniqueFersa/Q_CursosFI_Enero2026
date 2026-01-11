@@ -38,7 +38,7 @@ pertenece a:
 - [ ] Dibujo de [[♠️DreamCatcher {05-01-2026}]] 📅 2026-01-11
 	#Drawn
 - [ ] Depurar mi CEL 📅 2026-01-11
-- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-11
+- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-17
 - [ ] Despegar hojas viejas y pegar protocolos y verdades del fuerte #HOME 📅 2026-01-11
 - [ ] Ver lo del trámite de licencia para conducir
 - [ ] Contestar todos los mensjes #ISRY 📅 2026-01-11

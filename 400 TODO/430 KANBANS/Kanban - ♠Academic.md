@@ -60,7 +60,7 @@ recurrencia:
 ## # ▶ [[INSTRUCTOR CURSOS FI 2025 Verano]]
 
 - [x] Etapa de Instructor ✅ 2025-07-14
-- [ ] Etapa de Legacy
+- [ ] Etapa de Legacy 📅 2026-01-17
 
 
 ## # ▶ [[CURSO WEB 2025]]

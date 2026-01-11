@@ -71,7 +71,7 @@ recurrencia:
 
 ## **Propuesta de temas**
 
-- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito) 📅 2026-01-10
+- [ ] Descargar cursos de PROC de USACO que me trollie (soy un maldito) 📅 2026-01-12
 - [ ] Crear Notion
 - [ ] DSU ^2eefaa
 - [ ] Combinatoria ^e9a48d

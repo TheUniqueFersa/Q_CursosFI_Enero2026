@@ -3,6 +3,7 @@ tipo_nota: Bitácora
 Completado:
 Incompleto:
 Total:
+fecha_entrega: 2026-01-11
 ---
 # Espacios vectoriales y Combinación Lineal
 - [ ] Check DCB (material for me (Topic 2))
@@ -90,4 +91,29 @@ Candidatos por ser buenos ejercicios:
 - [ ] Revisar lo de los **subespacios**
 
 - [ ] Misma recta? o misma direccion?
+>Un vector de $\mathbb{R}^3$ por ejemplo, tiene un elemento genérico que es: $\bar{x} = (x,y,z) | x,y,z\in\mathbb{R}$
+>Un vector de $\mathbb{R}^2$ por ejemplo, tiene un elemento genérico que es: $\bar{x} = (x,y) | x,y\in\mathbb{R}$
 
+Esto quiere decir, que para una ecuación de una recta de $\mathbb{R}^2$, puede haber 2 ecuaciones:
+$$x+y=2$$
+$$2x+2y = 0$$
+Donde, de antemano se sabe que la forma matricial de este sistema de ecuaciones es:
+$$A\bar{v} = \bar{b}$$
+Y para el ejemplo preciso anterior:
+$$
+\begin{bmatrix}
+1 & 1 \\
+2 & 2
+\end{bmatrix}
+\begin{bmatrix}
+x \\
+y
+\end{bmatrix}
+=
+\begin{bmatrix}
+2\\
+0
+\end{bmatrix}
+$$
+
+Pero esto por definición de Transformación lineal, nos dice que transforma el vector $\bar{v}$ en 
