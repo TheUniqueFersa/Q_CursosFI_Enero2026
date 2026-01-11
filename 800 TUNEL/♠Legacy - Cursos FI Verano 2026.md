@@ -51,7 +51,7 @@ Entonces, cuando se asignan los temas, uno tiene el compromiso de hacer y tener 
 > [!success] Productos de Participación en Cursos FI
 > $(T, N, P, E, R, F)$
 > - $T$: Teoría aprendida en el [[Árbol de Conocimientos Recientes]]
-> - $N$: Notas sobre la teoría, siguiendo la secuencia lógica que se seguirá en la presentación, estas notas pueden desarrolladas con LaTeX. Representar una **Legendarización** del tema. Además contienen conexiones o los ejercicios desarrollados también. En sí estas notas al ser Lg, representan tu manera de exponer el tema, pero son lo suficientemente descriptivas para poder heredarse.
+> - $N$: Notas sobre la teoría, siguiendo la secuencia lógica que se seguirá en la presentación, estas notas pueden ser puramente desarrolladas con LaTeX o a modo de página web usando [[Quartz|obsidian y quartz]]. Representan una **Legendarización** del tema. Además contienen conexiones a los ejercicios desarrollados también. En sí estas notas al ser Lg, representan tu manera de exponer el tema, pero son lo suficientemente descriptivas para poder heredarse a *otro portador*
 > - $P$: Conjunto de presentaciones (diapositivas), donde cada una esta asociada a una parte o totalidad de las notas que se desarrollen. Es decir, de las notas se construyen las diapositivas. Estas últimas deben ser visuales y ayudar a la exposición oral
 > - $E$: Conjunto de Ejercicios. Correctamente clasificados, con su respuesta y procedimiento hecho por el autor, con respuesta validada
 > - $R$: Referencias de donde fue sacada toda la información, en dicho caso, siendo los recursos académicos de donde fue sacada cada información y ejercicio.

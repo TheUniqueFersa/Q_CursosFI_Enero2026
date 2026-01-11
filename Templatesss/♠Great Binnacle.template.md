@@ -9,11 +9,12 @@ Errores definidos:
   - "[[♦(...L)#6]]"
   - "[[♦(...L)#7]]"
   - "[[♦(...L)#8]]"
-tags: 
-"% X-CH": 
-MODALIDAD del Fuerte: 
-ESTADO esfera envenenamiento: 
-Tiempo Encapsulado: 
+tags:
+XCH:
+"% X-CH":
+MODALIDAD del Fuerte:
+ESTADO esfera envenenamiento:
+Tiempo Encapsulado:
 Completado: 0
 Incompleto: 8
 Total: 8
@@ -22,13 +23,13 @@ fecha: <% tp.date.now("YYYY-MM-DD") %>
 sucesor: '[[<% tp.date.tomorrow("DD-MM-YYYY") %>]]'
 image: ""
 TrinityElement: false
-TiempoEjercicio: 
+TiempoEjercicio:
 ExperienciaSanadora: false
-TiempoLectura: 
+TiempoLectura:
 Composicion: false
 Journaling: false
-TiempoPROC: 
-SUPERUNI: 
+TiempoPROC:
+SUPERUNI:
 Dieta:
 ---
 

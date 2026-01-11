@@ -7,16 +7,31 @@ fecha_entrega: 2026-01-11
 ---
 # Espacios vectoriales y Combinación Lineal
 - [ ] Check DCB (material for me (Topic 2))
-- [ ] Exercises
+	- [ ] Exercises
 - [ ] Videos Paola Ring
 	- [x] Series resueltas ✅ 2026-01-09
-- [ ] Other Videos (MSI)
+	- [ ] Matriz de transición
+	- [ ] Recopilar ejercicios de los videos de:
+		- [ ] Vector de coordenadas
+		- [ ] Espacio vectorial
+		- [ ] Espacio renglón
+- [ ] Other Videos (3Blue1Brown)
 	- [x] La mitad ✅ 2026-01-09
 	- [ ] La otra mitad
-- [ ] Exercises
-- [ ] Notion 
-	- [ ] Subtopics
-- [ ] Presentation
+- [ ] **Temas**
+	- [ ] [[Espacios Vectoriales]]
+		- [ ] Ejemplos de espacios comúnes
+- [ ] **Subtemas**
+	- [ ] Subespacio
+	- [ ] Isomorfismo
+- [ ] **Exercises**
+	- [ ] Para la definción de espacios vectoriales
+- [ ] Obsidian GOD para la posteridad
+- [ ] ==Presentation==
+
+>❓💥 Out
+- [ ] Correr y ver lo que hacen los programas de AmezcuaGod
+- [ ] Recopilar información importante del Chat con mi tio
 
 ## Tópicos de mi interés en libros de la bibliografía oficial
 
