@@ -28,7 +28,7 @@ pertenece a:
 
 ## Listos para ♦(...R) X-chelons
 
-- [ ] Saldar cuentas: 📅 2026-01-09
+- [ ] Saldar cuentas: 📅 2026-01-11
 	- [ ] AMIGO TROL
 	- [ ] Sherdi
 	- [ ] Cuentas de gastos con joshi
@@ -37,11 +37,11 @@ pertenece a:
 	- [ ] VTA #XCH
 - [ ] Dibujo de [[♠️DreamCatcher {05-01-2026}]] 📅 2026-01-11
 	#Drawn
-- [ ] Depurar mi CEL 📅 2026-01-09
-- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-09
+- [ ] Depurar mi CEL 📅 2026-01-11
+- [ ] Concretar los Legacy de [[♠A-T SUPER UNIVERSITARIO {-4-}]] 📅 2026-01-11
 - [ ] Despegar hojas viejas y pegar protocolos y verdades del fuerte #HOME 📅 2026-01-11
 - [ ] Ver lo del trámite de licencia para conducir
-- [ ] Contestar todos los mensjes #ISRY 📅 2026-01-09
+- [ ] Contestar todos los mensjes #ISRY 📅 2026-01-11
 - [ ] Ver mi nuevo peluquero COÑo
 
 

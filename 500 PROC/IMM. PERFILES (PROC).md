@@ -18,7 +18,7 @@ pertenece a:
 - [ ] [AldoEZ](https://codeforces.com/profile/AldoEZ_21)
 - [ ] [Gus](https://codeforces.com/profile/GusTimeTraveler)
 - [ ] [Emir](https://codeforces.com/profile/Emir_q0)
-- [ ] ## ZUM
+- [ ] ## [[IMM. ZUM - 1 Problema Diario|ZUM]]
 	[IG](https://www.instagram.com/zum_cpp/)
 
 

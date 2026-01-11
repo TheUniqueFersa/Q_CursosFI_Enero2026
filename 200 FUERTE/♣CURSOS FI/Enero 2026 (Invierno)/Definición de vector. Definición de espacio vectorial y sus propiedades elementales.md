@@ -31,7 +31,29 @@ Así, una función, una matriz y la solución de una ecuación diferencial puede
 En la asignatura de Cálculo y Geometría Analítica se trabajó con los conjuntos $\mathbb{R}^2$ y $\mathbb{R}^3$
 >La definición de *espacio vectorial* es la más importante del curso de Álgebra Lineal
 
-Sea $\mathbb{V}$ un **conjunto no vacío** y sea $(K, \oplus, \otimes)$ un sistema algebraico con estructura de **campo**. Se dice que $\mathbb{V}$ es un **espacio vectorial** sobre $\mathbb{K}$ si están definidas dos leyes de composición, llamadas adición (+) y multiplicación por un escalar $(\cdot)$ tales que cumplan las siguientes propiedades:
+> [!important] Definición: Espacio Vectorial
+> Sea $\mathbb{V}$ un **conjunto no vacío** y sea $(K, \oplus, \otimes)$ un sistema algebraico con estructura de **campo**,
+> se dice que $\mathbb{V}$ es un **espacio vectorial** sobre $\mathbb{K}$ si están definidas dos leyes de composición, llamadas adición (+) y multiplicación por un escalar $(\cdot)$ tales que cumplan las siguientes propiedades:
+
+1. **Cerradura para la adición**
+$$\forall\ \bar{u}, \bar{v}\ \in \mathbb{V}:\ \bar{u}+\bar{v}\in\mathbb{V}$$
+
+2. **Asociatividad para la adición**
+$$\forall\ \bar{u},\bar{v},\bar{w}\in\mathbb{V}:(\bar{u}+\bar{v})+\bar{w}=\bar{u}+(\bar{v}+\bar{w})$$
+
+3. **Idéntico para la adición**
+$$\forall\bar{u}\in\mathbb{V},\exists\ \bar{e}\in\mathbb{V}:\bar{u}+\bar{e}=\bar{e}+\bar{u}=\bar{u}$$
+
+4. **Inverso para la adición**
+$$\forall\bar{u}\in\mathbb{V},\exists\ \hat{u}\in\mathbb{V}: \bar{u}+\hat{u}=\hat{u}+\bar{u} = \bar{e}$$
+
+5. **Conmutatividad para la adición**
+6. Cerradura para la multiplicación por un escalar
+7. Primera ley distributiva de la multiplicación por un escalar
+8. Segunda ley distributiva de la multiplicación por un escalar
+9. Asociatividad para la multiplicación por escalar
+10. Idéntico para la multiplicación por escalar
+
 
 
 

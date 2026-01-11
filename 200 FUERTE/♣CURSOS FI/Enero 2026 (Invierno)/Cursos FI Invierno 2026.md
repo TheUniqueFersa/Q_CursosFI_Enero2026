@@ -30,7 +30,7 @@ tipo: Experiencia
 ### FERSA
 - [[Definición de vector. Definición de espacio vectorial y sus propiedades elementales]]
 - [[Combinación lineal. Dependencia Lineal]]
-- [[Espacio Renglón]]
+- [[200 FUERTE/♣CURSOS FI/Enero 2026 (Invierno)/Espacio Renglón]]
 
 
 # Desarrollo
