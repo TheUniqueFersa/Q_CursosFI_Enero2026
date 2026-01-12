@@ -26,6 +26,8 @@ tipo: Experiencia
 ## Repartición de temas
 ![[--IMG-- Reparticion Temas CURSOS FI Invierno 2026.png]]
 
+## En temerio formal
+![[--IMG-- Temario AL Tema 1 - 3.png]]
 
 ### FERSA
 - [[Definición de vector. Definición de espacio vectorial y sus propiedades elementales]]
@@ -41,8 +43,10 @@ Para el desarrollo de las clases, se identifica de los [[♠Legacy - Cursos FI V
 Por lo tanto, para asegurar un buen desarrollo de la teoría, se tiene:
 ## Referencias $R$
 
-| Libros (Bibliografía recomendada)                                                    | Otros apropiados                                                                                                 | Recursos de la DCB |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------ |
-| [[S.I. Grossman_ J.J. Flores Godoy - Álgebra Lineal (2012, McGraw-Hill).pdf]]        | [[200 FUERTE/♣CURSOS FI/Enero 2026 (Invierno)/Material/NOTAS Amezcua.pdf\|NOTAS Amezcua]]                        |                    |
-| [[David C. Lay - Álgebra Lineal y sus Aplicaciones (2012, Pearson) - libgen.li.pdf]] | Notas de [Jorjito Tops](https://drive.google.com/drive/folders/1PV55Nw9sYwauyNd842vASluO9UECYYhI?usp=drive_link) |                    |
-|                                                                                      |                                                                                                                  |                    |
+| Libros (Bibliografía recomendada)                                                    | Otros apropiados                                                                                                  | Recursos de la DCB |
+| ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- | ------------------ |
+| [[S.I. Grossman_ J.J. Flores Godoy - Álgebra Lineal (2012, McGraw-Hill).pdf]]        | [[200 FUERTE/♣CURSOS FI/Enero 2026 (Invierno)/Material/NOTAS Amezcua.pdf\|NOTAS Amezcua]]                         |                    |
+| [[David C. Lay - Álgebra Lineal y sus Aplicaciones (2012, Pearson) - libgen.li.pdf]] | Notas de [Jorjito Tops](https://drive.google.com/drive/folders/1PV55Nw9sYwauyNd842vASluO9UECYYhI?usp=drive_link)  |                    |
+|                                                                                      | [Videos de 3Blue1Brown](https://youtube.com/playlist?list=PLIb_io8a5NB2DddFf-PwvZDCOUNT1GZoA&si=87Pn0_OSpcDK0dak) |                    |
+|                                                                                      | [Videos de Paola Ring](https://youtube.com/playlist?list=PLuzmFNFkBhq7wcHozExdqrWIgPTdf21ZJ&si=6YMO394jA-ODQ5eD)  |                    |
+|                                                                                      |                                                                                                                   |                    |
