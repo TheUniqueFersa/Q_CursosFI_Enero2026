@@ -1,1 +1,0 @@
-![[11equipo-aseguradora.jpg]]

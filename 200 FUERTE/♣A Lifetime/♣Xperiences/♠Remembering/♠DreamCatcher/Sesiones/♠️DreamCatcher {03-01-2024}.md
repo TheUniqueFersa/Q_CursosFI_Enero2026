@@ -1,1 +1,0 @@
-Soñé algo relacionado con un temblor, creo que era en Guerrero o algo así

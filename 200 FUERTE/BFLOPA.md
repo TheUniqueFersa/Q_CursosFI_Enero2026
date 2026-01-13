@@ -1,1 +1,0 @@
-Hace referencia al [[MNEMÓNICO de YI]]

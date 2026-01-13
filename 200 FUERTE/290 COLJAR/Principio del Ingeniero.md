@@ -1,5 +1,0 @@
----
-tipo: Principio
-tags:
-  - Pendiente
----
