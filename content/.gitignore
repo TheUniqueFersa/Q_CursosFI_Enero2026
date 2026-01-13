@@ -56,8 +56,7 @@
 
 # ==========================================================================================
 # --- [ DESACOPLOS ] ---
-**/content/index.md
-**/content/**/index.md
+!**/content/**/index.md
 
 !156 PROYECTO BD/
 !156 PROYECTO BD/**
