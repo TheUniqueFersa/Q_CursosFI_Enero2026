@@ -1,19 +1,25 @@
 ---
 pertenece a:
   - "[[Lg - Álgebra]]"
+theme: blood
 ---
 # Vector
+
 >Como notación utilizaremos una línea sobre las letras cuando nos refiramos a vectores: $\bar{u}, \bar{v}, \bar{w}$
+
+--
 ## Un acercamiento familiar
 >**Definición que conocen**
 >Cantidades que requieren de Magnitud, Dirección y Sentido para definirse
 
+--
 - Magnitud: "tamaño" de la cantidad vectorial
 - Dirección: Línea de acción de la cantidad vectorial
 - Sentido: sobre la línea de acción, hacia donde se dirige
 
 *Ejemplos: desplazamiento, velocidad, fuerza, trabajo*
 
+---
 
 >📌Gráficamente un vector se representa con una flecha
 
@@ -21,8 +27,9 @@ Magnitud: es su longitud a escala
 Dirección: línea de acción
 Sentido: Lo indica la punta de la flecha
 
+---
 - Un vector convencional: $\bar{u}$
-- Un vector de acuerdo a sus puntos de inicio y final: $\overline{AB}$ (*primero punto inicial y luego punto final*)
+- Un vector de acuerdo a sus puntos de inicio y final: $\overline{AB}$ *(primero punto inicial y luego punto final)*
 
 >📌👀 Si desplazamos a un vector en forma paralela, conservando su magnitud, dirección y sentido, el ==vector no cambia==
 
