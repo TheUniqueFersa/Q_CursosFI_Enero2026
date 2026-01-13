@@ -56,7 +56,9 @@
 
 # ==========================================================================================
 # --- [ DESACOPLOS ] ---
-**/content/**/index.md
+#-- Para quartz y despliegue en páginas web
+!**/content/**/index.md
+!index.md
 
 !156 PROYECTO BD/
 !156 PROYECTO BD/**
