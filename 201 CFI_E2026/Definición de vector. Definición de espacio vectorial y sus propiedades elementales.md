@@ -4,9 +4,13 @@ ancestro_directo: "[[Espacios Vectoriales]]"
 theme: white
 ---
 # 💥 Contenido 🎯
-- [[Vector|Definición de vector]]
+
 - [[#Definición de espacio Vectorial|Definición de Espacio Vectorial]]
 	- [[#Propiedades elementales|Propiedades elementales]]
+
+>Antecedente
+- [[Vector|Definición convencional de vector]]
+- [[Conjuntos]]
 
 >Extras
 - [[Subespacios vectoriales]]
