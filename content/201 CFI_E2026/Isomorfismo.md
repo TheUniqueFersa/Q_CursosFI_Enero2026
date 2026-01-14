@@ -8,7 +8,7 @@ theme: solarized
 
 ---
 
-> [!important] Un poco formal
+> [!important] Definición
 > Un isomorfismo es una función que tiene dominio en un espacio vectorial $\mathbb{U}$ y codominio en otro espacio vectorial ($\mathbb{V}$) $f:\mathbb{U} \rightarrow \mathbb{V}$
 > $\mathbb{U}$ y $\mathbb{V}$ son espacios vectoriales distintos, pero comparten: 
 > - Dimensión

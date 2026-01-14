@@ -17,4 +17,11 @@ theme: solarized
 > 
 > 
 
+---
+
+> [!hint] Cero vector
+> 0. Cero vector 
+> Sea $\mathbb{W}$ un subespacio vectorial de $\mathbb{V}$, $\mathbb{W}$ siempre contendrá al $\bar{0}$ de $\mathbb{V}$
+
+
 
